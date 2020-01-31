@@ -11,49 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Linguistics/TESOL emphasis, University of Iowa, 2012
+* M.A. in Linguistics/TESOL emphasis, University of Iowa, 2013
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* AY 2019&mdash;20: English Instructor
+  * Zhejiang University International Campus
+  * Duties included: Course development, teach EAP integrated skills, materials design, exam writing, grades analysis and reporting, extra-curricular event planning
+  * Supervisor: Ricky Jeffrey
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* AY 2018&mdash;19: Associate Professor, English
+  * Suqian College
+  * Duties included: Course development, teach EFL speaking/pronunciation/writing/reading, materials design, exam writing, grades analysis and reporting
+  * Supervisor: Chen Weichen
+
+* Jan 2015&mdash;July 2018: Adjunct Professor, ELA
+  * Kirkwood Community College
+  * Duties included: Textbook selection, teach general and EAP grammar/listening/speaking/reading/writing, exam writing, placement exams, assist with student orientation, ed-tech review
+  * Supervisor: Olga Petrova
+
+* AY 2013&mdash;14: Lecturer, ESL
+  * University of Iowa
+  * Duties included: Teach EAP listening/writing, assist with exam writing, grades reporting, placement exams
+  * Supervisor: Maureen Burke
+
+* June 2012&mdash;May 2013: Graduate Instructor, ESL
+  * University of Iowa
+  * Duties included: Teach EAP listening/writing, assist with exam writing, grades reporting, placement exams
+  * Supervisor: Maureen Burke
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Office apps
+  * Word, Excel, OpenOffice, SharePoint, Google Apps
+  * Microsoft Teams, Slack
+  * Markdown, Pandoc, Latex, R
+* Learning management systems
+  * Brightspace Desire2Learn
+  * Blackboard
+  * Canvas
+  * Moodle
+* Full stack development
+  * Node.js / Javascript
+  * HTML, JS-based template engines (Jade/Pug, Handlebars, EJS)
+  * CSS, CSS pre-procesors (Less, Stylus, SASS)
+* Linux system administration
+  * Bash, GNU tools
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
