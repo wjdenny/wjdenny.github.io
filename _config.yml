@@ -11,7 +11,7 @@ title                    : "Will Denny"
 title_separator          : "-"
 name                     : &name "Will Denny"
 description              : &description "English Instructor at Zhejiang Universit International Campus"
-url                      : http://wjdenny.com
+url                      : "https://wjdenny.github.io"
 baseurl                  : "" 
 repository               : "wjdenny/wjdenny.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,8 +85,8 @@ author:
   bio              : "English instructor at Zhejiang University International Campus, second language acquisition specialist and dabbler of coding."
   location         : "Haining, China"
   employer         : "Zhejiang University"
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "will@wjdenny.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,18 +98,18 @@ author:
   foursquare       :
   github           : "wjdenny"
   google_plus      :
-  keybase          :
+  keybase          : "wjdenny"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/5342888/william-denny"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
