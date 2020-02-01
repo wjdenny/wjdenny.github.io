@@ -3,9 +3,10 @@ title: "Plagiarism: Focused Teaching and Enhanced Understanding"
 collection: publications
 permalink: /publication/plagiarism-midtesol
 excerpt: 'Co-presented on research into intercultural perspectives on the prevalence and learner training of plagiarism'
+type: 'Conference presentation'
 date: 2012-10-20
-venue: 'MIDTESOL'
-locaton: 'Ames, Iowa, United States'
+location: 'Ames, Iowa'
+venue: 'MIDTESOL 2012'
 paperurl: 'http://midtesol.org/docs/MIDTESOL_Proceedings_2012.pdf#page=88'
 citation: 'Denny, W. J., &amp; Kelley, M. (2012). *Plagiarism: Focused Teaching and Enhanced Understanding*. The Conference Proceedings of MIDTESOL, 88-99.'
 ---
