@@ -2,7 +2,7 @@
 title: "English Language Center"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-fall-zju.md
+permalink: /teaching/2019-fall-zju
 venue: "Zhejiang University International Campus, English Language Center"
 date: 2019-08-26
 location: "Haining, China"
