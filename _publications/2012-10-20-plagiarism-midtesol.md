@@ -2,7 +2,7 @@
 title: "Plagiarism: Focused Teaching and Enhanced Understanding"
 collection: publications
 permalink: /publications/2012-10-20-plagiarism
-excerpt: 'Intercultural perspectives on the prevalence and learner training of plagiarism.'
+excerpt: 'Intercultural perspectives on the prevalence and learner training for plagiarism preventation'
 date: 2012-10-20
 venue: 'MIDTESOL'
 paperurl: 'http://midtesol.org/docs/MIDTESOL_Proceedings_2012.pdf#page=88'
