@@ -2,7 +2,7 @@
 title: "Plagiarism: Focused Teaching and Enhanced Understanding"
 collection: publications
 permalink: /publications/2012-10-20-plagiarism
-excerpt: 'Intercultural perspectives on the prevalence and learner training for plagiarism preventation'
+excerpt: 'A more accurate understanding of student motivation for plagiarism can lead to success among students in preventing cases of accidental plagiarism. Volkov et al. (2011) explains that of the many motivations for plagiarism, few are within our control as instructors. By focusing our efforts on developing student skills in the area of plagiarism awareness, we maximize our efforts in helping students avoid plagiarism. This presentation offered attendees activities that focus on plagiarism identification and prevention for college students at an intermediate level.'
 date: 2012-10-20
 venue: 'MIDTESOL'
 paperurl: 'http://midtesol.org/docs/MIDTESOL_Proceedings_2012.pdf#page=88'
