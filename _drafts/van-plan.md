@@ -35,3 +35,14 @@ For days where I can't do this, for any reason, there are [natural zero waste we
 
 ## Bathroom
 Most of the time I will be outside of the van, but there does need to be a plan in place for convenience or emergency. I'm looking into building a simple composting toilet
+
+## Build stages
+I don't feel comfortable building it all at once. So likely, I would start in during spring months to do the framing and insulation. I want to have the plan in place and just tackle pieces as I have a free weekend.
+
+## A/C and heating
+I'll go without any cooling. A good exhaust fan and air flow will be enough, along with hanging out in coffee shops or work during hot times, which I usually do anyway.
+
+I will have some kind of heating. I've seen some builds that have a little wood stove, which is nice but more hassle than I want to deal with. I saw one that had hired someone to put in a heater that somehow pulled a bit of gas off the tank of the van and used that to heat the interior. That would likely be my first choice. Might be a bit expensive at first, but it seems worth it.
+
+## Framing
+Insulation, flooring, walls, wiring hookups for future solar panels, lights
