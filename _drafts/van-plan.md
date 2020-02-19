@@ -28,6 +28,8 @@ I learned to be fairly comfortable cooking with nothing but hot water and a ther
 
 The big gap I am seeing here is baking. Potatoes would be an excellent way to stay fed and healthy, and I love a baked potato. Yes, there are propane ovens made for small spaces, but it seems like a lot of waste heat. I'll have to look into the technicals of a propane oven before I really decide, but maybe it won't be so bad if I just dice up potatoes and fry them up.
 
+A propane stove build into a countertop with a gas tank strapped in the cabinet underneath would be my first thought, but I might also like something that would be fairly easy to disassemble if I want to take it outside and cook at a campsite or backyard. Something like a portable mini-stove, just with a special place to put it in the van to make it look like a more permanent fixture.
+
 ## Shower
 Not neccesary! A gym membership can be had for less than $40/month to allow me 24/7 access to thousands of gyms across the country. They have showers, and it gets me out of the van and into a gym on a daily basis.
 
