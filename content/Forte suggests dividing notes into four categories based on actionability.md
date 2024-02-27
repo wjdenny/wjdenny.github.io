@@ -1,0 +1,3 @@
+Forte suggests dividing notes into four categories based on actionability. [[A note  that has a specific end date and closure to it is considered a Project.]] [[An note  that has no goal, but a status to maintain, it is considered an Area.]] [[Resources are the reference materials not tied to a specific project or area.]] [[Archives are items that are no longer active.]]
+
+🏷️ [[Personal Knowledge Management]] 

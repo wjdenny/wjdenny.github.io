@@ -1,0 +1,4 @@
+---
+tags: statement, topic/data/visualization
+---
+Motion is a preattentive attribute used to communicate quantitative information. Speed (change of [[Position is a preattentive attribute used with both quantitative and qualitative information|position]] over time) can express quantitative information with faster speeds showing higher values. Distance (difference between starting and ending [[Position is a preattentive attribute used with both quantitative and qualitative information|positions]]) can also show a quantitative value. However, [[Some properties can be interpreted differently for different cultures]]; including motion.

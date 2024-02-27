@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.published-container {
+    --font-text-theme: 'Nunito', sans-serif;
+    --font-text: 'Nunito', sans-serif;
+    --link-decoration: none
+}
+
+/* .tree-item-self:not([data-path^='Linguistic minority students in higher education']):not([data-path^='Organization']):not([data-path^='Overview']):not([data-path^='Personal Knowledge Management']) {
+    display: none;
+  }
+
+  :not([data-path^='Organization']) */

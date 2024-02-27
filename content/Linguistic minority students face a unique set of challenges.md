@@ -1,0 +1,40 @@
+- While language proficiency is the defining characteristic associated with linguistic minority students, there are several challenges faced by this group that are not addressed by language instruction support.
+- [[Factors such as home country education, socioeconomic status, and other currencies of cultural capital have an affect on immigrant student success in college]]
+- Financial challenges
+	- [[Linguistic minority students can be challenged by higher rates of poverty]] 
+- Linguistic minority students can be challenged by cultural norms in higher education. 
+	- Even if a student is proficient in English, [[Language is learned through a racialized habitus and we make the mistake of assuming all students have adopted a white racial habitus]]
+	- [[Several features of academic culture in the US are believed to come from a dominant WASP culture]] 
+	- [[Success in conventional classrooms is synonymous with adopting a white racial habitus]]
+	- [[Students who do not have access to a white racial habitus will not easily understand its rules]]
+	- It's hard to teach culture (ways of perceiving society); hard to teach someone something they believe they already have mastered.
+- Time management and punctuality
+	- [[Linguistic minority students can be challenged by greater working hours.]] 
+	- [[Placing importance on time management is a product of white habits of mind]] 
+	- [[Punctuality is another white habit of mind often imposed on students (of color) in ESL classrooms]] 
+- Plagiarism ^c529ce
+	- [[There are differences in cultural attitudes towards intellectual property and authorship]]
+- Standardized academic language
+	- [[Dominant academic discourses are white habits of language]] 
+	- [[Literacy is white property and grading is used to exclude non-white bodies from its use]]
+	- [[Judgements of language quality in any grading contract give rise to Stoddardian dikes; a racialized grading apartheid]]
+	- [[Many rhetorical prohibitions in the standard academic English curriculum are effective rhetorical tools]] 
+	- [[Failing to acknowledge non-standard dialects is a form of implicit bias]] 
+	- [[Students who have or are adjacent to privilege may not notice the struggle of adopting a white language habitus that other students do]] 
+	- [[Students who were not raised in white habitus households struggle to adopt habits of white language in college]] 
+	- Typical developmental EAP policies attempt to remedy this with a few semesters of language learning, but [[Acquisition of white languaging does not fit the pre-academic English preparation course sequence timeline]]
+	- Additionally, students may be proficient in English for other purposes, but still struggle with academic language. 
+	- [[One can be proficient in a language for some situations but not others]]
+- Self-advocacy challenges
+	- Linguistic minority students may also be less likely to advocate for themselves in grading disputes.
+	- [[In a negotiated assessment ecology, male and white students are more likely to defend their work which therefore introduces a gender and racial bias in the grading system]]
+	- This would have implications for [[#^c529ce|academic integrity]] as well.
+- Political challenges
+	- [[The anxiety surrounding immigration issues can put unusual pressures on immigrant students]] 
+	- This affects their academic work, as we know that [[People acquire language better when their affective filters are not interfering]]
+- History of disrupted education
+	- [[Students who have had formal education in their first language move through ESL programs faster than other immigrant students]] which tells us that students without formal education in their first language would not do as well.
+	- Even for students who attended U.S. high schools, [[Students who struggle with understanding English in high school often will end up struggling in other subjects as well.]] 
+	- [[Linguistic minority students' education backgrounds vary widely even if they attended local high schools]] 
+- Segregation
+	- [[Adult immigrant students are often marginalized in higher education after transitioning out of ESOL support courses.]]

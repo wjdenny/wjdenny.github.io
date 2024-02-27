@@ -1,0 +1,3 @@
+Having empathy for students is the real key to reducing bias. Get to know them, and understand their struggles. When possible, it's also important to meet with students individually and get to know them as individuals. Even when that isn't possible, you can cultivate an environment of trust and empathy through requesting regular, anonymous feedback from students. And it works both ways; by expressing vulnerability to students, they will see you more as an individual.
+
+🏷️ [[Retention in Higher Education]]  [[Diversity, Equity, and Inclusion]] [[Implicit Bias]]

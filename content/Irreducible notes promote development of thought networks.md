@@ -1,0 +1,1 @@
+Irreducible notes promote development of thought networks. Similar to a Zettelkasten and Atomic notes, [[2022 morganeua|morganeua (2022)]] writes irreducible notes from their reading material. While Atomic notes uses direct statements to title the notes, @morganeua uses dash-separated descriptions of the contents. They then link related notes together to create a network.

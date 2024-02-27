@@ -1,0 +1,5 @@
+#statement
+
+Other techniques such as anonymous grading, grading contracts, clarifications, and an asset-based mindset can help reduce bias. Pedagogical techniques like anonymous grading makes it harder for you to know who it is you are grading, so the identities that we are biased towards are less noticeable. Grading contracts can help by making it more clear to all parties what is being graded and how. Clarifying what you mean can also help, as often we make a lot of  assumptions about background or shared knowledge that students have. Finally, an asset-based mindset can shift your perspective to help you see what students bring to the class, rather than just what they lack. All of these have one thing in common, [[Having empathy for students is the real key to reducing bias]]
+
+🏷️ [[Diversity, Equity, and Inclusion]] [[Higher Education]] [[Grading Contracts]] [[Asset-focused Mindset]] [[Implicit Bias]]

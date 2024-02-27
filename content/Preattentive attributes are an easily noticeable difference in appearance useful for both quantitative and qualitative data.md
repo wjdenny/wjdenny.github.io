@@ -1,0 +1,4 @@
+---
+tags: statement, topic/data/visualization
+---
+Preattentive attributes are easily noticeable differences in appearance useful for both quantitative and qualitative data. [[Saturation, chroma, or the intensity of color is a preattentive attribute used with quantitative information]] [[Length is a preattentive attribute used with quantitative information]] [[Position is a preattentive attribute used with both quantitative and qualitative information]] [[Motion is a preattentive attribute used to communicate quantitative information]] [[Shape is a preattentive attribute used with qualitative information]] [[Hue is a preattentive attribute used with qualitative information]]

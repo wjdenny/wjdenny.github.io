@@ -1,5 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileNode } from "./quartz/components/ExplorerNode";
+import { QuartzPluginData } from "./quartz/plugins/vfile";
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -7,9 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+      CV: "./Curriculum-Vitae",
+      GitHub: "https://github.com/wjdenny",
+      Mastodon: "https://pkm.social/@wjd"
+    }
   }),
 }
 
@@ -26,10 +29,33 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Topics",
+      filterFn: (a: FileNode) => {
+        const tags = a?.file?.frontmatter?.tags ?? [];
+        return tags.includes(`explorer`);
+      },
+      sortFn: (a: FileNode, b: FileNode) => {
+        const aModified = a?.file?.dates?.modified ?? new Date();
+        const bModified = b?.file?.dates?.modified ?? new Date();
+        
+        // sort CV to the top
+        const aTags = a?.file?.frontmatter?.tags ?? [];
+        if (aTags.includes(`cv`))         {
+          return -1
+        }
+
+        return bModified.getTime() - aModified.getTime();
+      }
+    }))
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        showTags: false
+      },
+      globalGraph: undefined
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
