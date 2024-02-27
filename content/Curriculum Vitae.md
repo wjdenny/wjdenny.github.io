@@ -20,6 +20,7 @@ tags:
 _EAP Instructor and Student Support Specialist based in Iowa City_
 
 Phone: +1 319 804-9375 
+
 Email: [will@wjdenny.com](mailto:will@wjdenny.com) 
 
 Social: [Website](https://notes.wjdenny.com) / [Mastodon](https://pkm.social/@wjd) / [LinkedIn](https://www.linkedin.com/in/wjdenny/) / [GitHub](https://github.com/wjdenny)
