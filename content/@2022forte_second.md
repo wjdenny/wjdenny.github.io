@@ -1,19 +1,12 @@
 ---
-alias: 
+aliases:
   - "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
 tags:
   - source
   - topic/pkm
-cite:
-  publisher: Atria Books
-  month: June 
-  year: 2022
-  author: Tiago Forte
-  title: Building a Second Brain
-  key: 2022forte
-  type: book
 ---
 # Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
+
 
 > [!summary] Summary
 > - [[The Second Brain system combines several personal knowledge management techniques along with those developed by its creator, Tiago Forte]]
