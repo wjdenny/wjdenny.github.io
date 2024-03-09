@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ```dataviewjs
 
 const result = []

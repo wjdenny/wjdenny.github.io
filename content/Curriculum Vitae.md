@@ -87,17 +87,23 @@ Creator and sole tutor of ESL tutoring program
 
 - collaborated with colleagues on presentation of our critical pedagogy discussion group on the emotional labor inherent in teaching EAP as adjunct, women, and queer professionals.
 
+**[[@2017denny_calendly.pdf|Student appointments made easy]]** (Jan 12, 2017)
+
 **Tech Scouts** @ [Kirkwood Community College](https://www.kirkwood.edu/about-us/faculty-leadership/academic-departments/academic-innovation-strategy-design/tech-scouts) *(2016--2018)*
 
 - provided technical support to faculty across all disciplines in the Iowa City campus
 - researched and led training workshops for faculty on educational software and technologies
 - presented review of GoReact at the Iowa Conference on Higher Education in 2016
 
+**[[content/iche-2016-techscouts-goreact.pdf|GoReact]]** (2016)
+
 **[Resources for New Iowans in Johnson County](https://wjdenny.com/resources-johnson-county/)** *(2016)*
 
 - built dataset of local organizations offering a variety of services to meet the needs of immigrant families
 - shared the project with local teachers and social workers
 - project was adopted and published by Kirkwood Libraries
+
+**[[@2016denny_duolingo.pdf|Duolingo for the Language Classroom]]** (April 16, 2016)
 
 **[Plagiarism: Focused Teaching and Enhanced Understanding](https://midtesol.org/docs/MIDTESOL_Proceedings_2012.pdf?page=88)** @ MIDTESOL *(2012)*
 

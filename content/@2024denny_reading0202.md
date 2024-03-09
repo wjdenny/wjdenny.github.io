@@ -7,10 +7,10 @@ aliases:
 draft: true
 ---
 Linguistic Diversity Reading Group Series:
-- [[@20240112baertlein_reading|Linguistic Diversity Reading Group: January 12th]]
-- [[@20240202denny_reading|Linguistic Diversity Reading Group: February 2nd]]
-- [[@20240216denny_reading|Linguistic Diversity Reading Group: February 16th]]
-- [[@20240301denny_reading|Linguistic Diversity Reading Group: March 1st]]
+- [[@2024baertlein_reading0112|Linguistic Diversity Reading Group: January 12th]]
+- [[@2024denny_reading0202|Linguistic Diversity Reading Group: February 2nd]]
+- [[@2024denny_reading0216|Linguistic Diversity Reading Group: February 16th]]
+- [[@2024denny_reading0301|Linguistic Diversity Reading Group: March 1st]]
 
 https://kirkwood.zoom.us/j/93228635211
 
@@ -43,4 +43,4 @@ https://docs.google.com/document/d/1lzcIsQXsWQIJY395dyKPVGMuFP0xW9w3vB5Px1e61mI/
 [[@2017wight_literacy|Literacy Sponsorship in Upward Bound]]
 
 
-Next meeting: [[@20240216denny_reading|Linguistic Diversity Reading Group: February 16th, 2024]]
+Next meeting: [[@2024denny_reading0216|Linguistic Diversity Reading Group: February 16th, 2024]]
