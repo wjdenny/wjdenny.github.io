@@ -6,7 +6,7 @@ tags:
   - topic/queer
   - topic/teens
 draft: false
-alias: "" I Wish You All the Best"
+alias: "I Wish You All the Best"
 ---
 # I Wish You All the Best
 [[Mason Deaver]] wrote this book for [[PUSH]].

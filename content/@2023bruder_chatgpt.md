@@ -1,0 +1,45 @@
+---
+tags:
+  - source
+  - topic/ai
+  - topic/education/writing
+  - topic/academic-integrity
+alias:  "What ChatGPT Means for How We Teach Writing"
+type: article
+title: "What ChatGPT Means for How We Teach Writing"
+author: "Anne Bruder"
+publisher: "Education Week"
+date: 2023-01-04
+url: "https://www.edweek.org/technology/opinion-what-chatgpt-means-for-how-we-teach-writing/2023/01"
+---
+# What ChatGPT Means for How We Teach Writing
+- [[Anne Bruder]] wrote this article for [[Education Week]].
+
+<https://www.edweek.org/technology/opinion-what-chatgpt-means-for-how-we-teach-writing/2023/01>
+> [!summary] Summary
+> Bruder challenges us with the question of how we are dealing with ChatGPT in our classes.
+
+## Notes
+%% Pull quotes from the source and put them here using `>` (blockquotes). %%
+
+> Education is the place where, if we are lucky, we can train our minds to be worthy companions for the rest of our lives. Reading and writing critically and creatively remain at the core of that project.
+
+^c5cdc2
+
+Critical thinking skills are essential to education and chatGPT does not change this.
+
+ > In place of the five-paragraph essay’s manufactured argument and cherry-picked evidence, I built thesis-seeking and exploratory assignments that began with students’ curious observations, buzzing questions, and scraps of speculation ... walks without a destination in mind.
+
+^b630ba
+
+There are alternatives to the traditional five-paragraph essay that are both harder for AI to generate and more useful for students, such as exploratory writing assignments.
+
+>  my responsibility to help them recognize the value of the walk that they took
+
+^ae1d41
+
+The responsibility of teachers is to show the value in learning for its own sake.
+
+>  I’m going to be asking my colleagues to consider this prompt: “I’m a [insert your subject] teacher. Here’s how I’m dealing with ChatGPT.”
+
+Bruder challenges us with the question of how we are dealing with ChatGPT in our classes.

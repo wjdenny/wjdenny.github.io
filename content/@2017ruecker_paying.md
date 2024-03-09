@@ -2,7 +2,6 @@
 tags: 
   - source
 alias:  "Paying Attention to Resident Multilingual Students"
-  - Ruecker & Ortmeier-Hooper, 2017
 ---
 # Paying Attention to Resident Multilingual Students
 [[Christina Ortmeier-Hooper]] and [[Todd Ruecker]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]].

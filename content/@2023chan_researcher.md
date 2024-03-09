@@ -1,0 +1,31 @@
+---
+tags: 
+  - source
+  - topic/ai
+  - topic/labor
+alias:  "Researcher Meredith Whittaker says AI’s biggest risk isn’t ‘consciousness’—it’s the corporations that control them"
+type: article
+title: "Researcher Meredith Whittaker says AI’s biggest risk isn’t ‘consciousness’—it’s the corporations that control them"
+author: "Wilfred Chan"
+publisher: "Fast Company"
+date: 2023-05-05
+url: "https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them"
+---
+# Researcher Meredith Whittaker says AI’s biggest risk isn’t ‘consciousness’—it’s the corporations that control them
+[[Wilfred Chan]] wrote this article for [[Fast Company]].
+> [!summary] Summary
+> %% Write a one-sentence summary of the source. %%
+
+## Notes
+> [[Meredith Whittaker]], a prominent AI researcher who was pushed out of Google in 2019 in part for organizing employees against the company’s [deal with the Pentagon](https://www.fastcompany.com/40571866/google-employees-resign-over-controversial-pentagon-drone-ai-project) to build machine vision technology for military drones.
+
+> **_FC_:** You started organizing within Google in 2017 to oppose [Project Maven](https://www.fastcompany.com/40580354/as-google-quits-controversial-project-maven-mystery-deepens-over-role-of-other-tech-firms), a contract the company signed to build machine vision technology for U.S. military drones. Did you anticipate being forced out for speaking up?
+
+> **FC**: On CNN recently, Hinton downplayed the concerns of Timnit Gebru—who Google fired in 2020 for refusing to withdraw a paper about AI’s harms on marginalized people—saying her ideas were not as “existentially serious” as his own. What do you make of that?
+> 
+> **MW**: I think it’s stunning that someone would say that the harms [from AI] that are happening now—which are felt most acutely by people who have been historically minoritized: Black people, women, disabled people, precarious workers, et cetera—that those harms aren’t existential.
+> 
+> What I hear in that is, “Those aren’t existential to me. I have millions of dollars, I am invested in many, many AI startups, and none of this affects my existence. But what _could_ affect my existence is if a sci-fi fantasy came to life and AI were actually super intelligent, and suddenly men like me would not be the most powerful entities in the world, and that would affect my business.”
+
+> **MW**: Yeah, I think it’s distracting us from what’s real on the ground and much harder to solve than war-game hypotheticals about a thing that is largely kind of made up. And particularly, it’s distracting us from the fact that these are technologies controlled by a handful of corporations who will ultimately make the decisions about what technologies are made, what they do, and who they serve. And if we follow these corporations’ interests, we have a pretty good sense of who will use it, how it will be used, and where we can resist to prevent the actual harms that are occurring today and likely to occur. 
+
