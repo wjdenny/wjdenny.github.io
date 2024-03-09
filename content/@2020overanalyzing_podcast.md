@@ -3,7 +3,6 @@ tags:
   - source
   - topic/pkm/obsidian
 alias:  "This is How I take Podcast Notes in Obsidian"
-  - "@overanalyzing2020"
 ---
 # This is How I take Podcast Notes in Obsidian
 

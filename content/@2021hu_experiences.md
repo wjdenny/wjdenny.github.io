@@ -160,7 +160,11 @@ Peng, K., and Nisbett, R. E. (1999). Culture, dialectics, and reasoning about co
 
 Hong, Y. Y., Morris, M. W., Chiu, C. Y., and Benet-Martinez, V. (2000). Multicultural minds: a dynamic constructivist approach to culture and cognition. Am. Psychol. 55:709. doi: 10.1037/0003-066x.55.7.709
 
-> we infer that when individuals encounter or interact with foreign cultural members, their cognitive flexibility and openness to experiences will likely increase. Thus, their degrees of tolerance for contradictions may be enhanced through increased integrative complexity (Tadmor et al., 2012). Alternatively, cultural identity threats may arise due to foreign cultural inflow induced by recalling studying abroad experiences (Morris et al., 2011), therefore participants' Chinese way of thinking may be enhanced to meet their cultural identity needs. [page 3]
+> we infer that when individuals encounter or interact with foreign cultural members, their cognitive flexibility and openness to experiences will likely increase. Thus, their degrees of tolerance for contradictions may be enhanced through increased integrative complexity (Tadmor et al., 2012). Alternatively, cultural identity threats may arise due to foreign cultural inflow induced by recalling studying abroad experiences (Morris et al., 2011), therefore participants' Chinese way of thinking may be enhanced to meet their cultural identity needs. [page 3] #topic/psychology/cultural 
+
+Tadmor, C. T., Galinsky, A. D., and Maddux, W. W. (2012). Getting the most out of living abroad: biculturalism and integrative complexity as key drivers of creative and professional success. J. Pers. Soc. Psychol. 103, 520–542. doi: 10.1037/a0029360
+
+Morris, M. W., Mok, A., and Mor, S. (2011). Cultural identity threat: the role of cultural identifications in moderating closure responses to foreign cultural inflow. J. Soc. Issues 67, 760–773. doi: 10.1111/j.1540-4560.2011. 01726.x
 
 > Based on previous work (Maddux and Galinsky, 2009), we adapted the multicultural experiences priming paradigm. [page 3]
 
