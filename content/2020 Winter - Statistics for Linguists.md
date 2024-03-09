@@ -4,7 +4,6 @@ tags:
   - topic/data
   - topic/statistics
 alias:  "Statistics for Linguists"
-  - "@winter2020"
 type: book
 title: "Statistics for Linguists"
 author: "Bodo Winter"
@@ -17,8 +16,6 @@ date: 2020
 > [!summary] Summary
 > %% Write a one-sentence summary of the source. %%
 
-[PDF:: [[2020 Winter - Statistics for Linguists.pdf]]]
-[PDF-offset:: 17]
 ## Notes
 
 > as you will be using the `<-` assign operator constantly, make sure to learn its shortcut: ALT + minus. [[Resources/Articles/2020 Winter - Statistics for Linguists.pdf#page=23|page 6]]
