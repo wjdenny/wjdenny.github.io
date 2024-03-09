@@ -2,25 +2,21 @@
 tags:
   - source
 aliases:
-  - "Linguistic Diversity Reading Group: February 2nd, 2024"
-publish: false
+  - "Linguistic Diversity Reading Group: February 2nd"
+  - "2024"
+draft: true
 ---
+Linguistic Diversity Reading Group Series:
+- [[@20240112baertlein_reading|Linguistic Diversity Reading Group: January 12th]]
+- [[@20240202denny_reading|Linguistic Diversity Reading Group: February 2nd]]
+- [[@20240216denny_reading|Linguistic Diversity Reading Group: February 16th]]
+- [[@20240301denny_reading|Linguistic Diversity Reading Group: March 1st]]
 
 https://kirkwood.zoom.us/j/93228635211
 
 [[Tim Robbins]] attended this reading group session.
 [[Richard Heath]] attended this reading group session.
 [[Yasemin Onder]] attended this reading group session.
-
-```bibtex
-unpublished{2024baertlein_reading,
-	title  = {Linguistic Diversity Reading Group},
-	author = {Denny, William and Heath, Richard and Onder, Yasemin and Robbins, Timothy},
-	year   = {2024},
-	month  = {Feb},
-	day    = {2}
-}
-```
 
 https://docs.google.com/document/d/1lzcIsQXsWQIJY395dyKPVGMuFP0xW9w3vB5Px1e61mI/edit
 
@@ -47,4 +43,4 @@ https://docs.google.com/document/d/1lzcIsQXsWQIJY395dyKPVGMuFP0xW9w3vB5Px1e61mI/
 [[@2017wight_literacy|Literacy Sponsorship in Upward Bound]]
 
 
-Next meeting: [[@2024-02-16denny&robbins&heath&onder&park_reading|Linguistic Diversity Reading Group: February 16th, 2024]]
+Next meeting: [[@20240216denny_reading|Linguistic Diversity Reading Group: February 16th, 2024]]

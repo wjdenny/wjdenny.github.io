@@ -1,19 +1,15 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/ai
-  - topic/academic-integrity
-alias: 
-  - "Update Your Course Syllabus for chatGPT"
-  - "@watkins2022"
-type: article
-title: "Update Your Course Syllabus for chatGPT"
-author: "Ryan Watkins"
-publisher: "Medium"
-date: 2022-12-18
-url: "https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003"
+  - "source"
+  - "topic/higher-education"
+  - "topic/ai"
+  - "topic/academic-integrity"
+alias: "Update Your Course Syllabus for chatGPT"
+draft: false
 ---
+
+https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003
+
 # Update Your Course Syllabus for chatGPT
 [[Ryan Watkins]] wrote this article for [[Medium]].
 

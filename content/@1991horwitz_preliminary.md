@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - Preliminary Evidence for the Reliability and Validity of a Foreign Language Anxiety Scale
+  - "source"
+alias: "Preliminary Evidence for the Reliability and Validity of a Foreign Language Anxiety Scale"
+draft: false
 ---
 # Preliminary Evidence for the Reliability and Validity of a Foreign Language Anxiety Scale
 [[Elaine K. Horwitz]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].

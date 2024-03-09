@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "ESL, Ideology, and the Politics of Pragmatism"
+  - "source"
+alias: "ESL, Ideology, and the Politics of Pragmatism"
+draft: false
 ---
 # ESL, Ideology, and the Politics of Pragmatism
 

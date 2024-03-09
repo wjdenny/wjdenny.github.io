@@ -11,4 +11,4 @@ Sometimes students bring up topics or ask questions about something planned late
 
 [[Plan of possibilities helps us avoid the mentality of simply covering content and allow us to design in a student-centered way]] 
 
-[[2021-09-01 Tobias|@tobias2021]]
+[[@2021tobias_planning|@tobias2021]]

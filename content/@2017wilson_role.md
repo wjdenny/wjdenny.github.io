@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
+tags:
+  - "source"
 alias: "The Role of Social Networks and Social SUpport in the Writing and College Planning of Multilingual Urban Adolescents"
+draft: false
 ---
 # The Role of Social Networks and Social Support in the Writing and College Planning of Multilingual Urban Adolescents
 
@@ -9,12 +10,12 @@ alias: "The Role of Social Networks and Social SUpport in the Writing and Colleg
 
 ```bibtex
 incollection{2017wilson_role,
-	title        = {The Role of Social Networks and Social Support in the Writing and College Planning of Multilingual Urban Adolescents},
-	author       = {Wilson, Jennifer Shade},
-	year         = 2017,
-	booktitle    = {Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College},
-	publisher    = {Routlege},
-	editor       = {Ortmeier-Hooper, Christina and Ruecker, Todd}
+  title = {The Role of Social Networks and Social Support in the Writing and College Planning of Multilingual Urban Adolescents},
+  author = {Wilson, Jennifer Shade},
+  year = 2017,
+  booktitle = {Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College},
+  publisher = {Routlege},
+  editor = {Ortmeier-Hooper, Christina and Ruecker, Todd}
 }
 ```
 

@@ -1,8 +1,8 @@
 ---
-tags: 
-  - source
-alias:
-  - "The Case for Grammar Correction in L2 Writing Classes: A Response to Truscott (1996)"
+tags:
+  - "source"
+alias: "The Case for Grammar Correction in L2 Writing Classes: A Response to Truscott (1996)"
+draft: false
 ---
 # The Case for Grammar Correction in L2 Writing Classes: A Response to Truscott (1996)
 

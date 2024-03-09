@@ -1,10 +1,11 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/critical-theory/microaggressions
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/critical-theory/microaggressions"
+  - "topic/higher-education/retention"
+draft: true
 ---
 # Reducing Microaggressions in Learning Environments Expert Insights 
 

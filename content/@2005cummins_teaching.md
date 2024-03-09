@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "Teaching for Cross-Language Transfer in Dual Language Education: Possibilities and Pitfalls"
+  - "source"
+alias: "Teaching for Cross-Language Transfer in Dual Language Education: Possibilities and Pitfalls"
+draft: false
 ---
 # Teaching for Cross-Language Transfer in Dual Language Education: Possibilities and Pitfalls
 

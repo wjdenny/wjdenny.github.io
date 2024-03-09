@@ -1,18 +1,11 @@
 ---
 tags:
-  - source
-  - topic/ai
-  - topic/education
-  - topic/academic-integrity
-alias:
-  - "ChatGPT Banned in New York City Public Schools Over Concerns About Cheating, Learning Development"
-  - "@lukpat2023"
-type: article
-title: "ChatGPT Banned in New York City Public Schools Over Concerns About Cheating, Learning Development"
-author: "Alyssa Lukpat"
-publisher: "Wall Street Journal"
-date: 2023-01-06
-url: "https://www.wsj.com/articles/chatgpt-banned-in-new-york-city-public-schools-over-concerns-about-cheating-learning-development-11673024059"
+  - "source"
+  - "topic/ai"
+  - "topic/education"
+  - "topic/academic-integrity"
+alias: "ChatGPT Banned in New York City Public Schools Over Concerns About Cheating, Learning Development"
+draft: false
 ---
 # ChatGPT Banned in New York City Public Schools Over Concerns About Cheating, Learning Development
 [[Alyssa Lukpat]] wrote this article for [[Wall Street Journal]].

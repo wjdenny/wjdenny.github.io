@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "Digital Dreams: The Rhetorical Power of Online Resources for DREAM Act Activists"
+  - "source"
+alias: "Digital Dreams: The Rhetorical Power of Online Resources for DREAM Act Activists"
+draft: false
 ---
 # Digital Dreams: The Rhetorical Power of Online Resources for DREAM Act Activists
 

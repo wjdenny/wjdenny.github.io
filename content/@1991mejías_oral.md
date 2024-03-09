@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "Oral Communication Apprehension and Hispanics: An Exploration of Oral Communication Apprehension Among Mexican American Students in Texas"
+  - "source"
+alias: "Oral Communication Apprehension and Hispanics: An Exploration of Oral Communication Apprehension Among Mexican American Students in Texas"
+draft: false
 ---
 # Oral Communication Apprehension and Hispanics: An Exploration of Oral Communication Apprehension Among Mexican American Students in Texas
 [[Hugo Mejías]], [[Ronald L. Applbaum]], [[Susan J. Applbaum]], and [[Robert T. Trotter II]] wrote this article for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].

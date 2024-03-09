@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
+tags:
+  - "source"
 alias: "Opportunity Gaps: Curricular Discontinuities across ESL, Mainstream, and College English"
+draft: false
 ---
 # Opportunity Gaps: Curricular Discontinuities across ESL, Mainstream, and College English
 [[Betsy Gilliland]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]]
@@ -24,5 +25,7 @@ alias: "Opportunity Gaps: Curricular Discontinuities across ESL, Mainstream, and
 [[Inadequate transitions between language arts curricula disrupts linguistic minority students' learning progress.]]
 
 > These gaps limit students' opportunities to learn essential academic literacy practices. For example, writing in classes for English learners may focus on vocabulary memorization over conceptual understanding (Richardson Bruna, Vann, & Perales Escudero, 2007) or controlled writing and copying from models (Hartman & Tarone, 1999; Valdés, 2001). Teacher support of multilingual writers can be similarly reductive, meeting assessment requirements at the expense of supporting learners' long-term writing development (Gilliland, 2014; Ruecker, 2013; Villalva, 2006) [page 21--22].
+
+^fdd7ef
 
 

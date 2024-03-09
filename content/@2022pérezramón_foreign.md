@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Foreign accent strength and intelligibility at the segmental level"
+  - "source"
+alias: "Foreign accent strength and intelligibility at the segmental level"
+draft: false
 ---
 
 # Foreign accent strength and intelligibility at the segmental level

@@ -1,9 +1,10 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ## Kristina Ruiz-Mesa, PhD; Associate Professor & Basic Course Director; Department of Communication Studies; California State University, Los Angeles [00:00:05]
 I think it's incredibly important that students have the opportunity to see themselves and their experiences represented in courses, and that representation can take different forms. It can take the form of being an instructor in a class. It can take the form of introducing them to authors and scholars and readings that present different voices and experiences and perspectives. And it can take the form in guest lectures. 

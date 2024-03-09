@@ -1,6 +1,7 @@
 ---
-tags: source
+tags: "source"
 alias: "Fewer Non-English Voting Materials"
+draft: false
 ---
 # Fewer Non-English Voting Materials
 [[Grace Katzer]] wrote this article for the [[Daily Iowan]].

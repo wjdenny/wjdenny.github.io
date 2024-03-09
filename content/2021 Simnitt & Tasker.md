@@ -4,8 +4,7 @@ tags:
   - topic/grading/contracts
   - topic/teaching/tesol
   - topic/asset-focused
-alias:
-  - "Developing Inclusive Teaching Across Writing Programs through Asset-Focused Inquiry"
+alias:  "Developing Inclusive Teaching Across Writing Programs through Asset-Focused Inquiry"
   - "@simnitt2021"
 ---
 # Developing Inclusive Teaching Across Writing Programs through Asset-Focused Inquiry

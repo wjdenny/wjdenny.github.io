@@ -1,8 +1,7 @@
 ---
 tags: 
   - source
-alias:
-  - "Paying Attention to Resident Multilingual Students"
+alias:  "Paying Attention to Resident Multilingual Students"
   - Ruecker & Ortmeier-Hooper, 2017
 ---
 # Paying Attention to Resident Multilingual Students

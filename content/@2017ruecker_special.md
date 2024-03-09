@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
+tags:
+  - "source"
 alias: "\"I Don't Want to be Special\""
+draft: false
 ---
 # "I Don't Want to be Special"
 [[Todd Ruecker]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]].

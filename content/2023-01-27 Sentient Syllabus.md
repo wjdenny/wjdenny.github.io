@@ -2,8 +2,7 @@
 tags:
   - source
   - topic/ai
-alias:
-  - "Silicone Coauthors"
+alias:  "Silicone Coauthors"
   - "@sentientsyllabus2023"
 type: article
 title: "Silicone Coauthors"

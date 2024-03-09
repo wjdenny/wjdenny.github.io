@@ -1,12 +1,11 @@
 ---
-tags: source
-type: article
-title: "Lessons of Design"
-author: "Lessons of Design"
-publisher: "Lessons of Design"
-date: 2019-09-08
-url: "https://lessons.design/"
+tags: "source"
+alias: "Lessons of Design"
+draft: false
 ---
+
+https://lessons.design/
+
 # Lessons of Design
 [[Lessons of Design]] wrote this article for [[Lessons of Design]].
 

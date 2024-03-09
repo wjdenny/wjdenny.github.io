@@ -4,8 +4,7 @@ tags:
   - topic/ai
   - topic/teaching
   - topic/academic-integrity
-alias:
-  - "Embrace the Bot: Designing Writing Assignments in the Face of AI"
+alias:  "Embrace the Bot: Designing Writing Assignments in the Face of AI"
   - "prochaska2023"
 type: article
 title: "Embrace the Bot: Designing Writing Assignments in the Face of AI"

@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-aliases: []
+alias: 
 ---
 # title
 [author] wrote this [genre] for [publisher].

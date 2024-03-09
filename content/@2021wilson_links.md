@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Links vs Tags vs Folders in Obsidian: When Should You Use Each?"
+  - "source"
+alias: "Links vs Tags vs Folders in Obsidian: When Should You Use Each?"
+draft: false
 ---
 # Links vs Tags vs Folders in Obsidian: When Should You Use Each?
 

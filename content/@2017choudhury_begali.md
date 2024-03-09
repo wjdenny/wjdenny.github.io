@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - Bengali-Speaking Multilingual Writers in Transition into Community College
+  - "source"
+alias: "Bengali-Speaking Multilingual Writers in Transition into Community College"
+draft: false
 ---
 # Bengali-Speaking Multilingual Writers in Transition into Community College
 

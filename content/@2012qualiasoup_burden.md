@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "The burden of proof"
+  - "source"
+alias: "The burden of proof"
+draft: false
 ---
 # The burden of proof
 

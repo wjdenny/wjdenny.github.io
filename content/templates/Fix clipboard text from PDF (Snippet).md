@@ -14,6 +14,13 @@
 	
 	tR += snippet;
 	
-	let page = Number(await tp.system.prompt(`What page number?`, 1, true));
-	tR += ` [page ${page}]`
+	let page = Number(await tp.system.prompt(
+		`What page number?`,
+		NaN,
+		false
+	));
+
+	if (page) {
+		tR += ` [page ${page}]`
+	}
 -%>

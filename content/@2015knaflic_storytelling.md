@@ -1,6 +1,7 @@
 ---
-tags: source
+tags: "source"
 alias: "Storytelling with Data"
+draft: false
 ---
 # Storytelling with Data
 [[Cole Nussbaumer Knaflic]] wrote this book for [[John Wiley & Sons]].

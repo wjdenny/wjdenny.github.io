@@ -1,3 +1,9 @@
-#statement 
-
-🏷 [[Diversity, Equity, and Inclusion]] [[Second Language Writing]] [[Second Language Acquisition]] [[Monolingual Ideology]]
+---
+tags:
+  - topic/habitus
+  - topic/dei
+  - topic/sla
+  - topic/sla/writing
+  - topic/monolingual-ideology
+  - statement
+---

@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias: 
-  - "A Pivotal Praxis"
+  - "source"
+alias: "A Pivotal Praxis"
+draft: false
 ---
 # A Pivotal Praxis
 

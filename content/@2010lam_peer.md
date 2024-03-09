@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "A Peer Review Training Workshop: Coaching Students to Give and Evaluate Peer Feedback"
+  - "source"
+alias: "A Peer Review Training Workshop: Coaching Students to Give and Evaluate Peer Feedback"
+draft: false
 ---
 # A Peer Review Training Workshop: Coaching Students to Give and Evaluate Peer Feedback
 

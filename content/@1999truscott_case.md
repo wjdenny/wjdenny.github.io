@@ -1,9 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "The Case for \"The Case Against Grammar Correction in L2 Writing Classes\": A Response to Ferris"
-  - "[[@1999truscott"
+  - "source"
+alias: "The Case for \"The Case Against Grammar Correction in L2 Writing Classes\"\\: A Response to Ferris"
+draft: false
 ---
 # The Case for "The Case Against Grammar Correction in L2 Writing Classes": A Response to Ferris
 

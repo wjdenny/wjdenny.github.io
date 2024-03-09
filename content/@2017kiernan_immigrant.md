@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "Immigrant Mosaics: Advancing Multilingual Education in Canadian Postsecondary Settings"
+  - "source"
+alias: "Immigrant Mosaics: Advancing Multilingual Education in Canadian Postsecondary Settings"
+draft: false
 ---
 # Immigrant Mosaics: Advancing Multilingual Education in Canadian Postsecondary Settings
 [[Julia Kiernan]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]].

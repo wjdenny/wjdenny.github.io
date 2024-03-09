@@ -1,12 +1,10 @@
 ---
-tags: source
-type: article
-title: "A meaningful file structure for R projects"
-author: "Mira Céline Klein"
-publisher: "inwt"
-date: 2017-08-08
-url: "https://www.inwt-statistics.com/blog/a-meaningful-file-structure-for-r-projects"
+tags: "source"
+alias: "A meaningful file structure for R projects"
+draft: false
 ---
+https://www.inwt-statistics.com/blog/a-meaningful-file-structure-for-r-projects
+
 # A meaningful file structure for R projects
 [[Mira Céline Klein]] wrote this article for [[inwt]].
 > [!summary] Summary

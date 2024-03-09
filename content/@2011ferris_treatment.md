@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Treatment of error in second language student writing"
+  - "source"
+alias: "Treatment of error in second language student writing"
+draft: false
 ---
 # Treatment of error in second language student writing
 

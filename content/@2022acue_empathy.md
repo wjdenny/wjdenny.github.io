@@ -1,7 +1,8 @@
 ---
 tags:
-  - source
+  - "source"
 alias: "How does empathy help to mitigate implicit bias?"
+draft: false
 ---
 > As faculty members and as we engage in really creating inclusive environments for our students, we really have to center at that conversation the understanding of empathy. Understanding how this is a process of learning, a process of engagement, and having both empathy for our students in this developmental process, but also empathy for ourselves. To recognize that if we have at core the desire to educate and to help students in very pivotal times of their lives to grow and become all that they want to be, then we must contribute to that in a way in which we share our disciplinary expertise, but also our humanity. 
 

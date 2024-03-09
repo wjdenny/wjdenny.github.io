@@ -1,13 +1,12 @@
 ---
-tags: source
-type: article
-title: "Efficient data visualization with faded raincloud plots"
-author: "Dallas Novakowski"
-publisher: "https://dallasnova.rbind.io/"
-date: 2022-08-31
-url: "https://dallasnova.rbind.io/post/efficient-data-visualization-with-faded-raincloud-plots-delete-boxplot/"
+tags: "source"
+alias: "Efficient data visualization with faded raincloud plots"
+draft: false
 ---
 # Efficient data visualization with faded raincloud plots
+
+https://dallasnova.rbind.io/post/efficient-data-visualization-with-faded-raincloud-plots-delete-boxplot/
+
 [[Dallas Novakowski]] wrote this article for [[https://dallasnova.rbind.io/]].
 > [!summary] Summary
 > %% Write a one-sentence summary of the source. %%

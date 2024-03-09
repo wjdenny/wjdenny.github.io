@@ -1,10 +1,9 @@
 ---
 tags:
-  - source
-  - topic/instructional-design
-alias: 
-  - Planning Music Classes & Ensembles So You Never Fall Behind
-  - "@tobias2021"
+  - "source"
+  - "topic/instructional-design"
+alias: "Planning Music Classes & Ensembles So You Never Fall Behind"
+draft: false
 ---
 # Planning Music Classes & Ensembles So You Never Fall Behind
 

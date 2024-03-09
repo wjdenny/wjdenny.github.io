@@ -1,9 +1,9 @@
 ---
 tags:
-  - source
-  - triage/deep
-aliases:
-  - Immigrants in Community Colleges
+  - "source"
+  - "triage/deep"
+alias: "Immigrants in Community Colleges"
+draft: false
 ---
 # Immigrants in Community Colleges
 [[Robert T. Teranishi]], [[Carola Suárez-Orozco]], and [[Marcelo Suárez-Orozco]] wrote this article for [[The Future of Children]].

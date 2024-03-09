@@ -1,16 +1,9 @@
 ---
-tags: 
-  - source
-cite:
-  title: "Mindful Context Switching"
-  author: "Anne-Laure Le Cunff"
-  publisher: "Ness Labs"
-  journal: "Ness Labs"
-  year: 2023
-  url: "https://nesslabs.com/mindful-context-switching"
-  key: "[[@2023-08-08lecunff"
-  type: misc
----**
+tags:
+  - "source"
+alias: "Mindful Context Switching"
+draft: false
+---
 # Mindful Context Switching
 [[Anne-Laure Le Cunff]] wrote this misc for [[Ness Labs]].
 

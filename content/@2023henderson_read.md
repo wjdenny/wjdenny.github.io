@@ -1,10 +1,10 @@
 ---
 tags:
-  - source
-  - topic/pkm
-  - topic/reading
-aliases:
-  - How to Read (and Understand) Hard Books
+  - "source"
+  - "topic/pkm"
+  - "topic/reading"
+alias: "How to Read (and Understand) Hard Books"
+draft: false
 ---
 # How to Read (and Understand) Hard Books
 [[Jared Henderson]] published this video for [[YouTube]].

@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - Evaluating Student Attitudes Toward Second-Language Tests
+  - "source"
+alias: "Evaluating Student Attitudes Toward Second-Language Tests"
+draft: false
 ---
 # Evaluating Student Attitudes Toward Second-Language Tests
 [[Harold S. Madsen]], [[Bruce L. Brown]], and [[Randall L. Jones]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].

@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
+tags:
+  - "source"
 alias: "Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College"
+draft: false
 ---
 # Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College
 [[Christina Ortmeier-Hooper]] and [[Todd Ruecker]] wrote this book for [[Routledge]].
@@ -21,8 +22,8 @@ alias: "Linguistically Diverse Immigrant and Resident Writers: Transitions from 
 ## Chapters
 - Chapter 1: [[@2017ruecker_paying|Paying Attention to Resident Multilingual Students]]
 - Chapter 2: [[@2017gilliland_opportunity|Opportunity Gaps: Curricular Discontinuities across ESL]]
-- Chapter 3: [[@2017de-oliveira_common-core]]
-- Chapter 4: [[@2017henderson-lee_resident]]
+- Chapter 3: [[@2017deoliveira_common|The Common Core State Standards and Implications for Writing Instruction and Assessment for English Language Learners]]
+- Chapter 4: [[@2017hendersonlee_resident]]
 - Chapter 5: [[@2017wilson_role|The Role of Social Networks and Social Support in the Writing and College Planning of Multilingual Urban Adolescents]]
 - Chapter 6: [[@2017ruecker_special|"I Don't Want to be Special"]]
 

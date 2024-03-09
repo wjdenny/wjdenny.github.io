@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Engaging (the Politics of) Language Difference in the Writing Classroom"
+  - "source"
+alias: "Engaging (the Politics of) Language Difference in the Writing Classroom"
+draft: false
 ---
 # Engaging (the Politics of) Language Difference in the Writing Classroom
 

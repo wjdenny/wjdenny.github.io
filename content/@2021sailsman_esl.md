@@ -1,8 +1,7 @@
 ---
-tags: source
+tags: "source"
 alias: "English-As-A-Second-Language (ESL) Nursing Students' Academic Integration: A Review of Literature"
-description: "Sailsman (2021) provides a thorough literature review on the challenges of foreign-born and ESL Nursing students in higher education. The focus is on themes of language and culture integration, cultural stress and isolation, academic language learning, faculty support of integration, faculty cultural competence, instructional strategies, and faculty bias."
-title: "2021 Sailsman - English-As-A-Second-Language (ESL) Nursing Students' Academic Integration: A Review of Literature"
+draft: false
 ---
 # English-As-A-Second-Language (ESL) Nursing Students' Academic Integration: A Review of Literature
 [[Sonique Sailsman]] wrote this article for [[Nursing Education Perspectives]].

@@ -1,9 +1,10 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ## Rationale
 _Imposter phenomenon is increasingly common among students and causes stress, anxiety, isolation, and negative mental and physical health outcomes_ [_(Doggett, 2019)_](https://acue.instructure.com/courses/2565/pages/itel3-references)_. Stereotype threat, which describes the experience of students afraid to confirm a negative stereotype about their identity, leads students to experience high stress and lowered performance_ [_(Steele & Aronson, 1995)_](https://acue.instructure.com/courses/2565/pages/itel3-references)_. Reducing the impact of imposter phenomenon and stereotype threat by fostering a sense of belonging in your students can go a long way in motivating students, calming their anxieties, and ultimately increasing the likelihood that they will be successful._ ^4b584a

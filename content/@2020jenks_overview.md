@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!"
+  - "source"
+alias: "Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!"
+draft: false
 ---
 # Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!
 

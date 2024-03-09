@@ -1,10 +1,11 @@
 ---
 tags:
-  - source
-  - topic/dei
-  - topic/higher-education
-  - topic/teaching
-  - topic/higher-education/retention
+  - "source"
+  - "topic/dei"
+  - "topic/higher-education"
+  - "topic/teaching"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ## Inclusive Introduction
 ### Jessica Weiss, PhD; Professor, Director of Faculty 

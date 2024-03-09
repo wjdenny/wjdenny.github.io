@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Stank 2.0 and the Counter-Poetics of Black Language in College Classrooms"
+  - "source"
+alias: "Stank 2.0 and the Counter-Poetics of Black Language in College Classrooms"
+draft: false
 ---
 # Stank 2.0 and the Counter-Poetics of Black Language in College Classrooms
 

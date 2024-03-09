@@ -1,7 +1,8 @@
 ---
 tags:
-  - source
+  - "source"
 alias: "Mitigating potential bias in grading practices"
+draft: false
 ---
 > So I use anonymous grading, particularly at the beginning of the course, because I don't really, I know the students a little bit, but I don't know their writing enough to be like, oh, I recognize that's So-and-So. And I do the anonymous grading because it helps me to really focus on the actual writing or the assignment as opposed to the person. Because I, in reality, do sometimes if you have a student, for example, that is very engaged in class and is doing well, you tend to be more lenient on that student. And maybe a student who is absent a lot or seems disengaged, you might try and grade a little harder. And I really do want to prevent that. 
 

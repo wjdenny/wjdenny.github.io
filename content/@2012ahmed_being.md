@@ -1,8 +1,8 @@
 ---
-tags: 
-  - source
-alias:
-  - "On Being Included"
+tags:
+  - "source"
+alias: "On Being Included"
+draft: false
 ---
 # On Being Included
 [[Sara Ahmed]] wrote this book for [[Duke University Press]].

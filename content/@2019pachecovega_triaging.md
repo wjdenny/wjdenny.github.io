@@ -1,12 +1,12 @@
 ---
 tags:
-  - source
-  - topic/reading
-  - topic/note-taking
-  - topic/knowledge
-  - topic/writing
-aliases:
-  - "Triaging your reading workload: how to choose when to read something in more depth"
+  - "source"
+  - "topic/reading"
+  - "topic/note-taking"
+  - "topic/knowledge"
+  - "topic/writing"
+alias: "Triaging your reading workload: how to choose when to read something in more depth"
+draft: false
 ---
 # Triaging your reading workload: how to choose when to read something in more depth
 

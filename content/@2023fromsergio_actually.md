@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
+tags:
+  - "source"
 alias: "How I actually *MAKE* Smart Notes"
+draft: false
 ---
 # How I actually \*MAKE\* Smart Notes
 [[FromSergio]] posted this video on [[YouTube]].

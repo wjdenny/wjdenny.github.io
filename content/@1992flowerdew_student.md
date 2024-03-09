@@ -1,7 +1,7 @@
 ---
-tags: source
-alias: 
-  - "Student perceptions, problems and strategies in second language lecture comprehension"
+tags: "source"
+alias: "Student perceptions, problems and strategies in second language lecture comprehension"
+draft: false
 ---
 # Student perceptions, problems and strategies in second language lecture comprehension
 [[John Flowerdew]] and [[Lindsay Miller]] wrote this article for [[RELC Journal]].

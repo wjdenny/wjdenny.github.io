@@ -1,9 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "The experiences of international nursing students in a baccalaureate nursing program"
-  - "Sanner et al. (2002)"
+  - "source"
+alias: "The experiences of international nursing students in a baccalaureate nursing program"
+draft: false
 ---
 # The experiences of international nursing students in a baccalaureate nursing program.
 [[Susan Sanner]], [[Astrid H. Wilson]], and [[Linda F. Samson]] wrote this article for the [[Journal of Professional Nursing]].

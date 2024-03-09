@@ -1,19 +1,11 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/implicit-bias
-alias:
-  - "[[@2022acue-mitigate-impact-bias"
-cite:
-  key: "[[@2022acue-mitigate-impact-bias"
-  type: "misc"
-  title: "How can we work to mitigate the potential impact of bias?"
-  author: "ACUE"
-  year: 2022
-  howpublished: "Published as part of the Inclusive Teaching and Equitable Learning course"
-  note: "Accessed 2023-02-09"
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/implicit-bias"
+alias: "[[@2022acue-mitigate-impact-bias"
+draft: true
 ---
 ### How can we work to mitigate the potential impact of bias?
 **Jennifer Imazeki, PhD; Associate Chief Diversity Officer for Faculty and Staff, Professor of Economics; San Diego State University**

@@ -1,9 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - Foreign Language Classroom Anxiety
-  - Horwitz, Horwitz, and Cope (1986, this volume)
+  - "source"
+alias: "Foreign Language Classroom Anxiety"
+draft: false
 ---
 # Title
 [[Elaine K. Horwitz]], [[Michael B. Horwitz]], and [[Jo Ann Cope]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].

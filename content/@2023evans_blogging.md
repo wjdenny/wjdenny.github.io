@@ -1,12 +1,11 @@
 ---
-tags: source
-type: article
-title: "Some blogging myths"
-author: "Julia Evans"
-publisher: "Julia Evans"
-date: 2023-06-05
-url: "https://jvns.ca/blog/2023/06/05/some-blogging-myths/"
+tags: "source"
+alias: "Some blogging myths"
+draft: false
 ---
+
+https://jvns.ca/blog/2023/06/05/some-blogging-myths/
+
 # Some blogging myths
 [[Julia Evans]] wrote this article for [[Julia Evans]].
 > [!summary] Summary

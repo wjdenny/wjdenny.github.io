@@ -1,10 +1,11 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/implicit-bias
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/implicit-bias"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ### Kristina Ruiz-Mesa, PhD; Associate Professor & Basic Course Director; Department of Communication Studies; California State University, Los Angeles [00:00:05] 
 > I believe empathy is the foundation of communication and the foundation of relationships. And empathy is something that some of us have to work to build. And so we know that children can build empathy through hearing stories and reading books and thinking about characters. And as we get older, we sometimes forget that. We sometimes forget to think about, what are the other characters thinking? What are the other people around us thinking? How might they be feeling?  

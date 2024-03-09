@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
-alias: ""
+tags:
+  - "source"
+alias: "ES6 and Beyond"
+draft: false
 ---
 # ES6 and Beyond
 [[Kyle Simpson]] wrote this book for [[O'Reilly]].

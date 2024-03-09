@@ -1,8 +1,7 @@
 ---
-tags: source
-alias: 
-  - "Academic Dishonesty Among International Students in Higher Education"
-  - Bista, 2017
+tags: "source"
+alias: "Academic Dishonesty Among International Students in Higher Education"
+draft: false
 ---
 # Academic Dishonesty Among International Students in Higher Education
 [[Krishna K. Bista]] wrote this article for [[To Improve the Academy]].

@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Great leadership is a network, not a hierarchy"
+  - "source"
+alias: "Great leadership is a network, not a hierarchy"
+draft: false
 ---
 # Great leadership is a network, not a hierarchy
 

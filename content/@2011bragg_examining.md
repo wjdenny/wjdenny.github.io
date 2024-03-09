@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - Examining Pathways to and Through the Community College for Youth and Adults
+  - "source"
+alias: "Examining Pathways to and Through the Community College for Youth and Adults"
+draft: false
 ---
 # Examining Pathways to and Through the Community College for Youth and Adults
 

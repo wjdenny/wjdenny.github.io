@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias: 
-  - "Plurilingualism For U.S. Writing Classrooms"
+  - "source"
+alias: "Plurilingualism For U.S. Writing Classrooms"
+draft: false
 ---
 # Plurilingualism For U.S. Writing Classrooms
 

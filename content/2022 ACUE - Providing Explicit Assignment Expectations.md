@@ -1,9 +1,10 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ## Gregory Eiselein, PhD; Donnelly Professor of English; Department of English; Kansas State University [00:00:05]
 One of the most common questions or roadblocks for students is what does the teacher really want? What am I really supposed to be doing here? 

@@ -5,7 +5,8 @@ tags:
   - topic/mental-health
   - topic/queer
   - topic/teens
-draft: true
+draft: false
+alias: "" I Wish You All the Best"
 ---
 # I Wish You All the Best
 [[Mason Deaver]] wrote this book for [[PUSH]].

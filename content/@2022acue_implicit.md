@@ -1,7 +1,8 @@
 ---
 tags:
-  - source
+  - "source"
 alias: "How might implicit bias impact teaching?"
+draft: false
 ---
 > It's imperative, as we think about implicit bias and the implications for students in the classroom, that we continue to work and evolve because as human beings, this is a lifelong process. We all have biases that have been formed, as I said, by myriad information, whether it be media, our lived experiences, something we've been told, something we've  seen. But it's incumbent to the best of our ability to engage authentically in each interaction. So because as faculty we have power, because as faculty we shape and inform the learning environment, we must challenge our own  biases. 
 

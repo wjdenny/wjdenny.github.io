@@ -9,8 +9,7 @@ header-includes:
   - \usepackage{pax}
   - \usepackage{moresize}
 fontsize: 10pt
-aliases:
-  - cv
+alias:  cv
 permalink: cv
 tags:
   - explorer
@@ -94,7 +93,7 @@ Creator and sole tutor of ESL tutoring program
 - researched and led training workshops for faculty on educational software and technologies
 - presented review of GoReact at the Iowa Conference on Higher Education in 2016
 
-**[Resources for New Iowans in Johnson County](https://www.wjdenny.com/resources-johnson-county/)** *(2016)*
+**[Resources for New Iowans in Johnson County](https://wjdenny.com/resources-johnson-county/)** *(2016)*
 
 - built dataset of local organizations offering a variety of services to meet the needs of immigrant families
 - shared the project with local teachers and social workers
@@ -120,13 +119,14 @@ Creator and sole tutor of ESL tutoring program
 
 - managing the impact of biases, reducing microaggressions in learning environments, addressing imposter phenomenon and stereotype threat, creating inclusive learning environments, and designing equity-centered courses.
 
-**[[uiowa-transcript-wjdenny-ma.pdf|M.A. Linguistics/TESOL]]** @ [The University of Iowa](https://linguistics.uiowa.edu/undergraduate/ba-ma-tesl-focus) (2013)
+**M.A. Linguistics/TESOL** @ [The University of Iowa](https://linguistics.uiowa.edu/undergraduate/ba-ma-tesl-focus) (2013)
 
 - corpora database design, language acquisition, language typology
 
-**[[uiowa-transcript-wjdenny-ba.pdf|B.A. Linguistics/TESOL]]** @ [The University of Iowa](https://linguistics.uiowa.edu/undergraduate/ba-ma-tesl-focus) (2012)
+**B.A. Linguistics/TESOL** @ [The University of Iowa](https://linguistics.uiowa.edu/undergraduate/ba-ma-tesl-focus) (2012)
 
 - Honors, Dean's List, politics and language, Arabic, informatics
+- Undergraduate Student Advisory Board
 
 **Associate of Arts** @ [Indian Hills Community College](https://www.indianhills.edu/) (2010)
 

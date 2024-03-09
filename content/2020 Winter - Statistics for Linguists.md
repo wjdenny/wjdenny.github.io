@@ -3,8 +3,7 @@ tags:
   - source
   - topic/data
   - topic/statistics
-alias:
-  - "Statistics for Linguists"
+alias:  "Statistics for Linguists"
   - "@winter2020"
 type: book
 title: "Statistics for Linguists"

@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "How to Keep A Commonplace Book"
+  - "source"
+alias: "How to Keep A Commonplace Book"
+draft: false
 ---
 # How to Keep A Commonplace Book
 

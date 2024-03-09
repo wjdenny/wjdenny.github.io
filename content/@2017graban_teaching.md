@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "Teaching Multilingualism, Teaching Identification: Embracing Resident Multilingualism as a Curricular Paradigm"
+  - "source"
+alias: "Teaching Multilingualism, Teaching Identification: Embracing Resident Multilingualism as a Curricular Paradigm"
+draft: false
 ---
 # Teaching Multilingualism, Teaching Identification: Embracing Resident Multilingualism as a Curricular Paradigm
 [[Tarez Samra Graban]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]].

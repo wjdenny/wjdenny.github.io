@@ -1,8 +1,8 @@
 ---
 tags:
-   - source
-alias:
-  - "Centering Students' Language and Literacy Practices"
+  - "source"
+alias: "Centering Students' Language and Literacy Practices"
+draft: false
 ---
 
 # Centering Students' Language and Literacy Practices

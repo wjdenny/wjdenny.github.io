@@ -2,8 +2,7 @@
 tags:
   - source
   - topic/pkm/obsidian
-alias:
-  - "How I Listen AND Take Notes on Podcasts INSIDE Obsidian"
+alias:  "How I Listen AND Take Notes on Podcasts INSIDE Obsidian"
   - "fromsergio2022"
 ---
 # How I Listen AND Take Notes on Podcasts INSIDE Obsidian

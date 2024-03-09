@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Language and Social Justice"
+  - "source"
+alias: "Language and Social Justice"
+draft: false
 ---
 # Language and Social Justice
 

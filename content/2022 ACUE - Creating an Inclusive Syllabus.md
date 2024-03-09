@@ -1,9 +1,10 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ## Kelly A. Hogan, PhD; Associate Dean of Instructional Innovation, QEP Director; STEM Teaching Professor, Department of Biology; College of Arts & Sciences; University of North Carolina at Chapel Hill [00:00:05]
 I think it's really important to have an inclusive sounding syllabus. It's about word choices and tone. Because really it's like the welcome mat to your classroom.  

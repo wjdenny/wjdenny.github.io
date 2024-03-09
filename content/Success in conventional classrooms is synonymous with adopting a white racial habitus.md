@@ -1,4 +1,6 @@
 ---
-tags: statement
+tags: 
+  - statement
+  - topic/habitus
 ---
 Success in conventional classrooms is synonymous with adopting a white racial habitus.

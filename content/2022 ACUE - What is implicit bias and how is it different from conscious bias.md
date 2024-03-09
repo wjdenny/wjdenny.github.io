@@ -1,9 +1,10 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/implicit-bias
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/implicit-bias"
+draft: true
 ---
 ### What is implicit bias and how is it different from conscious bias?
 **[[Teresa A. Nance]], PhD; Vice President, Diversity, Equity and Inclusion; Chief Diversity Officer; Associate Professor; [[Villanova University]]**

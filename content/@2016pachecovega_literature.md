@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "How to do a literature review: Citation tracing, concept saturation and results’ mind-mapping"
+  - "source"
+alias: "How to do a literature review: Citation tracing, concept saturation and results’ mind-mapping"
+draft: false
 ---
 # How to do a literature review: Citation tracing, concept saturation and results’ mind-mapping
 [[Raul Pacheco-Vega]] wrote this article for [his blog](http://www.raulpacheco.org/2016/06/how-to-do-a-literature-review-citation-tracing-concept-saturation-and-results-mind-mapping/).

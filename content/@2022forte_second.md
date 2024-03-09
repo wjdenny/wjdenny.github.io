@@ -1,9 +1,9 @@
 ---
-aliases:
-  - "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
+alias: "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
 tags:
-  - source
-  - topic/pkm
+  - "source"
+  - "topic/pkm"
+draft: false
 ---
 # Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
 

@@ -1,0 +1,1 @@
+A thought. I organize my digital garden leading with the sources. What if instead I led with the ideas/statements? What would that look like? I wouldn't spend as much time cataloguing the sources.. and it might be harder to pull multiple ideas from a source at a time. Maybe the way I do it is fine.

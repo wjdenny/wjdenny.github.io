@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "The Future Promise initiative: An Action Research Study of a Community College's Integrated Program Serving Immigrant Students"
+  - "source"
+alias: "The Future Promise initiative: An Action Research Study of a Community College's Integrated Program Serving Immigrant Students"
+draft: false
 ---
 
 # The [[Future Promise initiative]]: An Action Research Study of a Community College's Integrated Program Serving Immigrant Students

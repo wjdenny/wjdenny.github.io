@@ -1,6 +1,5 @@
 ---
-aliases:
-  - bibtex
+alias:  bibtex
 ---
 
 ## Format

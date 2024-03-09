@@ -2,8 +2,7 @@
 tags:
   - source
   - topic/pkm/smart-notes
-alias:
-  - "The FUN and EFFICIENT note-taking system I use in my PhD"
+alias:  "The FUN and EFFICIENT note-taking system I use in my PhD"
   - "[[@2022morganeua-note-taking"
 ---
 # The FUN and EFFICIENT note-taking system I use in my PhD

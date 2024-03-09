@@ -1,20 +1,12 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/implicit-bias
-  - topic/higher-education/retention
-alias:
-  - "[[@2022acue-itel-bias-know"
-cite:
-  key: "2022acue-itel-bias-know"
-  type: "misc"
-  title: "Reducing Bias by Getting to Know Your Students"
-  author: "ACUE"
-  year: 2022
-  howpublished: "Published as part of the Inclusive Teaching and Equitable Learning course"
-  note: "Accessed 2023-02-09"
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/implicit-bias"
+  - "topic/higher-education/retention"
+alias: "[[@2022acue-itel-bias-know"
+draft: true
 ---
 ## Transcript
 ### [[Rudy Jean-Bart]], MASS; Assistant Professor, Social Behavioral Sciences & Human Services; Broward College [00:00:04] 

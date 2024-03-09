@@ -1,17 +1,11 @@
 ---
-tags: 
-  - source
-  - topic/queer
-  - topic/punk
-  - topic/folk
-cite:
-  medium: book
-  key: 2022killjoy
-  title: We Won't Be Here Tomorrow
-  author: Margaret Killjoy
-  publisher: AK Press
-  year: 2022
-  url: "https://www.akpress.org/we-wont-be-here-tomorrow.html"
+tags:
+  - "source"
+  - "topic/queer"
+  - "topic/punk"
+  - "topic/folk"
+alias: "We Won't Be Here Tomorrow"
+draft: false
 ---
 # We Won't Be Here Tomorrow
 [[Margaret Killjoy]] wrote this book for [[AK Press]].

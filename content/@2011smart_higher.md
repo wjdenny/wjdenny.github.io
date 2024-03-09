@@ -1,10 +1,10 @@
 ---
 tags:
-  - source
-  - triage/skim
-  - read/todo
-aliases:
-  - "Higher Education: Handbook of Theory and Research"
+  - "source"
+  - "triage/skim"
+  - "read/todo"
+alias: "Higher Education: Handbook of Theory and Research"
+draft: false
 ---
 # Higher Education: Handbook of Theory and Research
 

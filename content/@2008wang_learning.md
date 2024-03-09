@@ -1,9 +1,8 @@
 ---
-tags: 
-  - source
-alias: 
-  - "The learning experiences of Taiwanese nursing students studying in Australia"
-  - "Wang et al. (2008)"
+tags:
+  - "source"
+alias: "The learning experiences of Taiwanese nursing students studying in Australia"
+draft: false
 ---
 # The learning experiences of Taiwanese nursing students studying in Australia.
 

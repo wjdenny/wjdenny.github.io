@@ -1,26 +1,22 @@
 ---
 tags:
-  - source
-aliases:
-  - "Linguistic Diversity Reading Group: January 12th, 2024"
+  - "source"
+alias: "Linguistic Diversity Reading Group: January 12th, 2024"
 draft: true
 ---
+
+Linguistic Diversity Reading Group Series:
+- [[@20240112baertlein_reading|Linguistic Diversity Reading Group: January 12th]]
+- [[@20240202denny_reading|Linguistic Diversity Reading Group: February 2nd]]
+- [[@20240216denny_reading|Linguistic Diversity Reading Group: February 16th]]
+- [[@20240301denny_reading|Linguistic Diversity Reading Group: March 1st]]
+
 [[Elizabeth Baertlein]] coordinated this reading group.
 [[Tim Robbins]] attended this reading group session.
 [[Linda Park]] attended this reading group session.
 [[Richard Heath]] attended this reading group session.
 [[Curtis Mitchell]] attended this reading group session.
 [[Sondra Gates]] attended this reading group session.
-
-```bibtex
-unpublished{20240112baertlein_linguistic,
-	title  = {Linguistic Diversity Reading Group},
-	author = {Elizabeth Baertlein and Will Denny and Linda Park and Tim Robbins and Curtis Mitchell and Richard Heath and Sondra Gates},
-	year   = {2024},
-	month  = {Jan},
-	day    = {12}
-}
-```
 
 Curtis Mitchell teaches math and science courses.
 

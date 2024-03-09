@@ -1,9 +1,8 @@
 ---
-alias: 
-  - Labor-based grading contracts
-  - "Inoue, 2022"
+alias: "Labor-based grading contracts: Building equity and inclusive in the compassionate writing "
 tags:
-  - source
+  - "source"
+draft: false
 ---
 # Labor-based grading contracts: Building equity and inclusive in the compassionate writing classroom
 
@@ -360,7 +359,7 @@ I'm noticing a pattern in rhetoric of this and many papers. `x example` is an ex
 
 > once one takes on a white racial *habitus*, it's your *habitus*, and becomes a part of your values and dispositions, which makes finding fault in it harder to see and feel. Lots of things you found fault with earlier feels more natural and good when it's your habits you're looking at. Our *habitus* are paradoxically natural to us, or naturalized by and for us. [page 34]
 
-[[Habitus can be hard to confront because it has been naturalized and made invisible]]
+[[Habitus can be hard to confront because it has been naturalized and made invisible]] ^43e954
 
 > My judgements too often invoke a haunting white *habitus* when placed on my students' writing. I ain't white, but I embody HOWL. [page 34]
 
@@ -624,7 +623,7 @@ I wonder if we ([[Elizabeth Baertlein]], [[Lisa Angelella]], and others) could s
 
 I like the turn of phrase here, with "grow up with a white DAD." There's some utility in that acronym.
 
-[[A language is a dialect with an army and a navy|The difference between a language and a dialect is a navy]].. but what about the difference between a dialect and a creole, pidgin, etc?
+[[A language is a dialect with an army and a navy.|The difference between a language and a dialect is a navy]].. but what about the difference between a dialect and a creole, pidgin, etc?
 
 > Social justice writing assessment projects make people's lives better, give them equitable opportunities, expand boundaries, question the authoritative and hegemonic, not simply give some students a few more opportunities, or second-class status, even though that status is better than the third-class one they are accustomed to. [page 61]
 

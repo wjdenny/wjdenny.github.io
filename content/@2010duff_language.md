@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
+tags:
+  - "source"
 alias: "Language Socialization into Academic Discourse Communities"
+draft: false
 ---
 # Language Socialization into Academic Discourse Communities
 [[Patricia A. Duff]] wrote this article for [[Annual Review of Applied Linguistics]].

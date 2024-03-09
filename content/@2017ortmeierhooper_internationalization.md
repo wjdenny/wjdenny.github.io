@@ -1,20 +1,20 @@
 ---
 tags:
-  - source
-aliases:
-  - "Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy"
+  - "source"
+alias: "Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy"
+draft: false
 ---
 # Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy
 [[Christina Ortmeier-Hooper]], [[Dana Ferris]], [[Richard Lizotte]], [[Patricia Portanova]], and [[Margi Wald]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]].
 
 ```bibtex
 incollection{2017ortmeierhooper_internationalization,
-	title        = {Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy},
-	author       = {Ortmeier-Hooper, Christina and Ferris, Dana and Lizotte, Richard and Portanova, Patricia and Wald, Margi},
-	year         = 2017,
-	booktitle    = {Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College},
-	publisher    = {Routlege},
-	editor       = {Ortmeier-Hooper, Christina and Ruecker, Todd}
+  title = {Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy},
+  author = {Ortmeier-Hooper, Christina and Ferris, Dana and Lizotte, Richard and Portanova, Patricia and Wald, Margi},
+  year = 2017,
+  booktitle = {Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College},
+  publisher = {Routlege},
+  editor = {Ortmeier-Hooper, Christina and Ruecker, Todd}
 }
 ```
 
@@ -27,24 +27,9 @@ incollection{2017ortmeierhooper_internationalization,
 ## Notes
 > Some resident students are happy to be freed from labels like ELL (Ortmeier-Hooper, 2008). But the lack of labels can also lead to a lack of accountability (by institutions and writing programs) and a lack of funding for support and services. It can also steer students away from effective academic support. Invisibility can propagate issues of access, academic achievement, and inequity for resident multilingual students. [page 229]
 
-[[It can be difficult to adequately label such a diverse group as linguistic minority students]]
+^140aa0
 
-[[@2010kanno_immigrant#^36a0ab]]
-[[@2010kanno_immigrant#^4312c7]]
-[[@2010kanno_immigrant#^aedad2]]
-[[@2017kibler_promises#^02e56c]]
-[[@2017ruecker_special#^0c0c0e]]
-[[@2017ruecker_paying#^dd0c9f]]
-[[@2017ruecker_paying#^dd0c9f]]
-[[@2017wight_literacy#^634ed1]]
-[[@2017wight_literacy#^230268]]
-[[@2017wight_literacy#^6d85c9]]
-[[@2017wight_literacy#^3b5493]]
-[[Labelling people into specific roles can limit their ability to utilize their skills and talents]]
-[[@2022frederiksen_great#^c92b70]]
-[[It is a challenge to categorize linguistic minority students]]
-
-> Adler-Kassner (2008) reminds us that we need "to be awareof the ideologies associated with the frames currently shaping discussions about education (and writing)" (p. 88) [page 230]
+> Adler-Kassner (2008) reminds us that we need "to be aware of the ideologies associated with the frames currently shaping discussions about education (and writing)" (p. 88) [page 230]
 
 > It was immediately apparent to those of us working directly with multilingual students that there was both a challenge and an opportunity before us. [page 230]
 

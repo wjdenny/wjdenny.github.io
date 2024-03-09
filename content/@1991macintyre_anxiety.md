@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-aliases:
-  - "Anxiety and Second Language Learning: Toward a Theoretical Clarification"
+  - "source"
+alias: "Anxiety and Second Language Learning: Toward a Theoretical Clarification"
+draft: false
 ---
 # Anxiety and Second Language Learning: Toward a Theoretical Clarification
 [[P. D. MacIntyre]] and [[R. C. Gardner]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].

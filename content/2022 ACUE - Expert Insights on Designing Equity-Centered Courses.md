@@ -1,9 +1,10 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ## Jennifer Imazeki, PhD; Associate Chief Diversity Officer for Faculty and Staff; Professor of Economics; San Diego State University [00:00:05]
 There's a number of things I think that can be done to make our courses and course materials more inclusive. Materials are actually, in my mind, a little more straightforward to think about. Look at your syllabus. Look at your reading list. Look at your textbook, right? Flipping through the pages, what images do you see in your textbook? Who are the authors on your reading list? Do they reflect not only a range of social identities that may be more relatable to your students, but do they reflect a range of perspectives within your discipline? And I think that for, depending on your discipline, it can be challenging to think about, you know, this is the way this course has always been taught. There's certain content that (I teach economics) an intro economics course, there's certain things that will always be taught. There are seminal papers that are on every reading list. So really interrogating why those things are there, and will they be relevant to all of my students, that it just takes some intentionality. 

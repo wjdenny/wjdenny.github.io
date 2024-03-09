@@ -2,8 +2,7 @@
 tags:
   - source
   - topic/queer/history
-alias:
-  - "Part One: Stonewall: The Criminal Queers Who Birthed a Movement"
+alias:  "Part One: Stonewall: The Criminal Queers Who Birthed a Movement"
   - "@killjoy2023"
 type: misc
 title: " Part One: Stonewall: The Criminal Queers Who Birthed a Movement"

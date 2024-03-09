@@ -1,10 +1,11 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/implicit-bias
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/implicit-bias"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ### Examining How Implicit Bias May Affect Teaching  
 **Santiba D. Campbell, PhD; Associate Professor, Psychology; Department of Social and Behavioral Sciences; Bennett College** 

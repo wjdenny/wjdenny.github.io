@@ -1,12 +1,11 @@
 ---
-tags: source
-type: article
-title: "Tufte in R"
-author: "Lukasz Piwek"
-publisher: "https://motioninsocial.com/"
-date: 2017-07-06
-url: "https://motioninsocial.com/tufte"
+tags: "source"
+alias: "Tufte in R"
+draft: false
 ---
+
+https://motioninsocial.com/tufte
+
 # Tufte in R
 [[Lukasz Piwek]] wrote this article for [[https://motioninsocial.com/]].
 > [!summary] Summary

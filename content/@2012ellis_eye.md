@@ -1,6 +1,7 @@
 ---
-tags: source
+tags: "source"
 alias: "An eye-tracking study of learned attention in second language acquisition"
+draft: false
 ---
 # An eye-tracking study of learned attention in second language acquisition
 [[Nick C. Ellis]], [[Kausar Hafeez]], [[Katherine I. Martin]], [[Lillian Chen]], [[Julie Boland]], and [[Nuria Sagarra]] wrote this article for [[Applied Psycholinguistics]].

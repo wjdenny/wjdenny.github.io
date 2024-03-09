@@ -1,9 +1,8 @@
 ---
 tags:
-  - source
-alias: 
-  - "Plagiarism: Focused Teaching and Enhanced Understanding"
-  - Denny & Kelley, 2012
+  - "source"
+alias: "Plagiarism: Focused Teaching and Enhanced Understanding"
+draft: false
 ---
 # Plagiarism: Focused Teaching and Enhanced Understanding
 [[William Denny]] and [[Molly Kelley]] wrote this article for [[MIDTESOL]].

@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "Units of Exchange"
+  - "source"
+alias: "Units of Exchange"
+draft: false
 ---
 # Units of Exchange
 

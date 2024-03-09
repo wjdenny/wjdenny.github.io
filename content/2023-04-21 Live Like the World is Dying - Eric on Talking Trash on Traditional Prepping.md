@@ -3,8 +3,7 @@ tags:
   - source
   - topic/mutual-aid
   - topic/prepping
-alias:
-  - "Eric on Talking Trash on Traditional Prepping"
+alias:  "Eric on Talking Trash on Traditional Prepping"
   - "@shonkwiler2023"
 type: misc
 title: "Eric on Talking Trash on Traditional Prepping"

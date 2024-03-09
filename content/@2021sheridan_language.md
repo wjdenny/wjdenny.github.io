@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias: 
-- "The Curb Cut Effect: How Universal Design Makes Things Better for Everyone"
+  - "source"
+alias: "The Curb Cut Effect: How Universal Design Makes Things Better for Everyone"
+draft: false
 ---
 # The Curb Cut Effect: How Universal Design Makes Things Better for Everyone
 [[Emma Sheridan]] wrote this article for [[UX Collective]].

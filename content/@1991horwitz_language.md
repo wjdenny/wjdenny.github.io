@@ -1,8 +1,8 @@
 ---
-tags: 
-  - source
-alias:
-  - "Language Anxiety: From Theory and Research to Classroom Implications"
+tags:
+  - "source"
+alias: "Language Anxiety: From Theory and Research to Classroom Implications"
+draft: false
 ---
 # Language Anxiety: From Theory and Research to Classroom Implications
 [[Elaine K. Horwitz]] and [[Dolly J. Young]] edited this collection for [[Prentice Hall]].

@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "What to Learn in College to Stay One Step Ahead of Computers"
+  - "source"
+alias: "What to Learn in College to Stay One Step Ahead of Computers"
+draft: false
 ---
 # What to Learn in College to Stay One Step Ahead of Computers
 [[Robert J. Shiller]] wrote this article for [[The New York Times]].

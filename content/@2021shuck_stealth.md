@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias: 
-  - "\"Stealth\" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language"
+  - "source"
+alias: "\"Stealth\" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language"
+draft: false
 ---
 # "Stealth" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language
 

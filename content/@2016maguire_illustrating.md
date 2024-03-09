@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-source:
-  - "Illustrating Equality VS Equity"
+  - "source"
+alias: "Illustrating Equality VS Equity"
+draft: false
 ---
 # Illustrating Equality VS Equity
 

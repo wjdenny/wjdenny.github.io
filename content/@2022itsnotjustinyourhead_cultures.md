@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-alias:
-  - "How Cultures Create Emotions"
+  - "source"
+alias: "How Cultures Create Emotions"
+draft: false
 ---
 # How Cultures Create Emotions (ft. [[Batja Mesquita]])
 

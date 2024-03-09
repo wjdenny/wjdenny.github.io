@@ -1,8 +1,8 @@
 ---
-tags: 
-  - source
-alias: 
-  - "The Grammar of Graphics"
+tags:
+  - "source"
+alias: "The Grammar of Graphics"
+draft: false
 ---
 # The Grammar of Graphics
 [[Leland Wilkinson]] wrote this book for [[Springer]].

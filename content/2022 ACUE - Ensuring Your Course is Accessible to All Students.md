@@ -1,9 +1,10 @@
 ---
 tags:
-  - source
-  - topic/higher-education
-  - topic/dei
-  - topic/higher-education/retention
+  - "source"
+  - "topic/higher-education"
+  - "topic/dei"
+  - "topic/higher-education/retention"
+draft: true
 ---
 ## Dale Ireland, MA; Lecturer; English Department; California State University, East Bay [00:00:05]
 Accessibility is something I value. It happens to be where I do a lot of my own academic scholarship and I'm also an academic with disabilities. Sometimes I have faculty friends and just even in general conversations with faculty where people are feeling very overwhelmed about creating access. And they might wonder, well, maybe I just need to wait to see who I have in the class to see whether or not I need to make things accessible. We don't know. So, even whether you know who is or is not, who might need access in your class, we live in bodies. Times are very dynamic. You don't know who you're going to have every time you come together every week. And equally important, what are we telling students when we do not create accessible work or what are we telling them in terms of who we value in society? 

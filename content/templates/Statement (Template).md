@@ -1,5 +1,6 @@
 ---
-tags: statement
+tags: 
+  - statement
 ---
 <% tp.file.title %>
 

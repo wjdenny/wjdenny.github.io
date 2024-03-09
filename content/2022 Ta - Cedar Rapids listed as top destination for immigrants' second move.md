@@ -1,6 +1,5 @@
 ---
-alias:
-  - "Cedar Rapids listed as top destination for immigrants' second move"
+alias:  "Cedar Rapids listed as top destination for immigrants' second move"
   - "ta2022"
 tags: 
   - source

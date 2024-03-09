@@ -1,6 +1,7 @@
 ---
-tags: source
+tags: "source"
 alias: "Beanplot; A Boxplot Alternative for Visual Comparison of Distributions"
+draft: false
 ---
 # Beanplot; A Boxplot Alternative for Visual Comparison of Distributions
 [[Peter Kampstra]] wrote this article for [[Journal of Statistical Software]].

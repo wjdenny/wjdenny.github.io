@@ -2,8 +2,7 @@
 tags:
   - source
   - topic/plurilingualism
-alias:
-  - "Positioning Bilingualism as an Asset in Rural High Schools"
+alias:  "Positioning Bilingualism as an Asset in Rural High Schools"
   - "@ruecker2021"
 ---
 # Positioning Bilingualism as an Asset in Rural High Schools

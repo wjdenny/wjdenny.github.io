@@ -1,7 +1,8 @@
 ---
-tags: 
-  - source
+tags:
+  - "source"
 alias: "Micro vs. Mezzo vs. Macro Social Work"
+draft: false
 ---
 # Micro vs. Mezzo vs. Macro Social Work
 This article was published by [[Social Work Guide]].
