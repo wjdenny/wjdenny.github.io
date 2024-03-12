@@ -32,6 +32,8 @@ The view that all emotions are accessible but not expressed in certain cultures 
 https://youtu.be/r2S9py0nrP0?t=43m03s
 > Let's say lust or excitement, does that mean that excitement is still in you and that you have to express it more when you're in Vegas? Or does it not mean that, but are there circumstances in which even you can have excitement because you know you you bet your whole your whole um uh life savings in there. And you think you're gonna win and you just had ... Are there circumstances ion which even you can become excited. I believe that, or can you adopt another framework. That's a very different thing than when you know you don't have those very same feelings as what we're used to them something is building up in you which makes it more likely that you have those feelings when you're in a different environment. I'm not contradicting that different environments can elicit very different emotions in people.
 
+^71fec6
+
 [[Emotion is contextual and non-essentialist]] It does not have specific properties that make it what it is.
 
 People who are not that sad but are socializing or seeking pleasant connections with other people do not suffer later on. 
