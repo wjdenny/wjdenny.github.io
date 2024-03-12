@@ -1,10 +1,10 @@
 ---
 tags:
-  - statement
-  - teaching/active-learning
-  - teaching
-  - pkm/note-taking
-  - teaching/active-learning
+  - type/statement
+  - topic/teaching/active-learning
+  - topic/teaching
+  - topic/pkm/note-taking
+  - topic/teaching/active-learning
 ---
 Teach students the signposting vocabulary we use to introduce important information. 
 

@@ -1,7 +1,7 @@
 ---
 tags: 
-  - statement
-  - data-analysis/visualization
+  - type/statement
+  - topic/data-analysis/visualization
 ---
 ggparty is an R package to help arrange multiple plots together. It was created by [[Martin Borkovec]].
 

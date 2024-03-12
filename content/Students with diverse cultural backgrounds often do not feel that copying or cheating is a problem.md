@@ -1,10 +1,10 @@
 ---
 tags: 
-  - statement
-  - teaching/higher-education
-  - dei
-  - teaching/higher-education/academic-integrity
-  - teaching/tesol
+  - type/statement
+  - topic/teaching/higher-education
+  - topic/dei
+  - topic/teaching/academic-integrity
+  - topic/teaching/tesol
 ---
 Students with diverse cultural backgrounds often do not feel that copying or cheating is a problem. They may even feel that it is expected behavior.
 

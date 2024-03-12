@@ -4,4 +4,4 @@ Using longer-term projects rather than individual activities in a class has a nu
 I feel like this can be applied to a reading/writing class, but I'm not so sure about a speaking/listening class.
 
 * * *
-#statement Topics: [[Instructional Design]]
+#type/statement Topics: [[Instructional Design]]

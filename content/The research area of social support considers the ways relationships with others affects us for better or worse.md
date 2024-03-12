@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 The research area of social support considers the ways relationships with others affects us for better or worse. [[@2017wilson_role#^e4abae]]
 

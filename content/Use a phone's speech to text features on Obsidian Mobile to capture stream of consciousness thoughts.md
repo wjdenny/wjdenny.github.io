@@ -1,5 +1,5 @@
 ---
-tags: [ "statement", "pkm/obsidian" ]
+tags: [ "type/statement", "topic/pkm/obsidian" ]
 ---
 
  Use a phone's speech to text features on Obsidian Mobile to capture stream of consciousness thoughts. Then edit the text on a desktop as you like.

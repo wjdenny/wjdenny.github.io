@@ -1,4 +1,4 @@
-#statement 
+#type/statement 
 
 [[Eleanor Konik]] uses Dataview to make a list of articles[^ytts] and sorts it by file size so she can see which articles are (generally) the most developed.
 

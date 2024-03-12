@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 The dominant narrative of multilingual students is deficit-based. [[Students who report having English as a second language can still be more fluent in English than any other language]]
 

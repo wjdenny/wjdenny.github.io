@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 Stereotype threat is an internalized bias where the person believes a stereotype about their identity to be true.
 

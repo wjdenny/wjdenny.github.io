@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 The specific goals of cultural integration are individual [[@2021sailsman_esl#^75c41f]].
 

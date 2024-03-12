@@ -1,6 +1,6 @@
 ---
 tags: 
-  - statement
+  - type/statement
 ---
 <% tp.file.title %>
 

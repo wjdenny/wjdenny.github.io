@@ -1,3 +1,3 @@
-#statement 
+#type/statement 
 
 🏷 [[Visual Design]]

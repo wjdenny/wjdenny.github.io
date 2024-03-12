@@ -1,9 +1,9 @@
 ---
 tags: 
-  - statement
-  - teaching/tesol
-  - teaching/plurilingualism
-  - dei
+  - type/statement
+  - topic/teaching/tesol
+  - topic/plurilingualism
+  - topic/dei
 ---
 Translingualism is considered more broad than plurilingualism and includes concepts of agency and critical ideological analysis.
 

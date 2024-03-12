@@ -1,10 +1,10 @@
 ---
 tags: 
-  - statement
-  - teaching/higher-education
-  - dei
-  - teaching/higher-education/academic-integrity
-  - teaching/tesol
+  - type/statement
+  - topic/teaching/higher-education
+  - topic/dei
+  - topic/teaching/academic-integrity
+  - topic/teaching/tesol
 ---
 There can be a strong cultural preference for students engaging in counter-productive collaborative work.
 
