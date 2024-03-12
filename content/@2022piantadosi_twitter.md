@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - ai/ethics
+  - type/source
+  - topic/ai/ethics
 alias:  "Steven T. Piantadosi Twitter Thread"
 type: misc
 title: "Steven T. Piantadosi Twitter Thread"

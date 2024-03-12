@@ -1,7 +1,7 @@
 ---
 tags: 
-  - statement
-  - pkm
+  - type/statement
+  - topic/pkm
 ---
 
 A project or agenda doesn't have to be named and outlined first; it can emerge.

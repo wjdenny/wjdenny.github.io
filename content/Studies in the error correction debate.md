@@ -1,6 +1,6 @@
 ---
 tags:
-   - teaching/tesol/error-correction
+   - topic/teaching/tesol/error-correction
 ---
 ## Primary research
 - [[1971 Holley & King]] (oral)

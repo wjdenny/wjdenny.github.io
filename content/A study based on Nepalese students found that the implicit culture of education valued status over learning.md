@@ -1,10 +1,10 @@
 ---
 tags: 
-  - statement
-  - teaching/higher-education
-  - dei
-  - teaching/higher-education/academic-integrity
-  - teaching/tesol
+  - type/statement
+  - topic/teaching/higher-education
+  - topic/dei
+  - topic/teaching/higher-education/academic-integrity
+  - topic/teaching/tesol
 ---
 A study based on Nepalese students found that the implicit culture of education valued status over learning.
 

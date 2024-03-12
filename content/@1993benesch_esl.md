@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "ESL, Ideology, and the Politics of Pragmatism"
 draft: false
 ---
@@ -57,7 +57,6 @@ I've heard the counter argument that it should be the college's job to help a st
 
 > "All assume that it is unrealistic to expect the university to adapt itself to the cultures, worldviews, and languages of nonnative-speaking students and that it is realistic to accommodate students to the content and pedagogy of mainstream academic classes" 
 
-- [x] #task Check and make sure this quote is accurate ⏳ 2022-11-27 📅 2022-11-27 ✅ 2022-12-07
 
 > "The didactic tradition which authorizes faculty to lecture and assign text books and requires students to take notes, ask an occasional question, and take exams is not challenged in the EAP literature" 
 

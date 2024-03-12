@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture [[@2021sailsman_esl#^81385a]].
 

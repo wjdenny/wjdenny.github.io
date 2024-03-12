@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "The Curb Cut Effect: How Universal Design Makes Things Better for Everyone"
 draft: false
 ---

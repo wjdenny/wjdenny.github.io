@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Plagiarism: Focused Teaching and Enhanced Understanding"
 draft: false
 ---

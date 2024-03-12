@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-  - pkm
-  - research
+  - type/source
+  - topic/pkm
+  - topic/research
 alias:  "How I Set Up Obsidian for Academic Work"
 ---
 # How I Set Up Obsidian for Academic Work
@@ -22,8 +22,6 @@ alias:  "How I Set Up Obsidian for Academic Work"
 
 ## Notes
 He's also a teacher, and has some ideas for using Obsidian for lesson planning.
-
-- [x] #task see how Tobias suggests using Obsidian for teaching notes ⏳ 2023-01-27 ✅ 2023-01-27
 
 He places activities, exercises, projects, assignments, etc. (smaller units of a class session plan) in their own folder outside of the specific course folder.
 ## Citation

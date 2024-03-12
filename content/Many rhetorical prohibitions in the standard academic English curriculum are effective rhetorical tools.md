@@ -1,4 +1,4 @@
-#statement 
+#type/statement 
 
 Many rhetorical prohibitions in the standard academic English curriculum are effective rhetorical tools. But these are often judged as less-than because they do not fit a our model of what "good" (read: white) language is. [[The dominant narrative of multilingual students is deficit-based]] However, [[Languages other than English should be viewed as assets rather than deficits]] [[Students who are permitted to use their other languages are able to write longer and higher quality papers in English]] This is not to say that standard academic rhetoric styles should be completely ignored. [[Engaging in reflection on multiple iterations of their work helps students understand the nuances of rhetorical choices and how they translate into writing]]
 

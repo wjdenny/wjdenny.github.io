@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Evidence of the affect that anxiety has on language learning is mixed [[@1991scovel_effect]]. There is no significant correlation between anxiety and language proficiency. There is weak evidence that a small amount of anxiety is beneficial for language learning, but high levels of anxiety are detrimental. [[Anxiety is a major obstacle to learning a foreign language]]
 

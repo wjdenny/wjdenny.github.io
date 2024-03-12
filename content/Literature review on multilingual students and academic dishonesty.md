@@ -1,10 +1,10 @@
 ---
 tags:
-  - index
-  - teaching/higher-education
-  - dei
-  - teaching/higher-education/academic-integrity/plagiarism
-  - teaching/tesol
+  - type/index
+  - topic/teaching/higher-education
+  - topic/dei
+  - topic/teaching/higher-education/academic-integrity/plagiarism
+  - topic/teaching/tesol
   - todo
 ---
 

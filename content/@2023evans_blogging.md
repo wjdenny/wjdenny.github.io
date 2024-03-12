@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Some blogging myths"
 draft: false
 ---

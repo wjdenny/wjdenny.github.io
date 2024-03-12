@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "MOCs & Idea Emergence: A discussion w/ Nick Milo and his LYT framework for Obsidian"
 draft: false
 ---

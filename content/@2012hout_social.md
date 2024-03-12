@@ -1,7 +1,7 @@
 ---
 alias: "Social and Economic Returns to College Education in the United States"
 tags:
-  - "source"
+  - "type/source"
 draft: false
 ---
 # Social and Economic Returns to College Education in the United States

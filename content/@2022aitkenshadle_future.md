@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "The Future Promise initiative: An Action Research Study of a Community College's Integrated Program Serving Immigrant Students"
 draft: false
 ---
@@ -58,7 +58,6 @@ This would be a perfect fit for the [[Innovation Grant]]. I like how the author 
 
 > My goal for this dissertation in practice is to create an embedded evaluation process ([[2021 Giancola|Giancola, 2021]]) to assess the initiative and improve it going forward. [page 16]
 
-- [ ] #task What exactly is an embedded evaluation process? Check out [[2021 Giancola]] to find out.
 
 > Community colleges in the [[United States]] are an attractive path to educational and career success for immigrants ([[1994 Tichenor|Tichenor, 1994]]; [[@2011teranishi_immigrants|Teranishi et al., 2011]]), and the role played by community colleges as pathways to success will only grow in importance as the number of immigrants in the [[United States]] continues to increase, both in terms of raw numbers and as a percent of the total population ([[2020 Budiman|Budiman, 2020]]). Recognizing the important role they play in meeting the needs of immigrant students, community colleges have become more conscientious about attempting to meet the needs of this growing population, but much work remains to be done ([[@2011teranishi_immigrants|Teranishi et al., 2011]]). One reason this work remains ongoing is because immigrant students are not a homogenous group; rather, they are incredibly diverse, representing a variety of national and ethnic backgrounds, levels of English-language proficiency, cultural values, and educational and career goals ([[2002 Szelényi & Chang|Szelényi & Chang, 2002]]). [[Resources/Articles/2022 Aitken-Shadle.pdf#page=NaN|page 16]]
 
@@ -132,8 +131,6 @@ I wonder if there are ways to do this with existing [[Institutional Research]] d
 
 >  take steps to learn about and communicate to students about national and state policies affecting immigrant students; recognize how these policies impact student services and re-design student services to better meet the needs of immigrant students; and develop partnerships with local non-profits to provide needed support to immigrant students ([[2019 Teranishi, et al.|Teranishi, et al., 2019]]; [[2019 Witenstein et al.|Witenstein et al., 2019]]). [page 27]
 
-- [ ] #task what national and state policies affect my students?
-
 > [[2019 Park|Park (2019)]] found that international students progressed through community college ESOL programs more rapidly than U.S.-educated language minority students, suggesting that students who have received formal reading, writing, and grammar instruction in their own language fare better in ESOL classes than students whose language instruction was interrupted, or that ESOL course curricula are geared toward the former. [page 28]
 
 [[Students who have had formal education in their first language move through ESL programs faster than other immigrant students]]
@@ -188,7 +185,7 @@ I think this was part of the reasoning behind the creation of [[Global Learning]
 
 [[One can be proficient in a language for some situations but not others]]
 
-- [ ] #task Do [[2008 Bunch & Panayotova]] propose better ways of placing students?
+Do [[2008 Bunch & Panayotova]] propose better ways of placing students? #topic/teaching/tesol/placement-testing
 
 > [[2014 Darbes|Darbes (2014)]] focuses on the experience of immigrant students as they are assessed and placed in different “tracks” (ESL, developmental or “remedial” education, and college English), exploring how students both take on and resist the identities that are given to them through the placement process. **For some immigrant students who had successfully completed ESL programs in high school, being placed in ESL again when they begin college can be demoralizing and marginalizing** ([[2011 Salas et al.|Salas et al., 2011]]). [page 34--35]
 

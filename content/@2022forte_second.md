@@ -1,8 +1,8 @@
 ---
 alias: "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
 tags:
-  - "source"
-  - "pkm"
+  - "type/source"
+  - "topic/pkm"
 draft: false
 ---
 # Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
@@ -99,8 +99,6 @@ Was it Forte or someone else who wrote about the concept of atomic notes?
 
 > The length and format don't matter-- if a piece of content has been interpreted through your lens, curated according to your taste, translated into your own words, or drawn from your life experience, and stored in a secure place, then it qualifies as a note.
 
-- [x] #task I need to cull a few of my projects. ESI-027 can stay the same, but I need to revamp 024. ⏳ 2022-11-28 📅 2022-11-28 ✅ 2022-12-19
-
 > Your Second Brain becomes like a mirror, teaching you about yourself and reflecting back to you the ideas worth keeping and acting on.
 
 > You can't fail, because failure is just more information, to be captured and used as fuel for your journey.
@@ -118,9 +116,6 @@ Was it Forte or someone else who wrote about the concept of atomic notes?
 > Have you ever lost your smartphone or been unable to access the Internet, and felt like a critical part of yourself was missing? That's a sign that an external tool has become an extension of your mind. In a 2004 study, Angelo Maravita and Atsushi Iriki discovered that when monkeys and humans consistently use a tool to extend their reach, such as using a rake to reach an object, certain neural networks in the brain change their "map" of the body to include the new tool. This fascinating finding reinforces the idea that external tools can and often become a natural extension of our minds.
 
 > Recent advancements and discoveries in the field of "extended cognition" have shed new light on how practical and powerful it can be to "think outside the brain." This book isn't focused on the science, but for an excellent introduction to extended cognition I recommend *The Extended Mind* by Annie Murphy Paul.
-
-- [ ] #task read *The Extended Mind* by Annie Murphy Paul
-
 ### Chapter 3: How a Second Brain Works
 >> It is in the power of remembering that the self's ultimate freedom consists. I am free because I remember.
 >-- Abhinavagupta, tenth-century Kashmiri philosopher and mystic
@@ -130,8 +125,6 @@ Was it Forte or someone else who wrote about the concept of atomic notes?
 [[Models help us understand things]]
 
 > Deborah Chambers and Daniel Reisberg found in their research on the limits of mental visualization, "The skills we have developed for dealing with the external world go beyond those we have for dealing with the internal world." 
-
-- [ ] #task Do Deborah Chambers and Daniel Reisberg have anything to say about memory palaces?
 
 > In its most practical form, creativity is about connecting ideas together, especially ideas that don't seem to be connected.
 
@@ -166,8 +159,6 @@ Knowledge work that argues for or against ideas is not likely to be automated an
 > <buildingasecondbrain.com/resources>
 
 > don't get caught in the trap of perfectionism: insisting that you have to have the "perfect" app with a precise set of features before you take a single note. It's not about having the perfect tools-- it's about having a *reliable* set of tools you can depend on, knowing you can always change them later.
-
-Can ***REMOVED*** export notes from Notion?
 
 > As people set out on their Second Brain journey, there are three stages of progress I often observe-- and even encourage. Those stages are *remembering*, *connecting*, and *creating*.
 
@@ -241,8 +232,6 @@ I might also add, I often feel like I wouldn't have anything to contribute to th
 
 > In a wonderful coincidence, recent research by neurophysiologists. May-Britt Moser and Edvard Moser at the Norwegian University of Science and Technology indicates that the human brain remembers information using a "grid code"-- a part of the brain involved in spatial reasoning. They speculate that "the grid code could therefore be some sort of metric or coordinate system" that can "uniquely and efficiently represent a lot of information."
 
-- [ ] #task find sources for these ideas
-
 > The word "productivity" has the same origin as the Latin verb *producere*, which means "to produce." Which means that at the end of the day, if you can't point to some kind of output or result you've produced, it's questionable whether you've been productive at all.
 
 > The consumerist attitude toward information--that more is better, that we never have enough and that what we already have isn't good enough-- is at the heart of many people's dissatisfaction with how they spend their time online. Instead of trying to find "the best" content, I recommend instead switching your focus to making things, which is far more satisfying.
@@ -268,8 +257,6 @@ Can I use GitHub @ KCC to back up my vault?
 
 > The meaning of a thought, insight, or memory often isn't immediately clear. We need to write them down, revisit them, and view them from a different perspective in order to digest what they mean to us. It is exceedingly difficult to do that within the confines of our heads. We need an external medium in which to see our ideas from another vantage point, and writing things down is the most effective and convenient one ever invented.
 
-- [ ] #task Make lists of medications I've taken and put medical notes in Antheum.
-
 > - Is this sensitive information you'd like to keep secure? The content you save in your notes is easily accessible from any device, which is great for accessibility but not for security. Information like tax records, government documents, passwords, and health records shouldn't be saved in your notes.
 
 > it can be hard to know exactly what is worth preserving. I use an insightful exercise to help people make this decisions easier. I call it "Twelve Favorite Problems," inspired by Nobel Prize-winning physicist Richard Feynman.
@@ -279,9 +266,6 @@ Can I use GitHub @ KCC to back up my vault?
 > Feyman's approach was to maintain a list of a dozen open questions ... This cross-disciplinary approach allowed him to make connections across seemingly unrelated subjects, while continuing to follow his sense of curiosity.
 
 [[Cross-disciplinary approaches are linked with higher productivity and creativity]]
-
-- [ ] #task What are my [[Twelve Favorite Problems]]?
-- [ ] #task read Genius: The Life and Science of Richard Feynman by James Gleick
 
 > Ask yourself, "What are the questions I've always been interested in?"
 
@@ -308,7 +292,7 @@ My 12 questions should be notes and linked from sources.
 
 > There's scientific evidence that our intuition knows what it's doing. From the book *Designing for Behavior Change:*
 
-- [ ] #task read Designing for Behavior Change
+read Designing for Behavior Change #todo/reading 
 
 > "Our intuitive mind learns, and responds, even without our conscious awareness." 
 > 
@@ -328,9 +312,6 @@ digraph G {
 }
 ```
 
-- [ ] #task I want a way to extract notes from Pocket
-- [ ] #task I want a way to embed timestamped podcasts into obsidian.
-
 > No matter how many different kinds of software you use, don't leave all the knowledge they contain scattered across dozens of places you'll never think to look. Make sure your best findings get routed back to your notes app where you can put them all together and act on them.
 
 [[Avoid keeping notes on multiple platforms]]
@@ -347,8 +328,6 @@ digraph G {
 
 > Perhaps the most immediate benefit of capturing content outside our heads is that we escape what I call the "reactivity loop"--the hamster wheel of urgency, outrage, and sensationalism that characterizes so much of the  Internet.
 
-- [ ] #task How to stop spending more and being happy with what I have?
-
 > What Would This Look Like If It Was Easy?
 
 > MIT economist César Hidalgo in his book *Why Information Grows* describes how physical products, which he calls "crystals of imagination," allow us to turn what we know into concrete objects that other people can access: "Crystallizing our thoughts into tangible and digital objects is what allows us to share our thoughts with others." And elsewhere: "Our ability to crystallize imagination... gives us access to the practical uses of the knowledge and knowhow residing in the nervous systems of other people."
@@ -357,8 +336,7 @@ digraph G {
 
 > This is called "detachment gain," as explained in *The Detachment Gain: The Advantage of Thinking Out Loud* by Daniel Reisberg, and refers to the "functional advantage to putting thoughts into externalized forms" such as speaking or writing, leading to the "possibility of new discoveries that might not have been obtained in any other fashion." If you've ever had to write out a word to remember how it's spelled, you've experienced this.
 
-- [ ] #task read *The Detachment Gain: The Advantage of Thinking Out Loud* by Daniel Reisberg
-- [ ] #task is there a Sonarr for audiobooks? -- yes: https://github.com/Readarr/Readarr https://www.reddit.com/r/selfhosted/comments/u9nij6/almost_the_perfect_audiobook_solution/ https://booksonic.org/  https://github.com/advplyr/audiobookshelf 
+read *The Detachment Gain: The Advantage of Thinking Out Loud* by Daniel Reisberg #todo/reading 
 
 ### Chapter 5
 > > Be regular and orderly in your life so that you may be violent and original in your work.
@@ -404,8 +382,6 @@ Should my courses be a project or area? I'm starting to think area.
 
 > People or teams you are responsible for or accountable to: Direct reports; Manager; Board of Directors; Suppliers
 
-- [ ] #task move ELA from project to area
-
 > Standards of performance you are responsible for: Professional development; Sales and marketing; Relationships and networking; Recruiting and hiring
 
 > move courses to area, but keep sections in projects
@@ -450,8 +426,6 @@ I think I use a lot of projects that are actually areas.
 > The goal of organizing our knowledge is to move our goals forward, not get a PhD in notetaking. Knowledge is best applied through execution, which means whatever doesn't help you make progress on your projects is probably detracting from them.
 
 By this standard.. the COURSE is an area, but the SECTION is a project. This makes sense.
-
-- [ ] #task Start again on remarkable p. 97
 
 On the method of progressive note-taking, it also serves as a form of spaced repetition re: [[Sims (2022)]]
 

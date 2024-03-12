@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 Building community within the classroom is essential to avoiding implicit bias and developing an asset-based mindset.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "The Case for \"The Case Against Grammar Correction in L2 Writing Classes\"\\: A Response to Ferris"
 draft: false
 ---
@@ -21,8 +21,6 @@ draft: false
 
 > I have searched through three of these sources-- [[1995 Ferris|Ferris (1995)]], [[1998 Ellis|Ellis (1998)]], and [[1993 Bates, Lane, & Lange|Bates et al. (1993)]]--and found nothing that constitutes meaningful evidence. [[Resources/Articles/1999 Truscott.pdf#page=3|page 113]]
 
-- [ ] #task Look into [[1998 Ferris & Hedgcock]] and [[1997 Reid]] to see if they have anything to add to the three that he addressed
-
 > [[1998 Ellis|Ellis (1998)]] cited only one study that bears any resemblance to Ferris's description-- [[1998 Doughty & Varela|Doughty and Varela (1998)]]. This work mixed oral and written correction, with a strong emphasis on the former. So it could not, even in principle, support claims about the effectiveness of correction in writing classes. Moreover, the authors acknowledged that their results were weak for the written side. It was only for students' speaking ability that they made any strong claims of success. For a response to these claims, see [[1999b Truscott|Truscott (1999)]]. [[Resources/Articles/1999 Truscott.pdf#page=3|page 113]]
 
 > As [[@1999ferris_response|Ferris (1999)]] notes, the studies I cited as evidence against correction differed in the types of subjects they used, as well as in their instructional methods and their research designs. Because of these differences, she argues, one cannot make any generalizations from this work. 
@@ -38,11 +36,7 @@ But it wasn't just the variety of conditions, but also the variety of subjects (
 
 > In my discussion of [[1982 Lalande|Lalande (1982)]], I was actually quite conservative. As anyone who reads this study can verify, the popular claim that it found positive effects is simply false. Each of the two groups in the experiment received extensive grammar correction and rewrote their compositions on the basis of that feedback. Over the course of the study, one of these groups showed no significant changes (not even remotely significant) in accuracy and the other had significant declines in accuracy. [[Resources/Articles/1999 Truscott.pdf#page=5|page 115]]
 
-- [ ] #task read [[1982 Lalande|Lalande (1982)]] to see for myself what it concludes
-
 > [[1982 Lalande|Lalande's (1982)]] claim that one group benefited from correction rested on his assertion that, without it, the scores of both groups would have gone down because the grammatical complexity of the students' writing appeared to increase. But there is no reason to accept this assertion, and there is some basis to believe the opposite, that being, without correction, the scores would have gone up as a result of the additional language experience students obtained during the course of the study. Such effects are known to occur ([[1992 Sheppard|Sheppard, 1992]]). The sort of hypothetical considerations Lalande relied on point more toward harmful effects than toward benefits. [[Resources/Articles/1999 Truscott.pdf#page=5|page 115]]
-
-- [ ] #task check out [[1992 Sheppard|Sheppard (1992)]] and add to the list of evidence for and against
 
 > Setting aside the hypothetical claims and looking simply at the known facts-- that neither group improved on [[1982 Lalande|Lalande's (1982)]] measures and that one experienced a decline-- it would be reasonable, again, to treat these results as evidence that correction is either ineffective or harmful. So my conclusion--that they are not evidence *for* correction-- was quite cautious and conservative. [[Resources/Articles/1999 Truscott.pdf#page=5|page 115--116]]
 
@@ -65,8 +59,6 @@ How do we determine where the burden of proof lies?
 
 > I support the sort of research program [[Dana Ferris|Ferris]] outlines in her conclusion. I may even participate in it. But the logic of such a program needs to be clarified. The goal is not to determine whether and adequate case can be made for abandoning grammar correction-- that has already been done. Its purpose should be to search for those special, hypothetical circumstances under which correction might not be a bad idea. [[Resources/Articles/1999 Truscott.pdf#page=11|page 121]]
 
-- [ ] #task outline a research agenda to collect the data necessary to say more on this topic
-- [ ] #task summarize Ferris's research program
 
 > The decisions will ultimately be made not  by me or by [[Dana Ferris|Ferris]] or by anyone else who writes about this subject, but by individual teachers. [[Resources/Articles/1999 Truscott.pdf#page=11|page 121]]
 

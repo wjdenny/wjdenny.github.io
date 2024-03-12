@@ -1,9 +1,9 @@
 ---
 tags:
-  - source
-  - ai
-  - teaching
-  - teaching/higher-education/academic-integrity
+  - type/source
+  - topic/ai
+  - topic/teaching
+  - topic/teaching/higher-education/academic-integrity
 alias:  "Embrace the Bot: Designing Writing Assignments in the Face of AI"
 type: article
 title: "Embrace the Bot: Designing Writing Assignments in the Face of AI"

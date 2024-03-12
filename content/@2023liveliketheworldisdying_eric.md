@@ -1,8 +1,8 @@
 ---
 tags: 
-  - source
-  - mutual-aid
-  - prepping
+  - type/source
+  - topic/mutual-aid
+  - topic/prepping
 alias:  "Eric on Talking Trash on Traditional Prepping"
 type: misc
 title: "Eric on Talking Trash on Traditional Prepping"

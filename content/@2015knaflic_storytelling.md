@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Storytelling with Data"
 draft: false
 ---

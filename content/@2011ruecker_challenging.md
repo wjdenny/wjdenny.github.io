@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Challenging the Native and Nonnative English Speaker Hierarchy in ELT: New Directions from Race Theory"
 draft: false
 ---
@@ -11,5 +11,5 @@ draft: false
 > %% Write a one-sentence summary of the source. %%
 ## Notes
 %% Pull quotes from the source and put them here using `>` (blockquotes). %%
-#needs/quotes
-#needs/notes
+#todo/quotes
+#todo/notes

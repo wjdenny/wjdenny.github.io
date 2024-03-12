@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "\"Stealth\" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language"
 draft: false
 ---
@@ -33,8 +33,6 @@ This quote about institutional data got me thinking about [[An Argument For Bett
 [[Students who report having English as a second language can still be more fluent in English than any other language]]
 
 > Boise is the larger of the two Idaho cities with long-running refugee resettlement programs. Although languages other than English are spoken in only 8.5% of households in the country where the university of located, in the two most populous countries nearby an average of 16.3% of households speak a language other than English at home (United States Census Bureau, 2019). Twenty-six percent of households in the larger of those counties are Hispanic, according to 2019 U.S. census data. Boise State's local multilingual population thus includes Spanish--English bilingual or Spanish heritage-language students, as well as multilingual students who use English and at least one other language in the home, such as Somali, Dari, Bosnian, and Arabic. (page 144)
-
-- [ ] #task Does Iowa City or Cedar Rapids have any refugee resettlement programs?
 
 > The specific paths that have brought multilingual students to Boise have had a varied impact on their learning of English and their academic writing in any language ([[2004 Bigelow & Tarone|Bigelow & Tarone, 2004]]; [[2009 Matsuda & Matsuda|Matsuda & Matsuda, 2009]]).
 
@@ -94,8 +92,6 @@ Another one I thought of was "[[What do Americans know about your country]]?" as
 ^885eb0
 
 [[Putting value on students' linguistic expertise in their own language can be useful in teaching them how to do similar things in English]]
-
-- [x] #task continue typing up notes ⏳ 2022-11-10 📅 2022-11-10 ✅ 2022-11-10
 ## Citation
 
 ```bibtex

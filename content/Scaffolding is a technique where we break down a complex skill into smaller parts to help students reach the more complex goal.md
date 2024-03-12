@@ -1,3 +1,3 @@
-#statement 
+#type/statement 
 
 🏷 [[Higher Education]] [[Pedagogy]]

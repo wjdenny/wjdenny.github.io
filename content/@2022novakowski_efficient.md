@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Efficient data visualization with faded raincloud plots"
 draft: false
 ---

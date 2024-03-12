@@ -1,8 +1,8 @@
 ---
 tags: 
-  - statement
-  - teaching/plurilingualism
-  - teaching/writing
+  - type/statement
+  - topic/teaching/plurilingualism
+  - topic/teaching/writing
 ---
 Teachers can connect language and identity work in the classroom to future benefits through job applications, scholarships, and other opportunities.
 

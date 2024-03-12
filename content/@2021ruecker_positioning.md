@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - teaching/plurilingualism
+  - type/source
+  - topic/teaching/plurilingualism
 alias:  "Positioning Bilingualism as an Asset in Rural High Schools"
 ---
 # Positioning Bilingualism as an Asset in Rural High Schools
@@ -70,8 +70,6 @@ alias:  "Positioning Bilingualism as an Asset in Rural High Schools"
 > Build community linguistic resources ... rural schools may only offer entry-level Spanish classes designed for monolingual English students. However, as noted by the Mineral HS administration, more advanced Spanish classes give bilingual learners an opportunity to excel and benefit from their L1 knowledge in school. ... Language instruction should not stop with students: building up linguistic resources among teachers, administrators, and parents is also beneficial. (page 106)
 
 > [[Center for Advanced Research on Language Acquisition]] (CARLA) at the [[University of Minnesota]] (page 107)
-
-- [ ] #task check out CARLA
 
 > [[Immigrant Learning Center]] is another organization that offers webinars for educators (<https://www.ilctr.org/>) (page 107)
 

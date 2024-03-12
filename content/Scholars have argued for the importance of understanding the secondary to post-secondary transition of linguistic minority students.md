@@ -1,9 +1,9 @@
 ---
 tags:
-  - statement
-  - dei
-  - teaching/tesol
-  - teaching/higher-education
+  - type/statement
+  - topic/dei
+  - topic/teaching/tesol
+  - topic/teaching/higher-education
 ---
 Scholars have argued for the importance of understanding the secondary to post-secondary transition of linguistic minority students.
 

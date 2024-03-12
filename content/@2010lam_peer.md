@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "A Peer Review Training Workshop: Coaching Students to Give and Evaluate Peer Feedback"
 draft: false
 ---

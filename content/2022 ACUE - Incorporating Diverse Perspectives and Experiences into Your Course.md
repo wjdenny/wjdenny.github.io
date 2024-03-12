@@ -1,9 +1,9 @@
 ---
 tags:
-  - "source"
-  - "teaching/higher-education"
-  - "dei"
-  - "teaching/higher-education/retention"
+  - "type/source"
+  - "topic/teaching/higher-education"
+  - "topic/dei"
+  - "topic/teaching/higher-education/retention"
 draft: true
 ---
 ## Kristina Ruiz-Mesa, PhD; Associate Professor & Basic Course Director; Department of Communication Studies; California State University, Los Angeles [00:00:05]

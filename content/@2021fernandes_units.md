@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Units of Exchange"
 draft: false
 ---
@@ -63,8 +63,6 @@ This would be great, but how can the teacher evaluate whether or how the student
 [[Teachers can connect language and identity work in the classroom to future benefits through job applications, scholarships, and other opportunities]]
 
 > Written assignment: Create a professional resume and cover letter for a job. (page 80)
-
-- [x] #task ask Dawn or Mallory about any scholarships that my L2 students might be eligible for, either now or soon. ⏳ 2022-10-27 📅 2022-10-27 ✅ 2022-11-03
 
 > Under "Skills," she encouraged them to point to reading, oral, and written proficiencies in other languages explicitly. (page 80)
 

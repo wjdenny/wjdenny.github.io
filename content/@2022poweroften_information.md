@@ -1,6 +1,6 @@
 ---
 tags:
-  - source
+  - type/source
 aliases:
   - Information Gardens
 ---

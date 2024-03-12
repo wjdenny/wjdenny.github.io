@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Teaching Multilingualism, Teaching Identification: Embracing Resident Multilingualism as a Curricular Paradigm"
 draft: false
 ---

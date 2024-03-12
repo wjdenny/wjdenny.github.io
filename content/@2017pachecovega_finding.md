@@ -1,10 +1,10 @@
 ---
 tags:
-  - "source"
-  - "pkm"
-  - "pkm/note-taking"
-  - "reading"
-  - "research"
+  - "type/source"
+  - "topic/pkm"
+  - "topic/pkm/note-taking"
+  - "topic/reading"
+  - "topic/research"
 alias: "Finding the most relevant information in a paper when reading: A three-step method (the AIC technique)"
 draft: false
 ---

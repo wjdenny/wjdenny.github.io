@@ -1,4 +1,4 @@
-#statement 
+#type/statement 
 
 [[It's important to consider students' attitudes towards independent styles of learning before implementing them in the classroom]]
 

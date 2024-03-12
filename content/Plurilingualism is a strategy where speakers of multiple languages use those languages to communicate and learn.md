@@ -1,7 +1,7 @@
 ---
 tags: 
-  - statement 
-  - teaching/plurilingualism
+  - type/statement 
+  - topic/teaching/plurilingualism
 ---
 
 Plurilingualism is a strategy where speakers of multiple languages use those languages to communicate and learn. [[Students come to the classroom with a range of communicative and technological abilities and educational experiences]] [[Plurilinguals have tremendous flexibility in their language usage which allows them to mediate effectively across diverse audiences]] 

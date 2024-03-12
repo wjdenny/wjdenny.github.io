@@ -1,6 +1,6 @@
 ---
 tags: 
-  - statement
+  - type/statement
 ---
 Copyright theft is a universal approach to technical inequity between nations.
 

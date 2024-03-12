@@ -1,9 +1,9 @@
 ---
 tags:
-  - "source"
-  - "teaching/higher-education"
-  - "dei"
-  - "teaching/higher-education/retention"
+  - "type/source"
+  - "topic/teaching/higher-education"
+  - "topic/dei"
+  - "topic/teaching/higher-education/retention"
 draft: true
 ---
 ## Dale Ireland, MA; Lecturer; English Department; California State University, East Bay [00:00:05]

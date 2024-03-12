@@ -1,6 +1,6 @@
 ---
 tags:
-  - source
+  - type/source
 aliases:
   - "Resident Multilingual Writers Across a Secondary Curriculum: Toward a Postmethod Approach"
 ---
@@ -86,7 +86,7 @@ That may be true, but how could that work in a course that has students with div
 
 [[The idea of writing across the curriculum spread the responsibility of writing instruction across all departments, instead of just the English department]]
 
-> Moreover, the ELL teacher consistently invited resident multilingual students into conversations about their writing, an act that was significantly less prevalent in the general education classes where access to academic discourse intricacies, as Delpit (1995) notes, is often limited for minority students because they are not familiar with the "codes or rules for participating in power" (p. 24). [page 55] #culture/habitus 
+> Moreover, the ELL teacher consistently invited resident multilingual students into conversations about their writing, an act that was significantly less prevalent in the general education classes where access to academic discourse intricacies, as Delpit (1995) notes, is often limited for minority students because they are not familiar with the "codes or rules for participating in power" (p. 24). [page 55] #topic/culture/habitus 
 
 [[Writing, like all arts, must first be learned from imitating appropriate models]]
 [[The habitus discussed by Inoue is a style of communication that is adopted by a person to mark them as belonging to a particular group]]

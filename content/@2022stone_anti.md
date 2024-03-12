@@ -1,9 +1,9 @@
 ---
 tags:
-  - source
-  - ai
-  - teaching/education/writing
-  - teaching/higher-education/academic-integrity
+  - type/source
+  - topic/ai
+  - topic/teaching/education/writing
+  - topic/teaching/higher-education/academic-integrity
 alias:  "Anti-Cheating Education Software Braces for AI Chatbots"
 type: article
 title: "Anti-Cheating Education Software Braces for AI Chatbots"

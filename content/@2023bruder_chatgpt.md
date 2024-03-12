@@ -1,9 +1,9 @@
 ---
 tags:
-  - source
-  - ai
-  - teaching/education/writing
-  - teaching/higher-education/academic-integrity
+  - type/source
+  - topic/ai
+  - topic/teaching/education/writing
+  - topic/teaching/higher-education/academic-integrity
 alias:  "What ChatGPT Means for How We Teach Writing"
 type: article
 title: "What ChatGPT Means for How We Teach Writing"

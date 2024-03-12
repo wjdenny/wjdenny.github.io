@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "The Role of Social Networks and Social SUpport in the Writing and College Planning of Multilingual Urban Adolescents"
 draft: false
 ---

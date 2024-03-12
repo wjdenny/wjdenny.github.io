@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Fewer Non-English Voting Materials"
 draft: false
 ---

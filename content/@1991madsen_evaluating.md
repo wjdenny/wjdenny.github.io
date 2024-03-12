@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Evaluating Student Attitudes Toward Second-Language Tests"
 draft: false
 ---

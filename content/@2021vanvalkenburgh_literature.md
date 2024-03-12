@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Literature Review of Contract Grading for Multilingual and ESOL Writing Classes - Van Valkenburgh, 2021"
 draft: false
 ---
@@ -282,8 +282,6 @@ Most of my students are not even getting a 4-year degree-- so SAE/AE is not thei
 > numerous ways and reasons to consider implementing contract grading, whether to make grading easier, to focus on the writing process, or to establish a grading method that promotes fairness and equity with respect to diverse social, cultural, and language background ([[2006 Elbow|Elbow, 2006]]; [[2009 Danielewicz & Elbow|Danielewicz & Elbow, 2009]]; [[2009 Shor|Shor, 2009]]; [[2012 Gee|Gee, 2012]]; [[Inoue (2015) 1|Inoue, 2014]], [[@2022inoue_labor|2019]]; [[2020 Schwarz|Schwarz, 2020]]). (page 27)
 
 > [[Schwarz (2020)]] calls for de-norming grading and uses contract grading without evaluating writing for grades: "Classroom assessment genres are full of arbitrary features that we often take for granted as necessary or 'just the way it is.'" (p. 31). Another reason for contract grading (especially suited to my own philosophy) is that contract grading can empower students, and is therefore student-centered since students have more input and freedom that hopefully leads to more student agency ([[1975 Hart|Hart, 1975]]; [[1999 Shor|Shor, 1999]]; [[1999 Elbow|Elbow, 1999]]). (page 27)
-
-- [ ] #task find out what would be required to teach FYW or TESOL courses in California
 
 > contract grading can be adopted for a variety of reasons or in conjunction with a range of ideologies. (page 28)
 

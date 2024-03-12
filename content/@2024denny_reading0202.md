@@ -1,6 +1,6 @@
 ---
 tags:
-  - source
+  - type/source
 aliases:
   - "Linguistic Diversity Reading Group: February 2nd"
   - "2024"

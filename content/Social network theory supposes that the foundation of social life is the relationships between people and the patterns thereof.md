@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 Social network theory supposes that the foundation of social life is the relationships between people and the patterns thereof. [[@2017wilson_role#^5c86ba]]
 

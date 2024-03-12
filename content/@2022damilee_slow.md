@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "How Slow Reading can Change Your Brain"
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-  - statement
-  - teaching/tesol
-  - teaching/active-learning
+  - type/statement
+  - topic/teaching/tesol
+  - topic/teaching/active-learning
 ---
 ESL students face additional challenges when listening to uninterrupted lecture.
 

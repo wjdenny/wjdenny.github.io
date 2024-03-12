@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Micro vs. Mezzo vs. Macro Social Work"
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Learning by Listening to Lectures is a Challenge for College Students with Developmental Language Impairment"
 draft: false
 ---

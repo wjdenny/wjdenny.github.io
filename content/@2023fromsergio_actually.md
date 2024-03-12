@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "How I actually *MAKE* Smart Notes"
 draft: false
 ---

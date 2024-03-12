@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Integration must be a priority for the academic success of all students [[@2021sailsman_esl#^8d46b0]].
 

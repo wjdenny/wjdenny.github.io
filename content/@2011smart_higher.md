@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Higher Education: Handbook of Theory and Research"
 draft: false
 ---

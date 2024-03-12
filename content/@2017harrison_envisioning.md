@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Re-envisioning Faculty Development When Multilingualism is the New Norm: Conversations on First-Year Writing at a Hispanic-Serving University"
 draft: false
 ---

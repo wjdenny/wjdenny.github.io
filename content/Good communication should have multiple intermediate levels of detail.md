@@ -1,5 +1,5 @@
 ---
-tags: statement, data-analysis/visualization, writing
+tags: type/statement, topic/data-analysis/visualization, topic/writing
 ---
 Good communication should have multiple intermediate levels of detail. To give a very powerful presentation, our first instinct is often to barrage our audience with data. This has the opposite effect, as [[The more visual detail presented on the screen, the more likely your audience will experience cognitive overload and tune out]] The skill is in focusing the message into a single point. This is similar to the idea of the [[Snowflake Method]] in writing. 
 

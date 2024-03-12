@@ -1,7 +1,7 @@
 ---
 tags:
-  - statement
-  - mental-health
-  - spirituality
+  - type/statement
+  - topic/mental-health
+  - topic/spirituality
 ---
 Community makes reading sacred.

@@ -1,9 +1,9 @@
 ---
 tags:
-  - "source"
-  - "ai"
-  - "teaching/education"
-  - "teaching/higher-education/academic-integrity"
+  - "type/source"
+  - "topic/ai"
+  - "topic/teaching/education"
+  - "topic/teaching/higher-education/academic-integrity"
 alias: "ChatGPT Banned in New York City Public Schools Over Concerns About Cheating, Learning Development"
 draft: false
 ---

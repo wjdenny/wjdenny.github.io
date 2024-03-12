@@ -1,4 +1,4 @@
-#statement 
+#type/statement 
 
 Therefore, [[Education is never ideological neutral]] Ideological neutrality does not exist.
 

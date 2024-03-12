@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Mitigating potential bias in grading practices"
 draft: false
 ---

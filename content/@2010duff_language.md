@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Language Socialization into Academic Discourse Communities"
 draft: false
 ---

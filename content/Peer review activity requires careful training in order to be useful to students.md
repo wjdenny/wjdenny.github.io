@@ -1,10 +1,10 @@
 ---
 tags:
-  - statement
-  - teaching/tesol/writing
-  - teaching/writing/peer-review
-  - teaching/tesol
-  - teaching/higher-education
+  - type/statement
+  - topic/teaching/tesol/writing
+  - topic/teaching/writing/peer-review
+  - topic/teaching/tesol
+  - topic/teaching/higher-education
 ---
 Peer review activity requires careful training in order to be useful to students.
 

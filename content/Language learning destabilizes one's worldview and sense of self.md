@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Language learning destabilizes one's worldview and sense of self [[@1991horwitz_foreign]].
 

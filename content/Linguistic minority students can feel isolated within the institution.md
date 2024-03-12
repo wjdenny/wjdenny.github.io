@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Linguistic minority students can feel isolated within the institution.
 

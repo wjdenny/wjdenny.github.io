@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - design/ux
+  - type/source
+  - topic/design/ux
 alias:  "Give it the Craigslist Test"
 type: article
 title: "Give it the Craigslist Test"

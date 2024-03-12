@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College"
 draft: false
 ---

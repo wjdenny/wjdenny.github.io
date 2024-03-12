@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Student perceptions, problems and strategies in second language lecture comprehension"
 draft: false
 ---

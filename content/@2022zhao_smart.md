@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - pkm
+  - type/source
+  - topic/pkm
 alias:  "How To Take Smart Notes (3 methods no one's talking about)"
 type: misc
 title: "How To Take Smart Notes (3 methods no one's talking about)"

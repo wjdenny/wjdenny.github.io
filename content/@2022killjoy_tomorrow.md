@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - queer
+  - type/source
+  - topic/queer
 alias: "We Won't Be Here Tomorrow"
 draft: false
 ---
@@ -58,7 +58,7 @@ Long ago a woman was decided to be married off to a man she didn't care for. Whe
 ### The Thirty-Seven Marble Steps
 Long ago a woman had a monstrous daughter kept magically hidden beneath her house. Periodically, pets, animals, and small children would disappear from the village. She would feed these to her daughter, opening the trap door to the basement by tapping seven times on the floor. Eventually the woman was apprehended, but no one ever found the daughter in the basement. 
 
-This would make for an interesting #dnd campaign.
+This would make for an interesting #topic/dnd campaign.
 
 ## Citation
 

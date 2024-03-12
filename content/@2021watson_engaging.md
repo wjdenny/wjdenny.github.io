@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Engaging (the Politics of) Language Difference in the Writing Classroom"
 draft: false
 ---
@@ -114,8 +114,6 @@ We have those standards-based SLOs in [[ELA]], and I cannot remove them. However
 
 [[Acquiring language through communication is superior to isolated drills]]
 
-- [x] #task follow up on the references in this paragraph ⏳ 2022-10-24 📅 2022-10-24 ✅ 2022-10-22
-
  > issues of language or grammar did not affect the grades I assigned to my students' papers. "Standards" and "errors" aren't ignored (which I'll talk about next), but given my language policy and use of grading contracts, they aren't policed or penalized either. Instead, I follow best practices in composition and SLW by problematizing "proofreading" approaches and by aiming to effectively balance feedback on lower- and higher-order concerns (e.g., [[2004 Myers|Myers, 2004]]). (page 69)
  
  This makes sense only because it's not one of the CLOs of Watsons' course. If I had the power to remove grammar CLOs, I could do that. Though, there might be quite a bit of wiggle room in the way the CLOs are written for L2 ELA Reading and Writing; in that, I think it only specifies that students need to narrate the past. They could do that using at least a few different grammatical constructs. 
@@ -136,15 +134,12 @@ I want to read more about how this inquiry is done, especially with respect to e
 
 > I constitently fall short of my ideals when enacting each of the strategies I've so far discussed, especially when it comes to shaking off my learned habit of noticing, marking, and editing "errors" (I address this challenge in [[Gonzales Howell, et al. (2020)|Gonzales Howell, Navickas, Shapiro, Shapiro, & Watson (2020)]]. (page 71)
 
-- [x] #task check out the references in this paragraph ⏳ 2022-10-24 📅 2022-10-24 ✅ 2022-10-22
-
 > one major challenge is time. Such a negotiated approach to feedback takes significantly more time than just marking a few recurring errors. Nevertheless, I do what I can do carve out some time for this process. (page 71)
 
 > Third, there is a rich body of scholarship growing in translingualism on the use of translation assignments that draw on students' different dialects/languages that have students team up with speakers of other languages (in the United States) and sometimes internationally) for the purposes of building cross-language skills and collaborations (e.g., [[2016 Horner & Tetreault|Horner & Tetreault, 2016]]; [[2016 Kiernan, Meier, & Wang|Kiernan, Meier, & Wang, 2016]]) (page 72)
 
 > This work not only provides opportunities for building cross-language practices, but also helps to cultivate translingual dispositions wherein language differences are viewed as assets, not deficits. (page 72)
 
-- [x] #task write up notes ⏳ 2022-10-19 📅 2022-10-19 ✅ 2022-10-22
 ## Citation
 
 ```bibtex

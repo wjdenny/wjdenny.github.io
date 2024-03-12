@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - teaching/plurilingualism
+  - type/source
+  - topic/teaching/plurilingualism
 alias:  "Inviting Multilingual Students to Use Their First Language (L1) in Peer Review Activities: A Plurilingual Approach"
 ---
 # Inviting Multilingual Students to Use Their First Language (L1) in Peer Review Activities: A Plurilingual Approach
@@ -154,8 +154,6 @@ Wouldn't they anyway, though? This just makes it easier for everyone by not tryi
 > Another context is corss-cultural classrooms in which students in classes are a combination of L1 and L2 users of English. A plurilingual approach will provide and opportunity for both L1 and L2 students to engage and laern from one another through their linguistic resources. L2 students have an opportunity to discuss different lexical items or sentence structures that cannot translated into English and their L1 peers can help figure out an appropriate word while learning the limitation of the English langauge in relation to other languages. (page 42--43)
 
 > this can also be practiced in writing centers in which writing tutors and tutees use their L1s in tutoring sessions. (page 43)
-
- - [x] #task finish typing up notes from the book ⏳ 2022-10-12 📅 2022-10-12 ✅ 2022-10-12
 
 ## Citation
 

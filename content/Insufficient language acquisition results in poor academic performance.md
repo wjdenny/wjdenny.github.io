@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Incomplete language acquisition results in poor academic performance [[@2021sailsman_esl#^56cf89]]. The reasons for this are varied, but it stands to reason if there is a significant language barrier, a student would not succeed in class. 
 

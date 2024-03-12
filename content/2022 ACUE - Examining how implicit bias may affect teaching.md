@@ -1,10 +1,10 @@
 ---
 tags:
-  - "source"
-  - "teaching/higher-education"
-  - "dei"
-  - "teaching/implicit-bias"
-  - "teaching/higher-education/retention"
+  - "type/source"
+  - "topic/teaching/higher-education"
+  - "topic/dei"
+  - "topic/teaching/implicit-bias"
+  - "topic/teaching/higher-education/retention"
 draft: true
 ---
 ### Examining How Implicit Bias May Affect Teaching  

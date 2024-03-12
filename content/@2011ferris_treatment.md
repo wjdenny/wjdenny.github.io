@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Treatment of error in second language student writing"
 draft: false
 ---
@@ -67,7 +67,7 @@ draft: false
 
 It does improve with input, though, doesn't it? Isn't that the whole point behind Krashen's distinction between learning and acquisition?
 
-#needs/notes
+#todo/notes
 ## Citation
 
 ```bibtex

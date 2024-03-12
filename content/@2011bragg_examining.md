@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Examining Pathways to and Through the Community College for Youth and Adults"
 draft: false
 ---

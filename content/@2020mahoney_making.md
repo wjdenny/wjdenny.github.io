@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - data-analysis/visualization
+  - type/source
+  - topic/data-analysis/visualization
 alias:  "Making Excellent Visualizations"
 ---
 # Making Excellent Visualizations

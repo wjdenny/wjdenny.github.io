@@ -1,5 +1,5 @@
 ---
-tags: statement, data-analysis/visualization
+tags: type/statement, topic/data-analysis/visualization
 ---
 There are visual techniques that allow us to work *with* our audience members' brains instead of against it. [[The gestalt principles of visual perception are basic design principles that describe how audiences read visual information like charts]] Dealing with  [[Preattentive attributes are an easily noticeable difference in appearance useful for both quantitative and qualitative data]]
 

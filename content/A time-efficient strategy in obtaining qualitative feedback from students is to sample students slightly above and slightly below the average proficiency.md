@@ -1,7 +1,7 @@
 ---
 tags: 
-  - statement
-  - research
+  - type/statement
+  - topic/research
 ---
 
 A time-efficient strategy in obtaining qualitative feedback from students is to sample students slightly above and slightly below the average proficiency.

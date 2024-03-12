@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Anxiety changes how students attempt to interact in the language [[@1991horwitz_foreign]]. It can limit which grammatical structures, topics, and genres students use.
 

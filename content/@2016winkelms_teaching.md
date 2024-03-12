@@ -1,8 +1,8 @@
 ---
 tags:
-  - "source"
-  - "teaching/higher-education/retention"
-  - "teaching/transparency"
+  - "type/source"
+  - "topic/teaching/higher-education/retention"
+  - "topic/teaching/transparency"
 alias: "A Teaching Intervention that Increases Underserved College Students' Success"
 draft: false
 ---

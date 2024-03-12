@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "The Power of Ritual: Turning Everyday Activities into Soulful Practices"
 draft: false
 ---

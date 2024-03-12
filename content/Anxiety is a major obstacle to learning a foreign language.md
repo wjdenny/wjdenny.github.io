@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Anxiety is a major obstacle to learning a foreign language [[@1991horwitz_foreign]]. It has effects on several aspects of language use and language learning. Anxiety can affect [[Anxiety changes how students perceive the language|how students perceive the language]], [[Anxiety changes how students attempt to interact in the language|how they attempt to interact in the language]], [[Anxiety can result in careless errors during language production|the amount of errors they produce]], and [[Anxiety can change students' study habits|their study habits]].
 

@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 Different modes of language acquisition facilitate skill development in different ways.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Better to Organize Personal Information by Folders Or by Tags?: The Devil is in the Details"
 draft: false
 ---

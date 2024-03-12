@@ -1,4 +1,4 @@
-#statement 
+#type/statement 
 
 [[Asao Inoue argued for community-based assessment; a system of grading that combines teacher and peer student evaluations using rubrics]] but later made criticisms about its ability to foster a just and equitable classroom. [[Criticisms of community-based assessment include failing to equalize power dynamics, as well as gender and racial biases]].
 

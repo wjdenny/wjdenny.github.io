@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "How to turn your notes into published articles and books using the Obsidian app with Eleanor Konik"
 draft: false
 ---

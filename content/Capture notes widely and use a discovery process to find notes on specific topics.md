@@ -1,5 +1,5 @@
 ---
-tags: ["statement", "pkm", "pkm/obsidian"]
+tags: ["type/statement", "topic/pkm", "topic/pkm/obsidian"]
 ---
 
 [[Eleanor Konik]] captures widely, and then when she is ready to start brainstorming ideas for a project, she searches keywords in her vault and compiles a list of links and ideas. This is what she calls the discovery process.

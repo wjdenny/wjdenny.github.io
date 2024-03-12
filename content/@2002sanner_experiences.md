@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "The experiences of international nursing students in a baccalaureate nursing program"
 draft: false
 ---

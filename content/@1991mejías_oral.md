@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Oral Communication Apprehension and Hispanics: An Exploration of Oral Communication Apprehension Among Mexican American Students in Texas"
 draft: false
 ---

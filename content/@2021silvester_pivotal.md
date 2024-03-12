@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "A Pivotal Praxis"
 draft: false
 ---

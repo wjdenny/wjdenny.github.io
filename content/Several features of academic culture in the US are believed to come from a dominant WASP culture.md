@@ -1,5 +1,5 @@
 ---
-tags: statement 
+tags: type/statement 
 ---
 Several features of academic culture in the US are believed to come from a dominant WASP culture. [[Punctuality is another white habit of mind often imposed on students (of color) in ESL classrooms]] [[Placing importance on time management is a product of white habits of mind]] 
 

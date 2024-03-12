@@ -1,10 +1,10 @@
 ---
 tags: 
-  - statement
-  - teaching/standard-academic-english
-  - teaching/tesol/monolingual-ideology
-  - dei
-  - teaching/higher-education
+  - type/statement
+  - topic/teaching/standard-academic-english
+  - topic/teaching/tesol/monolingual-ideology
+  - topic/dei
+  - topic/teaching/higher-education
 ---
 
 Academic language is a product of white colonial norms and similarly tries to avoid racial emotions.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes"
 draft: false
 ---

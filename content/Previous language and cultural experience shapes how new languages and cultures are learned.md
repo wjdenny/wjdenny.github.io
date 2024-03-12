@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Previous language and cultural experience shapes how new languages and cultures are learned [[@2021sailsman_esl#^02becc]].
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "How does empathy help to mitigate implicit bias?"
 draft: false
 ---

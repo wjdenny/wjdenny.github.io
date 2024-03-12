@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Learned attention effects in L2 temporal reference; the first hour and the next eight semesters"
 draft: false
 ---

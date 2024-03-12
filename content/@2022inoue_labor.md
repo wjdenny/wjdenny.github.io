@@ -1,7 +1,7 @@
 ---
 alias: "Labor-based grading contracts: Building equity and inclusive in the compassionate writing "
 tags:
-  - "source"
+  - "type/source"
 draft: false
 ---
 # Labor-based grading contracts: Building equity and inclusive in the compassionate writing classroom
@@ -129,8 +129,6 @@ If I understand well, the point is that the use of a *single* standard in an ins
 > It turns out that engaging with diverse ways of languaging and judging in the right kinds of assessment ecologies offers flexible and critical rhetorical training that can prepare students for a wide variety of communication situations. [page 4]
 
 It's passages like these that make me realize this is referring to students of first year composition courses and not pre-college ESL/EAP that I teach. It still has value for me in that it sets my teaching in a wider university context. Maybe I can follow up with [[Asao Inoue]] one day and ask his thoughts on how to apply this in ESL/EAP?
-
-- [ ] #task ask Asao Inoue about his thoughts on applying labor-based writing contract rationale to ESL/EAP
 
 > It is often believed falsely that grading is just an institutional necessity, something we can ask students to ignore, at least while they are learning. But to attempt to do that is to ignore the way grades work in classrooms, how they shape many aspects of the entire ecology, how they influence students' and teachers' actions. Not thinking of assessment first, or at least simultaneously with pedagogy, is a mistake. And our students who do not already come to us embodying a dominant English will pay for it, even when our intentions are to help those very students. [page 4]
 
@@ -297,8 +295,6 @@ See studies on people rating intelligibility of speakers based on their photo, a
 - https://www.sciencedaily.com/releases/2012/05/120502132949.htm
 - https://www.linguisticsociety.org/sites/default/files/LSA952102.pdf
 - https://www.scientificamerican.com/article/how-babies-see-race/
-
-- [ ] #task write up stubs for these articles and link them
 
 > We never just read students through their papers. And we never just read our versions of our students through their papers. We do all these readings through our HOWLing.
 > 
@@ -901,8 +897,6 @@ Students have a few mandatory writing assignments, but will also submit weekly w
 
 This point was made earlier in more direct terms. Students have different levels of proficiency with HOWL to begin with. [[@2016maguire_illustrating]] [[2018 Mind Reader]]
 
-- [x] #task Summarize citations of the equality vs. equity illustration. ✅ 2023-01-22
-
 > Note that Smith and even Marx assumed that the purpose of capitalist economies was to produce excess exchange value so that capital could be accumulated. [page 98]
 
 >  This unfairness in the economy, that one person's labor-time can produce more value than another's, is only unfair if the purpose of the economy is to accumulate and circulate exchange-value, such as money or grades, and if there is an agreed-upon standard by which to judge the products of labor. This is the case in capitalist economies and conventional, quality-based grading economies. [page 98]
@@ -1082,4 +1076,4 @@ Unit on time; wrote: students choose an expression about time from their culture
 
 On late assignments and the future career appropriateness argument. Essentially, I don't know their future job or what their future boss is like, and likely neither do they. They'll understand the importance of timeliness in American culture, but its not my place to enforce a hypothetical boss's standards in a place of learning.
 
-- [ ] #task go through this note and paraphrase
+#todo/paraphrase

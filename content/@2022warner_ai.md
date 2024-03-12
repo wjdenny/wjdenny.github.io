@@ -1,8 +1,8 @@
 ---
 tags:
-  - source
-  - ai
-  - teaching/tesol
+  - type/source
+  - topic/ai
+  - topic/teaching/tesol
 alias:  "AI for Language Learning: ChatGPT and the Future of ELT"
 type: article
 title: "AI for Language Learning: ChatGPT and the Future of ELT"

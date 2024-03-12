@@ -1,10 +1,10 @@
 ---
 tags:
-  - "source"
-  - "dei"
-  - "teaching/higher-education"
-  - "teaching"
-  - "teaching/higher-education/retention"
+  - "type/source"
+  - "topic/dei"
+  - "topic/teaching/higher-education"
+  - "topic/teaching"
+  - "topic/teaching/higher-education/retention"
 draft: true
 ---
 ## Inclusive Introduction

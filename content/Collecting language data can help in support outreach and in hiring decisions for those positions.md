@@ -1,3 +1,3 @@
-#statement 
+#type/statement 
 
 🏷 [[Plurilingualism]] [[Diversity, Equity, and Inclusion]] [[Higher Education]]

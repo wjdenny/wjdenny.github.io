@@ -1,8 +1,8 @@
 ---
 tags: 
-  - statement
-  - teaching/tesol/critical-pedagogy
-  - critical-race-theory
+  - type/statement
+  - topic/teaching/tesol/critical-pedagogy
+  - topic/critical-race-theory
 ---
 Apoliticality is a white habit of mind.
 

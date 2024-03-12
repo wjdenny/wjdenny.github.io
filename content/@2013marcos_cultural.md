@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Cultural Differences on Seeking Information: An Eye Tracking Study"
 draft: false
 ---

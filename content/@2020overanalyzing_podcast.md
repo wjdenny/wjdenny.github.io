@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - pkm/obsidian
+  - type/source
+  - topic/pkm/obsidian
 alias:  "This is How I take Podcast Notes in Obsidian"
 ---
 # This is How I take Podcast Notes in Obsidian

@@ -1,10 +1,10 @@
 ---
 tags: 
-  - statement
-  - teaching/tesol/monolingual-ideology
-  - teaching/plurilingualism
-  - teaching/tesol
-  - teaching/standard-academic-english
+  - type/statement
+  - topic/teaching/tesol/monolingual-ideology
+  - topic/teaching/plurilingualism
+  - topic/teaching/tesol
+  - topic/teaching/standard-academic-english
 ---
 
 A language is a dialect with an army and a navy.

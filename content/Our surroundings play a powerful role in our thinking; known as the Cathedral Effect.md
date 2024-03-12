@@ -1,4 +1,4 @@
-#statement
+#type/statement
 
 🏷️ [[Learning]]
 

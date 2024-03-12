@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "How might implicit bias impact teaching?"
 draft: false
 ---

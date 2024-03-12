@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "The Heart of West Liberty"
 draft: false
 ---

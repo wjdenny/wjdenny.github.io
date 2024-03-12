@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "A meaningful file structure for R projects"
 draft: false
 ---

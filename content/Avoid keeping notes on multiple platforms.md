@@ -1,6 +1,6 @@
 ---
 tags: 
-  - statement
-  - pkm
+  - type/statement
+  - topic/pkm
 ---
 Avoid keeping notes on multiple platforms.

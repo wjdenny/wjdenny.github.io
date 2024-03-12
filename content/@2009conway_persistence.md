@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Exploring Persistence of Immigrant and Native Students in an Urban Community College"
 draft: false
 ---

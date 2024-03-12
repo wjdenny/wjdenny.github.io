@@ -2,4 +2,4 @@ Circumstantial bilingualism is the idea that a person may be proficient in Engli
 
 June's "Kitchen Chinese" for example
 * * *
-#statement Topics: [[Higher Education]] [[Plurilingualism]] [[TESOL]] [[Second Language Acquisition]]
+#type/statement Topics: [[Higher Education]] [[Plurilingualism]] [[TESOL]] [[Second Language Acquisition]]

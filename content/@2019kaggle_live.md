@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Live Portfolio and Resume Analysis with Data Science Hiring Managers"
 draft: false
 ---

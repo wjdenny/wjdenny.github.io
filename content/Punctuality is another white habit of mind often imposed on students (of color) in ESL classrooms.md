@@ -1,5 +1,5 @@
 ---
-tags: [ "statement", "critical-race-theory", "teaching/ideology" ]
+tags: [ "type/statement", "topic/critical-race-theory", "topic/teaching/ideology" ]
 ---
 Punctuality is another white habit of mind often imposed on students (of color) in ESL classrooms. 
 

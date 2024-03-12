@@ -1,7 +1,7 @@
 ---
 tags:
-  - source
-  - ai
+  - type/source
+  - topic/ai
 alias:  "Silicone Coauthors"
 type: article
 title: "Silicone Coauthors"

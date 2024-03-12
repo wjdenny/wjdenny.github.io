@@ -1,9 +1,9 @@
 ---
 tags:
-  - person
+  - type/person
 ---
 
-He does a lot of work on #culture/psychology that seems interesting. I got a bit overwhlemed with everything of his I wanted to read, so I'll dump it here for now. #todo 
+He does a lot of work on #topic/culture/psychology that seems interesting. I got a bit overwhlemed with everything of his I wanted to read, so I'll dump it here for now. #todo 
 
 Feldborg, M.; Lee, N.A.; Hung, K.; Peng, K.; Sui, J. Perceiving the Self and Emotions with an Anxious Mind: Evidence from an Implicit Perceptual Task. _Int. J. Environ. Res. Public Health_ **2021**, _18_, 12096. https://doi.org/10.3390/ijerph182212096
 

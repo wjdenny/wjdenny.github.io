@@ -55,7 +55,7 @@ Faculty of English in the School of Foreign Languages
 - taught over 300 English language major students in listening, speaking, and writing
 - advised students on requirements to study abroad in the U.S.
 - provided consultation to Foreign Languages department on recruiting foreign teachers
-- voted Foreign Language Department students' "[[content/suqian-award.jpg|most popular foreign teacher]]" for academic year 2018--19.
+- voted Foreign Language Department students' "[[suqian-award.jpg|most popular foreign teacher]]" for academic year 2018--19.
 
 **Lecturer** @ [The University of Iowa](https://esl.uiowa.edu/about) *(Aug 2012 -- May 2014)*
 

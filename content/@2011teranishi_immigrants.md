@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Immigrants in Community Colleges"
 draft: false
 ---

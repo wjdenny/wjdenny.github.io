@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 Cultural integration is a stressful endeavor [[@2021sailsman_esl#^725971]] [[@2021sailsman_esl#^3e218c]]. 
 

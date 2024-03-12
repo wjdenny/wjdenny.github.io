@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!"
 draft: false
 ---

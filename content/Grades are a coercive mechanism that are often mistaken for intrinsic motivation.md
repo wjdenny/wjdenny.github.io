@@ -1,4 +1,4 @@
-#statement 
+#type/statement 
 [[Studies show some students benefit from contract grading in terms of motivation and learning, but results were mixed]]
 
 For example, [[McGarrell promotes a classroom ecology that avoids instructor evaluation in the form of grades, but does not preclude extensive feedback]]

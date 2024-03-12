@@ -1,9 +1,9 @@
 ---
 tags:
-  - "source"
-  - "teaching/higher-education"
-  - "dei"
-  - "teaching/higher-education/retention"
+  - "type/source"
+  - "topic/teaching/higher-education"
+  - "topic/dei"
+  - "topic/teaching/higher-education/retention"
 draft: true
 ---
 ## Kelly A. Hogan, PhD; Associate Dean of Instructional Innovation, QEP Director; STEM Teaching Professor, Department of Biology; College of Arts & Sciences; University of North Carolina at Chapel Hill [00:00:05]

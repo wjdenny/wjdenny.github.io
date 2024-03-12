@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "How Cultures Create Emotions"
 draft: false
 ---

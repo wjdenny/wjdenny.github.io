@@ -1,9 +1,9 @@
 ---
 tags: 
-  - statement
-  - teaching/higher-education
-  - dei
-  - teaching/higher-education/academic-integrity
-  - teaching/tesol
+  - type/statement
+  - topic/teaching/higher-education
+  - topic/dei
+  - topic/teaching/higher-education/academic-integrity
+  - topic/teaching/tesol
 ---
 Peer behavior was found to be a major predictor of student cheating.

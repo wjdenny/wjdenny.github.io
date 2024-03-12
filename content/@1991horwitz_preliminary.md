@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Preliminary Evidence for the Reliability and Validity of a Foreign Language Anxiety Scale"
 draft: false
 ---

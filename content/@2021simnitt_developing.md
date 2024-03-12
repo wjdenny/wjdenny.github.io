@@ -1,9 +1,9 @@
 ---
 tags:
-  - source
-  - teaching/grading/contracts
-  - teaching/tesol
-  - bias/asset-focused
+  - type/source
+  - topic/teaching/grading/contracts
+  - topic/teaching/tesol
+  - topic/bias/asset-focused
 alias:  "Developing Inclusive Teaching Across Writing Programs through Asset-Focused Inquiry"
 ---
 # Developing Inclusive Teaching Across Writing Programs through Asset-Focused Inquiry

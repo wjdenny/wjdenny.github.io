@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 Anxiety can result in careless errors during language production [[@1991horwitz_foreign]].
 

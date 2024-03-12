@@ -1,5 +1,5 @@
 ---
-tags: statement
+tags: type/statement
 ---
 There seems to be a connection between "sense of belonging" and adopting the dominant culture in academia but I need to explore it more. It may be the same concept, but the former has a more marketing and student success perspective whereas the latter has a more critical pedagogy, sociology, and Bourdieuan perspective.
 

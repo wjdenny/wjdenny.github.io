@@ -1,3 +1,3 @@
-#statement 
+#type/statement 
 
 🏷 [[Ideology in Teaching]]

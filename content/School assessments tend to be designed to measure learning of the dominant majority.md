@@ -1,6 +1,6 @@
 ---
 tags:
-  - statement
+  - type/statement
 ---
 School assessments tend to be designed to measure learning of the dominant majority.
 

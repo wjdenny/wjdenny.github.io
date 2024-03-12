@@ -1,10 +1,10 @@
 ---
 tags:
-  - source
-  - ai
-  - labor
-  - teaching/education/writing
-  - teaching/higher-education/academic-integrity
+  - type/source
+  - topic/ai
+  - topic/labor
+  - topic/teaching/education/writing
+  - topic/teaching/higher-education/academic-integrity
 alias:  "Guest Post: AI Will Augment, Not Replace"
 type: article
 title: "Guest Post: AI Will Augment, Not Replace"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "Linguistic Diversity Reading Group: January 12th, 2024"
 draft: true
 ---

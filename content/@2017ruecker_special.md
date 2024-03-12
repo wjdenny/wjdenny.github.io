@@ -1,6 +1,6 @@
 ---
 tags:
-  - "source"
+  - "type/source"
 alias: "\"I Don't Want to be Special\""
 draft: false
 ---

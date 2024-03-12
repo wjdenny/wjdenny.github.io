@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "An eye-tracking study of learned attention in second language acquisition"
 draft: false
 ---
@@ -12,4 +12,4 @@ https://www.cambridge.org/core/journals/applied-psycholinguistics/article/an-eye
 > %% Write a one-sentence summary of the source. %%
 ## Notes
 %% Pull quotes from the source and put them here using `>` (blockquotes). %%
-#needs/reading #needs/notes
+#todo/reading #todo/notes

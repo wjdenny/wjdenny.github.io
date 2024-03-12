@@ -1,9 +1,9 @@
 ---
 tags:
-  - source
-alias: 
+  - type/source
+alias: "Your Brain: Who's in Control?"
 ---
-# title
+# Your Brain: Who's in Control?
 [author] wrote this [genre] for [publisher].
 
 ```bibtex
@@ -24,4 +24,4 @@ Maybe building a "second brain" or note-taking system like this is sort of an ex
 
 Contrary to European concepts of mind-body dualism and rationality, 
 
-It would be interesting to explore non-European medical models and how they integrate mental health; assuming that "Western" divisions between physical and mental health are largely a result of a long tradition of dualism. #culture/dualism
+It would be interesting to explore non-European medical models and how they integrate mental health; assuming that "Western" divisions between physical and mental health are largely a result of a long tradition of dualism. #topic/culture/dualism

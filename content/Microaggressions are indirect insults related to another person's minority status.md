@@ -2,4 +2,4 @@ Microaggressions are indirect insults related to another person's minority statu
 
 [[Microaggressions are often unintended, but the impact of them is what is important to consider]]
 * * *
-#statement Topics: [[Diversity, Equity, and Inclusion]]
+#type/statement Topics: [[Diversity, Equity, and Inclusion]]

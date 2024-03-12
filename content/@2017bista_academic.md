@@ -1,5 +1,5 @@
 ---
-tags: "source"
+tags: "type/source"
 alias: "Academic Dishonesty Among International Students in Higher Education"
 draft: false
 ---
