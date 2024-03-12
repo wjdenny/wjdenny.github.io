@@ -95,15 +95,10 @@ This was a reading from the [[Plurilingual Pedagogies Reading Group]].
 
 > A focus on languaging helped the instructors focus on students' fluency across language resources and their complex, multilayered communicative repertoires rather than the limits of their analytical writing ability in Standard Written English. (page 121)
 
-- [ ] #task Read [[Silvester & Chen (2020)]] to find out what *languaging* mean exactly?
-
 > Plurilingualism "casts the speaker and/or learner as a pivot of language in action, and as a social actor enjoying a significant free space favoring code switching or idiosyncratic utterances" ([[2013 Marshall & Moore|Marshall & Moore, 2013]], p. 496). (page 121)
 
-- [ ] #task outline an activity idea of exploring plurilingualism using vocabulary and descriptions of food and culture #esi-024 #esi-027
 
 > Plurilanguaging expands communicative possibilities, and it is something we are all able to do. As [[Piccardo (2019)]] asserts, "We are all, potentially, plurilingual" if we open ourselves up to the transformative possibilities of a more holistic approach to language competence. Becoming more oriented to our students as plurilingual actors has made us no less interested in the teaching and learning of language and literacy. If anything, a plurilingual orientation to language competence has helped our program move beyond the teaching and learning of autonomous literacy skills toward the teaching and learning of deeply contextualized processes of creative, linguistic problem-solving, bridging differences, and challenging imitation through innovation. (page 121)
-
-- [ ] #task find multilingual resources in Arabic, Spanish, and French
 
 > Supported and framed by the action-reflection cycle, a pivotal praxis offers the "transformative stance" necessary to align programmatic commitments to plurilingualism to everyday teaching practice ([[2020 Vallejo & Dooly|Vallejo & Dooly, 2020]], p. 11). (page 122)
 

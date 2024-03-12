@@ -9,6 +9,4 @@ draft: false
 https://sites.lsa.umich.edu/nickellis/wp-content/uploads/sites/933/2021/07/j.1467-9922.2010.00602.x.pdf
 
 > [!summary] Summary
-> #needs/summary
 ## Notes
-#needs/notes

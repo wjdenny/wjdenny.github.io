@@ -7,7 +7,6 @@ draft: false
 # Treatment of error in second language student writing
 
 > [!summary] Summary
-> #needs/summary 
 
 ## Notes
 > Corder (1967) argued that what we term as "error" in L2 learners is actually a natural developmental stage. [[Resources/Articles/2011 Ferris.pdf#page=22|page 1--2]]

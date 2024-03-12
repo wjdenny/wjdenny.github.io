@@ -1,7 +1,6 @@
 ---
 tags:
   - "source"
-  - "read/todo"
 alias: "Sense of Belonging and Persistence in White and African American First-Year Students"
 draft: false
 ---

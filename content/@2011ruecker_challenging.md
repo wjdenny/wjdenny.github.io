@@ -9,7 +9,6 @@ draft: false
 
 > [!summary] Summary
 > %% Write a one-sentence summary of the source. %%
-#needs/summary
 ## Notes
 %% Pull quotes from the source and put them here using `>` (blockquotes). %%
 #needs/quotes

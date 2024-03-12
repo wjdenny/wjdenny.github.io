@@ -1,7 +1,6 @@
 ---
 tags:
-  - project/active
-  - problem
+  - todo
 publish: false
 ---
 

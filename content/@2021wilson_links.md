@@ -7,7 +7,7 @@ draft: false
 # Links vs Tags vs Folders in Obsidian: When Should You Use Each?
 
 > [!summary] Summary
-> #needs/summary 
+
 
 ## Notes
 Tags and links both allow multiples each note.

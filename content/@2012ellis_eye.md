@@ -10,7 +10,6 @@ https://www.cambridge.org/core/journals/applied-psycholinguistics/article/an-eye
 
 > [!summary] Summary
 > %% Write a one-sentence summary of the source. %%
-#needs/summary 
 ## Notes
 %% Pull quotes from the source and put them here using `>` (blockquotes). %%
 #needs/reading #needs/notes

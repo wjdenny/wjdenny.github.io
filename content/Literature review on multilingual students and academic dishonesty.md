@@ -1,11 +1,11 @@
 ---
 tags:
-  - statement/lit-review
+  - moc
   - topic/higher-education
   - topic/dei
   - topic/academic-integrity/plagiarism
   - topic/teaching/tesol
-  - "#project/active"
+  - todo
 ---
 
 [[Many students with diverse cultural backgrounds have strongly held cultural attitudes towards education and learning that may be difficult to change]][@bista2011]

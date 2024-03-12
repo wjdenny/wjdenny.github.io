@@ -1,7 +1,7 @@
 ---
 draft: true
 tags:
-  - tidy
+  - todo
 ---
 These will need to be cleaned up at some point. All of them will be drafts until I can find a way to organize them that won't be such a massive copyright issue (I have the transcripts in them entirely). 
 

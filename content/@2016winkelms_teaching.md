@@ -56,8 +56,6 @@ The article *used to be* accessible at [ku.edu](https://cte.ku.edu/sites/cte.ku.
 
 > For both white and African American first-year college students, sense of belonging can indirectly increase students' persistence behaviors ([[Hausmann et al. (2009)|Hausmann et al. 2009]]). (page 32)
 
-- [ ] #task Include questions in the end of #course-survey about how we can improve students' sense of belonging.
-
 > A 2013 study identified *transparency*-- engaging teachers and students in focusing together on *how* college students learn what they learn and *why* teachers structure learning experiences in particular ways-- as a teaching method that showed promise for improving underserved students' educational experiences in college ([[2013 Winkelmes|Winkelmes 2013]]). (page 32)
 
 [[Transparency is a teaching intervention that educates students on how learning happens]]
@@ -66,7 +64,7 @@ The article *used to be* accessible at [ku.edu](https://cte.ku.edu/sites/cte.ku.
 
 > Underachieving students across a group of geographically diverse schools (high schools, in the study) experienced higher GPAs and increased pass rates after receiving two implementations of a mindset intervention that provided students with information about how they learn and the purposes for their academic work ([[Paunesku et al. (2015)|Paunesku et al. 2015]]) (page 32)
 
-- [ ] #task what is this mindset intervention?
+What is this mindset intervention?
 
 > We selected an intentionally varied set of institutions to implement the project's intervention, so that any school viewing the results would find a collaborator in our group with whom they could identify (see table 1) (page 32)
 

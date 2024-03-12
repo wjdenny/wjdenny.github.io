@@ -1,7 +1,6 @@
 ---
 tags:
   - "source"
-  - "triage/deep"
 alias: "Immigrants in Community Colleges"
 draft: false
 ---

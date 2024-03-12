@@ -1,6 +1,7 @@
 ---
 tags:
-  - "source"
+  - source
+  - todo
 alias: "On Being Included"
 draft: false
 ---
@@ -11,7 +12,6 @@ https://www.dukeupress.edu/On-Being-Included/
 
 > [!summary] Summary
 > %% Write a one-sentence summary of the source. %%
-#needs/summary 
 ## Notes
 %% Pull quotes from the source and put them here using `>` (blockquotes). %%
 
@@ -25,6 +25,3 @@ two precursors to this book;
 feminism of color, intersectionality
 
 there's issues with using diversity as a performance indicator
-
-#needs/reading
-#needs/notes
