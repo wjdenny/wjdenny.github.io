@@ -1,9 +1,9 @@
 ---
 tags:
   - source
-  - topic/ai
-  - topic/writing
-  - topic/labor
+  - ai
+  - writing
+  - labor
 alias:  "ChatGPT Is Dumber Than You Think"
 type: article
 title: "ChatGPT Is Dumber Than You Think"

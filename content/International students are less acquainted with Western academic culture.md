@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/tesol
-  - topic/plagiarism
+  - teaching/tesol
+  - teaching/plagiarism
 ---
 International students are less acquainted with Western academic culture.

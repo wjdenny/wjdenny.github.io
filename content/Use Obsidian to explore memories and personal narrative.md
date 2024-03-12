@@ -1,4 +1,4 @@
 ---
-tags: [ "statement", "topic/pkm/obsidian", "topic/pkm" ]
+tags: [ "statement", "pkm/obsidian", "pkm" ]
 ---
 

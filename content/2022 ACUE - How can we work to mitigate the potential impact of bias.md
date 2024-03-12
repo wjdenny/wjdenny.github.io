@@ -1,9 +1,9 @@
 ---
 tags:
   - "source"
-  - "topic/higher-education"
-  - "topic/dei"
-  - "topic/implicit-bias"
+  - "teaching/higher-education"
+  - "dei"
+  - "teaching/implicit-bias"
 alias: "[[@2022acue-mitigate-impact-bias"
 draft: true
 ---

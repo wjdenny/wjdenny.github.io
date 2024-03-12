@@ -1,9 +1,9 @@
 ---
 tags:
   - statement
-  - topic/dei
-  - topic/tesol
-  - topic/higher-ed
+  - dei
+  - teaching/tesol
+  - teaching/higher-education
 ---
 
 Schools reproduce the culture of the dominant class.

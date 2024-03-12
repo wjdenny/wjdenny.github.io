@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/teaching
+  - teaching/active-learning
+  - teaching
 ---
 Critical thinking and argumentative learning objectives are best assessed through peer-to-peer discussion.

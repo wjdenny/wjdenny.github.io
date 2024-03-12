@@ -1,9 +1,9 @@
 ---
 tags:
   - "source"
-  - "topic/higher-education"
-  - "topic/dei"
-  - "topic/higher-education/retention"
+  - "teaching/higher-education"
+  - "dei"
+  - "teaching/higher-education/retention"
 draft: true
 ---
 ## Gregory Eiselein, PhD; Donnelly Professor of English; Department of English; Kansas State University [00:00:05]

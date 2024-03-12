@@ -1,7 +1,7 @@
 ---
 tags: 
   - statement
-  - topic/reading
+  - reading
 ---
 Reading was a communal activity and recitation of common ideas was the norm.
 

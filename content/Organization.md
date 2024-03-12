@@ -1,3 +1,15 @@
+
+## Use of tags
+Tags can both express the entity/type that the page and topics that the content relates to.
+
+Entity tags (like #statement, #source, or #index) are generally only written in the YAML frontmatter of a page.
+
+Topic tags (for example, #culture/habitus)  are expressed within the page immediately following relevant content. Historically, I've used these tags in frontmatter as well, but I am moving away from that for two reasons. First, putting them in frontmatter leads me to try deciding how to organize and denominate topics at the start. This is a top-down or taxonomic approach that I don't find useful in practice. Second, putting the topic tags near the content it refers to can take advantage of search snippets within Obsidian.
+
+```query
+tag:#culture/habitus
+```
+
 ## Types of pages
 ### Literature notes
 These are literature sources like books and articles. [[Literature note filenames are BibTex keys]]. These pages will include the tag `source` to identify it as a source for search and graph view queries. I've tried both topic pages and topic tags in the past, but instead avoid imposing any topic structure up front and let sources link together organically through [[#Atomic notes]] and [[#Maps of content]] ([[Gaul's Law]]).

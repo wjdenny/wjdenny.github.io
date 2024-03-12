@@ -1,6 +1,6 @@
 ---
 tags:
-  - topic/cannabis
+  - cannabis
 alias: "How To Prevent and Combat Cannabis-Induced Anxiety" 
 ---
 # How To Prevent and Combat Cannabis-Induced Anxiety

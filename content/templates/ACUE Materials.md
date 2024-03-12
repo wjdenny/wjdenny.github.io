@@ -1,8 +1,8 @@
 ---
 tags:
-  - topic/acue/active-learning
-  - topic/active-learning
-  - topic/teaching
+  - teaching/active-learning
+  - teaching/active-learning
+  - teaching
 ---
 link
 

@@ -1,5 +1,5 @@
 ---
-tags: statement, topic/data/visualization
+tags: statement, data-analysis/visualization
 ---
 The work of a data analysis project can be divided into two broad categories. Exploratory data analysis explores the dataset to find interesting patterns. Explanatory tries to prove those patterns to make an argument.
 

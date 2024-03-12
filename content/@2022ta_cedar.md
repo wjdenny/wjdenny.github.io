@@ -2,8 +2,8 @@
 alias:  "Cedar Rapids listed as top destination for immigrants' second move"
 tags: 
   - source
-  - topic/immigration
-  - topic/iowa
+  - immigration
+  - iowa
 cite:
   title: "Cedar Rapids listed as top destination for immigrants' second move"
   author: "Linh Ta"

@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - topic/higher-education
-  - topic/dei
-  - topic/academic-integrity/plagiarism
-  - topic/teaching/tesol
+  - index
+  - teaching/higher-education
+  - dei
+  - teaching/higher-education/academic-integrity/plagiarism
+  - teaching/tesol
   - todo
 ---
 

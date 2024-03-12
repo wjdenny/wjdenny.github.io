@@ -1,9 +1,9 @@
 ---
 tags:
   - "source"
-  - "topic/higher-education"
-  - "topic/dei"
-  - "topic/higher-education/retention"
+  - "teaching/higher-education"
+  - "dei"
+  - "teaching/higher-education/retention"
 draft: true
 ---
 ## Jennifer Imazeki, PhD; Associate Chief Diversity Officer for Faculty and Staff; Professor of Economics; San Diego State University [00:00:05]

@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-  - topic/queer/history
+  - queer/history
 alias:  "Part One: Stonewall: The Criminal Queers Who Birthed a Movement"
 type: misc
 title: " Part One: Stonewall: The Criminal Queers Who Birthed a Movement"

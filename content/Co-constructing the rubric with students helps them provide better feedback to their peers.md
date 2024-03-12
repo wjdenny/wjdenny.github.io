@@ -1,9 +1,9 @@
 ---
 tags:
   - statement
-  - topic/sla/writing
-  - topic/peer-review
-  - topic/tesol
-  - topic/higher-ed
+  - teaching/tesol/writing
+  - teaching/writing/peer-review
+  - teaching/tesol
+  - teaching/higher-education
 ---
 Co-constructing the rubric with students helps them provide better feedback to their peers.

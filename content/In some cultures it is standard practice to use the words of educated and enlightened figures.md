@@ -1,10 +1,10 @@
 ---
 tags: 
   - statement
-  - topic/higher-education
-  - topic/dei
-  - topic/academic-integrity
-  - topic/teaching/tesol
+  - teaching/higher-education
+  - dei
+  - teaching/higher-education/academic-integrity
+  - teaching/tesol
 ---
 In some cultures it is standard practice to use the words of educated and enlightened figures. [[Reading was a communal activity and recitation of common ideas was the norm]]
 

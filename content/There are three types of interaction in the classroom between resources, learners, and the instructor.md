@@ -1,9 +1,9 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/teaching
-  - topic/acue/active-learning
+  - teaching/active-learning
+  - teaching
+  - teaching/active-learning
 ---
 There are three types of interaction in the classroom between resources, learners, and the instructor. These are learner to resource, learner to learner, and instructor to learner. Active learning will engage all three.
 

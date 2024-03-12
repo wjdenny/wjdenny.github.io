@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/teaching
+  - teaching/active-learning
+  - teaching
 ---
 Good class discussions are planned but often seem spontaneous.

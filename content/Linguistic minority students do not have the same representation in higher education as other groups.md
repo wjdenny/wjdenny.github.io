@@ -1,8 +1,8 @@
 ---
 tags:
   - statement
-  - topic/tesol
-  - topic/dei
-  - topic/higher-education
+  - teaching/tesol
+  - dei
+  - teaching/higher-education
 ---
 Linguistic minority students do not have the same representation in higher education as other groups.

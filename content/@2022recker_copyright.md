@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/ai/legal
-  - topic/copyright
+  - ai/legal
+  - copyright
 alias:  "U.S. Copyright Office Rules A.I. Art Can’t Be Copyrighted"
 type: article
 title: "U.S. Copyright Office Rules A.I. Art Can’t Be Copyrighted"

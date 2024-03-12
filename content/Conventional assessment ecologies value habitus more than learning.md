@@ -1,7 +1,7 @@
 ---
 tags: 
   - statement
-  - topic/grading/labor-based
-  - topic/habitus
+  - teaching/grading/labor-based
+  - culture/habitus
 ---
 Conventional assessment ecologies value habitus more than learning.

@@ -1,9 +1,9 @@
 ---
 tags: 
   - statement
-  - topic/teaching/ideology
-  - topic/grading/labor-based
-  - topic/grading/contracts
+  - teaching/ideology
+  - teaching/grading/labor-based
+  - teaching/grading/contracts
 ---
 
 All grading systems are political because of the inherent power dynamics. [[2022 Inoue|@inoue2022]]

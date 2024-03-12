@@ -1,7 +1,7 @@
 ---
 tags:
-  - topic/sla/developmental-sequences 
-  - topic/tesol
+  - teaching/tesol/developmental-sequences 
+  - teaching/tesol
 ---
 Research on developmental sequences of grammar
 

@@ -1,9 +1,9 @@
 ---
 tags:
   - "source"
-  - "topic/higher-education"
-  - "topic/ai"
-  - "topic/academic-integrity"
+  - "teaching/higher-education"
+  - "ai"
+  - "teaching/higher-education/academic-integrity"
 alias: "Update Your Course Syllabus for chatGPT"
 draft: false
 ---

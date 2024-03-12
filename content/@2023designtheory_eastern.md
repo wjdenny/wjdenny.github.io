@@ -46,7 +46,7 @@ An example of lost nuance: [[A language is a dialect with an army and a navy.]]
 
 [33:44](https://www.youtube.com/watch?v=8UAsN9wvePE&t=33m44s) [[Copyright theft is a universal approach to technical inequity between nations.]]
 
-I wonder if its possible to draw links between development of thes Western cultural ideals and #topic/critical-theory/capitalism
+I wonder if its possible to draw links between development of thes Western cultural ideals and #capitalism
 
 ## Further Reading
 - Joseph Henrich

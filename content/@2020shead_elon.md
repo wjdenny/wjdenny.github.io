@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-  - topic/ai
+  - ai
 alias:  "Elon Musk has a complex relationship with the A.I. community"
 type: article
 title: "Elon Musk has a complex relationship with the A.I. community"

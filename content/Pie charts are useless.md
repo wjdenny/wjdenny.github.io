@@ -1,5 +1,5 @@
 ---
-tags: statement, topic/data/visualization
+tags: statement, data-analysis/visualization
 ---
 If I remember anything from this book, it will be that pie charts are useless. For two reasons:
 - For 2 categories (or, god forbid, less) a sentence works just as well

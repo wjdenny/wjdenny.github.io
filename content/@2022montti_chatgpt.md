@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/ai
-  - topic/academic-integrity
+  - ai
+  - teaching/higher-education/academic-integrity
 alias:  "How The ChatGPT Watermark Works And Why It Could Be Defeated"
 type: article
 title: "How The ChatGPT Watermark Works And Why It Could Be Defeated"

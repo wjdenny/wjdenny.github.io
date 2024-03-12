@@ -1,4 +1,4 @@
 ---
-tags: statement, topic/data/visualization
+tags: statement, data-analysis/visualization
 ---
 The gestalt principle of connection describes how elements that are connected to another element communicates a relationship to that element.

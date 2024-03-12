@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/ai
-  - topic/academic-integrity
+  - ai
+  - teaching/higher-education/academic-integrity
 alias:  "Was that essay written by AI? A student made an app that might tell you."
 type: article
 title: "Was that essay written by AI? A student made an app that might tell you."

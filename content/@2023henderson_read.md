@@ -1,8 +1,8 @@
 ---
 tags:
   - "source"
-  - "topic/pkm"
-  - "topic/reading"
+  - "pkm"
+  - "reading"
 alias: "How to Read (and Understand) Hard Books"
 draft: false
 ---

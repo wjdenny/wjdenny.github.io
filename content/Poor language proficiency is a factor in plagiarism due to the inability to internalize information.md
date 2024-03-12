@@ -1,10 +1,10 @@
 ---
 tags: 
   - statement
-  - topic/higher-education
-  - topic/dei
-  - topic/academic-integrity
-  - topic/teaching/tesol
+  - teaching/higher-education
+  - dei
+  - teaching/higher-education/academic-integrity
+  - teaching/tesol
 ---
 Poor language proficiency is a factor in plagiarism due to the inability to internalize information. [[Writing, like all arts, must first be learned from imitating appropriate models]]
 

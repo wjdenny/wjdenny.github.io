@@ -1,10 +1,10 @@
 ---
 tags:
   - source
-  - topic/anxiety
-  - topic/mental-health
-  - topic/queer
-  - topic/teens
+  - anxiety
+  - mental-health
+  - queer
+  - teens
 draft: false
 alias: "I Wish You All the Best"
 ---

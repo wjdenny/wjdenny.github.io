@@ -1,10 +1,10 @@
 ---
 tags:
   - "source"
-  - "topic/higher-education"
-  - "topic/dei"
-  - "topic/implicit-bias"
-  - "topic/higher-education/retention"
+  - "teaching/higher-education"
+  - "dei"
+  - "teaching/implicit-bias"
+  - "teaching/higher-education/retention"
 alias: "[[@2022acue-itel-bias-know"
 draft: true
 ---

@@ -1,7 +1,7 @@
 ---
 tags: 
   - statement
-  - topic/resume-tips
+  - resume-tips
 ---
 A resume could take up two pages instead of one, but it had better be worth the extra reading.
 

@@ -1,8 +1,8 @@
 ---
 tags:
   - statement
-  - topic/mental-health
-  - topic/community-development
+  - mental-health
+  - community-development
 ---
 Community care is just as important as self-care.
 

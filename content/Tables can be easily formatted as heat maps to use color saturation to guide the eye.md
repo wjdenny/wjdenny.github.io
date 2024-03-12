@@ -1,3 +1,3 @@
 ---
-tags: statement, topic/data/visualization
+tags: statement, data-analysis/visualization
 ---

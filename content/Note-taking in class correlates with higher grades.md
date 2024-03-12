@@ -1,10 +1,10 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/teaching
-  - topic/note-taking
-  - topic/acue/active-learning
+  - teaching/active-learning
+  - teaching
+  - pkm/note-taking
+  - teaching/active-learning
 ---
 Note-taking in class correlates with higher grades. To help ensure notes get taken and are well organized, [[Teach students the signposting vocabulary we use to introduce important information]] Also, [[Teach students to use blanks in their notes when they do not understand something]] [[Explicitly calling attention to important points during a lecture can help cue students to take notes]]  
 

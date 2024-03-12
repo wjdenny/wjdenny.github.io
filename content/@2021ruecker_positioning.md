@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-  - topic/plurilingualism
+  - teaching/plurilingualism
 alias:  "Positioning Bilingualism as an Asset in Rural High Schools"
 ---
 # Positioning Bilingualism as an Asset in Rural High Schools

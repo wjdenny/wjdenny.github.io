@@ -1,7 +1,7 @@
 ---
 tags:
   - "source"
-  - "topic/instructional-design"
+  - "teaching/instructional-design"
 alias: "Planning Music Classes & Ensembles So You Never Fall Behind"
 draft: false
 ---

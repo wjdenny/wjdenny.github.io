@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-  - topic/writing
+  - writing
 alias:  "AI-generated answers temporarily banned on coding Q&A site Stack Overflow"
 type: article
 title: "AI-generated answers temporarily banned on coding Q&A site Stack Overflow"

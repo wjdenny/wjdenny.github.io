@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/data
-  - topic/statistics
+  - data-analysis
+  - data-analysis/statistics
 alias:  "Statistics for Linguists"
 type: book
 title: "Statistics for Linguists"

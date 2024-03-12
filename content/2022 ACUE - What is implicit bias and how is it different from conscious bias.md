@@ -1,9 +1,9 @@
 ---
 tags:
   - "source"
-  - "topic/higher-education"
-  - "topic/dei"
-  - "topic/implicit-bias"
+  - "teaching/higher-education"
+  - "dei"
+  - "teaching/implicit-bias"
 draft: true
 ---
 ### What is implicit bias and how is it different from conscious bias?

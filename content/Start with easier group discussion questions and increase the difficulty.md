@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/teaching
+  - teaching/active-learning
+  - teaching
 ---
 Start with easier group discussion questions and increase the difficulty.

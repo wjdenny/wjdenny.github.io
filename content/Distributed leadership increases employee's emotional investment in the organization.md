@@ -1,4 +1,4 @@
 ---
-tags: [ "statement", "topic/higher-education", "topic/leadership" ]
+tags: [ "statement", "teaching/higher-education", "leadership" ]
 ---
 

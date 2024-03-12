@@ -55,7 +55,7 @@ Faculty of English in the School of Foreign Languages
 - taught over 300 English language major students in listening, speaking, and writing
 - advised students on requirements to study abroad in the U.S.
 - provided consultation to Foreign Languages department on recruiting foreign teachers
-- voted Foreign Language Department students' "[most popular foreign teacher](https://www.wjdenny.com/assets/suqian-award.jpg)" for academic year 2018--19.
+- voted Foreign Language Department students' "[[content/suqian-award.jpg|most popular foreign teacher]]" for academic year 2018--19.
 
 **Lecturer** @ [The University of Iowa](https://esl.uiowa.edu/about) *(Aug 2012 -- May 2014)*
 
@@ -87,15 +87,12 @@ Creator and sole tutor of ESL tutoring program
 
 - collaborated with colleagues on presentation of our critical pedagogy discussion group on the emotional labor inherent in teaching EAP as adjunct, women, and queer professionals.
 
-**[[@2017denny_calendly.pdf|Student appointments made easy]]** (Jan 12, 2017)
-
-**Tech Scouts** @ [Kirkwood Community College](https://www.kirkwood.edu/about-us/faculty-leadership/academic-departments/academic-innovation-strategy-design/tech-scouts) *(2016--2018)*
+**[Tech Scouts](https://www.kirkwood.edu/about-us/faculty-leadership/academic-departments/academic-innovation-strategy-design/tech-scouts)** @ [Kirkwood Community College](https://www.kirkwood.edu/about-us/faculty-leadership/academic-departments/academic-innovation-strategy-design/tech-scouts) *(2016--2018)*
 
 - provided technical support to faculty across all disciplines in the Iowa City campus
 - researched and led training workshops for faculty on educational software and technologies
-- presented review of GoReact at the Iowa Conference on Higher Education in 2016
-
-**[[content/iche-2016-techscouts-goreact.pdf|GoReact]]** (2016)
+- presented demonstration and review of Calendly titled "[[@2017denny_calendly.pdf|Student appointments made easy]]" at internal conference.
+- presented review of [[@2016denny_goreact.pdf|GoReact]] at the Iowa Conference on Higher Education in 2016
 
 **[Resources for New Iowans in Johnson County](https://wjdenny.com/resources-johnson-county/)** *(2016)*
 

@@ -1,8 +1,8 @@
 ---
 tags:
-  - topic/habitus
-  - topic/dei
-  - topic/sla
-  - topic/teaching-ideology
-  - topic/labor-based-grading
+  - culture/habitus
+  - dei
+  - teaching/tesol
+  - teaching/ideology
+  - teaching/labor-based-grading
 ---

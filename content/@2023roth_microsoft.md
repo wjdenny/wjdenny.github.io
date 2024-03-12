@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/legal
-  - topic/ai
+  - legal
+  - ai
 alias:  "Microsoft, GitHub, and OpenAI ask court to throw out AI copyright lawsuit"
 type: article
 title: "Microsoft, GitHub, and OpenAI ask court to throw out AI copyright lawsuit"

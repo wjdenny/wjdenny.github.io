@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/tesol
-  - topic/plagiarism
+  - teaching/tesol
+  - teaching/plagiarism
 ---
 Nearly half of American college students report committing at least minor acts of plagiarism.

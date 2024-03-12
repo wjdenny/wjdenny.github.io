@@ -1,7 +1,7 @@
 ---
 tags: 
   - statement
-  - topic/therapy
+  - therapy
 ---
 My emotions often express themselves through my body.
 

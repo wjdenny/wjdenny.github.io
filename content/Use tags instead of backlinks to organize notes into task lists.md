@@ -1,5 +1,5 @@
 ---
-tags: [ "statement", "topic/pkm/obsidian" ]
+tags: [ "statement", "pkm/obsidian" ]
 ---
 
 Use tags instead of backlinks to organize notes into task lists.

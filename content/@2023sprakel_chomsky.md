@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/education
-  - topic/ai
+  - teaching/education
+  - ai
 alias:  "Chomsky on ChatGPT, Education, Russia and the unvaccinated"
 type: misc
 title: "Chomsky on ChatGPT, Education, Russia and the unvaccinated"

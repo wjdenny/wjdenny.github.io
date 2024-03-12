@@ -1,9 +1,9 @@
 ---
 tags: 
   - statement
-  - topic/higher-education
-  - topic/dei
-  - topic/academic-integrity
-  - topic/teaching/tesol
+  - teaching/higher-education
+  - dei
+  - teaching/higher-education/academic-integrity
+  - teaching/tesol
 ---
 International students often choose majors that they are not interested in.

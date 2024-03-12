@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/sla/writing
-  - topic/sla/syntax-errors
+  - teaching/tesol/writing
+  - teaching/tesol/syntax-errors
 ---
 Treatable errors are rule-governed and thus easier to explain.

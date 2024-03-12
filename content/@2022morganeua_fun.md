@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-  - topic/pkm/smart-notes
+  - pkm/smart-notes
 alias:  "The FUN and EFFICIENT note-taking system I use in my PhD"
 ---
 # The FUN and EFFICIENT note-taking system I use in my PhD

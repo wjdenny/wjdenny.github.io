@@ -1,8 +1,8 @@
 ---
 tags: 
   - source
-  - topic/ai
-  - topic/labor
+  - ai
+  - labor
 alias:  "Researcher Meredith Whittaker says AI’s biggest risk isn’t ‘consciousness’—it’s the corporations that control them"
 type: article
 title: "Researcher Meredith Whittaker says AI’s biggest risk isn’t ‘consciousness’—it’s the corporations that control them"

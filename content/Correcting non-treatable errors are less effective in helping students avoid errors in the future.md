@@ -1,10 +1,10 @@
 ---
 tags:
   - statement
-  - topic/higher-ed
-  - topic/tesol
-  - topic/sla/writing
-  - topic/sla/syntax-errors
-  - topic/sla/developmental-sequences
+  - teaching/higher-education
+  - teaching/tesol
+  - teaching/tesol/writing
+  - teaching/tesol/syntax-errors
+  - teaching/tesol/developmental-sequences
 ---
 Correcting non-treatable errors are less effective in helping students avoid errors in the future.

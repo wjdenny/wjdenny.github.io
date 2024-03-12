@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-  - topic/ai
+  - ai
 alias:  "The 2 Current Major AI Bottlenecks"
 type: article
 title: "The 2 Current Major AI Bottlenecks"

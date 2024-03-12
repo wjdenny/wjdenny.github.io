@@ -1,9 +1,9 @@
 ---
 tags:
   - statement
-  - topic/tesol
-  - topic/plagiarism
-  - topic/cultural-awareness
-  - topic/higher-education
+  - teaching/tesol
+  - teaching/plagiarism
+  - culture/awareness
+  - teaching/higher-education
 ---
 Some cultures take the view that quoting an author implies doubt or disrespect.

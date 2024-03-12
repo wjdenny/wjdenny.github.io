@@ -1,10 +1,10 @@
 ---
 tags: 
   - statement
-  - topic/higher-education
-  - topic/dei
-  - topic/academic-integrity/plagiarism
-  - topic/teaching/tesol
+  - teaching/higher-education
+  - dei
+  - teaching/higher-education/academic-integrity/plagiarism
+  - teaching/tesol
 ---
 Non-native English speaking students are more likely to violate academic integrity policies. [[A study based on Nepalese students found that the implicit culture of education valued status over learning]] [[A study of Pakistani university students reported a significant majority of students copying the work of other students]]
 

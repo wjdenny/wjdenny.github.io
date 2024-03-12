@@ -1,9 +1,9 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/acue/active-learning
-  - topic/teaching
+  - teaching/active-learning
+  - teaching/active-learning
+  - teaching
 ---
 Both digital and hand-written notes can be effective with training. I disagree with Dr. Lineweaver's position on digital note-taking. I agree that it is important to put notes in one's own words, but falling into the habit of writing word for word can happen in either digital or hand-written notes. It is an important skill to learn regardless of how you take notes. Additionally, digital note-taking opens up possibilities for restructuring and connecting your notes in ways that are more difficult in hand-written notes.
 

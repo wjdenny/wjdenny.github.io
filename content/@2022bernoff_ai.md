@@ -1,9 +1,9 @@
 ---
 tags:
   - source
-  - topic/ai
-  - topic/education/writing
-  - topic/academic-integrity
+  - ai
+  - teaching/education/writing
+  - teaching/higher-education/academic-integrity
 alias:  "What AI tools like ChatGPT can write, how should we teach writing?"
 type: article
 title: "What AI tools like ChatGPT can write, how should we teach writing?"

@@ -1,10 +1,10 @@
 ---
 tags:
   - "source"
-  - "topic/reading"
-  - "topic/note-taking"
-  - "topic/knowledge"
-  - "topic/writing"
+  - "reading"
+  - "pkm/note-taking"
+  - "pkm"
+  - "writing"
 alias: "Triaging your reading workload: how to choose when to read something in more depth"
 draft: false
 ---

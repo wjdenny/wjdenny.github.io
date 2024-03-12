@@ -1,7 +1,7 @@
 ---
 tags:
   - source
-  - topic/pkm
+  - pkm
   - todo
 alias: "The Extended Mind"
 ---

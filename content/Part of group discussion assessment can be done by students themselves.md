@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/teaching
+  - teaching/active-learning
+  - teaching
 ---
 Part of group discussion assessment can be done by students themselves.

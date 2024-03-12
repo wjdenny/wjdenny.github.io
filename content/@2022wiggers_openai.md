@@ -1,9 +1,9 @@
 ---
 tags:
   - source
-  - topic/ai
-  - topic/education/writing
-  - topic/academic-integrity
+  - ai
+  - teaching/education/writing
+  - teaching/higher-education/academic-integrity
 alias:  "OpenAI's attempts to watermark AI text hits limits"
 type: article
 title: "OpenAI’s attempts to watermark AI text hit limits"

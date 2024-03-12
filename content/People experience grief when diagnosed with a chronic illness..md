@@ -1,8 +1,8 @@
 ---
 tags: 
   - statement
-  - topic/grief
-  - topic/chronic-illness
+  - grief
+  - chronic-illness
 ---
 
 People experience grief when diagnosed with a chronic illness.

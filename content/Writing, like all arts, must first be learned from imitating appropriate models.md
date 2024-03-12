@@ -1,11 +1,11 @@
 ---
 tags:
   - statement
-  - topic/plagiarism
-  - topic/higher-education
-  - topic/writing
-  - topic/sla/writing
-  - topic/academic-integrity
-  - topic/habitus
+  - teaching/plagiarism
+  - teaching/higher-education
+  - writing
+  - teaching/tesol/writing
+  - teaching/higher-education/academic-integrity
+  - culture/habitus
 ---
 Writing, like all arts, must first be learned from imitating appropriate models.

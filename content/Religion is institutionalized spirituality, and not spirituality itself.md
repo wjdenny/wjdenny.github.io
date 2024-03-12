@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/mental-health
-  - topic/spirituality
+  - mental-health
+  - spirituality
 ---
 Religion is institutionalized spirituality, and not spirituality itself.

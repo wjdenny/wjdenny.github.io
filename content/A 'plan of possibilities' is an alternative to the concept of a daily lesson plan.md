@@ -1,7 +1,7 @@
 ---
 tags: 
   - statement
-  - topic/instructional-design
+  - teaching/instructional-design
 ---
 
 A 'plan of possibilities' is an alternative to the concept of a daily lesson plan.

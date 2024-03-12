@@ -1,8 +1,8 @@
 ---
 tags:
   - statement
-  - topic/tesol
-  - topic/plagiarism
-  - topic/cultural-awareness
+  - teaching/tesol
+  - teaching/plagiarism
+  - culture/awareness
 ---
 There are differences in cultural attitudes towards intellectual property and authorship.

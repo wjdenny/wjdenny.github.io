@@ -1,10 +1,10 @@
 ---
 tags:
   - "source"
-  - "topic/higher-education"
-  - "topic/dei"
-  - "topic/implicit-bias"
-  - "topic/higher-education/retention"
+  - "teaching/higher-education"
+  - "dei"
+  - "teaching/implicit-bias"
+  - "teaching/higher-education/retention"
 draft: true
 ---
 ### Kristina Ruiz-Mesa, PhD; Associate Professor & Basic Course Director; Department of Communication Studies; California State University, Los Angeles [00:00:05] 

@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/ai
-  - topic/labor
+  - ai
+  - labor
 alias:  "How A.I. Can Help"
 type: article
 title: "How A.I. Can Help"

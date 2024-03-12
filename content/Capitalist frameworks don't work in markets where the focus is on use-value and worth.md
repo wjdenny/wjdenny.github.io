@@ -1,5 +1,5 @@
 ---
-tags: [ "statement", "topic/labor", "topic/critical-theory/capitalism" ]
+tags: [ "statement", "labor", "capitalism" ]
 ---
 Capitalist frameworks don't work in markets where the focus is on use-value and worth like in education, healthcare, infrastructure.
 

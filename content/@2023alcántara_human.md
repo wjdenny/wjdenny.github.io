@@ -1,8 +1,8 @@
 ---
 tags:
   - source
-  - topic/ai
-  - topic/academic-integrity
+  - ai
+  - teaching/higher-education/academic-integrity
 alias:  "Is It Human or AI? New Tools Help You Spot the Bots"
 type: article
 title: "Is It Human or AI? New Tools Help You Spot the Bots"

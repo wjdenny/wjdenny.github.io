@@ -1,7 +1,7 @@
 ---
 tags:
   - statement
-  - topic/active-learning
-  - topic/teaching
+  - teaching/active-learning
+  - teaching
 ---
 Group discussions ideally have four members.
