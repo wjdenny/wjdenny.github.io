@@ -1,6 +1,6 @@
 ---
-publish: true
-date: 2022-04-06
+tags: 
+draft: true
 ---
 These are notes from a recorded CareerCon 2019 session, [Live Portfolio and Resume Analysis with Data Science Hiring Managers](https://www.youtube.com/watch?v=cBbYhhH399c), and also a little bit from [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
 
