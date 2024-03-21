@@ -278,7 +278,7 @@ I've never seen the use of the word *problematic* like this. [An article](https:
 
 > the nature of whiteness is to float in our classrooms and to be a contradiction in our assessment ecologies. Whiteness can mean what people want it to mean. Most important, seeing whiteness often means seeing paradox. [page 25--26]
 
-[[Whiteness, or being white, is not the same as having a white racial habitus]]
+[[Being white is not the same as having a white racial habitus.]]
 
 > I use habits of white language (HOWL) to judge the language performances of my students. It feels natural to use HOWL to grade student writing. HOWL clothes me as a teacher like warm robes, vestments, that are easily mistaken to fit everyone just like they fit me. In these ways, HOWL becomes naturalized as universally "good languaging" or "clear writing," even as it is predicated on a haunting, paradoxical nostalgia for language like "when I was in college." [page 26]
 

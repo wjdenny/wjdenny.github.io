@@ -1,7 +1,7 @@
 ---
 tags: 
   - type/statement
-  - topic/teaching/tesol/monolingual-ideology
+  - topic/monolingual-ideology
   - topic/teaching/plurilingualism
   - topic/teaching/tesol
   - topic/teaching/standard-academic-english

@@ -20,11 +20,7 @@ incollection{2017wojahn_first,
 ```
 
 ## Rhetorical Précis
-%% Review a [description of rhetorical précis from Cuyamaca College](https://www.cuyamaca.edu/student-support/tutoring-center/files/student-resources/rhetorical-precis-description-and-examples.pdf). %%
-
-%%
-[Dr. Pacheco-Vega], in [his blog article] titled "[Triaging your reading workload]" ([2019]), argues that [the ways in which we decide when to read an article in more depth can and should vary by individuals and is best learned by experience]. [He] supports this claim by [providing examples of techniques that work for him but others have claimed are not effective as well as vice versa] and finally [encouraging readers to develop their own guidelines for deciding what merits further reading]. [Pachecho-Vega]'s purpose is to [show how to more effectively process reading workloads] in order to [help students and researchers make better decisions about what to read in more depth]. [He] adopts [an informal tone] for the readers of [his blog] and others interested in the topic of [knowledge management]. 
-%%
+#todo
 ## Notes
 > According to the U.S. Census (2014), about 13% of those living in the United States are foreign born, and nearly 21% of the U.S. population speaks a language other than English in teh home. This trend is particularly notable for young people. One in your young adults aged 18--34, or 17.9 million people, speaks a language other than English in the home. That number is up to one in three in states such as New Mexico, Texas, and New York, and as high as one in two in California. [page 173]
 

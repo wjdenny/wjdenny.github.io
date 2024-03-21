@@ -25,7 +25,7 @@ draft: false
 ## Citation
 
 ```bibtex
-@book{1991horwitz&young,
+@book{1991horwitz_language,
 	title        = {Language anxiety: From theory and research to classroom implications},
 	year         = 1991,
 	publisher    = {Prentice Hall},

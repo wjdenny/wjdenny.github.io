@@ -555,8 +555,8 @@ and I wouldn't think Covey's intention is equivalent either.
 ## Citation
 
 ```bibtex
-@book{2022forte,
-	author = {Tiago Forte},
+@book{2022forte_second,
+	author = {Forte, Tiago},
 	title = {Building a Second Brain},
 	publisher = {Atria Books},
 	year = {2022}

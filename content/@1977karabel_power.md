@@ -8,7 +8,7 @@ draft: false
 [[Jerome Karabel]] and [[A. H. Halsey]] edited this collection for [[Oxford University Press]] in 1977.
 
 ```bibtex
-@book{1977karabel,
+@book{1977karabel_power,
 	editor = {Karabel, Jerome and Halsey, A. H.},
 	title = {Power and Ideology in Education},
 	year = {1977},

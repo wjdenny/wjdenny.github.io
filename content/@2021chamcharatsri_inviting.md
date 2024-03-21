@@ -158,7 +158,7 @@ Wouldn't they anyway, though? This just makes it easier for everyone by not tryi
 ## Citation
 
 ```bibtex
-@incollection{chamcharatsri2021,
+@incollection{2021chamcharatsri_inviting,
   doi = {10.4324/9781003257370-4},
   url = {https://doi.org/10.4324/9781003257370-4},
   year = {2021},

@@ -27,7 +27,7 @@ However, this article seems to center whiteness by focusing on how ESL students 
 > Having an appreciation of a student's level of acculturation by way of integration could assist nursing educators to identify those ESL students who may have increased risk of poor academic performance and provide them with the support necessary for success ([[@2018choi_effectiveness|Choi, 2018]]; [[@2019onovo_fundamentals|Onovo, 2019]]; [[@2008salamonson&everett&koch&andrew&davidson_acculturation|Salamonson et al., 2008]]). [page 152]
 
 ^30782a
-
+salism
 > Although students may pass this [TOEFL and other English] examination and gain admittance into nursing programs, many struggle with English language acquisition, and integration ([[@2008salamonson&everett&koch&andrew&davidson_acculturation|Salamonson et al., 2008]]). This struggle leads to poor student outcomes and ultimately, attrition from the program ([[@2013crawford&candlin_language-needs|Crawford & Candin, 2013a]]; [[@2013san-miguel&townsend&waters_redesigning|San Miguel et al. 2013]], [[@2011scheele&pruitt&johnson&xu_asian|Scheele et al., 2011]]). [page 152]
 
 ^56cf89
@@ -78,7 +78,7 @@ However, this article seems to center whiteness by focusing on how ESL students 
 
 ^301b22
 
-> [[@2002sanner_experiences|Sanner et al. (2002)]] found social isolation to be a major theme. Students restorted to verbally retreating/silencing because of their feelings of nonacceptance from their non-ESL peers.  [page 153]
+> [[@2002sanner_experiences|Sanner et al. (2002)]] found social isolation to be a major theme. Students restorted to verbally retreating/silencing salismsalismbecause of their feelings of nonacceptance from their non-ESL peers.  [page 153]
 
 ^dac20c
 

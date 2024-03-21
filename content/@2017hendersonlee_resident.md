@@ -20,11 +20,7 @@ incollection{2017hendersonlee_resident,
 ```
 
 ## Rhetorical Précis
-%% Review a [description of rhetorical précis from Cuyamaca College](https://www.cuyamaca.edu/student-support/tutoring-center/files/student-resources/rhetorical-precis-description-and-examples.pdf). %%
-
-%%
-[Dr. Pacheco-Vega], in [his blog article] titled "[Triaging your reading workload]" ([2019]), argues that [the ways in which we decide when to read an article in more depth can and should vary by individuals and is best learned by experience]. [He] supports this claim by [providing examples of techniques that work for him but others have claimed are not effective as well as vice versa] and finally [encouraging readers to develop their own guidelines for deciding what merits further reading]. [Pachecho-Vega]'s purpose is to [show how to more effectively process reading workloads] in order to [help students and researchers make better decisions about what to read in more depth]. [He] adopts [an informal tone] for the readers of [his blog] and others interested in the topic of [knowledge management]. 
-%%
+#todo
 ## Notes
 > "You want to hear me when I write in English; they want to hear a white student." [page 49]
 
@@ -100,4 +96,55 @@ I get that that isn't fair. But at the same time, students who lack those gramma
 
 [[Grammar acquisition is a gradual process and does not respond to traditional instruction methods]]
 [[Feedback on content was found to be more effective than feedback on grammar and sentence structure]]
+
+> Similarly, Tim expressed dislike for such unidirectional feedback and suggested writing feedback be presented as a conversation between student/teacher and student/student, emphasizing process writing over product writing and supporting the traditionally less powerful oral end of the context of biliteracy continua where resident multilingual writers find voice and agency in discussing their texts. [page 56] #topic/teaching/writing/peer-review 
+
+> Tina spent the majority of class time working independently because she was certain neither her teacher nor her classmates would directly call on her. This, she felt, was mostly due to he fact that she was a resident multilingual student. Additionally, she thought her older age contributed to this divide. Mostly on the periphery of classroom conversations (Duff, 2002), Tina felt that her teacher and classmates viewed her as less interested or competent even though she consistently performed well on assignments and tests, and this minimized her investment, interest, and motivation. [page 56] #topic/bias/asset-focused 
+
+Students who do not appear to participate well in class may have their reasons.
+
+> Both Tina and Tim could only recall instances of classroom discourse invites when the topic revolved around their home country, Vietnam. Likewise, Andi remembered only discourse invites in his math and science classes. In many of his other classes, Andi described being purposefully skipped, which resulted in, according to him, many of his teachers and classmates knowing little about him. This would have required them to acknowledge his racial and ethnic differences, which according to Harklau's (2003) "colorblind" representation is discriminatory. [page 56] #topic/bias/asset-focused 
+
+> Marlene, however, thought being ignored was better than always being viewed as needing help, which had been her experience. This representation mirrored Harklau's (2003) "linguistically deficient" representation, where lack of standard English production is viewed as either a linguistic or cognitive deficit.  [page 56] #topic/bias/asset-focused 
+
+[[Even well-intentioned attempts to support multilingual students are often deficit-based]]
+[[Languages other than English should be viewed as assets rather than deficits]]
+[[Student success depends on a sense of belonging.]]
+[[The dominant narrative of multilingual students is deficit-based]]
+
+> Harklau's (2003) "Ellis Island" representation was most frequently observed in ELL classes where participants recalled writing about their immigrant experience for a number of personal experience assignments. [page 56--57] #topic/bias/asset-focused 
+
+> While not all of these assignments required students to retell their story of coming to America, many required them to make connections to previous experiences in their home countries. For some, like Jack, these were often painful memories, ones he wanted to replace with his current preferred life. [page 57]
+
+I'm definitely guilty of this. I try to give students options, such as "any country you've lived in" but that still centers me and my desire to know more about them. I could instead encourage students to talk/write about something they've learned recently. 
+
+> Regardless of the continually expanding body of literature calling for a bridge between in- and out-of-school literacy practices (Barton & Hamilton, 1998; Gee, 1996; Heath, 1983; Hull & Schultz, 2002), a significant divide existed between home and school literacies for the participants of this study. [page 57]
+
+> wrote outside of school just as much or more than they did in school [page 57]
+
+> Neither Jack nor Marlene, however, recalled an opportunity to bring these writings into the classroom, privileging the power-weighed ends of the content of biliteracy continua and identifying a much needed area of improvement for writing-across-the-curriculum programs and curriculums. For them and other participants, the message here was that in-school writing was more important than out-of-school writing. The representations of these resident multilingual writers across a secondary curriculum resulted in no participants considering themselves to be "good" writers, an obvious consequence for students' language investment (Harklau, 2003); Norton Pierce, 1995). [page 57]
+
+> For some resident multilingual students, this level of attention created a dependency on the ELL classroom, which was often reinforced by general education teachers' willingness to let resident multilingual students go to the ELL classroom to receive help with assignments and tests instead of helping them within the discipline-specific context. In spite of the fact that they allowed students to frequent the ELL classroom, both the Earth Science and the World History teacher were suspicious of the happenings in the ELL classroom. They, for example, wondered how a resident multilingual student who clearly struggled in their class could return from the ELL classroom with "A" work. Further strengthening the divide between ELL and general education classes and teachers is that neither of the teachers addressed their concerns by starting a related dialogue with the student and/or the ELL teacher.  [page 58] #topic/bias/asset-focused 
+
+> The existing disconnect between the *safe house*, or ELL classroom, and the *contact zone*, or general education classrooms (Canagarajah, 1997), is representative of the power elation extremes of the context of biliteracy continua. [page 58]
+
+> The general education teachers, on the other hand, perpetuated the idea of the ELL classroom as a "ghetto" (Valdés, 1998) because it contradicted their familiarity with the power-weighted macro, literate, and monolingual ends of the continua. Here, students are often isolated from general education classes because teachers are uncomfortable with students' resident multilingual status and view them solely as the responsibility of the language specialist. To heal such a divide, Canagarajah (1997) argues that *safe houses* are essential to *contact zones*, supporting a balanced position on the biliterate context continua. [page 58]
+
+How can I learn to facilitate these contentious conversations?
+
+> For most of the participants, the idea of not having a resident multilingual-specific student space in college was worrisome, reiterating Stegemoller's (2009) call for university safe spaces for immigrant students. [page 58]
+
+This is needed because safe spaces are rare. The goal is that all spaces are safe for everyone.
+
+> The minor improvements made in their English writing, for example, did not offset the significant loss of literacy skills within their first languages. In addition to the academic struggles associated with their English language skills, several participants now worried about inadequacies in their primary language. [page 59] #topic/teaching/multilingual #topic/plurilingualism #topic/bias/asset-focused #topic/monolingual-ideology
+
+> Several of the students realized quickly that the preservation of primary language skills, specifically literacy skills, was completely their out-of-school responsibility. [page 59]
+
+"can't teach all languages" -- we can use technology and guided self-study
+
+> A focus shift from solely English acquisition to biliteracy by both teachers and schools would result in a repositioning of resident multilingual students' experiences toward the traditionally less powerful ends of all continua of biliteracy. To accomplish this, however, Fu and Matoush (2006) argue that writing-across-the-curriculum collaboration must first be built on the understanding of writing development as bilingual thinking. When given the writing freedom to move between their primary language and English, Fu, and Matoush (2006) note that resident multilingual students tend to focus less on correct English grammar and more on their content and ideas. [page 59] #topic/teaching/multilingual #topic/plurilingualism #topic/bias/asset-focused 
+
+> By shedding light on the power-weighed positions of seven resident multilingual writers' experiences across a secondary curriculum, this chapter calls for all educators to reorient themselves together toward the needs of these students who deserve "our continual reiminaging and opening up of educational spaces that foster their ogoing development and creative transformation of their transnational--and biliterate--lives and literacies" (Hornberger, 2007, p. 333). [page 61]
+
+
 

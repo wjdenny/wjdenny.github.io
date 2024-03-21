@@ -19,7 +19,7 @@ At least some of the stress seems to be brought on by the frustration of not bei
 
 
 ## Further reading
-- [[@1983guiora]]
+- [[@1984guiora_dialectic]]
 - [[@2012he&lopez&leigh_perceived|He et al. (2012)]]
 - [[@2012dudas_living|Dudas (2018)]]
 - [[@2013crawford&candlin_language-needs|A literature review of the language needs of nursing students who have English as a second/other language and the effectiveness of English language support programmes]]

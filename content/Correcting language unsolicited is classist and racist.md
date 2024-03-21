@@ -1,4 +1,4 @@
 ---
-tags: [ "type/statement", "topic/teaching/tesol/monolingual-ideology" ]
+tags: [ "type/statement", "topic/monolingual-ideology" ]
 ---
 

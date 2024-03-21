@@ -1,7 +1,7 @@
 ---
 tags:
   - explorer
-  - type/index
+  - type/moc
 title: Socioacademic Relationships
 ---
 [[Student success depends on a sense of belonging.]]. These relationships give students [[Success in conventional classrooms is synonymous with adopting a white racial habitus|access to the "white habitus"]] ([[@2022inoue_labor|Inoue, 2022]]) to help them better [[Students who do not have access to a white racial habitus will not easily understand its rules|navigate the language and culture of the institution]] and avoid common pitfalls including plagiarism ([[@2012denny_plagiarism|Denny & Kelley, 2012]], [[@2017bista_academic|Bista, 2017]]). These relationships would also undoubtedly increase a students' sense of belonging, which [[Sense of belonging correlates positively with GPA and success metrics in college|has also been found to increase student success]].

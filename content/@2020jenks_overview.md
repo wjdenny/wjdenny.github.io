@@ -29,12 +29,12 @@ draft: false
 ## Citation
 
 ```bibtex
-    @online{jenks2020,
-        title = {Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!},
-        date = {October 20, 2020},
-        organization = {YouTube},
-        author = {Bryan Jenks},
-        url = {https://www.youtube.com/watch?v=PuOecKqUsRA},
-    }
+@misc{@2020jenks_overview,
+  title = {Comprehensive Overview | Obsidian Block References & Transclusion | Sorry Roam!},
+  year = {2020},
+  author = {Jenks, Bryan},
+  howpublished = {\url{{https://www.youtube.com/watch?v=PuOecKqUsRA}}},
+  note = {Accessed March 13th, 2024}
+}
 ```
 

@@ -8,14 +8,12 @@ draft: false
 
 [[April S. Koch]] and [[Tracy David Terrell]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].
 ```bibtex
-@book{1991horwitz&young,
-	booktitle = {
-		Language anxiety: 
-			From theory and research to classroom implications},
+@book{1991koch_affective,
+	booktitle = {Language anxiety: From theory and research to classroom implications},
 	author       = {Koch, April S. and Terrell, Tracy David},
 	year         = 1991,
 	publisher    = {Prentice Hall},
-	address      = {Englewood Cliffs, New Jersey},
+	address      = {Englewood Cliffs, NJ},
 	editor       = {Horwitz, Elaine K. and Young, Dolly J.}
 }
 ```

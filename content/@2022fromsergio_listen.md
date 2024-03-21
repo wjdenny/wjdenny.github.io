@@ -12,13 +12,12 @@ alias:  "How I Listen AND Take Notes on Podcasts INSIDE Obsidian"
 ## Citation
 
 ```bibtex
-@misc{fromsergio2022, 
-	title={How I Listen AND Take Notes on Podcasts INSIDE Obsidian}, 
-	url={https://www.youtube.com/watch?v=dR-yj2zxu_E}, 
-	journal={YouTube}, 
-	publisher={YouTube}, 
-	year={2022}, 
-	month={Sep}
+@misc{2022fromsergio_listen, 
+  title={How I Listen AND Take Notes on Podcasts INSIDE Obsidian}, 
+  howpublished={\url{https://www.youtube.com/watch?v=dR-yj2zxu_E}}, 
+  publisher={YouTube}, 
+  year={2022}, 
+  month={Sep}
 }
 ```
 

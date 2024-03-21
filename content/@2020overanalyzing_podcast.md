@@ -15,12 +15,12 @@ Source: <https://medium.com/@overanalyzing/this-is-how-i-take-podcast-notes-in-o
 ## Citation
 
 ```bibtex
-@misc{overanalyzing2020, 
-	author = {Overanalyzing}, 
-	title = {This is How I take Podcast Notes in Obsidian}, 
-	howpublished = {\url{https://medium.com/@overanalyzing/this-is-how-i-take-podcast-notes-in-obsidian-659ecc022367}}, 
-	year = {2020}, 
-	note = {[Accessed 27-Nov-2022]}
+@misc{2020overanalyzing_podcast, 
+  author = {Overanalyzing}, 
+  title = {This is How I take Podcast Notes in Obsidian}, 
+  howpublished = {\url{https://medium.com/@overanalyzing/this-is-how-i-take-podcast-notes-in-obsidian-659ecc022367}}, 
+  year = {2020}, 
+  note = {Accessed November 27th, 2022}
 }
 ```
 

@@ -144,7 +144,7 @@ Maybe that's not so bad, with the evidence recorded I can form my own facts arou
 ## Citation
 
 ```bibtex
-@book{2020terkuile,
+@book{2020terkuile_power,
 	title = {The Power of Ritual},
 	author = {Casper ter Kuile},
 	publisher = {HarperOne},

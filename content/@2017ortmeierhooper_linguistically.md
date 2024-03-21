@@ -23,7 +23,7 @@ draft: false
 - Chapter 1: [[@2017ruecker_paying|Paying Attention to Resident Multilingual Students]]
 - Chapter 2: [[@2017gilliland_opportunity|Opportunity Gaps: Curricular Discontinuities across ESL]]
 - Chapter 3: [[@2017deoliveira_common|The Common Core State Standards and Implications for Writing Instruction and Assessment for English Language Learners]]
-- Chapter 4: [[@2017hendersonlee_resident]]
+- Chapter 4: [[@2017hendersonlee_resident|Resident Multilingual Writers Across a Secondary Curriculum: Toward a Postmethod Approach]]
 - Chapter 5: [[@2017wilson_role|The Role of Social Networks and Social Support in the Writing and College Planning of Multilingual Urban Adolescents]]
 - Chapter 6: [[@2017ruecker_special|"I Don't Want to be Special"]]
 
@@ -41,6 +41,12 @@ Focus on the positive! How were things like the U.S. DREAM Act, TRIO programs, a
 - Chapter 9: [[@2017demüeller_digital|Digital Dreams: The Rhetorical Power of Online Resources for DREAM Act Activists]]
 - Chapter 10: [[@2017choudhury_begali|Bengali-Speaking Multilingual Writers in Transition into Community College]]
 - Chapter 11: [[@2017kiernan_immigrant|Immigrant Mosaics: Advancing Multilingual Education in Canadian Postsecondary Settings]]
+
+Part III
+> Recent studies by Kanno and Kangas (2014) suggest that students may gain access into colleges and universities, but that does not necessarily guarantee their preparation or their success. [page 169]
+
+> like Linda Adler-Kassner (2008), we believe that the work of scholars and administrators can be both strategic and idealistic. [page 169]
+
 - Chapter 12: [[@2017wojahn_first|When the First Language You Use is not English: Challenges of Language Minority College Composition Students]]
 - Chapter 13: [[@2017harrison_envisioning|Re-envisioning Faculty Development When Multilingualism is the New Norm: Conversations on First-Year Writing at a Hispanic-Serving University]]
 - Chapter 14: [[@2017monty_transitional|Transitional Access and Integrated Complexity: Interconnecting People, Research, and Media for Transnational Writing Students]]

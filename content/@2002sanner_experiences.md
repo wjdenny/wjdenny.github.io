@@ -8,7 +8,7 @@ draft: false
 [[Susan Sanner]], [[Astrid H. Wilson]], and [[Linda F. Samson]] wrote this article for the [[Journal of Professional Nursing]].
 
 ```bibtex
-article{2002sanner_experiences.
+article{2002sanner_experiences,
   doi = {10.1053/jpnu.2002.127943},
   url = {https://doi.org/10.1053/jpnu.2002.127943},
   year = {2002},

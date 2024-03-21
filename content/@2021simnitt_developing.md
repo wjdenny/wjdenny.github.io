@@ -72,7 +72,7 @@ This is an interesting approach to a reading group. They do the reading in sessi
 ## Citation
 
 ```bibtex
-@incollection{simnitt2021,
+@incollection{2021simnitt_developing,
   doi = {10.4324/9781003257370-11},
   url = {https://doi.org/10.4324/9781003257370-11},
   year = {2021},

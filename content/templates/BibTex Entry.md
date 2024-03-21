@@ -41,11 +41,12 @@ let type = await tp.system.suggester(labels, values, throw_on_cancel, placeholde
 const citekey = tp.file.title
 const yearMatch = tp.file.title.match(/^@([0-9]{4})/)
 const year = yearMatch && yearMatch[1] !== "0000" ? yearMatch[1] : "n.d."
-const title = tp.frontmatter.alias
+const title = tp.frontmatter.alias ?? tp.frontmatter.aliases[0] ?? ""
 
 const fields = {
 	article: [ "author", "journal", "volume", "number", "pages", "month" ],
 	book: [ "author", "publisher", "editor", "address" ],
+	inbook: [ "author", "chapter", "publisher", "volume", "number", "series", "type", "address", "edition", "month", "pages" ],
 	booklet:[ "month", "author", "address", "editor", "volume", "number", "series", "organization" ],
 	conference: [ "month", "author", "booktitle", "address", "editor", "volume", "number", "series", "pages", "address", "organization", "publisher" ],
 	inproceedings: [ "month", "author", "booktitle", "address", "editor", "volume", "number", "series", "pages", "address", "organization", "publisher" ],

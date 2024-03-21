@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/index
+  - type/moc
   - topic/teaching/higher-education
   - topic/dei
   - topic/teaching/higher-education/academic-integrity/plagiarism

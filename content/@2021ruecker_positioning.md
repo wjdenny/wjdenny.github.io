@@ -77,7 +77,7 @@ alias:  "Positioning Bilingualism as an Asset in Rural High Schools"
 ## Citation
 
 ```bibtex
-@incollection{ruecker2021,
+@incollection{2021ruecker_positioning,
   doi = {10.4324/9781003257370-9},
   url = {https://doi.org/10.4324/9781003257370-9},
   year = {2021},

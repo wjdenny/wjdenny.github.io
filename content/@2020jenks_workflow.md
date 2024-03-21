@@ -8,7 +8,6 @@ draft: false
 
 [[Bryan Jenks]] posted this on [[YouTube]].
 
----
 <iframe
  width="720"
  height="576"
@@ -26,12 +25,12 @@ at [11:52](https://youtu.be/Ewhfok91AdE?t=712) he's saying that [[One needs to b
 ## Citation
 
 ```bibtex
-@online{jenks2020,
-	title = {My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes},
-	date = {October 5, 2020},
-	organization = {YouTube},
-	author = {Bryan Jenks},
-	url = {https://www.youtube.com/watch?v=Ewhfok91AdE},
+@misc{@2020jenks_overview,
+  title = {My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes},
+  year = {2020},
+  author = {Jenks, Bryan},
+  howpublished = {\url{{https://www.youtube.com/watch?v=Ewhfok91AdE}}},
+  note = {Accessed March 13th, 2024}
 }
 ```
 

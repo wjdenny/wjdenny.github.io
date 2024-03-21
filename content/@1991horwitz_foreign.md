@@ -10,6 +10,17 @@ draft: false
 > [!summary] Summary
 > %% Write a one-sentence summary of the source. %%
 
+```bibtex
+@incollection{@1991horwitz_foreign,
+  title = {Foreign Language Classroom Anxiety},
+  year = {1991},
+  author = {Horwitz, Elaine K. and Horwitz, Michael B. and Cope, Jo Ann},
+  booktitle = {Language anxiety: From theory and research to classroom implications},
+  editor = {Horwitz, Elaine K. and Young, Dolly J.},
+  pages = {27--38},
+  publisher = {Prentice Hall},
+}
+```
 ## Notes
 > Second language researchers and theorists have long been aware that anxiety is often associated with language learning. Teachers and students generally feel strongly that anxiety is a major obstacle to be overcome in learning to speak another language, and several recent approaches to foreign language teaching, such as community language learning and suggestopedia, are explicitly directed at reducing learner anxiety. p. 28
 

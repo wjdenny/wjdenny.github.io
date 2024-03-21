@@ -2,7 +2,7 @@
 tags: 
   - type/statement
   - topic/critical-race-theory
-  - topic/teaching/tesol/monolingual-ideology
+  - topic/monolingual-ideology
   - topic/teaching/plurilingualism
   - topic/white-supremacy
   - topic/teaching/standard-academic-english

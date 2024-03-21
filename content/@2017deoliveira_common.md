@@ -20,11 +20,7 @@ incollection{2017deoliveira_common,
 ```
 
 ## Rhetorical Précis
-%% Review a [description of rhetorical précis from Cuyamaca College](https://www.cuyamaca.edu/student-support/tutoring-center/files/student-resources/rhetorical-precis-description-and-examples.pdf). %%
-
-%%
-[Dr. Pacheco-Vega], in [his blog article] titled "[Triaging your reading workload]" ([2019]), argues that [the ways in which we decide when to read an article in more depth can and should vary by individuals and is best learned by experience]. [He] supports this claim by [providing examples of techniques that work for him but others have claimed are not effective as well as vice versa] and finally [encouraging readers to develop their own guidelines for deciding what merits further reading]. [Pachecho-Vega]'s purpose is to [show how to more effectively process reading workloads] in order to [help students and researchers make better decisions about what to read in more depth]. [He] adopts [an informal tone] for the readers of [his blog] and others interested in the topic of [knowledge management]. 
-%%
+#todo
 ## Notes
 > The CCSS were developed by the National Governors Association Center for Best Practices (NGA) and the Council of Chief State School Officers (CCSSO), in response to a perceived need by members of these associations for a set of consistent learning goals that would be common for all students across states. They claim that schools have gradually lowered standards for grade-level expectations over the last half century (NGA & CCSSO, 2010a). The NGA and CCSSO identified the need to increase the difficulty of what students are expected to know and be able to do at each grade level in order to prepare students to be college and career ready. [page 36]
 

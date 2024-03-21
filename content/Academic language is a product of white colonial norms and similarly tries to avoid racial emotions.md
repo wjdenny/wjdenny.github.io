@@ -2,7 +2,7 @@
 tags: 
   - type/statement
   - topic/teaching/standard-academic-english
-  - topic/teaching/tesol/monolingual-ideology
+  - topic/monolingual-ideology
   - topic/dei
   - topic/teaching/higher-education
 ---

@@ -14,12 +14,12 @@ His editing process serves as a form of spaced-repetition, and now that I think 
 ## Citation
 
 ```bibtex
-@misc{sims2022, 
-	author = {Raymond D. Sims}, 
-	title = {Using {Snipd} With Obsidian To Maximize Learning From Podcasts},
-	howpublished = {\url{https://medium.com/@raysims/using-snipd-with-obsidian-to-maximize-learning-from-podcasts-990a8a8cb4f}}, 
-	year = {2022}, 
-	note = {[Accessed 27-Nov-2022]}
+@misc{2022sims_snipd, 
+  author = {Raymond D. Sims}, 
+  title = {Using {Snipd} With Obsidian To Maximize Learning From Podcasts},
+  howpublished = {\url{https://medium.com/@raysims/using-snipd-with-obsidian-to-maximize-learning-from-podcasts-990a8a8cb4f}}, 
+  year = {2022}, 
+  note = {Accessed November 27th, 2022}
 }
 ```
 

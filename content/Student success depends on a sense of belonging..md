@@ -10,7 +10,7 @@ There seems to be a connection between "sense of belonging" and adopting the dom
 - [[Students who were not raised in white habitus households struggle to adopt habits of white language in college]]
 - [[Success in conventional classrooms is synonymous with adopting a white racial habitus]]
 - [[The habitus discussed by Inoue is a style of communication that is adopted by a person to mark them as belonging to a particular group]]
-- [[Whiteness, or being white, is not the same as having a white racial habitus]]
+- [[Being white is not the same as having a white racial habitus.]]
 - [[School assessments tend to be designed to measure learning of the dominant majority]]
 - Organize notes on habitus.
 
@@ -25,7 +25,7 @@ For linguistic minority students, deeper work on cultural adaptation and identit
 [[@2017wight_literacy#^91eb91]]
 [[@2017wight_literacy#^634ed1]]
 [[@2017wight_literacy#^472ff8]]
-See also [[@2010kanno_immigrant#^a6f1f0]], [[@2020ter_kuile#^ed1c06]]
+See also [[@2010kanno_immigrant#^a6f1f0]], [[@2020terkuile_power#^ed1c06]]
 On "identity work", see [[@2021fernandes_units#^909e58]]
 [[@2021vanvalkenburgh_literature#^80bf3d]]
 I did a search on "identity" in my vault, and there's a lot to organize here. I'll keep working on that.

@@ -27,12 +27,12 @@ He places activities, exercises, projects, assignments, etc. (smaller units of a
 ## Citation
 
 ```bibtex
-@online{tobias2022,
-	title = {How I Set Up Obsidian for Academic Work},
-	date = {2022-01-04},
-	organization = {YouTube},
-	author = {Evan Tobias},
-	url = {https://www.youtube.com/watch?v=4T0q2kQwc2o},
+@misc{@2022tobias_obsidian,
+  title = {How I Set Up Obsidian for Academic Work},
+  year = {2022},
+  author = {Tobias, Evans},
+  howpublished = {\url{https://www.youtube.com/watch?v=4T0q2kQwc2o}},
+  note = {Accessed March 13th, 2024}
 }
 ```
 
