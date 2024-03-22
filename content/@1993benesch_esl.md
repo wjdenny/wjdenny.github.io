@@ -64,6 +64,8 @@ I've heard the counter argument that it should be the college's job to help a st
 
 > "The 'conversations' I want to help my students join are not the conversations going on in the academy. These are often restricted, artificial, irrelevant, and-let's be frank-boring. I refuse to look at my students as primarily history majors, accounting majors, nursing majors. I much prefer to think of them and treat them as people whose most important conversations will take place outside the academy, as they struggle to figure out how to live their lives- that is, how to vote and love and survive, how to respond to change and diversity and death and oppression and freedom. (p. 320)" 
 
+^4e29ac
+
 [[ESL students may be better served by practical information related to their needs than academic language]]
 
 > "However, the good intentions and hard work of EAP researchers may actually make life harder for both ESL faculty and students because of EAP's accommodation to traditional academic practices which limit the participation of nonnative-speaking students in academic culture. The politics of pragmatism leads to a neglect of more inclusive and democratic practices, such as negotiating the curriculum and collaborative learning because these are rarely practiced in non-ESL classes." 

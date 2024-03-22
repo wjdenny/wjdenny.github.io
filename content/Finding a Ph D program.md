@@ -7,7 +7,7 @@ These are scholars that have done work that aligns well with work I am intereste
 
 Many scholars are well situated in the more specialized fields of TESOL, Second Language Acquisition, Linguistics, English, Rhetoric and Composition, etc. However, the following scholars stand out to me as those who bring those fields into a closer connection to the field of Education.
 
-- [[Kerry A Enright]]
+- [[Kerry A. Enright]]
 - [[Yasuko Kanno]]
 
 ## Associated programs

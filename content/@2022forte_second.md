@@ -265,7 +265,7 @@ Can I use GitHub @ KCC to back up my vault?
 
 > Feyman's approach was to maintain a list of a dozen open questions ... This cross-disciplinary approach allowed him to make connections across seemingly unrelated subjects, while continuing to follow his sense of curiosity.
 
-[[Cross-disciplinary approaches are linked with higher productivity and creativity]]
+[[Cross-disciplinary approaches are linked with higher productivity and creativity.]]
 
 > Ask yourself, "What are the questions I've always been interested in?"
 

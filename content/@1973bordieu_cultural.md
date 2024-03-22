@@ -47,4 +47,32 @@ Wealthy families are able to invest more into the education of their children, t
 
 I think what he's saying here is that the functionalist sociologists had found that there was balance because lower classes had the jobs and other things they wanted and did not yearn for the trapping of higher classes; and vice versa. But he's pointing out that this misses the fact that people are *conditioned* by their classed upbringing to want specific things.
 
-\
+> By making social hierarchies and the reproduction of these hierarchies appear to be based upon the hierarchy of 'gifts', merits, or skills established and ratified by its sanctions, or, in a word, by converting social hierarchies into academic hierarchies, the educational system fulfils a function of legitimation which is more and more necessary to the perpetuation of the 'social order [page 84]
+
+This sleight of hand transforming aristocracy to meritocracy but being still the same sounds similar to the idea of despotism to democracy.
+
+> The objective mechanisms which enable the ruling classes to keep the monopoly of the most prestigious educational establishments, while continually appearing at least to put the chance of possessing that monopoly into the hands of every generation, are concealed beneath the cloak of a perfectly democratic method of selection which takes into account only merit and talent, and these mechanisms are of a kind which converts to the virtues of the system the members of the dominated classes whom they eliminate in the same way as they convert those whom they elect, and which ensures that those who are 'miraculously elected' may experience as 'miraculous' an exceptional destiny which is the best testimony of academic democracy. [page 85]
+
+This is why those rags-to-riches stories that American society likes to exemplify as indicative of the ability of everyone to "pull themselves up by their bootstraps" is complete bullshit. Bourdieu is saying that the ways top schools are able to effectively select their students is hidden behind this illusion of meritocracy, while the few that are able to cross class lines and make there way through are touted as examples of how meritocratic the system is.
+
+> a very pronounced correlation may be observed between academic success and the family's cultural capital measured by the academic level of the forbears over two generations on both sides of the family) [page 86]
+
+I wonder if this holds true for our immigrant students as well.
+
+> the most privileged sections of the dominant classes from the point of view of economic capital and power are not necessarily the most well-off in terms of cultural capital, it may be expected that the hierarchy of values attributed by the academic market to the products of the educational work of the families of the different sections will not correspond very closely to the hierarchy of these sections with regard to economic capital and power. [page 86]
+
+I think he's referring to groups like primary and secondary school teachers. They have higher cultural capital relative to their economic capital. 
+
+>  If the proportion of individuals who do not possess television (and who are distinguished from the possessors of that instrument by the fact that they go in more often for activities commonly held to be the expression of an authentically 'cultured' or refined disposition) varies according to the same law, it is because a refusal to indulge in this activity, which is suspected of being 'vulgar' by reasons of its wide availability (divulgation), is one of the least expensive ways of expressing cultural pretensions (see Table 6). [page 88]
+
+> A number of indicators suggest that the different sections of the dominant classes can also be distinguished according to the amount of free time at their disposal. Thus, for example, the proportion of individuals who go on holiday varies from 95 per cent for teachers, to 92 per cent for engineers, 91 per cent for civil servants, 89 per cent for professionals, 87 per cent for managers, and 81 and 80 per cent for heads of industry and of commerce. The effect of this principle of differentiation is to be seen in a number of activities possessed of a cultural dimension, such as the use of radio or television. [page 106]
+
+Divulgation here refers to the wide availability of television sets; that is, making it vulgar in the sense of having to do with commoners.
+
+> Analysis of the mobility between sections tends to show that the dominant principle of the hierarchy formed by the sections is the possession of economic capital---to the extent, at least, that it is very closely linked to the possession of power. Thus, examination of the intra-generational mobility of the individuals from the different sections who are part of the *Who's Who* census reveals that the proportion of individuals who have moved towards the bottom of the hierarchy during their career, which is more or less nil among business and industrial management, increases more and more as one descends the hierarchy of the sections as it is formed according to the economic criterion [page 89--90]
+
+Downward mobility tends not to happen among upper classes, but increases as one goes down in class.
+
+> the professionals (and especially lawyers and doctors) invest in their children's education but also and above all in consumer goods capable of symbolizing the possession of the material and cultural means of conforming to the rules governing the bourgeois style of life and thereby guaranteeing a social capital or capital of social relationships which will provide, if necessary, useful 'supports': a capital of honourability and respectability which is often indispensable if one desires to attract clients in socially important positions, and which may serve as currency, for instance, in a political career. [page 93]
+
+#todo/read

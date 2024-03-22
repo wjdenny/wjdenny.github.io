@@ -343,11 +343,15 @@ It seems to come from [[Martin Heidegger]] and his [[1927 Heidegger|Being and Ti
 
 > How could my students be liberated if most of them were tacitly being told to take on a different *habitus* just to do the work of the course? I was asking my student to interpellate themselves through my own HOWLing examples. How could my students of color pose their own problems if I wasn't allowing them to use their only language? How could my classroom be anything but a whitely "They classroom" to my students of color? [page 32]
 
-> The stanza is spoken like a sermon or monologue, and incorporates cues to a call and response rhetorical strategy (antiphony) that is common in African-American rhetoric (Sale 41; SMitherman, *Talking* 104) through the use of the repeated, "knowhatimsayin," which begs for an audience response, even if only private. [page 32]
+> The stanza is spoken like a sermon or monologue, and incorporates cues to a call and response rhetorical strategy (antiphony) that is common in African-American rhetoric (Sale 41; Smitherman, *Talking* 104) through the use of the repeated, "knowhatimsayin," which begs for an audience response, even if only private. [page 32]
 
 I think ultimately [[I'm searching for that line between teaching English as a language and teaching a white language habitus]]
 
 > Black students have to ask themselves more consciously than white students: Am I just looking to get me mine or am I looking to uplift my Black community? [page 33]
+
+^6ee649
+
+[[Marginalized students often have more responsibilities to their families and communities than others.]]
 
 > The same pattern of individual education equating to uplifting the Black community can be seen in Rhea Lathan's account of African-American literacy activism in places like the Sea Islands Citizenship School in the 1950s and '60s. [page 33]
 
@@ -425,7 +429,7 @@ Last semester, what did I cultivate in the classroom? Another good question for 
 
 > the field generally has dispensed with thinking that the products of writing processes are the most important things to focus on in writing classrooms and perhaps even in our feedback or evaluation practices; however, I 'd argue we haven't addressed how to do that second part yet. The rest of this book attempts one way to do it. [page 42]
 
-Write a longer response to the Reddit thread on classist corrections; [[Correcting language unsolicited is classist and racist]]
+Write a longer response to the Reddit thread on classist corrections; [[Correcting language unsolicited is classist and racist.]]
 
 > Our work as writing teachers ain't never been just about words. [page 42]
 
