@@ -23,12 +23,11 @@ Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decenterin
 %% Pull quotes from the source and put them here using `>` (blockquotes). %%
 
 ## Further Reading
-%% List other sources that are related or mentioned in this source. %%
-> "One of the barriers to allyship," I explained, "is a lack of compassionate listening. Sometimes aspiring 'allies' want to relate so badly to someone's experience even when it's an experience they know nothing about." [page 2]
+> "One of the barriers to allyship," [Gassam Asare] explained, "is a lack of compassionate listening. Sometimes aspiring 'allies' want to relate so badly to someone's experience even when it's an experience they know nothing about." [page 2]
 
 > Oluo explained that white people's attempts to "relate" often ended up invalidating the harm that racially marginalized people experience. [page 2--3]
 
-Practice compassionate listening to avoid invalidating the experiences of others.
+[[Practice compassionate listening to avoid invalidating the experiences of others.]]
 
 > " [...] To compare an individual experience of being treated differently to a structural issue that systemically harms a group of people is not a fair comparison." [page 3]
 
@@ -65,3 +64,9 @@ In this description, #topic/white-supremacy seems almost indistinguishable from 
 [[Being white is not the same as having a white racial habitus.]]
 
 > Equity will never be a reality while whiteness is being centered in our workplaces. [page 6]
+
+# Footnotes
+
+[^1]: Janice Gassam Asare, "4 Ways White Supremacy Harms Humanity." *Forbes*, May 23, 2022. https://www.forbes.com/sites/janicegassam/2022/05/21/4-ways-white-supremacy-harms-humanity/?sh=1f5164926312 [[@2022gassamasare_white]]
+[^2]: Janice Gassam Asare, "4 Ways That White Supremacy Harms White People," *Forbes*, December 10, 2021, https://www.forbes.com/sites/janicegassam/2020/09/18/4-ways-that-white-supremacy-harms-white-people/?sh=74b1a1e8199e. [[@2021gassamasare_white]]
+[^3]: "White supremacy,"  *Merriam-Webster* Online, accessed April 8, 2023, https://merriam-webster.com/dictionary/white%20supremacy.

@@ -34,9 +34,3 @@ Dr. [[Janice Gassam Asare]] wrote this book.
 - [[@2023gassamasare_decentering_black|What Does It Mean to Center Black Employees?]] #todo/notes
 - [[@2023gassamasare_decentering_steps|Steps to Start Decentering Whiteness in the Workplace]] #todo/notes
 - [[@2023gassamasare_decentering_conclusion|Conclusion: Where Do You Begin?]] #todo/notes
-
-# Footnotes
-
-[^1]: Janice Gassam Asare, "4 Ways White Supremacy Harms Humanity." *Forbes*, May 23, 2022. https://www.forbes.com/sites/janicegassam/2022/05/21/4-ways-white-supremacy-harms-humanity/?sh=1f5164926312 [[@2022gassamasare_white]]
-[^2]: Janice Gassam Asare, "4 Ways That White Supremacy Harms White People," *Forbes*, December 10, 2021, https://www.forbes.com/sites/janicegassam/2020/09/18/4-ways-that-white-supremacy-harms-white-people/?sh=74b1a1e8199e. [[2021gassamasare_white]]
-[^3]: "White supremacy,"  *Merriam-Webster* Online, accessed April 8, 2023, https://merriam-webster.com/dictionary/white%20supremacy.

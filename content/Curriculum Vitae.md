@@ -12,7 +12,7 @@ fontsize: 10pt
 alias:  cv
 permalink: cv
 tags:
-  - explorer
+  - index
   - cv
 ---
 # William Denny

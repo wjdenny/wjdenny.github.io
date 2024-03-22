@@ -1,6 +1,6 @@
 ---
 tags:
-  - explorer
+  - index
   - type/moc
 title: Socioacademic Relationships
 ---

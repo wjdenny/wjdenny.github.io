@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Topics",
       filterFn: (a: FileNode) => {
         const tags = a?.file?.frontmatter?.tags ?? [];
-        return tags.includes(`explorer`);
+        return tags.includes(`index`);
       },
       sortFn: (a: FileNode, b: FileNode) => {
         const aModified = a?.file?.dates?.modified ?? new Date();

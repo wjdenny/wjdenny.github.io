@@ -1,6 +1,6 @@
 ---
 tags:
-  - explorer
+  - index
 ---
 When I taught at a local community college in Johnson County, Iowa, most of our English language learners were immigrants and refugees from the Western Asia and Africa. Many of them were struggling to find assistance with basic needs. I knew that there were quite a few nonprofits and other programs that were available to help people in need, but due to one reason or another there wasn't a single place where their information could be available. To address this need, I started compiling this directory of resources for new Iowans in Johnson county. It started with free English classes and conversation groups for English learners that were available in the area, but quickly grew to address other needs as well.
 
