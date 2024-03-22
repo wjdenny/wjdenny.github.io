@@ -252,6 +252,8 @@ so is contract grading just the expectations of the course made explicit? so any
 
 > ideas about what are standard dialects are subject to constant change as there exist many varieties of language, both within and outside of English, and many, if not most of us code switch regularly, so it is incumbent upon us to rethink and expand our understanding of the English language, especially in this modern world where it is normal to interact with language users across the globe in person or on social media. (page 24--25)
 
+^6d3459
+
 > > Actually, it's not one thing, it's many things. There are many different varieties of English. Some of these are different dialects spoken in different regions of the country or by different sociocultural groups. Some of them are different varieties of language used by different occupations or for different specific purposes: for example, the language of bookies, lawyers, or video game players (p. 14)
 > 
 > page (25)

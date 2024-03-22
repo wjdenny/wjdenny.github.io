@@ -355,6 +355,8 @@ I'm noticing a pattern in rhetoric of this and many papers. `x example` is an ex
 
 > once one takes on a white racial *habitus*, it's your *habitus*, and becomes a part of your values and dispositions, which makes finding fault in it harder to see and feel. Lots of things you found fault with earlier feels more natural and good when it's your habits you're looking at. Our *habitus* are paradoxically natural to us, or naturalized by and for us. [page 34]
 
+^89ea5a
+
 [[Habitus can be hard to confront because it has been naturalized and made invisible]] ^43e954
 
 > My judgements too often invoke a haunting white *habitus* when placed on my students' writing. I ain't white, but I embody HOWL. [page 34]

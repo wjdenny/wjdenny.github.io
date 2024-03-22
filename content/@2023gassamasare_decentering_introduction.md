@@ -37,6 +37,8 @@ It also destroys any trust that person had in you. One key thing I can use to re
 
 > "whiteness always seeks to center itself." [page 4]
 
+^585b96
+
 This might be true of all people, or at least people who are in a dominant group within a society. The Han ethnic group in China seems to center itself quite often within Chinese society, for example. Perhaps it could be further said that *power always seeks to center itself.*
 
 > I would now define white-centering as

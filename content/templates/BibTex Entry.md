@@ -50,7 +50,7 @@ const fields = {
 	booklet:[ "month", "author", "address", "editor", "volume", "number", "series", "organization" ],
 	conference: [ "month", "author", "booktitle", "address", "editor", "volume", "number", "series", "pages", "address", "organization", "publisher" ],
 	inproceedings: [ "month", "author", "booktitle", "address", "editor", "volume", "number", "series", "pages", "address", "organization", "publisher" ],
-	incollection: [ "month", "author", "booktitle", "address", "editor", "volume", "number", "series", "pages", "address", "publisher" ],
+	incollection: [ "month", "author", "booktitle", "address", "editor", "volume", "number", "series", "pages", "publisher" ],
 	manual: [ "author", "organization", "address", "edition", "month", "howpublished" ],
 	mastersthesis: [ "month", "author", "school", "address", "type" ],
 	misc: [ "author", "howpublished" ],

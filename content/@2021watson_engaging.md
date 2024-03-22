@@ -37,6 +37,8 @@ How can we lead students through this kind of transformation?
 
 > When people are taught to believe certain languages or dialects, such as World Englishes, "accented" Englishes, or nonstandardized Englishes (like African American English), are improper, unclear, inadequate, inferior, or inappropriate, they are also implicitly taught to deem speakers of those language varieties in the same way. (page 60)
 
+^d37301
+
 > It is thus no coincidence that the people in the United States who are oppressed along the lines of class, race, and national origin are typically also oppressed linguistically, while those who are most privileged (native-English speaking middle- and upper-class White people) stand to gain the most from monolingualist ideologies. (page 60)
 
 [[People who have the most access to privilege benefit the most from monolingual ideologies]]
