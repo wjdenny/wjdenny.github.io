@@ -5,13 +5,12 @@ aliases:
   - Cultural Reproduction and Social Reproduction
 ---
 # Cultural Reproduction and Social Reproduction
-[[Pierre Bourdieu]] wrote [[@1973brown_knowledge.pdf#page=86|this paper]].
+[[Pierre Bourdieu]] wrote [this paper](@1973brown_knowledge.pdf#page=86).
 
 ```bibtex
 @incollection{@1973bordieu_cultural,
   title = {Cultural Reproduction and Social Reproduction},
   year = {1973},
-  month = {},
   author = {Bourdieu, Pierre},
   booktitle = {Knowledge, Education, and Cultural Change},
   editor = {Brown, Richard},
