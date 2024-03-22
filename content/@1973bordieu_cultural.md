@@ -5,9 +5,7 @@ aliases:
   - Cultural Reproduction and Social Reproduction
 ---
 # Cultural Reproduction and Social Reproduction
-[[Pierre Bourdieu]] wrote this paper.
-
-[[@1973brown_knowledge.pdf#page=86]]
+[[Pierre Bourdieu]] wrote [[@1973brown_knowledge.pdf#page=86|this paper]].
 
 ```bibtex
 @incollection{@1973bordieu_cultural,
