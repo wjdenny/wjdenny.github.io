@@ -1,6 +1,0 @@
-Lessons that use the active learning cycle involve three steps.
-1. **Exploration.** Students are given a problem or situation and asked to explore it. Ideally, this leads to them discovering many of the concepts that will be introduced in the next step. It's perfectly fine if the task is a little beyond the capabilities of the students. The point of the exploration phase in the active learning cycle is to identify a gap in the knowledge needed to complete the task. However, it shouldn't feel so overwhelming as to make them less interested.
-2. **Explanation.** Once student's have identified the limits of their knowledge, it's time to expand on it. This step will usually involve a mini-lecture to cover the gaps that were revealed at the conclusion of the exploration step.
-3. **Application.** Finally, students apply the knowledge gained in the explanation step to handle a similar (or slightly more difficult) problem as what was given in the exploration step. 
-
-- [ ] dv list of active learning lessons

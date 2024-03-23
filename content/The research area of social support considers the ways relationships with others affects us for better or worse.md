@@ -6,7 +6,7 @@ The research area of social support considers the ways relationships with others
 Hirsch describes the negative affects of these relationships as "[[@2017wilson_role#^f29f7a|social rejection]]" as opposed to social support.
 
 See also: 
-- [[Positive supportive relationships between faculty and students can have positive effects on equity in education.]]
+- [[Socioacademic Relationships]]
 ## Sources
 [[@2017wilson_role]] citing Morgan, 1990
 

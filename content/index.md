@@ -15,10 +15,19 @@ Read more about the [[Personal Knowledge Management|knowledge management methods
 Read more about [[Organization|how this collection is organized]].
 Sometimes I post shorter things on <a rel="me" href="https://pkm.social/@wjd">Mastodon</a>.
 
-## Recent pages
-- [[It is important for schools to be aware of the language skills of its students.]]
-- [[Positive supportive relationships between faculty and students can have positive effects on equity in education.]]
-- [[Social and economic capital can provide advantages to students in higher education.]]
-- [[Non-native English speakers in higher education are not a homogeneous group.]]
-- [[Linguistic minority students face a unique set of challenges.]]
-- [[People who have had formal education in their first language learn a second language faster than those without.]]
+## Areas of interest
+- [[Linguistic minority students in higher education.md|Linguistic minority students in higher education]]
+- [[Socioacademic Relationships|Socioacademic Relationships]]
+- [[Linguistic minority students and academic dishonesty|Linguistic minority students and academic dishonesty]]
+
+## Recent writing
+- [[Learned helplessness is the idea that a person can withdraw from social activities when they feel unable to predict whether their action will result in positive or negative reactions..md|Learned helplessness is the idea that a person can withdraw from social activities when they feel unable to predict whether their action will result in positive or negative reactions.]]
+- [[Learned helplessness may explain some cases of communication apprehension..md|Learned helplessness may explain some cases of communication apprehension.]]
+- [[Social and economic capital can provide advantages to students in higher education..md|Social and economic capital can provide advantages to students in higher education.]]
+- [[Non-native English speakers in higher education are not a homogeneous group..md|Non-native English speakers in higher education are not a homogeneous group.]]
+- [[Survey students about their technology usage and consider developing lessons and support around that knowledge.md|Survey students about their technology usage and consider developing lessons and support around that knowledge]]
+- [[People who have had formal education in their first language learn a second language faster than those without..md|People who have had formal education in their first language learn a second language faster than those without.]]
+- [[The research area of social support considers the ways relationships with others affects us for better or worse.md|The research area of social support considers the ways relationships with others affects us for better or worse]]
+- [[Social network theory supposes that the foundation of social life is the relationships between people and the patterns thereof.md|Social network theory supposes that the foundation of social life is the relationships between people and the patterns thereof]]
+- [[Being white is not the same as having a white racial habitus..md|Being white is not the same as having a white racial habitus.]]
+- [[Correcting language unsolicited is classist and racist..md|Correcting language unsolicited is classist and racist.]]

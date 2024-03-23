@@ -50,9 +50,9 @@ I could also survey students to see how their elders felt about early attempts t
 
 > Work on learned helplessness stressed the importance of consistency in rewards and punishments. Random and inconsistent patterns of rewards, punishments, and nonresponses for engaging in the same activity were hypothesized to lead to behavioral withdrawal. p. 5
 
-[[Learned helplessness is the idea that a person can withdraw from social activities when they feel unable to predict whether their action will result in positive or negative reactions]]
+[[Learned helplessness is the idea that a person can withdraw from social activities when they feel unable to predict whether their action will result in positive or negative reactions.]]
 
-[[Learned helplessness may explain some cases of communication apprehension]]
+[[Learned helplessness may explain some cases of communication apprehension.]]
 
 > Children who are not provided with the opportunity to garner good communication skills early in life are more likely to be apprehensive than those who receive a wealth of early experience in communication. Although the evidence for this explanation is indirect at best, there does seem to be some justification for believing that skill development is related to the development of apprehension. It may well be that the critical issue is when skills develop. p. 5
 
@@ -76,13 +76,13 @@ I could also survey students to see how their elders felt about early attempts t
 
 > One of the critical prerequisites for success in virtually any occupation is a person's ability (and willingness) to communicate. In initial employment interviews, some evidence suggest that highly apprehensive applications fare less well. They are perceived less positively and are offered isgnifncantly lower starting salaries (Daly, Richmond, & Leth, 1979). In selecting positions, highly apprehensive individuals choose occupations which they perceive to have lower communication associated with them (and which, parenthetically, are usually of lower status) (Daly & McCroskey, 1975). p. 7
 
-[[Communication apprehension also has negative effects in the workplace]]
+[[Communication apprehension also has negative effects in the workplace.]]
 
 How does this relate to self-advocacy? As in, is self-advocacy "apprehension" a form of communication apprehension?
 
 > [A skill development] approach assumes that the major problem involved in apprehension is the person's limited knowledge about, or ability in, communication. Thus, if a person's skill at communicating is enhanced, his or her apprehension would be alleviated. In a rough sense, that is the basis of most communication classes. When people get more experience in actually talking, they will feel more comfortable about it. Regrettably, the weight of evidence does not support this reasoning. Some studies suggest that for highly apprehensive people a class that attempts to teach skills can actually boomerang-- making them even more apprehensive (Richmond, 1984; Richmond & McCroskey, 1988), a finding reminiscent of the vicious circle mentioned in the section on the development of the apprehension. Moreover, evidence also suggests that by the time people reach college the actual skill levels of high and low apprehensive individuals may not really be that different. What is different (in terms of magnitude) is the belief, on the part of the high apprehensive, that is or her skills are substantially less than average. p. 8
 
-Most communication classes operate under the assumption that peoples' communication apprehension can be reduced by developing the necessary skills. [[Evidence does not support the idea that communication apprehension can be reduced through skills training alone]]
+Most communication classes operate under the assumption that peoples' communication apprehension can be reduced by developing the necessary skills. [[Evidence does not support the idea that communication apprehension can be reduced through skills training alone.]]
 
 > The second research approach has a more clinical orientation. The most common behavioral therapy used on communication apprehension is systematic desensitization, a therapy that attempts to teach the anxious individual to link relaxation cues to images of communication events (Friedrich & Goss, 1984). This therapy has a long history of success with apprehension. There is also good data to suggest that it can be administered by people with relatively little training and can result in substantial changes after only five or six treatment sessions (many universities and colleges have ongoing systematic desensitization programs).  p. 8
 
@@ -112,7 +112,7 @@ High-stakes oral assessments tick nearly every one of those boxes.
 
 > The fear of giving a public speech is the single biggest fear of the American population (Bruskin, 1973) exceeding such phobias as fear of snakes, heights, and elevators. Interestingly, in that survey, public speaking was a major fear of only those earning less than what today would be about $70,000. For those in higher-income brackets, public speaking was seldom a fear. p. 11-12
 
-[[Fear of speaking is the most reported fear in the United States]]
+[[Fear of speaking is the most reported fear in the United States.]]
 [[Public speaking skills have significant economic value.]]
 
 > evidence suggests that people who experience stage fright tend to become highly self-focused as a function of feeling conspicuous. Increased self-focus leads to reduced attention on the audience and the environment, leading, in turn, to poorer speech performances. p. 12
@@ -131,4 +131,4 @@ I should ask my classes if they feel anxious or nervous in various communication
 
 > A third factor in understanding stage fright is the audience. In conversations, meetings, and groups, audience characteristics play some role but certainly not as powerful a role as they do in public-speaking situations. In public speaking one is addressing an audience, and it can be difficult to adapt one's message properly to the audience. But certain characteristics of the audience can make it doubly difficult. For instance, the greater the heterogeneity of the audience the more anxious that speakers tend to be. p. 12
 
-[[Audiences made up of different types of people can trigger speech anxiety]] 
+[[Audiences made up of different types of people can trigger speech anxiety.]] 

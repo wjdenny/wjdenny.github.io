@@ -29,6 +29,8 @@ incollection{2017harrison_envisioning,
 
 > Beatrice Mendez Newman argues, drawing on her experience as a writing program administrator at a Texas HSI, thee composition classroom, with its relatively low enrollment and active learning pedagogy, figures "prominently in the HSI student's decision to persist or drop out, to cross the 'threshold' or to retreat from the institution" (2007, p. 23). At FIU, the first-semester writing class is a significant indicator of our students' likelihood for degree completion, as 50% of the students who fail their first composition course leave the university before their second year. [page 190]
 
+^37d143
+
 > Bruce Horner, Min-Zhan Lu, Jacqueline Jones Royster, and John Trimbur (2011) to "see difference in language not as a barrier to be overcome or as a problem to manage" but as a rhetorical resource (p. 303). [page 190--191]
 
 > "difference-as-a-resource" perspective as opposed to a "difference-as-deficit" view (Canagarajah, 2002, p. 13) and code-meshing, a form of writing in which writers incorporate their own languages and varieties of English with dominant conventions in "rhetorically strategic ways" (Canagarajah, 2006, p. 598; Canagarajah, 2013, p. 40). [page 191]

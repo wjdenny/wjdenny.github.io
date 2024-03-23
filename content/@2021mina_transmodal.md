@@ -40,13 +40,15 @@ draft: false
 
 > [[2014 Hafner|Hafner's (2014)]] findings highlight the **value of ==exploring multilingual students' prior knowledge and experiences with multimodal practices as a means to determine possible areas for target instructions and scaffolding**==. (p. 48)
 
+^5f85a6
+
 > **when students realizes the similarities between the new task and their prior experience, they bring that experience into play in the new task** ([[2000 Bransford, Pellgrino, & Donovan|Bransford, Pellegrino, & Donovan, 2000]]). (p. 50)
 
 > It's worth cautioning here that being responsive to students' needs doesn't mean starting from scratch or creating whole new course materials every semester; rather, it means adjusting the materials, expanding on some concepts, and cutting redundant materials and concepts with which they are already familiar. (p. 50)
 
 > **scaffolding activities, or those mini-assignments that break down the multimodal composing practices into small and more manageable stages**. (p. 52)
 
-[[Scaffolding is a technique where we break down a complex skill into smaller parts to help students reach the more complex goal]]
+[[Scaffolding is a technique where we break down a complex skill into smaller parts to help students reach the more complex goal]] ^e305b8
 
 > My integration of metacognitive activities was informed by prior research ([[2016 Taczak & Robertson|Taczak & Robertson, 2016]]) that concluded that **when students engage in this reiterative rhetorical reflection, they are more likely to answer the "why?" question about their rhetorical choices, how these rhetorical choices would translate into actual writing, how all these decisions affect the writing process and learning, and how this learning will affect future writing situations.** (p. 54) 
 

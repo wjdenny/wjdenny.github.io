@@ -19,7 +19,7 @@ Another form involves the academic skills and cultural mores used in higher educ
 tag:#type/source family support
 ```
 
-For students who lack these forms of capital, [[Positive supportive relationships between faculty and students can have positive effects on equity in education.|socio-academic relationships between faculty and students can provide opportunities to build them.]]
+For students who lack these forms of capital, [[Socioacademic Relationships|socio-academic relationships between faculty and students can provide opportunities to build them.]]
 
 [[Help students build networks of support in the community]]
 

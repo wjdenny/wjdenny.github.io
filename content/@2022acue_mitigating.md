@@ -31,6 +31,8 @@ draft: false
 
 > **I share with students through an explainer video how I read the rubric so that they're able to see exactly how I am interpreting the different categories** in order to really create a footing where students understand what's expected of them. Students come into the classroom with a lot of different backgrounds and so sharing all of this information creates a transparency for students that allows them to know exactly what's expected of them and how to engage with the material without, without me assuming that they're going to know exactly how to interpret the rubric or how to even interpret the assignment on its own. 
 
+^8c12fc
+
 [[Creating a video that explains the rubric and shows examples can help students better understand how the rubric will be applied]]
 
 > It's very transparent and you felt you knew exactly what you needed to do in order to get that good grade because it kind of relieves the stress of the grade. So I think it allowed more space to focus on actually learning the material. 

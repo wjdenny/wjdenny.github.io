@@ -4,7 +4,7 @@ tags: type/statement
 Social network theory supposes that the foundation of social life is the relationships between people and the patterns thereof. [[@2017wilson_role#^5c86ba]]
 
 See also:
-- [[Positive supportive relationships between faculty and students can have positive effects on equity in education.]]
+- [[Socioacademic Relationships]]
 
 ## Sources
 [[@2017wilson_role]] citing Marin & Wellman
