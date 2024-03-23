@@ -2,9 +2,8 @@
 tags:
   - type/statement
   - topic/teaching/active-learning
-permalink: permalink1
 aliases:
-  - alias1
+  - active-learning-lessons
 ---
 Active learning lessons can be designed with three steps. These steps are intended to reveal gaps in students' knowledge on the topic, provide missing information, and give students an opportunity to apply the new information to a similar problem. Incorporating active learning lessons into the curriculum has been found to increase retention, particularly among marginalized students[^3].
 
