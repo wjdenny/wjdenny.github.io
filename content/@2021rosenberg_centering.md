@@ -36,9 +36,9 @@ draft: false
 
 > A subsequent survey project focused on UTEP and NMSU multilingual students' experiences in their classrooms. Though **plurilingual students generally have high pass rates (70--80%), the researchers discovered that these students were less likely to have access to textbooks and good internet connections compared to their monolingual peers** ([[Brunk-Chavez et al. (2015)|Brunk-Chavez et al., 2015]]; [[Wojahn et al. (2017)|Wojahn et al., 2017]]). Some students also said that they were confused by the Learning Management System (LMS) used by the institution, or they didn't realize that they needed to log on to the LMS at the start o the semester. These survey findings helped instructors understand why some multilingual students might not be reading the textbook or paying attention to their announcements on the LMS. (page 180)
 
-[[Multilingual students are less likely to have quality internet connections at home]]
-[[Multilingual students experience greater challenges in using school learning management systems]]
-[[Multilingual students are less likely to have access to textbooks]]
+^3fd73d
+
+[[It is important for schools to be aware of the language skills of its students.]]
 
 > Monolingual instructors, in particular, came to recognize that when students used a language other than English while working in groups, those who had a stronger English vocabulary acted as language brokers and translated terminology for fellow students whose English was more limited. (page 181)
 

@@ -75,7 +75,7 @@ The term bilingual or multilingual became common as a way to center the assets t
 
 The term linguistic minority is used in higher education and applied linguistic contexts to describe students who speak a language other than English at home in English-dominant societies.
 
-Terms such as English language learners (ELLs) and limited English proficient (LEP) are commonly used in K-12 education but focus primarily on the deficits of students.
+Terms such as English language learners (ELLs) and limited English proficient (LEP) are commonly used in K-12 education but focus primarily on the deficits of students. ^8ed3d1
 
 > authors in this collection writing from K-12 perspectives may use the term *English language learner* (*ELL*). [page 5]
 

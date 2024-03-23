@@ -1,3 +1,8 @@
+---
+tags:
+  - index
+  - type/moc
+---
 This page serves as an index of atomic ideas and related maps of content on the topic of linguistic minority post-secondary students. As described in [[Personal Knowledge Management]], the statements represented as links here represent [[Atomic Notes|an irreducible idea]] which is given its own page in the collection in order to allow it to be clearly and uniquely defined and freely associate with other ideas across the collection. It is ongoing work to prune, divide, combine, and cultivate these ideas.
 
 - [[It is a challenge to categorize linguistic minority students]]
@@ -36,5 +41,5 @@ This page serves as an index of atomic ideas and related maps of content on the 
 - [[Some cultures take the view that quoting an author implies doubt or disrespect]]
 ## Gaps in the literature (or just my exposure to it so far)
 - [[@2017ruecker&ortmeier-hooper_paying#^22b6f0|[[@2017ortmeier-hooper:paying-attention]] reports on the concept of *familismo* among Latino students, but I wonder if similar studies have been done for African students; Sudanese, Congolese, etc. Such a study should be directed at colleges with significant numbers of these students; perhaps data from https://www.higheredimmigrationportal.org/national/national-data/ or https://www.presidentsalliance.org/immigrant-origin-students-in-u-s-higher-education/ might help identify those.
-- What are the requirements for teaching college-level EAP across the United States? For example, at Iowa, it seems to only require a bachelor's degree in anything.
+- What are the requirements for teaching college-level EAP across the United States? For example, at Iowa, it seems to only require a bachelor's degree in anything. This can pose challenges for EAP programs in finding faculty who have training in working with linguistic minority students and who have committed to advocating for their support.
 - Do linguistic minority students have higher rates of communication apprehension than other students ([[@1991daly_understanding]], [[@1991scovel_effect]], [[@1991horwitz_language]])? In order to address this, I would need an anxiety assessment that can function independent of language ability.

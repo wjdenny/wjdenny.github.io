@@ -37,7 +37,7 @@ article{2023guo_ethnic,
 
 > The continuous influx of Asian immigrants, together with ongoing anti-Asian sentiments (Tessler et al., 2020) makes it increasingly important to understand the mental health issues of this population. [page 1]
 
-> Among many factors that influence mental health, neighborhood is an important context and social determinant of health for Asian immigrants. Like other ethnic minority groups, Asian Americans tend to cluster in neighborhoods with high ethnic concentration and strong ethnic ties (i.e. ethnic enclaves) (Logan et al., 2002). [page 1]
+> Among many factors that influence mental health, neighborhood is an important context and social determinant of health for Asian immigrants. Like other ethnic minority groups, Asian Americans tend to cluster in neighborhoods with high ethnic concentration and strong ethnic ties (i.e. ethnic enclaves) (Logan et al., 2002). [page 1] #topic/immigration/enclaves
 
 > A social foundation of such ethnic neighborhoods that is believed to benefit the health of their residents is social capital (Yang et al., 2020). Generally defined as a stock of social connections and resources embedded in interpersonal relationships (Furstenberg & Kaplan, 2004), social capital provides trust, reciprocity, and shared value for immigrants, and can be transformed to tangible resources (e.g. information, support exchanges), promoting immigrants' economic, social, and psychological well-being (Almeida et al., 2009). [page 1]
 

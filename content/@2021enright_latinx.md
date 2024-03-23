@@ -20,6 +20,8 @@ draft: false
 
 > Information presented *about* youth at school fundraising events framed youth as deserving but lacking essential opportunities and experiences, with no attention to their family or community-based talents and resources. (page 157)
 
+^7bc9de
+
 [[The dominant narrative of multilingual students is deficit-based]]
 
 > Youth reported the greatest prevalence of deficit perspectives and low expectations among work-study supervisors employed by sponsoring work sites. (page 157)

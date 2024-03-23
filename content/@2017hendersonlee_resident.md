@@ -107,6 +107,8 @@ Students who do not appear to participate well in class may have their reasons.
 
 > Marlene, however, thought being ignored was better than always being viewed as needing help, which had been her experience. This representation mirrored Harklau's (2003) "linguistically deficient" representation, where lack of standard English production is viewed as either a linguistic or cognitive deficit.  [page 56] #topic/bias/asset-focused 
 
+^034973
+
 [[Even well-intentioned attempts to support multilingual students are often deficit-based]]
 [[Languages other than English should be viewed as assets rather than deficits]]
 [[Student success depends on a sense of belonging.]]

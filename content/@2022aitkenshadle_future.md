@@ -133,7 +133,9 @@ I wonder if there are ways to do this with existing [[Institutional Research]] d
 
 > [[2019 Park|Park (2019)]] found that international students progressed through community college ESOL programs more rapidly than U.S.-educated language minority students, suggesting that students who have received formal reading, writing, and grammar instruction in their own language fare better in ESOL classes than students whose language instruction was interrupted, or that ESOL course curricula are geared toward the former. [page 28]
 
-[[Students who have had formal education in their first language move through ESL programs faster than other immigrant students]]
+^d33ef3
+
+[[People who have had formal education in their first language learn a second language faster than those without.]]
 
 Maybe [[Global Learning]] records of high school transcripts and other university transcripts can be combined with other institutional data to distinguish international students from other ESOL students? for the [[Data Analysis Project]]
 
@@ -147,7 +149,9 @@ Maybe [[Global Learning]] records of high school transcripts and other universit
 
 > [[2011 Becker|Becker (2011)]] linked educational attainment in immigrants' home countries with other forms of "cultural capital" such as socioeconomic status and prestige as determinants leading to success in transitioning from ESOL instruction to credit courses at community colleges. [page 29]
 
-[[Factors such as home country education, socioeconomic status, and other currencies of cultural capital have an affect on immigrant student success in college]]
+^9e547e
+
+[[Social and economic capital can provide advantages to students in higher education.]]
 
 > [[2016 Fong et al.|Fong et al. (2016)]] also found that among Hispanic students, those with limited English proficiency had significantly greater retention than their peers, a fact possibly attributed to the support students experience as a result of the camaraderie among non-English speaking students, or the motivational traits often characteristic of immigrant students, noted above. By nurturing a distinct cohort of immigrant students, the Future Promise initiative could potentially create this same spirit of camaraderie. [page 29--30]
 

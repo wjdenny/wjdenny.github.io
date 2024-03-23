@@ -27,7 +27,7 @@ draft: false
 ## Rhetorical Précis
 [[Robert T. Teranishi]], [[Carola Suárez-Orozco]], and [[Marcelo Suárez-Orozco]], in their article titled "Immigrants in Community Colleges", argue that the success and inclusion of immigrants should be a national priority and a clear path to support them is through the community college system. They support this claim by highlighting the role that community colleges play in social and economic mobility while remaining affordable and finally drawing a connection between the success of college-age immigrant children and the health of the nation. The article's purpose is to draw attention to the need for support of immigrant students in college. They adopt a formal and urgent tone for the readers of [[The Future of Children]] and others interested in the topic of adolescent and young adult development.
 ## Notes
-[[Factors such as home country education, socioeconomic status, and other currencies of cultural capital have an affect on immigrant student success in college]]
+[[Social and economic capital can provide advantages to students in higher education.]]
 
 [[The population of linguistic minority students is growing quickly]]
 

@@ -11,4 +11,4 @@ Being white is not the same as having a white racial *habitus*. The white habitu
 [^1]: [[@2023gassamasare_decentering_introduction#^47e6aa]] 
 [^2]: [[@2022inoue_labor#^89ea5a]]
 [^3]: [[@2022inoue_labor#^4cf719]]
-[^5]: [[@2023gassamasare_decentering_introduction#^585b96]]; [[@1973bordieu_cultural]]
+[^5]: [[@2023gassamasare_decentering_introduction#^585b96]]; [[@1973bourdieu_cultural]]

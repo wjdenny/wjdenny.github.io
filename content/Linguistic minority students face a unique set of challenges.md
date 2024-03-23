@@ -1,5 +1,5 @@
 - While language proficiency is the defining characteristic associated with linguistic minority students, there are several challenges faced by this group that are not addressed by language instruction support.
-- [[Factors such as home country education, socioeconomic status, and other currencies of cultural capital have an affect on immigrant student success in college]]
+- [[Social and economic capital can provide advantages to students in higher education.]]
 - Financial challenges
 	- [[Linguistic minority students can be challenged by higher rates of poverty]] 
 - Linguistic minority students can be challenged by cultural norms in higher education. 
@@ -33,7 +33,7 @@
 	- [[The anxiety surrounding immigration issues can put unusual pressures on immigrant students]] 
 	- This affects their academic work, as we know that [[People acquire language better when their affective filters are not interfering]]
 - History of disrupted education
-	- [[Students who have had formal education in their first language move through ESL programs faster than other immigrant students]] which tells us that students without formal education in their first language would not do as well.
+	- [[People who have had formal education in their first language learn a second language faster than those without.]] which tells us that students without formal education in their first language would not do as well.
 	- Even for students who attended U.S. high schools, [[Students who struggle with understanding English in high school often will end up struggling in other subjects as well.]] 
 	- [[Linguistic minority students' education backgrounds vary widely even if they attended local high schools]] 
 - Segregation

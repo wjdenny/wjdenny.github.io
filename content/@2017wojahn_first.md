@@ -70,7 +70,9 @@ Maybe it's better if students don't see me as a "professor". see: [[@2017monty_t
 
 > Institutional data gathering can lead to programmatic changes. For example, additional data at NMSU also supported our provost's recent decision to move two faculty who teach first-year composition for international students into the Department of English, home to "the" writing program. Previously, composition courses for U.S. residents and international students-- and their instructors-- were separated by departments. Because of the additional staff who are sharing their second language writing expertise, all instructors can now enjoy professional development and extended conversations about how to work effectively with linguistically diverse students in their classrooms, in the Writing Center, and beyond. [page 183]
 
-> At the course level, instructor preparation and attitude can improve the experiences of the growing number of U.S. resident students whose first language is other than English (Miller-Cochran, 2010). A crucial aspect of supporting students in a writing course iks perceiving multilingualism as an asset rather than as a deficit. Jordan's (2009) study of multilingual writers in composition highlighted students' lexical competence, awareness of cultural contexts, and sensitivity to group dynamics. [page 184]
+> At the course level, instructor preparation and attitude can improve the experiences of the growing number of U.S. resident students whose first language is other than English (Miller-Cochran, 2010). A crucial aspect of supporting students in a writing course is perceiving multilingualism as an asset rather than as a deficit. Jordan's (2009) study of multilingual writers in composition highlighted students' lexical competence, awareness of cultural contexts, and sensitivity to group dynamics. [page 184]
+
+^cf808b
 
 > to learn more about students' language backgrounds and transitions entering college, we can ask students to write literacy narratives at the start of the semester (Ortmeier-Hooper, 2008; Sharma, 2015). [page 184]
 

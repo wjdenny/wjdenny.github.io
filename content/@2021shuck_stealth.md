@@ -24,9 +24,7 @@ draft: false
 
 > Boise State's U.S.-resident multilingual population is significantly larger, based on estimates from institutional data. A simple query about the language backgrounds of all students during mid-spring 2020 revealed that 1355 students (7.67% of FTE), including international students, indicated that their native language was not English. (page 143)
 
-[[Collecting nuanced data on language use is critical for supporting the diversity efforts of an institution]]
-
-This quote about institutional data got me thinking about [[An Argument For Better Language Data Collection]].
+This quote about institutional data got me thinking about [[It is important for schools to be aware of the language skills of its students.]].
 
 > This is not an estimate of how many English learners we have, as the definition of "native speaker" is widely contested (e.g., [[@2011ruecker_challenging|Ruecker, 2011]]; [[2006 Shuck|Shuck, 2006]]). Moreover, students whose first language was not English may be far more proficient in English than in that native language. Nevertheless, of the 1[,]355 current students who indicated that their native language was not English, only 298 were international students on visas. (page 144)
 
@@ -71,9 +69,9 @@ Another one I thought of was "[[What do Americans know about your country]]?" as
 
 [[When teaching keyboarding skills, use inclusive images and reference to other keyboard layouts besides English]]
 
-> The use of Twitter in this context was the brainchild of then-Boise State faculty member [[Emily Simnitt]], whose work is also in this volume. She leveraged the ease of our Middle Eastern student cohort had with smartphone technology in order to highlight differences between Twitter literacy and academic literacy. Paradoxically, the presentations that emerged blurred distinctions between these two domains. The plurilingual-- and multimodal-- communicative resources that the instructors recognized crated a multi-voiced space where those resources became rhetorical assets for the student presenters. (page 150)
+> The use of Twitter in this context was the brainchild of then-Boise State faculty member [[Emily Simnitt]], whose work is also in this volume. She leveraged the ease of our Middle Eastern student cohort had with smartphone technology in order to highlight differences between Twitter literacy and academic literacy. Paradoxically, the presentations that emerged blurred distinctions between these two domains. The plurilingual-- and multimodal-- communicative resources that the instructors recognized created a multi-voiced space where those resources became rhetorical assets for the student presenters. (page 150)
 
-[[Survey students about their technology and language usage and consider developing lessons and support around that knowledge]]
+[[Survey students about their technology usage and consider developing lessons and support around that knowledge]]
 
 > the faculty came to increasingly focus their assessment of student work on rhetorical effectiveness and contributions of labor than on native-speaker "standards" of good writing. (page 151)
 

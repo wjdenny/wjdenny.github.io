@@ -33,6 +33,8 @@ incollection{2017harrison_envisioning,
 
 > "difference-as-a-resource" perspective as opposed to a "difference-as-deficit" view (Canagarajah, 2002, p. 13) and code-meshing, a form of writing in which writers incorporate their own languages and varieties of English with dominant conventions in "rhetorically strategic ways" (Canagarajah, 2006, p. 598; Canagarajah, 2013, p. 40). [page 191]
 
+^eed7d4
+
 > Focused on adapting pedagogical strategies to meet the needs of a diverse student audience, the concept of Universal Design for Learning (UDL) was developed by education researchers beginning in the mid-1980s. It builds on the Universal Design movement in architecture and product design that calls for "designs that from the outset accommodate the greatest variety of individuals" (Rose, Meyer, & Hitchcock, 2005, p. 3). UDL has been helpful in thinking about designing a mainstream writing course that meets the needs of both resident ESL and native English speakers by, for example, providing instructions for all activities both verbally and in writing and in choosing carefully academic vocabulary with the different educational histories of our students in mind. However, as the concept was initially affiliated with disability studies, it could imply that second language students have a a deficit to overcome, an implication in opposition to a "difference-as-resource" perspective (Canagarajah, 2002, p. 13) and a valuing of linguistic diversity. [page 191]
 
 While there might be some points to make about how UDL doesn't explicitly allow for multiple languages to be used, the mere fact that it came from disability studies does not, in my opinion, does not imply any deficit. This is similar to the "[Curb-Cut Effect](https://uxdesign.cc/the-curb-cut-effect-universal-design-b4e3d7da73f5)" 
@@ -44,6 +46,8 @@ While there might be some points to make about how UDL doesn't explicitly allow 
 > instructors noted benefits from focusing on patterns of error as opposed to individual "mistakes." In practical application, a number of faculty began asking students to "chart and keep track of their errors," to "identify patterns, marking them in different colors." [page 196]
 
 > Understanding concepts such as "ear learner" and "eye learner" (Reid, 2006) and the different L2 writer subgroups (international, late-arriving, and early-arriving resident immigrants) (Ferris, 2009), for example, helps instructors better relate to their students and to the knowledge that they bring into the classroom. [page 196--197]
+
+^6b2717
 
 > a number of faculty now assign a literacy narrative project that encourages students to reflect on their language histories and to read the world of multilingual writers. [page 198]
 
