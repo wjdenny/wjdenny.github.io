@@ -38,3 +38,7 @@
 	- [[Linguistic minority students' education backgrounds vary widely even if they attended local high schools]] 
 - Segregation
 	- [[Adult immigrant students are often marginalized in higher education after transitioning out of ESOL support courses.]]
+- It has been found that multilingual students are less likely to have quality internet connections at home as well as greater challenges using school learning management systems. Multilingual students are also less likely to have access to course textbooks[^1]. Each of these factors could negatively impact their success in college.
+# Footnotes
+
+[^1]: [[@2017wojahn_first#^bfdf3e]]; [[@2021rosenberg_centering#^3fd73d]]

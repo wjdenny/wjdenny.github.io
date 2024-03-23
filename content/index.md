@@ -14,3 +14,11 @@ Remember, these are *working* notes in the sense that the priority is function o
 Read more about the [[Personal Knowledge Management|knowledge management methods]] I use.
 Read more about [[Organization|how this collection is organized]].
 Sometimes I post shorter things on <a rel="me" href="https://pkm.social/@wjd">Mastodon</a>.
+
+## Recent pages
+- [[It is important for schools to be aware of the language skills of its students.]]
+- [[Positive supportive relationships between faculty and students can have positive effects on equity in education.]]
+- [[Social and economic capital can provide advantages to students in higher education.]]
+- [[Non-native English speakers in higher education are not a homogeneous group.]]
+- [[Linguistic minority students face a unique set of challenges.]]
+- [[People who have had formal education in their first language learn a second language faster than those without.]]

@@ -48,6 +48,26 @@ aliases:
 
 [[People who have had formal education in their first language learn a second language faster than those without.]]
 
+> Watkins, Razee, and Richters (2012) also described in their research with Karen refugee women in Australia that the "number one" difficulty that affected their well-being was difficulty with English language proficiency.  Similarly, the limited number of studies in the U.S. context often explored previous educational experiences and how it affects refugee students' adaptation (Tueba, Jacobs, & Kirton, 1990), parental influence on education (Qin, 2006), teachers of refugee students and their challenges (Lee, 2005; Roxas, 2011), and students' identity formation of refugee students (Bal & Arzubiaga, 2014). [page 4] #topic/psychology/identity #topic/immigration
 
+> Bourdieu (1991) suggests that students have a better chance at succeeding if they are already familiar with the dominant culture, through which those who possess certain types of capital can build on their experience. [page 4] #topic/academic-capital 
+
+> Schools and other institutions are "important builders (or destroyers) of social capital" (Warner, 1999, p. 384). Curry (2001) also highlights that immigrants who are familiar with the ways and practices of schooling and who have prior formal education do better in schools compared with those who do not. Because SIFE lack the types of schooling capital that is valued in the United States, they are more likely to struggle in adapting to life in schools. [page 4] #topic/academic-capital 
+
+^c328a7
+> Many students of adolescent immigrants and refugees describe what needs to be in place for students to successfully negotiate their way through high school. It is crucial to respect students' language and culture and create a welcoming, accepting, and caring environment (Casanova, 2006; Cummins, 1986; Freeman & Freeman, 1989; Freeman, Freeman, & Mercuri, 2002; Walsh, 1999). It is essential to provide a safe environment where adolescents are able to explore their racial and ethnic identities. Students also have better and positive learning experiences when they are taught in a developmental rather than a deficit manner and are allowed to build on their existing knowledge (Moll & Ruiz, 2002). [page 4] #topic/psychology/identity #topic/bias/asset-focused 
+
+^66949b
+
+> It also helps to have bilingual counseling in students' native languages (Casanova, 2006; Mace-Matluck, Alexander-Kasparik, & Queen, 1998; Walsh, 1999). [page 4]
+
+^d101de
+
+> Secondary schools place great demands on students in the content areas, which adolescent refugee SIFE in secondary schools have limited time to meet. By the time they acquire enough English to handle instruction in content areas, they are significantly behind their mainstream peers in content knowledge (Collier, 1987). [page 5]
+
+> Newcomer programs are specifically created programs often within schools to help newly arrived refugees and immigrants acclimate to the school, culture, and academic concepts. [page 5]
 > 
-> Watkins, Razee, and Richters (2012) also described in their research with Karen refugee women in Australia that the "number one" difficulty that affected their well-bein was difficulty with eEnglish language proficiency.
+> The goal of these [newcomer] programs is to meet the objectives of transitioning students into the culture of the school by providing instruction in content subject areas, to catch them up with their peers so that they can be mainstreamed. [page 5]
+
+> SIFE are placed into this program for up to 2 years of time, but for those whose formal education is severely interrupted, they end up staying in the newcomer program longer than 2 years. [page 5]
+

@@ -34,6 +34,8 @@ This might be useful to try and survey students on these attitudes towards their
 
 > We also sought to hear more about experiences *outside* of the classroom that might have helped or hindered their progress, such as transportation, access to the Internet from home, a sense of control over their grades (For more on this factor, see Dinther, Dochy, & Segers, 2011), finances, job or volunteer commitments, use of campus resources, and family and personal relationships (For more on this aspect related specifically to Latino students, see Torres & Solberg, 2001). The survey allowed us to home in on distinctions based on linguistic diversity while preventing us from focusing only on student deficits. [page 175]
 
+^bfdf3e
+
 > By using a high grade ("A") and the three non-passing grade ("DFW") as a framework, we attempt to extract what Yosso (2006) has called "the array of cultural knowledge ,skills, abilities and contacts possessed by socially marginalized groups that often go unrecognized and unacknowledged" (p. 69). [page 175]
 
 > just over half (51%) consider English their best language for speaking. However, the majority listed English as their best language for various purposes: 80% listed English as their best language for reading and 79% as best for writing. [page 176--177]
