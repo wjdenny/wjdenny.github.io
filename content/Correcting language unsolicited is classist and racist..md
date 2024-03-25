@@ -1,4 +1,8 @@
 ---
-tags: [ "type/statement", "topic/monolingual-ideology" ]
+tags:
+  - type/statement
+  - topic/monolingual-ideology
+  - triage/curiosity
+draft: true
 ---
-#todo/write
+Correcting language unsolicited is classist and racist.

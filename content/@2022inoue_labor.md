@@ -1,7 +1,13 @@
 ---
-alias: "Labor-based grading contracts: Building equity and inclusive in the compassionate writing "
+aliases:
+  - "Labor-based grading contracts: Building equity and inclusive in the compassionate writing classroom"
 tags:
-  - "type/source"
+  - type/source
+  - triage/priority
+  - read
+  - quote
+  - synthesize
+  - summarize
 draft: false
 ---
 # Labor-based grading contracts: Building equity and inclusive in the compassionate writing classroom
@@ -1081,5 +1087,3 @@ Unit on time; wrote: students choose an expression about time from their culture
 > Mindful laboring allows for such praxis, and connects it to the grading of a course, which makes grading not a method to measure students' writing competencies or development but a process of paying attention on purpose, a process of learning about one's whole self and the structures of language and judgment that make up and affect each of us.  [page 124]
 
 On late assignments and the future career appropriateness argument. Essentially, I don't know their future job or what their future boss is like, and likely neither do they. They'll understand the importance of timeliness in American culture, but its not my place to enforce a hypothetical boss's standards in a place of learning.
-
-#todo/paraphrase
