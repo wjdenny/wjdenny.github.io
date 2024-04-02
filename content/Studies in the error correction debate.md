@@ -22,7 +22,7 @@ tags:
 - [[1989 Tomasello & Herron]] (oral)
 - [[1990 Fathman & Whalley]]
 - [[1991 Kepner]]
-- [[1992 Sheppard]]
+- [[@1992sheppard_feedback]]
 - [[Dvorak]]
 - [[Steinbach et al.]]
 - [[1981 Cardelle & Corno]]

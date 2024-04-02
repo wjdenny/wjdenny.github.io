@@ -1,8 +1,14 @@
 ---
-alias: "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
+aliases:
+  - "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
 tags:
-  - "type/source"
-  - "topic/pkm"
+  - type/source
+  - topic/pkm
+  - triage/important
+  - read
+  - summarize
+  - synthesize
+  - quote
 draft: false
 ---
 # Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
@@ -260,14 +266,15 @@ Can I use GitHub @ KCC to back up my vault?
 > - Is this sensitive information you'd like to keep secure? The content you save in your notes is easily accessible from any device, which is great for accessibility but not for security. Information like tax records, government documents, passwords, and health records shouldn't be saved in your notes.
 
 > it can be hard to know exactly what is worth preserving. I use an insightful exercise to help people make this decisions easier. I call it "Twelve Favorite Problems," inspired by Nobel Prize-winning physicist Richard Feynman.
-
+>
 > > You have to keep a dozen of your favorite problems constantly present in your mind, although by and large the will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in awhile there will be a hit, and people will say, "How did he do it? He must be a genius!"
-
+>
 > Feyman's approach was to maintain a list of a dozen open questions ... This cross-disciplinary approach allowed him to make connections across seemingly unrelated subjects, while continuing to follow his sense of curiosity.
+>
+> Ask yourself, "What are the questions I've always been interested in?"
+^d9630d
 
 [[Cross-disciplinary approaches are linked with higher productivity and creativity.]]
-
-> Ask yourself, "What are the questions I've always been interested in?"
 
 > What does it look like to move from mindless consumption to mindful creation?
 > How can I go to bed early instead of watching shows after the kids go to bed?

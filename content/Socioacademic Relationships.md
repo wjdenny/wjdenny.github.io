@@ -2,13 +2,15 @@
 tags:
   - index
   - type/moc
+  - triage/priority
+  - write
 ---
 [[Student success depends on a sense of belonging.]]. These relationships give students [[Success in conventional classrooms is synonymous with adopting a white racial habitus|access to the "white habitus"]] ([[@2022inoue_labor|Inoue, 2022]]) to help them better [[Students who do not have access to a white racial habitus will not easily understand its rules|navigate the language and culture of the institution]] and avoid common pitfalls including plagiarism ([[@2012denny_plagiarism|Denny & Kelley, 2012]], [[@2017bista_academic|Bista, 2017]]). These relationships would also undoubtedly increase a students' sense of belonging, which [[Sense of belonging correlates positively with GPA and success metrics in college|has also been found to increase student success]].
 
 [[The research area of social support considers the ways relationships with others affects us for better or worse|Positive and supportive relationships]] [[Social network theory supposes that the foundation of social life is the relationships between people and the patterns thereof|between students and faculty]] may also increase the cultural awareness and sensitivity of the institution. Because [[Student success is impacted by the way in which the institution views and presents them|student success is influenced by the way the institution views them]], these positive relationships can benefit not only the student collaborating with faculty, but all students sharing those demographics may benefit from an increasing acceptance of them as a group.
 
 > [!attention] Organization / Relevance
-> This next paragraph might be more of a tangent. I want to make a connection between what [[@2017wilson_role|Wilson]] and others are saying about the need for supportive social networks between disadvantaged students and faculty to the mistaken assumption on the part of academic institutions that all linguistic minority students need is "better English." That is to say, they need equity, space and identity within the academic community. #todo
+> This next paragraph might be more of a tangent. I want to make a connection between what [[@2017wilson_role|Wilson]] and others are saying about the need for supportive social networks between disadvantaged students and faculty to the mistaken assumption on the part of academic institutions that all linguistic minority students need is "better English." That is to say, they need equity, space and identity within the academic community.
 
 Most institutions operate under the assumption that language skills are what prevent many linguistic minority students from being successful. Second language acquisition research shows that language fluency is inseparable from community identity and social relationships. As such, interventions that focus on developing language alone do not solve most of the problems that linguistic minorities face. Even when developing language, [[Acquiring language through communication is superior to isolated drills|activities that focus on communication and identity are more successful than isolated drills and worksheets]]. This is also somewhat analogous to Reid's distinction between [[@2011ferris_treatment#^38c5f6|"eye learners"]] as opposed to [[@2011ferris_treatment#^87ed18|"ear learners"]].
 

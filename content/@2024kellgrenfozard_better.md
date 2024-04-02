@@ -1,15 +1,18 @@
 ---
 tags:
   - type/source
-alias: "It doesn't get better"
+  - summarize
+  - triage/curiosity
+aliases:
+  - It doesn't get better
 ---
 # It doesn't get better
 [[Jessica Kellgren-Fozard]] posted this video on her YouTube channel.
 
-
 ```bibtex
 @misc{2024kellgrenfozard_better,
-  title = {It doesn't get better.}
+  title = {It doesn't get better.},
+  author = {Kellgren-Fozard, Jessica},
   url = {https://www.youtube.com/watch?v=bHs8sp6Han0}
 }
 ```
@@ -17,7 +20,7 @@ alias: "It doesn't get better"
 ![](https://www.youtube.com/watch?v=bHs8sp6Han0)
 
 ## Rhetorical Précis
-#todo
+
 ## Notes
 
 It doesn't get better, but you do get stronger and smarter.

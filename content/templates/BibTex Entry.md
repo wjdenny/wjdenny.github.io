@@ -13,7 +13,8 @@ const labels = [
 	"misc: Used if none of the other entry types quite match the source. Frequently used to cite web pages, but can be anything from lecture slides to personal notes.",
 	"phdthesis: A thesis written for the PhD level degree.",
 	"techreport: An institutionally published report such as a report from a school, a government organization, an organization, or a company. This entry type is also frequently used for white papers and working papers.",
-	"unpublished: A document that has not been officially published such as a paper draft or manuscript in preparation."
+	"unpublished: A document that has not been officially published such as a paper draft or manuscript in preparation.",
+	"YouTube: A YouTube video"
 ]
 
 const values = [ 
@@ -30,7 +31,8 @@ const values = [
 	"misc",
 	"phdthesis",
 	"techreport",
-	"unpublished"
+	"unpublished",
+	"YouTube"
 ]
 
 const throw_on_cancel = true
@@ -41,7 +43,7 @@ let type = await tp.system.suggester(labels, values, throw_on_cancel, placeholde
 const citekey = tp.file.title
 const yearMatch = tp.file.title.match(/^@([0-9]{4})/)
 const year = yearMatch && yearMatch[1] !== "0000" ? yearMatch[1] : "n.d."
-const title = tp.frontmatter.alias ?? tp.frontmatter.aliases[0] ?? ""
+const title = tp.frontmatter.alias ?? tp.frontmatter.aliases?.[0] ?? ""
 
 const fields = {
 	article: [ "author", "journal", "volume", "number", "pages", "month" ],
@@ -60,9 +62,13 @@ const fields = {
 	unpublished: [ "author", "institution", "number", "howpublished" ]
 }
 -%>
+<%* if(type !== "YouTube") { -%>
 @<% type %>{<% citekey %>,
   title = {<% title %>},
   year = {<% year %>},
 <% fields[type].map(e => `  ${e} = {},`).join(`\n`) %>
   note = {}
 }
+<%* } else { -%>
+<% tp.file.include("[[YouTube BibTex Entry]]") %>
+<%* } -%>

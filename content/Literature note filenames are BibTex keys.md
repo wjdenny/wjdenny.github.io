@@ -14,16 +14,16 @@ When naming things, good design tries to utilize the alphanumeric order as much 
 Prefixing literature note filenames with `@` helps group them together in a crowded directory, but also comes in handy when we start to use it with other tools like [Pandoc](https://pandoc.org/) and the [obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list) plugin.
 
 ## Integration with Pandoc
-Pandoc has a feature called [citeproc](https://pandoc.org/MANUAL.html#citations-in-note-styles) where citations can be written in Markdown and processed into its output. Pandoc citekeys are prefixed with a `@` character and match the citekeys used in a [BibTex file](https://www.bibtex.com/g/bibtex-format/).
+Pandoc has a piugin called [citeproc](https://pandoc.org/MANUAL.html#citations-in-note-styles) where citations [can be written in Markdown](https://pandoc.org/MANUAL.html#citation-syntax) and processed into its output. Pandoc citekeys are prefixed with a `@` character and match the citekeys used in a [BibTex file](https://www.bibtex.com/g/bibtex-format/).
 
 The citekeys are built into the document. This has additional benefits when used with the [obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list) plugin in Obsidian. This allows several ways of using the filename as a Pandoc citation, a link to that literature note, or both.
 
 For a Pandoc citation without linking, use a single set of square brackets around the prefixed citekey. The [obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list) plugin will render these as full reference citations in the sidebar and an in-line citation. Pandoc will render them as both an in-line citation and an entry in the references section.
 
-[[[@2012denny&kelley_plagiarism]
+[@2012denny&kelley_plagiarism]
 (Denny & Kelley, 2012)
 
-[[@2012denny&kelley_plagiarism
+Denny & Kelley [-@2012denny&kelley_plagiarism] 
 Denny & Kelley (2012)
 
 These citekeys (at least in their parenthetical format) can be used as links to that literature note within Obsidian as well. 
