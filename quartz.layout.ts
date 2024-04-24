@@ -52,9 +52,12 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        showTags: false
+        showTags: false,
+        depth: 2
       },
-      globalGraph: undefined
+      globalGraph: {
+        showTags: false
+      }
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
