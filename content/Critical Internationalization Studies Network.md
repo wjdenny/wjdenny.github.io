@@ -1,7 +1,7 @@
 ---
 tags:
-  - type/organization
-  - triage/curiosity
+  - 🕿
+  - ❸
 draft: true
 ---
 https://criticalinternationalization.net/

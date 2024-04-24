@@ -1,4 +1,4 @@
-#type/statement 
+#🖿 
 
 I imagine similar to how color is defined.
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - type/source
-  - triage/curiosity
+  - 🕮
+  - ❸
   - summarize
   - synthesize
 aliases:

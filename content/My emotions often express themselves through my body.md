@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/therapy
 ---
 My emotions often express themselves through my body.

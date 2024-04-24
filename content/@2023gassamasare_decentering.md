@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion"
 ---
 # Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion
@@ -22,7 +22,7 @@ Dr. [[Janice Gassam Asare]] wrote this book.
 
 ## Notes
 - [[@2023gassamasare_decentering_introduction|Introduction: What is White Centering?]]
-- [[@2023gassamasare_decentering_formation|The Formation of Whiteness]] #todo/notes
+- [[@2023gassamasare_decentering_formation|The Formation of Whiteness]]
 - [[@2023gassamasare_decentering_hiring|Decentering Whiteness in Hiring Practices]] #todo/notes
 - [[@2023gassamasare_decentering_systems|Decentering Whiteness in Workplace Systems]] #todo/notes
 - [[@2023gassamasare_decentering_policies|Decentering Whiteness in Workplace Policies]] #todo/notes

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/ideology
   - topic/teaching/higher-education
   - topic/teaching/tesol

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
   - "topic/pkm"
   - "topic/pkm/note-taking"
   - "topic/reading"

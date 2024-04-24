@@ -2,9 +2,9 @@
 aliases:
   - "Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
 tags:
-  - type/source
+  - 🕮
   - topic/pkm
-  - triage/important
+  - ❷
   - read
   - summarize
   - synthesize
@@ -234,8 +234,6 @@ I need to do this more with my notes. One sentence.
 
 I might also add, I often feel like I wouldn't have anything to contribute to the audience. This assumes that they've already read the book or its source material. Change the audience. If it's a cognitive science book, write about it for an audience of teachers or my students. Find places in the world where that knowledge should go. Be a gardener. Transdisciplinary.
 
-[[Change the audience to find fertile new grounds for your ideas]]
-
 > In a wonderful coincidence, recent research by neurophysiologists. May-Britt Moser and Edvard Moser at the Norwegian University of Science and Technology indicates that the human brain remembers information using a "grid code"-- a part of the brain involved in spatial reasoning. They speculate that "the grid code could therefore be some sort of metric or coordinate system" that can "uniquely and efficiently represent a lot of information."
 
 > The word "productivity" has the same origin as the Latin verb *producere*, which means "to produce." Which means that at the end of the day, if you can't point to some kind of output or result you've produced, it's questionable whether you've been productive at all.
@@ -269,7 +267,7 @@ Can I use GitHub @ KCC to back up my vault?
 >
 > > You have to keep a dozen of your favorite problems constantly present in your mind, although by and large the will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in awhile there will be a hit, and people will say, "How did he do it? He must be a genius!"
 >
-> Feyman's approach was to maintain a list of a dozen open questions ... This cross-disciplinary approach allowed him to make connections across seemingly unrelated subjects, while continuing to follow his sense of curiosity.
+> Feynman's approach was to maintain a list of a dozen open questions ... This cross-disciplinary approach allowed him to make connections across seemingly unrelated subjects, while continuing to follow his sense of curiosity.
 >
 > Ask yourself, "What are the questions I've always been interested in?"
 ^d9630d
@@ -368,7 +366,9 @@ An idea for dnd God-- the Gardener or the Caretaker or the Curator; a triune god
 
 > I eventually named this organizing system PARA, which stands for the four main categories of information our lives: Projects, Areas, Resources, and Archives.
 
-[[Forte suggests dividing notes into four categories based on actionability]]
+^f9452d
+
+[[The PARA system divides notes into four categories based on actionability.]]
 
 > Instead of requiring tons of time meticulously organizing your digital world, PARA guides you in quickly sorting your ideas according to what really matters: your goals.
 

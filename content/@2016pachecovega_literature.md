@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "How to do a literature review: Citation tracing, concept saturation and results’ mind-mapping"
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Cultural differences in the way healthcare works is a challenge for healthcare students unfamiliar with the culture. [[@2021sailsman_esl#^301b22]]
 

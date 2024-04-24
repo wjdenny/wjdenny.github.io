@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy"
 draft: false
 ---

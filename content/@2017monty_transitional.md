@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Transitional Access and Integrated Complexity: Interconnecting People, Research, and Media for Transnational Writing Students"
 draft: false
 ---

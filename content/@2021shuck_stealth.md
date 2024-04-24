@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "\"Stealth\" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language"
 draft: false
 ---

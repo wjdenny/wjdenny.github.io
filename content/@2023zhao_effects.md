@@ -1,6 +1,6 @@
 ---
 tags:
-  - triage/curiosity
+  - ❸
   - read
   - topic/education/equity
 draft: true

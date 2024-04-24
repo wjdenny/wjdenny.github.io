@@ -1,7 +1,7 @@
 - [[Having empathy for students is the real key to reducing bias]]
 - [[One-on-one meetings with students can help build an atmosphere of trust and transparency]]
 - [[Failing to acknowledge non-standard dialects is a form of implicit bias]]
-- [[Teachers can do a lot of damage if implicit biases are unchecked]]
+- [[Teachers can do a lot of damage if implicit biases are unchecked.]]
 - [[Anonymous grading reduces implicit bias when grading student work]]
 - [[It can be helpful to grade anonymously first and then provide individualized feedback with the student's identity in mind]]
 - [[Standards in grading can change over the course of grading assignments, and students who were graded first can have a more or less strict standard than students graded towards the end]]

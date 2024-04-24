@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 aliases:
   - What Does It Mean to Center Black Employees?
 ---

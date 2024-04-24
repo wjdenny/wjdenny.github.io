@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "\"I Don't Want to be Special\""
 draft: false
 ---
@@ -99,6 +99,8 @@ Is this why ELL and Special Education often get lumped together?
 
 > Theories of cultural ecologies, first developed in writing studies by Cooper (1986), are particularly useful in helping me understand each student story within a larger ecological context. Cooper (1986) explained that this ecological model is based on the notion that "writing is an activity through which a person is continually engaged with a variety of socially constituted systems" (p. 367). As argued elsewhere (e.,g., Ortmeier-Hooper & Enright, 2011; Ruecker, 2015), literacy and literacy instruction takes place in a larger network of interconnected systems, with broader issues such as policies pushing high-stakes assessment and ongoing systemic inequalities in society impacting individual students and teachers at the classroom level. [page 86--87]
 
+^cde8fb
+
 > Even though the majority of students at the school were Latina/o there was still a bit of hierarchy between Latina/o students and newly arrived students from Mexico, with the former tracing their lineage back to Spanish colonizers and some viewing Mexicans and Mexican culture negatively. [page 88]
 
 > While I had intended to continue playing a relatively passive observer role in the class, I was a bit disturbed ... I taught most classes for the rest of my time on-site, focusing on reading texts matched to the students' levels along with reading from their history class and discussing them while focusing on pertinent vocabulary. It was my hope that the teacher would get more ideas about instruction through these different activities, and she was very open to it. [page 90]
@@ -128,6 +130,8 @@ Maybe a common assumption is that policymakers are looking to research articles 
 AI translation might be offered as a cheaper alternative to translating exams, but I expect that will be disastrous, see: issues with AI
 
 > While completing this work, it is essential that researchers continue to develop ways to affect change in the world around them. Our society is rife with inequality, and the "cycle of inopportunity" that Ortmeier-Hooper and Enright (2011) reference does not only refer to disparities in curricular opportunities but broader inequities as well. [page 93]
+
+^36797e
 
 > All names, including the high school, are pseudonyms. This project received IRB approval from relevant bodies. [page 93]
 

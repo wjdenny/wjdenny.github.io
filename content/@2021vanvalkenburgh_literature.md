@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Literature Review of Contract Grading for Multilingual and ESOL Writing Classes - Van Valkenburgh, 2021"
 draft: false
 ---
@@ -317,9 +317,7 @@ It sounds like [[Autonomous Learning]] is a significant field of interest for me
 
 [[Instead of letting students opt-out, consider working with them to set a more personalized contract]]
 
-The main difference between native and ESOL students with respect to [[Grading Contracts]] is their acceptance of it and their ideas of the teacher's role.
-
-[[I had a student once who had assumptions of a teacher's role that conflicted with my own]]
+The main difference between native speaking and ESOL students with respect to [[Grading Contracts]] is their acceptance of it and their ideas of the teacher's role.
 
 > Once students accept contract grading, it is clear that many of the same reasons that make contract grading desirable for native English speakers in first-year college writing classes, also apply to multilingual or ESOL writing classes. (page 31)
 

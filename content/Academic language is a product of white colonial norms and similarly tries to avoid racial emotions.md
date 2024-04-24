@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/standard-academic-english
   - topic/monolingual-ideology
   - topic/dei

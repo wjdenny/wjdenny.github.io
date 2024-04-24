@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/grading
   - topic/teaching/implicit-bias
   - topic/dei

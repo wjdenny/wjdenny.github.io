@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/tesol/developmental-sequences
   - topic/teaching/tesol
 ---

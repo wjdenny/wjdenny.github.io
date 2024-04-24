@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "ESL, Ideology, and the Politics of Pragmatism"
 draft: false
 ---

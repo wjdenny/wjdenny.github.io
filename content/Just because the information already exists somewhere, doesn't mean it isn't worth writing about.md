@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/writing
   - topic/pkm
 ---

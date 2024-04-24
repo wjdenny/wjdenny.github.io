@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/data-analysis/visualization
 ---
 Faceting plots avoids the overplotting problem.

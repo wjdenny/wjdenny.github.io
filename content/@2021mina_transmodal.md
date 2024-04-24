@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "A Transmodal Framework for Teaching Multimodal Composing Practices to Multilingual Students"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/monolingual-ideology
   - topic/teaching/plurilingualism
   - topic/teaching/tesol

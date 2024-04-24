@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/grading/contracts
 ---
 Criterion-reference assessments can easily become norm-referenced when the standard is not applied blindly.

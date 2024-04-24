@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "What to Learn in College to Stay One Step Ahead of Computers"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
-  - type/source
-  - triage/important
+  - 🕮
+  - ❷
   - read
   - summarize
   - quote

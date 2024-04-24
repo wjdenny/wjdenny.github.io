@@ -1,7 +1,7 @@
 ---
 tags:
-  - type/project
-  - triage/curiosity
+  - 🏲
+  - ❸
 draft: true
 ---
 Useful browser addons

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Mindful Context Switching"
 draft: false
 ---

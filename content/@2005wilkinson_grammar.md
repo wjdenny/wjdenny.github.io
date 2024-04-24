@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "The Grammar of Graphics"
 draft: false
 ---

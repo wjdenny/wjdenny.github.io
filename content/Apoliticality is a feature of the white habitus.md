@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
 ---
 Apoliticality is a feature of the white habitus
 

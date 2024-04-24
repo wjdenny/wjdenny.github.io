@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/ai
   - topic/writing
   - topic/labor

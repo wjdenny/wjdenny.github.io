@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/ai
 alias:  "Silicone Coauthors"
 type: article

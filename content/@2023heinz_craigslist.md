@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/design/ux
 alias:  "Give it the Craigslist Test"
 type: article

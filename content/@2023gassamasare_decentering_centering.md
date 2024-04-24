@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 aliases:
   - Centering the Most Marginalized Employees
 ---

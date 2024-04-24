@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/person
+  - 🗣
 ---
 
 He does a lot of work on #topic/culture/psychology that seems interesting. I got a bit overwhlemed with everything of his I wanted to read, so I'll dump it here for now. #todo 

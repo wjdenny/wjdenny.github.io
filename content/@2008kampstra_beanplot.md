@@ -1,5 +1,5 @@
 ---
-tags: "type/source"
+tags: "🕮"
 alias: "Beanplot; A Boxplot Alternative for Visual Comparison of Distributions"
 draft: false
 ---

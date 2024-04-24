@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Links vs Tags vs Folders in Obsidian: When Should You Use Each?"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/reading
 ---
 Reading was a communal activity and recitation of common ideas was the norm.

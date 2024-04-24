@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Ethnic enclaves are associated with less access to mental health services.
 

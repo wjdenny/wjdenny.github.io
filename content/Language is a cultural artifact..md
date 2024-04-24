@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
 ---
 Language is a cultural artifact.
 

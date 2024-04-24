@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 aliases:
   - "Resident Multilingual Writers Across a Secondary Curriculum: Toward a Postmethod Approach"
 ---

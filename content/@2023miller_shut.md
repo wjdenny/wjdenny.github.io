@@ -1,11 +1,11 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - read
   - summarize
   - quote
   - synthesize
-  - triage/important
+  - ❷
 aliases:
   - University of Iowa grad students shut down regents meeting, demand pay raise
 ---

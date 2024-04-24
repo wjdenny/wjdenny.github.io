@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/culture/psychology
 ---
 Emotion is contextual and non-essentialist

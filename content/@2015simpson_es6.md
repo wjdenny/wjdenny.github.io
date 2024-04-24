@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "ES6 and Beyond"
 draft: false
 ---

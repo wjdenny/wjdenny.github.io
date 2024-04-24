@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/tesol/critical-pedagogy
   - topic/critical-race-theory
 ---

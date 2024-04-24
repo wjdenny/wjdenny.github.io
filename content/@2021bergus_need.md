@@ -1,11 +1,11 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - read
   - summarize
   - quote
   - synthesize
-  - triage/important
+  - ❷
 aliases:
   - We need to talk about abolishing the police in Iowa City
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Eastern & Western Design: How Culture Rewires The Brain"
 ---
 # Eastern & Western Design: How Culture Rewires The Brain

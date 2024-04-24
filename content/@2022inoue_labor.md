@@ -2,8 +2,8 @@
 aliases:
   - "Labor-based grading contracts: Building equity and inclusive in the compassionate writing classroom"
 tags:
-  - type/source
-  - triage/priority
+  - 🕮
+  - ❶
   - read
   - quote
   - synthesize
@@ -193,10 +193,11 @@ To people saying we help students by not letting them waste money by taking main
 > > Whiteness as property continues to perpetuate racial subordination through the courts'' definitions of group identity and through the courts' discourse and doctrine on affirmative action. The exclusion of subordinated "others" was an remains a central part of the property interest in whiteness and, indeed, is part of the protection that the court extends to whites' settled expectations of continued privilege ([[1993 Harris|1758]]). 
 > 
 > [page 9--10]
-
+> 
 > What [[Cheryl L. Harris|Harris]] shows in her discussion over and over in various legal ways and through court decisions in various realms of U.S. society is the way whiteness has functioned and been used as property for the benefit of those deemed to be racially white. Whiteness is the property that even a poor, uneducated, or jobless white man can have that has value. Furthermore, Harris argues that "Whiteness and property" share a common premise--a conceptual nucleus--of a right to exclude" ([[1993 Harris|1704]]). Whiteness as property is, therefore, about exclusion. This point is critical in educational settings because most of us proclaim or promote inclusion. Our schools, programs, and even pedagogies proclaim to include raciolinguistically diverse students, but our grading practices, standards, and assumptions function to exclude. And the direction this exclusion takes is a racialized one. [page 10]
 
-[[Harris argues that whiteness is property, legally speaking, and like all property, grants its possessor the right to exclude]]
+^fde3d2
+
 [[Many DEI initiatives in higher education fail to be inclusive when it comes to academic policies and grading, reducing those initiatives merely to diversity theatre]]
 
 > In [[2003 Prendergast|*Literacy and Racial Justice: The Politics of Learning After* Brown v. Board of Education]], [[Catherine Prendergast]] argues convincingly that historically in the US the courts have worked from a fundamental premise that "literacy is first and foremost white property," and the logic goes "that no attempt should therefore be made to redistribute the best goods" ([[2003 Prendergast|167]]). She looks closely at the logics and consequences of [[1976 Brown v. Board, Washington v. Davis|*Brown v. Board, Washington v. Davis* (1976)]], and [[1978 The Regents of the University of California v. Bakke|*The Regents of the University of California v. Bakke* (1978)]], all of which demonstrate what Prendergast calls "the economy of literacy as a white property," or a dynamic rooted in figurative or literal "white flight" in places where people of color begin to accumulate. She explains the dynamic: "literacy standards are perceived to be falling or in peril of falling" when too many people of color, often African-American, are included or presence in the place in question, be it a school, police department, community, etc. ([[2003 Prendergast|41]]). Where do we find the most calls around "literacy crises"? Schools and communities that are made up of increasing numbers of people of color. What do schools and classrooms have at their disposal to remedy such perceptions of falling literacy standards among their students? Grading mechanisms and standards. Remember the primary goals of trading by a standard are control, enforced accountability, and measurement. Thus, grading is a great way to protect the white property of literacy in schools, while never mentioning race. It's a great way to maintain the white supremacist status quo without ever being white supremacist, yet such standards are white language supremacy. [page 10]

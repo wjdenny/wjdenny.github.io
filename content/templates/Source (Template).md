@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - read
   - summarize
   - quote

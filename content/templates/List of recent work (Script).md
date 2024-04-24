@@ -1,5 +1,5 @@
 <%*
-	const tags = [ `type/moc`, `type/statement` ]
+	const tags = [ `✽`, `🖿` ]
 	.map(t => `#${t}`);
 	const queries = tags.map(t => `LIST FROM ${t} SORT file.mtime DESC LIMIT 10`)
 -%>

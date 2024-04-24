@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
   - "topic/teaching/higher-education"
   - "topic/dei"
   - "topic/teaching/implicit-bias"
@@ -9,9 +9,9 @@ draft: true
 ---
 ### Examining How Implicit Bias May Affect Teaching  
 **Santiba D. Campbell, PhD; Associate Professor, Psychology; Department of Social and Behavioral Sciences; Bennett College** 
-One of the basic ideas or definitions of thinking about your implicit bias is that it's internal. So it becomes very problematic because you may not be aware that you're even bringing these biases to the situation. So you can imagine in a classroom setting, this is a very big deal because you might be projecting or making an assumption about a student that you consciously aren't even aware that you're doing.  
+One of the basic ideas or definitions of thinking about your implicit bias is that it's internal. So it becomes very problematic because you may not be aware that you're even bringing these biases to the situation. So you can imagine in a classroom setting, this is a very big deal because you might be projecting or making an assumption about a student that you consciously aren't even aware that you're doing.   ^deccce
 
-[[Implicit bias is a preference that is not under our conscious control]]
+[[Implicit bias is a preference that is not under our conscious control.]]
 
 **Kristina Ruiz-Mesa, PhD; Associate Professor & Basic Course Director; Department of Communication Studies; California State University, Los Angeles**
 So when thinking about actionable items, what can we actually do to address our implicit biases? Number one: Critically reflect who are you, how do you see yourself, and how do you see others? That's at the heart of this. Once we do that, it's reading, it's talking to people in our circles who are trusted, who will be honest with us. Right? One of the things that we often talk about inclusive education is that if you haven't heard about your students' challenges, then they don't trust you to tell them perhaps. And so how can we make sure that we are being open, that we are providing opportunities for relationships to form with our students so that they can tell us and they can be honest and share with us?  
@@ -70,6 +70,6 @@ An example in the feedback that I shared, I would say I was very, like, encourag
 I have it as a regular part of my course now because I want there to be this ongoing anonymous opportunity to try to alter the power dynamics also, and to make more space for that and to show that a part of good reflective practice, especially in social work, is seeking and receiving feedback to better myself and the course.  
 
 **Kristina Ruiz-Mesa, PhD** 
-I think it's less about whether we are good or bad people and how can we be good thinkers? How can we make sure that our thinking is clear, that it is logical, that it is informed in an empathetic manner. And I think that is at the core of what we need to do as educators to challenge ourselves to be better, to be inclusive, to make sure that our classrooms are spaces where all students can share their experiences, can share their knowledge, can share their history, and can feel heard, valued, and included.
+I think it's less about whether we are good or bad people and how can we be good thinkers? How can we make sure that our thinking is clear, that it is logical, that it is informed in an empathetic manner. And I think that is at the core of what we need to do as educators to challenge ourselves to be better, to be inclusive, to make sure that our classrooms are spaces where all students can share their experiences, can share their knowledge, can share their history, and can feel heard, valued, and included. ^4a21da
 
 [[Having empathy for students is the real key to reducing bias]]

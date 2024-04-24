@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Why you’re an emotional sponge and 5 Tips for Better Boundaries"
 ---
 # Why you’re an emotional sponge and 5 Tips for Better Boundaries

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/grading/labor-based
   - topic/culture/habitus
 ---

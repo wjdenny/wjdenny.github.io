@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Your Brain: Who's in Control?"
 ---
 # Your Brain: Who's in Control?

@@ -1,14 +1,14 @@
 ---
 tags:
   - index
-  - type/moc
+  - ✽
 ---
 This page serves as an index of atomic ideas and related maps of content on the topic of linguistic minority post-secondary students. As described in [[Personal Knowledge Management]], the statements represented as links here represent [[Atomic Notes|an irreducible idea]] which is given its own page in the collection in order to allow it to be clearly and uniquely defined and freely associate with other ideas across the collection. It is ongoing work to prune, divide, combine, and cultivate these ideas.
 
 - [[It is a challenge to categorize linguistic minority students]]
 - [[Linguistic minority students face a unique set of challenges.]]
 ## On linguistic minority students' transition from high school to college
-- [[Scholars have argued for the importance of understanding the secondary to post-secondary transition of linguistic minority students]]
+- [[It is important to understand the secondary to post-secondary transition of linguistic minority students.]]
 - [[Less than a quarter of linguistic minority students transition from high school to a 4-year college]]
 - [[Being unable to graduate college has a significant negative impact on students career prospects and job satisfaction]] 
 - [[Linguistic minority students' education backgrounds vary widely even if they attended local high schools]] 

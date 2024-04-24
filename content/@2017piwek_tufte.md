@@ -1,5 +1,5 @@
 ---
-tags: "type/source"
+tags: "🕮"
 alias: "Tufte in R"
 draft: false
 ---

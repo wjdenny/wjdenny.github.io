@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Great leadership is a network, not a hierarchy"
 draft: false
 ---

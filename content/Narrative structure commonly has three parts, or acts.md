@@ -1,5 +1,5 @@
 ---
-tags: type/statement, topic/writing, topic/data-analysis/visualization
+tags: 🖿, topic/writing, topic/data-analysis/visualization
 ---
 Narrative structure commonly has three parts, or acts. This began with Artistotle. Those are
 - the setup, where we introduce the main characters and necessary background information;

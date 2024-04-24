@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Bougie Black Therapist Episode 1"
 ---
 # Bougie Black Therapist Episode 1

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "When the First Language You Use is not English: Challenges of Language Minority College Composition Students"
 draft: false
 ---
@@ -77,6 +77,8 @@ Maybe it's better if students don't see me as a "professor". see: [[@2017monty_t
 ^cf808b
 
 > to learn more about students' language backgrounds and transitions entering college, we can ask students to write literacy narratives at the start of the semester (Ortmeier-Hooper, 2008; Sharma, 2015). [page 184]
+
+^84b7d7
 
 > We can offer culturally relevent readings, give students opportunities to write in their home languages, and develop assignments in which students can draw on their cultural knowledge and skills (Ferris & Hedgcock, 2013). [page 184]
 

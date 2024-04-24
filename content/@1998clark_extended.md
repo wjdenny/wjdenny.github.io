@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/pkm
   - todo
 alias: "The Extended Mind"

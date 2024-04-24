@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 aliases:
   - Cultural Reproduction and Social Reproduction
 ---
@@ -8,7 +8,7 @@ aliases:
 [[Pierre Bourdieu]] wrote [this paper](@1973brown_knowledge.pdf#page=86).
 
 ```bibtex
-@incollection{@1973bordieu_cultural,
+@incollection{1973bordieu_cultural,
   title = {Cultural Reproduction and Social Reproduction},
   year = {1973},
   author = {Bourdieu, Pierre},

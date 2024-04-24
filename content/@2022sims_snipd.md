@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/pkm
 alias:  "Using Snipd With Obsidian To Maximize Learning From Podcasts"
 ---

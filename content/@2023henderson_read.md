@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
   - "topic/pkm"
   - "topic/reading"
 alias: "How to Read (and Understand) Hard Books"

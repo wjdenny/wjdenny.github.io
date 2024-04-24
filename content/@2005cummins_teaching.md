@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Teaching for Cross-Language Transfer in Dual Language Education: Possibilities and Pitfalls"
 draft: false
 ---

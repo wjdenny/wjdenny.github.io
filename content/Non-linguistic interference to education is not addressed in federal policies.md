@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Non-linguistic interference to education is not addressed in federal policies
 [[@2017ruecker_paying]]

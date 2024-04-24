@@ -40,7 +40,7 @@ const placeholder = ""
 
 let type = await tp.system.suggester(labels, values, throw_on_cancel, placeholder)
 
-const citekey = tp.file.title
+const citekey = tp.file.title.replace("@", "")
 const yearMatch = tp.file.title.match(/^@([0-9]{4})/)
 const year = yearMatch && yearMatch[1] !== "0000" ? yearMatch[1] : "n.d."
 const title = tp.frontmatter.alias ?? tp.frontmatter.aliases?.[0] ?? ""

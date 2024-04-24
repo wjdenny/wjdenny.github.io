@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/teaching/higher-education/academic-integrity
   - topic/teaching/education/writing
 alias:  "ChatGPT Can Write Better Essays Than My College Students. That's a Good Thing"

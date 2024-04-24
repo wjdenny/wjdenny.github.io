@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/ai
   - topic/teaching/tesol
 alias:  "AI for Language Learning: ChatGPT and the Future of ELT"

@@ -1,11 +1,11 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - read
   - summarize
   - quote
   - synthesize
-  - triage/curiosity
+  - ❸
 aliases:
   - "Two feedback types: Do they make a difference?"
 ---

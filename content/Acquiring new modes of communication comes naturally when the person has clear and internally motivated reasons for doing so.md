@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Acquiring new modes of communication comes naturally when the person has clear and internally motivated reasons for doing so[^1].
 

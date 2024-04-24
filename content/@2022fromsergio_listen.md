@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/pkm/obsidian
 alias:  "How I Listen AND Take Notes on Podcasts INSIDE Obsidian"
 ---

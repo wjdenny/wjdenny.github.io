@@ -1,9 +1,10 @@
 ---
 tags:
-  - type/source
-  - topic/pkm
-  - topic/research
-alias:  "How I Set Up Obsidian for Academic Work"
+  - "#source"
+  - "#pkm"
+  - "#research"
+aliases:
+  - How I Set Up Obsidian for Academic Work
 ---
 # How I Set Up Obsidian for Academic Work
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/active-learning
   - topic/teaching
   - topic/teaching/active-learning

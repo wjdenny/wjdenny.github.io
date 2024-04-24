@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Commonplace books were used to record all the interesting things the author read or thought.
 

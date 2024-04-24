@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 There are five categories of student support people; parents, teachers, school staff, and close friends. [[@2017wilson_role#^73f154]]
 

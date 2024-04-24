@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/queer
 alias: "We Won't Be Here Tomorrow"
 draft: false

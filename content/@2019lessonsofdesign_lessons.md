@@ -1,5 +1,5 @@
 ---
-tags: "type/source"
+tags: "🕮"
 alias: "Lessons of Design"
 draft: false
 ---

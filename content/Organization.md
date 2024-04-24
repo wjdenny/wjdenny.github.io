@@ -2,22 +2,21 @@
 ## Use of tags
 Tags can both express the entity/type that the page and topics that the content relates to.
 
-Entity tags (like \#type/statement, \#type/source, or \#type/moc) are generally only written in the YAML frontmatter of a page.
+Entity tags (like #🖿, #🕮, or #✽) are generally only written in the YAML frontmatter of a page.
 
-Topic tags (for example, \#topic/culture/habitus)  are expressed within the page immediately following relevant content. Historically, I've used these tags in frontmatter as well, but I am moving away from that for two reasons. First, putting them in frontmatter leads me to try deciding how to organize and denominate topics at the start. This is a top-down or taxonomic approach that I don't find useful in practice. Second, putting the topic tags near the content it refers to can take advantage of search queries in Obsidian which will show the exact section of the page that is relevant to the topic.
+Topic tags (for example, #habitus)  are expressed within the page immediately following relevant content. Historically, I've used these tags in frontmatter as well, but I am moving away from that for two reasons. First, putting them in frontmatter leads me to try deciding how to organize and denominate topics at the start, which violates the [[Emergent Design Principle]]. In other words, it is a top-down or taxonomic approach that I don't find useful in practice. Second, putting the topic tags near the content it refers to can take advantage of search queries in Obsidian which will show the exact section of the page that is relevant to the topic.
 
 > [!NOTE] Note
-> The code block below renders a list of pages matching the given topic in Obsidian, but not on the website. To see a similar list on the website, check out the [\#topic/culture/habitus tag](./tags/topic/culture/habitus).
-
+> The code block below renders a list of pages matching the given topic in Obsidian, but not on the website. To see a similar list on the website, check out the [\#habitus tag](./tags/habitus).
 
 ```query
-tag:#topic/culture/habitus
+tag:#habitus
 ```
 
 One limitation of this is that it can be difficult to maintain an organized list of tags. It needs to be kept in mind that there may be similar topics under multiple tags when reviewing my literature notes.
 ## Types of pages
 ### Literature notes
-These are literature sources like books and articles. [[Literature note filenames are BibTex keys]]. These pages will include the tag `source` to identify it as a source for search and graph view queries. I've tried both topic pages and topic tags in the past, but instead avoid imposing any topic structure up front and let sources link together organically through [[#Atomic notes]] and [[#Maps of content]] ([[Gaul's Law]]).
+These are literature sources like books and articles. [[Literature note filenames are BibTex keys]]. These pages will include the tag #🕮 to identify it as a source for search and graph view queries. I've tried both topic pages and topic tags in the past, but instead avoid imposing any topic structure up front and let sources link together organically through [[#Atomic notes]] and [[#Maps of content]] ([[Any complex system that has survived was built from simpler systems that have proven their value.|Gaul's Law]]).
 
 The purpose of a source is to contain the metadata of the source (including BibTeX entries), quotes from the source I want to remember, and paraphrased statements that are links to [[#Atomic notes]].
 
@@ -28,7 +27,13 @@ Quotes are always represented in a source document with block quotes. Double blo
 ### Atomic notes
 Atomic notes are pages that represent a complete and atomic idea. These are titled as a complete sentence including punctuation. Simple, positive, declarative sentences are ideal for this, and overly complicated sentences are a good indicator that the idea is not as atomic as it could be.
 
-The concept of an atomic note is derived from [[Niklas Luhmann]]'s [[Zettelkasten]] workflow ([[@2020jenks_workflow]], [[@2020anthonysdesk_mocs]]).
+The concept of an atomic note is derived from [[Niklas Luhmann]]'s [[Zettelkasten]] workflow[^1].
 
 ### Maps of content
 As I begin to collect a large number of ideas on a topic, maps of content serve to keep an index of those [[#Atomic notes]] and organize them as a review on that topic. Maps of content could be quite general, like [[Linguistic minority students in higher education]] or more specific and project-based in its purpose, such as [[It is important for schools to be aware of the language skills of its students.]]. Broad topics are likely to contain links to sub-topics as those develop and the map of content gets unwieldy.
+
+> [!warning] Changes coming
+> I'm not fully satisfied with this interpretation of a map of content. I don't think I've made it distinct from just another atomic note. I think maps of content should be more comprehensive of a topic rather than a single idea and in list form rather than prose.
+
+
+[^1]: [[@2020jenks_workflow]]; [[@2020anthonysdesk_mocs]]

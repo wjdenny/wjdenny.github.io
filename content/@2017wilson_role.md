@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "The Role of Social Networks and Social SUpport in the Writing and College Planning of Multilingual Urban Adolescents"
 draft: false
 ---
@@ -51,6 +51,8 @@ incollection{2017wilson_role,
 ^2ebd2b
 
 > As I have described elsewhere (Wilson, 2013), a variety of qualitative studies of multilingual adolescents' writing (and reading) demonstrate the many contexts in which these students are interacting through literate activities with important people in their lives. Such contexts and activities include emailing a parent living abroad, chatting with friends on the Internet, and composing creative pieces online (Yi, 2007); working with a partner to compose a group project for school (Villalva, 2006); chatting online with peers around the world (Lam, 2000); negotiating conflict with an English teacher (Ortmeier-Hooper, 2013); and relying on a teacher to compose a course paper (Kibler, 2013). [page 65]
+
+^4f8efe
 
 > Taken as a body of work, however, **the contexts in which such relationships have been described by second language writing (SLW) researchers correlate with the categories of supportive individuals described by social support researchers (e.g., Melecki & Demaray, 2006): adolescents have substantial *socioliterate relationships* with parents, teachers, friends, and, to a lesser degree, classmates.** [page 65]
 

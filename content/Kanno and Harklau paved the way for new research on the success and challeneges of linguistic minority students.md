@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/dei
   - topic/teaching/tesol
   - topic/teaching/higher-education

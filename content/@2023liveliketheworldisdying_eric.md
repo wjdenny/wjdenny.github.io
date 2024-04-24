@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/source
+  - 🕮
   - topic/mutual-aid
   - topic/prepping
 alias:  "Eric on Talking Trash on Traditional Prepping"

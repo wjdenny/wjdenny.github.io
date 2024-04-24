@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/academic-integrity/plagiarism
   - topic/teaching/higher-education
   - topic/writing

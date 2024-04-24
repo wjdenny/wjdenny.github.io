@@ -1,5 +1,5 @@
 ---
-tags: "type/source"
+tags: "🕮"
 alias: "An eye-tracking study of learned attention in second language acquisition"
 draft: false
 ---

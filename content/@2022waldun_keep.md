@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "How to Keep A Commonplace Book"
 draft: false
 ---

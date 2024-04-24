@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "The Effect of Affect on Foreign Language Learning: A Review of the Anxiety Research"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Foreign accent strength and intelligibility at the segmental level"
 draft: false
 ---

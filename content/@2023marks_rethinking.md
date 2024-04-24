@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Rethinking ADHD Treatment: The Power of Non-Stimulant Medication"
 ---
 # Rethinking ADHD Treatment: The Power of Non-Stimulant Medication

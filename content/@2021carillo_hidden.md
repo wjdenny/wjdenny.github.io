@@ -1,11 +1,11 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - read
   - summarize
   - quote
   - synthesize
-  - triage/priority
+  - ❶
 aliases:
   - The Hidden Inequities in Labor-Based Contract Grading
 ---

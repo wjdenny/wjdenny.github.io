@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
 ---
 Marginalized students often have more responsibilities to their families and communities than others.[^1]
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/ai
   - topic/teaching/education/writing
   - topic/teaching/higher-education/academic-integrity

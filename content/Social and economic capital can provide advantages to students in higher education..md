@@ -1,13 +1,13 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/higher-education
   - topic/sla
   - topic/dei
   - topic/plurilingualism
   - topic/academic-capital
   - write
-  - triage/priority
+  - ❶
 ---
 Social and economic capital can provide advantages to students in higher education[^2]. Factors such as home country education, socioeconomic status, and other currencies of cultural capital have an affect on immigrant student success in college[^1].
 
@@ -16,7 +16,7 @@ One form of capital that students are able to use is language. In the context of
 Another form involves the academic skills and cultural mores used in higher education. [[First-generation college students are half as likely to graduate on time compared to other students|Students with a family history in higher education will be more likely than their counterparts to succeed in college]]; both because [[Students who were not raised in white habitus households struggle to adopt habits of white language in college|they understand the habitus of the university]], but also because **they are more likely to receive adequate support and advice from their family**.
 
 ```query
-tag:#type/source family support
+tag:#🕮 family support
 ```
 
 For students who lack these forms of capital, [[Socioacademic Relationships|socio-academic relationships between faculty and students can provide opportunities to build them.]]

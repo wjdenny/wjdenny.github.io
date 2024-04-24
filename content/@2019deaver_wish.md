@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/anxiety
   - topic/mental-health
   - topic/queer

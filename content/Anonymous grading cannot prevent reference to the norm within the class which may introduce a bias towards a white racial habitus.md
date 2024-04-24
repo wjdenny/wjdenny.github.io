@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/ideology
   - topic/teaching/grading
   - topic/dei

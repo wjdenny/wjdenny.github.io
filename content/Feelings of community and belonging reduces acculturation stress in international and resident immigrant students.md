@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Feelings of community and belonging reduces acculturation stress in international and resident immigrant students.
 

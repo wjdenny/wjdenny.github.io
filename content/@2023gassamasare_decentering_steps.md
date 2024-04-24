@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 aliases:
   - Steps to Start Decentering Whiteness in the Workplace
 ---

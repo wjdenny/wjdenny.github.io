@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/tesol/writing
   - topic/teaching/writing/peer-review
   - topic/teaching/tesol

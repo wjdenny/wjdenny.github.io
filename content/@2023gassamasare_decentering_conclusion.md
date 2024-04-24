@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 aliases:
   - "Conclusion: Where Do You Begin?"
 ---

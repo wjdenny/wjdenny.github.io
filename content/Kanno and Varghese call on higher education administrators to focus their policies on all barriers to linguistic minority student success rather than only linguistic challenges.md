@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/higher-education
   - topic/teaching/higher-education/retention
   - topic/teaching/tesol

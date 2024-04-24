@@ -1,3 +1,3 @@
 ---
-tags: type/statement, topic/data-analysis/visualization
+tags: 🖿, topic/data-analysis/visualization
 ---

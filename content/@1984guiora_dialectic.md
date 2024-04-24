@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "The Dialectic of Language Acquisition"
 ---
 # The Dialectic of Language Acquisition

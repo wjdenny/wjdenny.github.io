@@ -1,4 +1,4 @@
 ---
-tags: [ "type/statement", "topic/pkm/obsidian", "topic/pkm" ]
+tags: [ "🖿", "topic/pkm/obsidian", "topic/pkm" ]
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Literacy Sponsorship in Upward Bound"
 draft: false
 ---

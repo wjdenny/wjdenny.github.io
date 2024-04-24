@@ -1,8 +1,8 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - summarize
-  - triage/curiosity
+  - ❸
 aliases:
   - It doesn't get better
 ---

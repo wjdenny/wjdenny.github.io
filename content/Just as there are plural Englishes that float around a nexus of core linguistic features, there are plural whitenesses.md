@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/critical-race-theory
   - topic/monolingual-ideology
   - topic/teaching/plurilingualism

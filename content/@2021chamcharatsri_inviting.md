@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/teaching/plurilingualism
 alias:  "Inviting Multilingual Students to Use Their First Language (L1) in Peer Review Activities: A Plurilingual Approach"
 ---
@@ -36,6 +36,8 @@ alias:  "Inviting Multilingual Students to Use Their First Language (L1) in Peer
 > writing teachers should ask students to identify whether they are English dominant, bilingual or multilingual students by a simple survey. (page 33)
 
 > the risk of assigning unfitting identities to students ([[2008 Ortmeier-Hooper|Ortmeier-Hooper, 2008]]) (page 33)
+
+^e5962b
 
 > [[2016 Auerbach|Auerbach's (2016)]] reflection on her own 1993 publication about English only approaches in the classroom has confirmed that such ideological practice is not backed up by any evidence that students who use only English language in classrooms develop their language skills faster than those who use both English and their L1s in second language acquisition studies. (page 33)
 

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/resume-tips
 ---
 Avoid overusing buzzwords on your resume especially without evidence of application..

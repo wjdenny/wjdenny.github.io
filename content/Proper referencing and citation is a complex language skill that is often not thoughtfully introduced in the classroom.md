@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/tesol
   - topic/teaching/plagiarism
   - topic/culture/awareness

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/teaching/plurilingualism
   - topic/teaching/writing
 ---

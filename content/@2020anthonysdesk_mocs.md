@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "MOCs & Idea Emergence: A discussion w/ Nick Milo and his LYT framework for Obsidian"
 draft: false
 ---
@@ -53,4 +53,4 @@ a map of the map of contents; "Home"
 About the workshop
 <http://linkingyourthinking.com>
 
-![[Gaul's Law]]
+[[Any complex system that has survived was built from simpler systems that have proven their value.]]

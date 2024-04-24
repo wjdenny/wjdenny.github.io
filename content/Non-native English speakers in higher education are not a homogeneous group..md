@@ -1,7 +1,7 @@
 ---
 tags:
-  - type/statement
-  - triage/important
+  - 🖿
+  - ❷
 ---
 Non-native English speakers in higher education are not a homogeneous group.
 

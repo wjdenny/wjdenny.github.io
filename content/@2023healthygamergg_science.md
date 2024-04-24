@@ -1,8 +1,8 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - synthesize
-  - triage/important
+  - ❷
 aliases:
   - The Science of Catching Up in Life
 ---

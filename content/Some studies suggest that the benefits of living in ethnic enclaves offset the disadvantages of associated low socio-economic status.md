@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Some studies suggest that the benefits of living in ethnic enclaves outweigh the disadvantages of low socio-economic status.
 

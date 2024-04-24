@@ -1,4 +1,4 @@
 ---
-tags: [ "type/statement", "topic/ai/chatgpt" ]
+tags: [ "🖿", "topic/ai/chatgpt" ]
 ---
 

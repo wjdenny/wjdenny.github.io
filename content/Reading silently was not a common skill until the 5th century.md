@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/statement
+  - 🖿
   - topic/reading
 ---
 Reading silently was not a common skill until the 5th century.

@@ -1,5 +1,5 @@
 ---
-tags: "type/source"
+tags: "🕮"
 alias: "Storytelling with Data"
 draft: false
 ---
@@ -40,6 +40,8 @@ draft: false
 [[Keep the number of elements in a graph to less than 4 to avoid cognitive overload]]
 
 [[The London Underground Tube map is a good example of many design principles]]
+
+[[Applying visual design principles increases data comprehension.]]
 
 #### Other sources
 - Robert Kosara, [EagerEyes](http://eagereyes.org)

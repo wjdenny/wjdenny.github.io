@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 Correlations with socioeconomic status often mask the true cause of social problems. 
 

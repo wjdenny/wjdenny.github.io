@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/project
-  - triage/priority
+  - 🏲
+  - ❶
 draft: true
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
-  - type/project
-  - triage/important
+  - 🏲
+  - ❷
 draft: true
 ---
 research temporary housing in Iowa City area

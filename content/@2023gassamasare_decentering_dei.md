@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 aliases:
   - Decentering Whiteness in the DEI and Anti-oppression Space
 ---

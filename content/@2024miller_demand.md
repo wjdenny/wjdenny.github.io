@@ -1,11 +1,11 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - read
   - summarize
   - quote
   - synthesize
-  - triage/important
+  - ❷
 aliases:
   - University of Iowa grad student workers demand end to their student fees
 ---

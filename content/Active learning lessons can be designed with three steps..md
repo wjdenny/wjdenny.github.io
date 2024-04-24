@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/active-learning
 aliases:
   - active-learning-lessons

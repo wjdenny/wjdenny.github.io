@@ -1,5 +1,5 @@
 ---
-tags: type/statement
+tags: 🖿
 ---
 It is estimated that over a third of the United States population will be first and second generation immigrants by 2065.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Engaging (the Politics of) Language Difference in the Writing Classroom"
 draft: false
 ---

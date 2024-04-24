@@ -1,6 +1,6 @@
 ---
 tags: 
-  - type/source
+  - 🕮
 alias:  "Paying Attention to Resident Multilingual Students"
 ---
 # Paying Attention to Resident Multilingual Students
@@ -29,7 +29,7 @@ incollection{2017ruecker_paying,
 
 ^770441
 
-[[Scholars have argued for the importance of understanding the secondary to post-secondary transition of linguistic minority students]]
+[[It is important to understand the secondary to post-secondary transition of linguistic minority students.]]
 
 > In higher education, resident ML students can remain anonymous, unmarked by the TOEFL exam scores that identify international multilingual students. Resident ML students do not generate the tuition dollars or publicity that are often associated with the growing number of international students studying in U.S. higher education.  [page 2]
 

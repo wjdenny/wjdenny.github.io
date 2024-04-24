@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Do Experiences Studying Abroad Promote Dialectical Thinking? Empirical Evidence from Chinese International Students"
 ---
 # Do Experiences Studying Abroad Promote Dialectical Thinking? Empirical Evidence from Chinese International Students

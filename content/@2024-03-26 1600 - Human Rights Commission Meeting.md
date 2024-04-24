@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - read
   - summarize
   - quote
@@ -52,10 +52,10 @@ Other interesting points brought up in the presentation:
 - Iowa universities were active in black history scholarship
 ### [35:50](https://www.youtube.com/watch?v=C2zhINZZv6g&t=35m50s) Community Transportation Committee
 - Maria Jose Plata Flores spoke about the impact of transit on the working class.
-- Dawn Palowsi spoke about the impact of transit documentation and support on people with disabilities.
+- Dawn Pawlowsi spoke about the impact of transit documentation and support on people with disabilities.
 - Will Denny spoke about the impact of transit documentation on people with limited English abilities and problems related to the hub system.
 - Audrey Keys (Parks Department) spoke about the impact of the lack of late-night transit on workers.
-- Yuen Lee spoke about the lack of benches and shelters 
+- Yuen Lee spoke about the lack of benches and shelters.
 
 [[Victor Fontenez]], public health student, presented a proposal for the City Transit Advisory Commission.
 
@@ -64,7 +64,7 @@ Other interesting points brought up in the presentation:
 [[Mark Pries]]: What is the action they expect from the Commission tonight?
 [[Victor Fontenez]]: Vote to give support to the creation of the committee.
 [[Mark Pries]] seconded the "hub" complaint and pointed out that the bus system is more focused on western routes. [[Victor Fontenez]] believed this to be higher economic production on the west side. [[Mark Pries]] also seconded the issue of no late night buses.
-[[Kelsey Paul Shantz]] paused the motion to discuss. She wanted to know how this would connect with county-level efforts. She mentioned that [[Kelly Schneider]], mobility coordinator for the county, proposed a project called [[@2024-01-22 1630 - Joint Government Meeting]] at the Joint Entities meeting in January and suggested there might be some beneficial coordination.
+[[Kelsey Paul Shantz]] paused the motion to discuss. She wanted to know how this would connect with county-level efforts. She mentioned that [[Kelly Schneider]], mobility coordinator for the county, proposed a project called [[@2024-01-22 1630 - Joint Government Meeting#Trip Connect|Trip Connect]] at the Joint Entities meeting in January and suggested there might be some beneficial coordination.
 ### Funding request for Coralville Asian Festival
 The Commission decided to table the discussion for next session. There were concerns about it not technically being in Iowa City, but it was discussed that it was up to the Commission whether or not to fund it. It was argued that even though the event takes place in Coralville, it is something that Iowa City residents would likely attend with no similar event taking place in Iowa City. There were concerns, however, that it might open the door to more funding requests for projects outside of the city. Regardless, this sets a precedent that the Commission may fund projects that are nearby, unique, and not duplicated in Iowa City but not located in Iowa City.
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/statement
+  - 🖿
   - topic/teaching/writing
   - topic/teaching/tesol/syntax-errors
 ---

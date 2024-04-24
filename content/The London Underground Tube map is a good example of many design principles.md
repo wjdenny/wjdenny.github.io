@@ -1,5 +1,5 @@
 ---
-tags: type/statement, topic/data-analysis/visualization
+tags: 🖿, topic/data-analysis/visualization
 ---
 
 - all irrelevant surface and terrain details have been removed

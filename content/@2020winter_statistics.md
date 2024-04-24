@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
   - topic/data-analysis
   - topic/data-analysis/statistics
 alias:  "Statistics for Linguists"

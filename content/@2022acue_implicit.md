@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "How might implicit bias impact teaching?"
 draft: false
 ---
@@ -11,4 +11,4 @@ draft: false
 ^0a1e97
 
 [[Failing to acknowledge non-standard dialects is a form of implicit bias]]
-[[Teachers can do a lot of damage if implicit biases are unchecked]]
+[[Teachers can do a lot of damage if implicit biases are unchecked.]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
   - "topic/teaching/higher-education"
   - "topic/dei"
   - "topic/teaching/higher-education/retention"

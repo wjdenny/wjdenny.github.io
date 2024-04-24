@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/source
+  - 🕮
 alias: "Internationalization in higher education: global trends and recommendations for its future"
 ---
 # Internationalization in higher education: global trends and recommendations for its future

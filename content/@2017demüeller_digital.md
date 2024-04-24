@@ -1,6 +1,6 @@
 ---
 tags:
-  - "type/source"
+  - "🕮"
 alias: "Digital Dreams: The Rhetorical Power of Online Resources for DREAM Act Activists"
 draft: false
 ---
