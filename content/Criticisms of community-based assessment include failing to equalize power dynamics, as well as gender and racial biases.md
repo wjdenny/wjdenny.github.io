@@ -1,5 +1,5 @@
 #🖿 
 
-[[Community-based assessment merely spreads the culpability in not addressing bias towards white racial habitus]]
+[[Community-based assessments are centered on the racialized habitus of the community.]]
 
 🏷 [[Community-based Assessment]] [[Ideology in Teaching]]

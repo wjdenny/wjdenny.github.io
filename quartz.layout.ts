@@ -53,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         showTags: false,
-        depth: 2
+        depth: 1
       },
       globalGraph: {
         showTags: false

@@ -25,7 +25,7 @@ School assessments tend to be designed to measure learning of the dominant major
 	- [[Hybrid-grading contracts, as used by Danielewicz and Elbow, fail to avoid the bias and judgement of white racial habitus]]
 	- [[Hybrid-grading contracts, as used by Danielewicz and Elbow, unintentionally reserve the highest grades for students who adopt a white racial habitus]]
 	- [[Anonymous grading cannot prevent reference to the norm within the class which may introduce a bias towards a white racial habitus]]
-	- [[Community-based assessment merely spreads the culpability in not addressing bias towards white racial habitus]]
+	- [[Community-based assessments are centered on the racialized habitus of the community.]]
 	- [[Criticisms of community-based assessment include failing to equalize power dynamics, as well as gender and racial biases]]
 	- [[In a negotiated assessment ecology, male and white students are more likely to defend their work which therefore introduces a gender and racial bias in the grading system]]
 	- [[Efforts to support one group of student can further marginalize others.]] 

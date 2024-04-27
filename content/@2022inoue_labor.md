@@ -555,7 +555,7 @@ This resonates with me a lot; sounds very familiar. This is my struggle almost e
 
 > I just got my students to manage those enclosures with me. Many of these contradictions occurred because the university required grades. And of course, there are always contradictions in any assessment ecology situated in other ecologies that demand things like movement between enclosures that are already created. [page 56]
 
-[[Community-based assessment merely spreads the culpability in not addressing bias towards white racial habitus]]
+[[Community-based assessments are centered on the racialized habitus of the community.]]
 
 > I was fortunate enough to get feedback from Peter Elbow on the article. He was one of the reviewers ... I had cut my teeth on Writing Without Teachers, which had been suggested to me by Chris Anderson, my first mentor and the Director of Writing at Oregon State a decade earlier.
 > [Elbow] gave me his grading contract, a version of the one he and Jane Danielewicz published later (Danielewicz and Elbow), but Peter had been using and working on contracts and alternative systems of judgment in writing classrooms for at least a decade before (Elbow, "Grading Writing," “Taking Time Out," and “Ranking"). [page 57]

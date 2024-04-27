@@ -83,7 +83,7 @@ Erez Levon, Devyani Sharma, and Christian Ilbury. *Speaking Up: Accents and Soci
 > leaving it up to each individual employee to determine enables us to lean on our unconscious biases and prioritize white employees or those with *proximity to whiteness*-- that is, the physical characteristics and traits that grant someone privileges, power, and access within a white-dominant culture. [page 25]
 
 [[Being white is not the same as having a white racial habitus.]]
-[[Community-based assessment merely spreads the culpability in not addressing bias towards white racial habitus]]
+[[Community-based assessments are centered on the racialized habitus of the community.]]
 [[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus]]
 
 > Utilize structured interview questions and connect each question to a competency that is necessary for the role. To develop a set of competencies, think about all the knowledge, skills, and abilities that are required for a job incumbent to do the job and do it well. [page 25]
