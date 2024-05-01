@@ -1,5 +1,5 @@
 
-The concept of "Twelve Favorite Problems" was a knowledge management and building technique discovered in the work of [[Richard Feynman]] through the writing of [[Gian-Carlo Rota]] and then popularized by folks in the personal knowledge management and productivity spaces such as [[Tiago Forte]]. 
+The concept of "Twelve Favorite Problems" was a knowledge management and building technique discovered in the work of [[Richard Feynman]] through [[@1997rota_ten#^24ecbc|the writing of Gian-Carlo Rota]] and then popularized by folks in the personal knowledge management and productivity spaces such as [[@2022forte_second|Tiago Forte's "Building a Second Brain"]]. 
 
 Forte[^1] describes the technique as keeping a list of open-ended questions in the back of your mind at all times. This can yield a number of benefits, including helping to [[Triage levels|triage incoming information]], [[Cross-disciplinary approaches are linked with higher productivity and creativity.|spread ideas across different fields of knowledge]], and condition yourself to notice useful information or solutions in daily life.
 

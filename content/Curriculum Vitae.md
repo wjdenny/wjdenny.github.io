@@ -8,6 +8,10 @@ header-includes:
   - \usepackage{pdfpages}
   - \usepackage{pax}
   - \usepackage{moresize}
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \rhead{William Denny}
+  - \lhead{Curriculm Vitae}
 fontsize: 10pt
 alias:  cv
 permalink: cv
@@ -107,7 +111,10 @@ Creator and sole tutor of ESL tutoring program
 - researched and developed materials to teach international students the cultural differences surrounding plagiarism and authorship
 - presented work at MIDTESOL conference to audience of English teaching faculty
 
+
 ## Education
+**Master of Social Work** @ [The University of Iowa](https://socialwork.uiowa.edu/graduate/msw-social-work) (in progress, graduating 2026)
+
 **[Promoting Active Learning](https://api.badgr.io/public/assertions/GIiwZAEfTC2YbY9KlB_Ing)** @ ACUE (2023)
 
 - active learning cycle, teaching note-taking skills, planning and facilitating class discussions

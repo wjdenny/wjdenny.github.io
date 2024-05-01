@@ -13,9 +13,10 @@ https://jvns.ca/blog/2023/06/05/some-blogging-myths/
 
 ## Notes
 > The idea is that if I found it confusing, lots of other people probably did too, even though the information might theoretically be out there on the internet somewhere. Just because there is information on the internet, it doesn’t get magically teleported into people’s brains!
+
+^75f5db
  
 The same idea would apply to teaching, too.
-[[Just because the information already exists somewhere, doesn't mean it isn't worth writing about]]
 
 > Sometimes when I write a blog post, someone will link me to a great existing explanation of the thing that I hadn’t seen. I try to think of this as a good thing – it means that I get a new resource that I couldn’t find, and maybe other people find out about it too. Often I’ll update the blog post to link to it.
  
@@ -35,9 +36,13 @@ Add qualifiers if you're not certain about the information, but only then.
 
 > The reality of publishing things on the internet is that interesting things get boosted, and boring things get ignored. So people are basically guaranteed to think your posts are much more interesting that they actually are, because they’re more likely to see your interesting posts.
 
-[[The nature of internet content removes a lot of risk of failure when writing because uninteresting content gets ignored quietly]]
+^f454d7
+
+[[Publish often.]]
 
 > I really Darius Kazemi’s How I Won The Lottery talk on this topic about how putting things on the internet is like buying lots of lottery tickets, and the best way to “win” is to make a lot of stuff.
+
+^c1c9e2
 
 Just produce more; don't try to figure out what will be successful.
 

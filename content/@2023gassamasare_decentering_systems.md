@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Decentering Whiteness in Workplace Systems
+  - Gasam Asare, 2023
 ---
 # Decentering Whiteness in Workplace Systems
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].
@@ -52,7 +53,8 @@ Quinisha Jackson-Wright, "To Promote Inclusivity, Stay Away from Personality Ass
 
 ^86c213
 
-footnote 5 [[Community-based assessments are centered on the racialized habitus of the community.]]
+Keith J. Caldwell, "Racial Bias and Student Ratings of Instructors," University of Pittsburgh Center for Teaching and Learning, Office of Measurement and Evaluation of Teaching (OMET), accessed April 7, 2023, https://teaching.pitt.edu/wp-content/uploads/2018/12/OMET-Racial_bias_and_student_ratings_of_instructors.pdf.
+
 
 > Simply having more people from racial and ethnically diverse backgrounds performing the evaluations won't completely resolve the issue, but it *can* help. [page 37]
 

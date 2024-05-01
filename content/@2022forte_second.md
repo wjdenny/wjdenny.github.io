@@ -128,7 +128,7 @@ Was it Forte or someone else who wrote about the concept of atomic notes?
 
 > An important tool of the researchers was building physical models [...] They turn vague concepts into tangible entities that can be observed, rearranged, edited, and combined together.
 
-[[Models help us understand things]]
+[[Models help us understand things.]]
 
 > Deborah Chambers and Daniel Reisberg found in their research on the limits of mental visualization, "The skills we have developed for dealing with the external world go beyond those we have for dealing with the internal world." 
 
@@ -323,11 +323,11 @@ digraph G {
 
 > you are much more likely to remember information you've written down in your own words. Known as the "Generation Effect," researchers have found that when people actively generate a series of words, such as by speaking or writing, more parts of their brain are activated when compared to simply reading the same words.
 
-[[More parts of the brain are activated when using information in productive language and sensemaking]]
+[[More parts of the brain are activated when using information in productive language and sensemaking.]]
 
 > Thinking doesn't just produce writing; writing also enriches thinking.
 
-[[Writing improves thinking]]
+[[Writing improves thinking.]]
 
 > One of the most cited psychology papers of the 1990s found that "translating emotional events into words leads to profound social, psychological, and neural changes."
 
