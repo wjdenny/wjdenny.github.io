@@ -14,7 +14,7 @@ These will need to be cleaned up at some point. All of them will be drafts until
 [[2022 ACUE - Incorporating Diverse Perspectives and Experiences into Your Course]]
 [[2022 ACUE - Providing Explicit Assignment Expectations]]
 [[2022 ACUE - Reducing Bias by Getting to Know Your Students]]
-[[2022 ACUE - Reducing Microagressions in Learning Environments]]
+[[@2022acue_reducing]]
 [[2022 ACUE - Stereotype Threat]]
 [[2022 ACUE - Using Empathy to Ensure Equity in Course Policies]]
 [[@2022acue_bias]]

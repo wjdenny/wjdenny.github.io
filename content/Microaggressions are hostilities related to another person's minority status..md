@@ -1,0 +1,9 @@
+---
+tags: 
+  - 🖿
+---
+Microaggressions are indirect insults related to another person's minority status ([[@2018caldwell_racial#^fd88cd|Caldwell, 2018]]; [[@2022acue_reducing|ACUE, 2022]]). Scholars have argued that as the Civil Rights movement made open forms of hostilities towards minoritized people less palatable in public discourse, more subtle expressions have evolved to replace them ([[@2018caldwell_racial#^fd88cd|Caldwell, 2018]]). 
+
+The concept was coined by Derald Wing Sue to describe subtle and indirect forms of hostility towards individuals with minority status. Sue identified three forms of microaggressions. However, others, such as Ibram X. Kendi, prefer to avoid the addition of *micro* with these very real aggressions against minority status ([[@2022acue_reducing#^53e951|ACUE, 2022]]). Microinsults are what many recognize as a microaggression. These are described as subtle statements or actions that make assumptions based on a person's minority status. An example of a microinsult would be a statement associating a person of color's hiring at a company with diversity requirements rather than their suitability for the role. Microassaults are characterized by Sue as an intentional action towards an individual, such as a racial or homophobic slur. A microinvalidation is also fairly direct, but is characterized by minimizing the lived experience of people with minority identities or an event's relationship to their minority status. For example, telling a student of color who experiences subtle and overt forms of racism in the college daily that her difficulties in class have nothing to do with her race would be a microinvalidation ([[@2018caldwell_racial|Caldwell, 2018]]). 
+
+Another feature of microaggressions is that they happen repeatedly and not just once. [[Microaggressions are often unintended, but the impact of them is what is important to consider.]]
