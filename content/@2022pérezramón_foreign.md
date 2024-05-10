@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Foreign accent strength and intelligibility at the segmental level"
-draft: false
+  - 🕮
+aliases:
+  - Foreign accent strength and intelligibility at the segmental level
+draft: true
 ---
 
 # Foreign accent strength and intelligibility at the segmental level

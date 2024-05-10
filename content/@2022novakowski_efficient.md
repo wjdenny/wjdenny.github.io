@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Efficient data visualization with faded raincloud plots"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Efficient data visualization with faded raincloud plots
+draft: true
 ---
 # Efficient data visualization with faded raincloud plots
 

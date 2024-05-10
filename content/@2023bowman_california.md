@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - California enters a contract to make its own affordable insulin
+draft: true
 ---
 # California enters a contract to make its own affordable insulin
 [[Emma Bowman]] wrote this article for [[National Public Radio]].

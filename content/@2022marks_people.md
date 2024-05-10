@@ -2,6 +2,7 @@
 tags:
   - 🕮
 alias: "Why People with ADHD Procrastinate"
+draft: true
 ---
 # Why People with ADHD Procrastinate
 

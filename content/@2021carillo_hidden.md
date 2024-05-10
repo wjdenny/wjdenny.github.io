@@ -8,6 +8,7 @@ tags:
   - ❶
 aliases:
   - The Hidden Inequities in Labor-Based Contract Grading
+draft: true
 ---
 # The Hidden Inequities in Labor-Based Contract Grading
 

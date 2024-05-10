@@ -2,6 +2,7 @@
 tags:
   - 🕮
 alias: "Eastern & Western Design: How Culture Rewires The Brain"
+draft: true
 ---
 # Eastern & Western Design: How Culture Rewires The Brain
 [[Design Theory]] posted this video on their YouTube channel.

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "A Peer Review Training Workshop: Coaching Students to Give and Evaluate Peer Feedback"
-draft: false
+  - 🕮
+aliases:
+  - "A Peer Review Training Workshop: Coaching Students to Give and Evaluate Peer Feedback"
+draft: true
 ---
 # A Peer Review Training Workshop: Coaching Students to Give and Evaluate Peer Feedback
 

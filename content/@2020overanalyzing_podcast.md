@@ -3,6 +3,7 @@ tags:
   - 🕮
   - topic/pkm/obsidian
 alias:  "This is How I take Podcast Notes in Obsidian"
+draft: true
 ---
 # This is How I take Podcast Notes in Obsidian
 

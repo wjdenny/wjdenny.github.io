@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The Grammar of Graphics"
-draft: false
+  - 🕮
+aliases:
+  - The Grammar of Graphics
+draft: true
 ---
 # The Grammar of Graphics
 [[Leland Wilkinson]] wrote this book for [[Springer]].

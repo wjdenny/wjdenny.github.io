@@ -11,6 +11,7 @@ author: "Ian Bogost"
 publisher: "The Atlantic"
 date: 2022-12-07
 url: "https://www.theatlantic.com/technology/archive/2022/12/chatgpt-openai-artificial-intelligence-writing-ethics/672386/"
+draft: true
 ---
 # ChatGPT Is Dumber Than You Think
 [[Ian Bogost]] wrote this article for [[The Atlantic]].

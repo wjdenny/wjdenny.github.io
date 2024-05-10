@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The Subjective Experience of Foreign Language Anxiety: Interviews with Highly Anxious Students"
-draft: false
+  - 🕮
+aliases:
+  - "The Subjective Experience of Foreign Language Anxiety: Interviews with Highly Anxious Students"
+draft: true
 ---
 # The Subjective Experience of Foreign Language Anxiety: Interviews with Highly Anxious Students
 [[Mary Lou Price]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].

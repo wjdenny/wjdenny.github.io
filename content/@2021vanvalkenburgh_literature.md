@@ -1,8 +1,10 @@
 ---
 tags:
-  - "🕮"
-alias: "Literature Review of Contract Grading for Multilingual and ESOL Writing Classes - Van Valkenburgh, 2021"
-draft: false
+  - 🕮
+aliases:
+  - Literature Review of Contract Grading for Multilingual and ESOL Writing Classes - Van Valkenburgh
+  - "2021"
+draft: true
 ---
 # Literature Review of Contract Grading for Multilingual and ESOL Writing Classes
 

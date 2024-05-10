@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College"
-draft: false
+  - 🕮
+aliases:
+  - "Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College"
+draft: true
 ---
 # Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College
 [[Christina Ortmeier-Hooper]] and [[Todd Ruecker]] wrote this book for [[Routledge]].

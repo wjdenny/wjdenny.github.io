@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes"
-draft: false
+  - 🕮
+aliases:
+  - My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes
+draft: true
 ---
 # My 2020 Comprehensive Obsidian Workflow For Zettelkasten and Evergreen Notes
 

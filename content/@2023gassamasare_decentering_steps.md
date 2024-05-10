@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Steps to Start Decentering Whiteness in the Workplace
+draft: true
 ---
 # Steps to Start Decentering Whiteness in the Workplace
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].

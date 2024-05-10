@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Treatment of error in second language student writing"
-draft: false
+  - 🕮
+aliases:
+  - Treatment of error in second language student writing
+draft: true
 ---
 # Treatment of error in second language student writing
 

@@ -8,7 +8,7 @@ tags:
   - quote
   - synthesize
   - summarize
-draft: false
+draft: true
 ---
 # Labor-based grading contracts: Building equity and inclusive in the compassionate writing classroom
 
@@ -148,7 +148,7 @@ It's passages like these that make me realize this is referring to students of f
 
 > *habitus* (or linguistic, bodily, and performative dispositions)
 
-[[The habitus discussed by Inoue is a style of communication that is adopted by a person to mark them as belonging to a particular group]]
+[[Habitus is a system of cultural values, mores, norms, and language shared by a group of people.]]
 
 >disposition to be calm and rational is a part of the academic dispositions that [[2006 Thaiss & Zawacki|Thaiss and Zawacki]] contend, in their interdisciplinary study of writers, may be universal in all academic writing (5-6). This disposition also is deeply rooted in a white racial *habitus*. [...] To see how the literature on whiteness has identified the disposition of reason and neutrality, see [[1997 Brookhiser|Brookhiser]], [[2002 Myser|Myser]], and [[1982 McGill & Pearce|McGill and Pearce]]. [page 6]
 

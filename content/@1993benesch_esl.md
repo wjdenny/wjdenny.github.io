@@ -1,8 +1,11 @@
 ---
 tags:
-  - "🕮"
-alias: "ESL, Ideology, and the Politics of Pragmatism"
-draft: false
+  - 🕮
+aliases:
+  - ESL
+  - Ideology
+  - and the Politics of Pragmatism
+draft: true
 ---
 # ESL, Ideology, and the Politics of Pragmatism
 

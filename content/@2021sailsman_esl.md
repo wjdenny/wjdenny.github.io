@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "English-As-A-Second-Language (ESL) Nursing Students' Academic Integration: A Review of Literature"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - "English-As-A-Second-Language (ESL) Nursing Students' Academic Integration: A Review of Literature"
+draft: true
 ---
 # English-As-A-Second-Language (ESL) Nursing Students' Academic Integration: A Review of Literature
 [[Sonique Sailsman]] wrote this article for [[Nursing Education Perspectives]].

@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Fewer Non-English Voting Materials"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Fewer Non-English Voting Materials
+draft: true
 ---
 # Fewer Non-English Voting Materials
 [[Grace Katzer]] wrote this article for the [[Daily Iowan]].

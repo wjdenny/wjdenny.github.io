@@ -5,6 +5,7 @@ tags:
   - ❷
 aliases:
   - The Science of Catching Up in Life
+draft: true
 ---
 # The Science of Catching Up in Life
 [[HealthyGamerGG]] posted this video on their YouTube channel.

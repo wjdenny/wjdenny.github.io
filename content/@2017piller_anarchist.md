@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - An Anarchist Is Teaching Patients to Make Their Own Medications
+draft: true
 ---
 # An Anarchist Is Teaching Patients to Make Their Own Medications
 [[Charles PIller]] and [[STAT]] wrote this article for [[Scientific American]].

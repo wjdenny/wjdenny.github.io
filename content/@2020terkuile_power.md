@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The Power of Ritual: Turning Everyday Activities into Soulful Practices"
-draft: false
+  - 🕮
+aliases:
+  - "The Power of Ritual: Turning Everyday Activities into Soulful Practices"
+draft: true
 ---
 # The Power of Ritual
 [[Casper ter Kuile]] wrote this book for [[HarperOne]].

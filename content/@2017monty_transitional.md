@@ -1,8 +1,11 @@
 ---
 tags:
-  - "🕮"
-alias: "Transitional Access and Integrated Complexity: Interconnecting People, Research, and Media for Transnational Writing Students"
-draft: false
+  - 🕮
+aliases:
+  - "Transitional Access and Integrated Complexity: Interconnecting People"
+  - Research
+  - and Media for Transnational Writing Students
+draft: true
 ---
 # Transitional Access and Integrated Complexity: Interconnecting People, Research, and Media for Transnational Writing Students
 [[Randall Monty]], [[Karen Holt]], and [[Colin Charlton]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]]

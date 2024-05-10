@@ -10,6 +10,7 @@ author: "Ann-Marie Alcántara"
 publisher: "Wall Street Journal"
 date: 2023-01-10
 url: "https://www.wsj.com/articles/is-it-human-or-ai-new-tools-help-you-spot-the-bots-11673356404"
+draft: true
 ---
 # Is It Human or AI? New Tools Help You Spot the Bots
 [[Ann-Marie Alcántara]] wrote this article for [[Wall Street Journal]].

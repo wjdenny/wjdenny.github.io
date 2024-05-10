@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The reliability of single task assessment in longitudinal L2 writing research"
-draft: false
+  - 🕮
+aliases:
+  - The reliability of single task assessment in longitudinal L2 writing research
+draft: true
 ---
 # The reliability of single task assessment in longitudinal L2 writing research
 [[May Y. Wu]], [[Rasmus Steinkrauss]], and [[Wander Lowie]] wrote this research paper for the [[Journal of Second Language Writing]].

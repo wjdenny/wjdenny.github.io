@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Affective Reactions of Foreign Language Students to Natural Approach Activities and Teaching Techniques"
-draft: false
+  - 🕮
+aliases:
+  - Affective Reactions of Foreign Language Students to Natural Approach Activities and Teaching Techniques
+draft: true
 ---
 # Affective Reactions of Foreign Language Students to Natural Approach Activities and Teaching Techniques
 

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Immigrants in Community Colleges"
-draft: false
+  - 🕮
+aliases:
+  - Immigrants in Community Colleges
+draft: true
 ---
 # Immigrants in Community Colleges
 [[Robert T. Teranishi]], [[Carola Suárez-Orozco]], and [[Marcelo Suárez-Orozco]] wrote this article for [[The Future of Children]].

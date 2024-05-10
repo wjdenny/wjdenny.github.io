@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - Iowa City immigrants and refugees face housing crisis
+draft: true
 ---
 # Iowa City immigrants and refugees face housing crisis
 [[Mia O'Conner-Walker]] wrote this article for [[the Daily Iowan]].

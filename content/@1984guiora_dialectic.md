@@ -1,7 +1,9 @@
 ---
 tags:
   - 🕮
-alias: "The Dialectic of Language Acquisition"
+aliases:
+  - The Dialectic of Language Acquisition
+draft: true
 ---
 # The Dialectic of Language Acquisition
 [[Alexander Z. Guiora]] wrote this article for the journal [[Language Learning]].

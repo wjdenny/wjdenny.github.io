@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy"
-draft: false
+  - 🕮
+aliases:
+  - "Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy"
+draft: true
 ---
 # Internationalization and the Place of Resident ML Students: Identifying Points of Leverage and Advocacy
 [[Christina Ortmeier-Hooper]], [[Dana Ferris]], [[Richard Lizotte]], [[Patricia Portanova]], and [[Margi Wald]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]].

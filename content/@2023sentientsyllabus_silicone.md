@@ -9,6 +9,7 @@ author: "Sentient Syllabus"
 publisher: "Sentient Syllabus"
 date: 2023-01-27
 url: "https://sentientsyllabus.substack.com/p/silicone-coauthors"
+draft: true
 ---
 # Silicone Coauthors
 [[Sentient Syllabus]] wrote this article for [[Sentient Syllabus]].

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Live Portfolio and Resume Analysis with Data Science Hiring Managers"
-draft: false
+  - 🕮
+aliases:
+  - Live Portfolio and Resume Analysis with Data Science Hiring Managers
+draft: true
 ---
 
 # Live Portfolio and Resume Analysis with Data Science Hiring Managers

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "A Pivotal Praxis"
-draft: false
+  - 🕮
+aliases:
+  - A Pivotal Praxis
+draft: true
 ---
 # A Pivotal Praxis
 

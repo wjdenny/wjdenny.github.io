@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The Effect of Affect on Foreign Language Learning: A Review of the Anxiety Research"
-draft: false
+  - 🕮
+aliases:
+  - "The Effect of Affect on Foreign Language Learning: A Review of the Anxiety Research"
+draft: true
 ---
 # The Effect of Affect on Foreign Language Learning: A Review of the Anxiety Research
 [[Thomas Scovel]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].

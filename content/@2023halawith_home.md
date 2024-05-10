@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - Home to temporarily house refugees, immigrants opens in Iowa City
+draft: true
 ---
 # Home to temporarily house refugees, immigrants opens in Iowa City
 [[Liam Halawith]] wrote this article for [[the Daily Iowan]].

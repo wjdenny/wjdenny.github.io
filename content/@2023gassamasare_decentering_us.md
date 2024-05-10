@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Decentering Whiteness within Us
+draft: true
 ---
 # Decentering Whiteness within Us
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].

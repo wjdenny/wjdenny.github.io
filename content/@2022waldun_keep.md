@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "How to Keep A Commonplace Book"
-draft: false
+  - 🕮
+aliases:
+  - How to Keep A Commonplace Book
+draft: true
 ---
 # How to Keep A Commonplace Book
 

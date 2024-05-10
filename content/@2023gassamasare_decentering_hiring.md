@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Decentering Whiteness in Hiring Practices
+draft: true
 ---
 # Decentering Whiteness in Hiring Practices
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].

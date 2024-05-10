@@ -9,6 +9,7 @@ title: "Statistics for Linguists"
 author: "Bodo Winter"
 publisher: "Routledge"
 date: 2020
+draft: true
 ---
 # Statistics for Linguists
 [[Bodo Winter]] wrote this book for [[2020]].

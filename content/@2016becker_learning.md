@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Learning by Listening to Lectures is a Challenge for College Students with Developmental Language Impairment"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Learning by Listening to Lectures is a Challenge for College Students with Developmental Language Impairment
+draft: true
 ---
 # Learning by Listening to Lectures is a Challenge for College Students with Developmental Language Impairment
 [[Toni C. Becker]] and [[Karla K. McGregor]] wrote this article for [[Journal of Communication Disorders]].

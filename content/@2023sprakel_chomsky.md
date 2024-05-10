@@ -10,6 +10,7 @@ author: "EduKitchen"
 publisher: "YouTube"
 date: 2023-01-21
 url: "https://www.youtube.com/watch?v=IgxzcOugvEI"
+draft: true
 ---
 # Chomsky on ChatGPT, Education, Russia and the unvaccinated
 [[Thijmen Sprakel]] conducted this interview with [[Noam Chomsky]] which was uploaded to [[YouTube]].

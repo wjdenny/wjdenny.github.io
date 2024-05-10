@@ -5,6 +5,7 @@ tags:
   - ❸
 aliases:
   - It doesn't get better
+draft: true
 ---
 # It doesn't get better
 [[Jessica Kellgren-Fozard]] posted this video on her YouTube channel.
@@ -24,6 +25,7 @@ aliases:
 ## Notes
 
 It doesn't get better, but you do get stronger and smarter.
+OR: It doesn't get better, but you do.
 
 [17:35](https://www.youtube.com/watch?v=bHs8sp6Han0&t=17m35s) [[People experience grief when diagnosed with a chronic illness.]] #topic/grief #topic/chronic-illness 
 

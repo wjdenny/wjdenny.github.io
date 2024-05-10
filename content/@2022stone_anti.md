@@ -11,6 +11,7 @@ author: "Brad Stone"
 publisher: "Bloomberg"
 date: 2022-12-14
 url: "https://www.bloomberg.com/news/newsletters/2022-12-14/anti-cheating-education-software-braces-for-chatgpt"
+draft: true
 ---
 # Anti-Cheating Education Software Braces for AI Chatbots
 [[Brad Stone]] wrote this article for [[Bloomberg]].

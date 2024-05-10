@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - "12 Favorite Problems: How to Spark Genius With the Power of Open Questions"
+draft: true
 ---
 # 12 Favorite Problems: How to Spark Genius With the Power of Open Questions
 [[Tiago Forte]] wrote this article for [[Forte Labs]].

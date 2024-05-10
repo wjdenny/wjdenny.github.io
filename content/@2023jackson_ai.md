@@ -10,6 +10,7 @@ author: "Lauren Jackson"
 publisher: "The New York Times"
 date: 2023-03-02
 url: "https://www.nytimes.com/2023/03/02/briefing/chatgpt-ai.html"
+draft: true
 ---
 # How A.I. Can Help
 [[Lauren Jackson]] wrote this article for [[The New York Times]].

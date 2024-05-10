@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Mindful Context Switching"
-draft: false
+  - 🕮
+aliases:
+  - Mindful Context Switching
+draft: true
 ---
 # Mindful Context Switching
 [[Anne-Laure Le Cunff]] wrote this misc for [[Ness Labs]].

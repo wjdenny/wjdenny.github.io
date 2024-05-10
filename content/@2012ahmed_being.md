@@ -2,8 +2,9 @@
 tags:
   - 🕮
   - todo
-alias: "On Being Included"
-draft: false
+aliases:
+  - On Being Included
+draft: true
 ---
 # On Being Included
 [[Sara Ahmed]] wrote this book for [[Duke University Press]].

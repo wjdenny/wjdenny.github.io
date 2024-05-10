@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Centering the Most Marginalized Employees
+draft: true
 ---
 # Centering the Most Marginalized Employees
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].

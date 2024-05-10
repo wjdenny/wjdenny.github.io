@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The experiences of international nursing students in a baccalaureate nursing program"
-draft: false
+  - 🕮
+aliases:
+  - The experiences of international nursing students in a baccalaureate nursing program
+draft: true
 ---
 # The experiences of international nursing students in a baccalaureate nursing program.
 [[Susan Sanner]], [[Astrid H. Wilson]], and [[Linda F. Samson]] wrote this article for the [[Journal of Professional Nursing]].

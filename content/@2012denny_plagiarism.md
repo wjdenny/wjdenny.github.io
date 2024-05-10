@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Plagiarism: Focused Teaching and Enhanced Understanding"
-draft: false
+  - 🕮
+aliases:
+  - "Plagiarism: Focused Teaching and Enhanced Understanding"
+draft: true
 ---
 # Plagiarism: Focused Teaching and Enhanced Understanding
 [[William Denny]] and [[Molly Kelley]] wrote this article for [[MIDTESOL]].

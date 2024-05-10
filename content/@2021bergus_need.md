@@ -8,6 +8,7 @@ tags:
   - ❷
 aliases:
   - We need to talk about abolishing the police in Iowa City
+draft: true
 ---
 # We need to talk about abolishing the police in Iowa City
 [Laura Bergus] wrote this article for [[The Gazette]].

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The Case for Grammar Correction in L2 Writing Classes: A Response to Truscott (1996)"
-draft: false
+  - 🕮
+aliases:
+  - "The Case for Grammar Correction in L2 Writing Classes: A Response to Truscott (1996)"
+draft: true
 ---
 # The Case for Grammar Correction in L2 Writing Classes: A Response to Truscott (1996)
 

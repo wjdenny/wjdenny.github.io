@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Writing to Learn"
-draft: false
+  - 🕮
+aliases:
+  - Writing to Learn
+draft: true
 ---
 # Writing to Learn
 [[William Zinsser]] wrote this book for [[Harper & Row]].

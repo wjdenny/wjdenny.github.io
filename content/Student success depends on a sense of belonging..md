@@ -1,5 +1,7 @@
 ---
-tags: 🖿
+tags:
+  - 🖿
+  - todo/organize
 ---
 There seems to be a connection between "sense of belonging" and adopting the dominant culture in academia but I need to explore it more. It may be the same concept, but the former has a more marketing and student success perspective whereas the latter has a more critical pedagogy, sociology, and Bourdieuan perspective.
 
@@ -9,7 +11,7 @@ There seems to be a connection between "sense of belonging" and adopting the dom
 - [[Students who have or are adjacent to privilege may not notice the struggle of adopting a white language habitus that other students do]]
 - [[Students who were not raised in white habitus households struggle to adopt habits of white language in college]]
 - [[Success in conventional classrooms is synonymous with adopting a white racial habitus]]
-- [[The habitus discussed by Inoue is a style of communication that is adopted by a person to mark them as belonging to a particular group]]
+- [[Habitus is a system of cultural values, mores, norms, and language shared by a group of people.]]
 - [[Being white is not the same as having a white racial habitus.]]
 - [[School assessments tend to be designed to measure learning of the dominant majority]]
 - Organize notes on habitus.
@@ -20,7 +22,7 @@ Academic success of linguistic minority students depends on positive relationshi
 
 @2011walton&cohen_brief[^6] found that growth-mindset challenge re-framing exercises led to an increase in students' sense of belonging and had significant effects on GPAs among other positive outcomes. This increase was stronger for African American students than for European American students, thus equalizing a well known racial achievement gap. @2009hausmann_sense found that more superficial interventions such as giving out school-branded swag as well as sending mass messages and surveys increased sense of belonging for European American students but not others, suggesting that student-centered efforts at inclusivity are more effective. These studies did not include students for whom English was not their first language; either resident immigrant students or international students.
 
-For linguistic minority students, deeper work on cultural adaptation and identity may be more helpful. [@2010kanno&varghese_immigrant] noted a study that found students who were better represented on campus were more successful.[^4] In these cases, the institution  framed the linguistic minority student presence on campus as an asset [[The dominant narrative of multilingual students is deficit-based|to combat dominant deficit-based narratives]]; thereby advocating for students when they lacked the confidence or linguistic ability to do so. Examples of this could be the CCCC statements on plurilingualism, see also [[@2022inoue_labor#^4cf719]], [[@2010kanno_immigrant#^acc265]]. On cross-cultural composition, see [[@2021shapiro_language]].
+For linguistic minority students, deeper work on cultural adaptation and identity may be more helpful. [@2010kanno&varghese_immigrant] noted a study that found students who were better represented on campus were more successful.[^4] In these cases, the institution  framed the linguistic minority student presence on campus as an asset [[The dominant narrative of multilingual students is deficit-based.|to combat dominant deficit-based narratives]]; thereby advocating for students when they lacked the confidence or linguistic ability to do so. Examples of this could be the CCCC statements on plurilingualism, see also [[@2022inoue_labor#^4cf719]], [[@2010kanno_immigrant#^acc265]]. On cross-cultural composition, see [[@2021shapiro_language]].
 
 [[@2017wight_literacy#^91eb91]]
 [[@2017wight_literacy#^634ed1]]

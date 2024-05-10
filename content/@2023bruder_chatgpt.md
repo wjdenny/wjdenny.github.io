@@ -11,6 +11,7 @@ author: "Anne Bruder"
 publisher: "Education Week"
 date: 2023-01-04
 url: "https://www.edweek.org/technology/opinion-what-chatgpt-means-for-how-we-teach-writing/2023/01"
+draft: true
 ---
 # What ChatGPT Means for How We Teach Writing
 - [[Anne Bruder]] wrote this article for [[Education Week]].

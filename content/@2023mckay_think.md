@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - "Think Like Feynman: Why You Should Have 12 Favorite Problems"
+draft: true
 ---
 # Think Like Feynman: Why You Should Have 12 Favorite Problems
 [[Brett McKay]] and [[Kate McKay]] wrote this article for [[Art of Manilness]].

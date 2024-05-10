@@ -9,6 +9,7 @@ author: "Vicky Zhao"
 publisher: "YouTube"
 date: 2022-02-24
 url: "https://www.youtube.com/watch?v=5O46Rqh5zHE"
+draft: true
 ---
 # How To Take Smart Notes (3 methods no one's talking about)
 [[Vicky Zhao]] wrote this misc for [[YouTube]].

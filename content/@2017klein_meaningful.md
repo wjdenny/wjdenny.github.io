@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "A meaningful file structure for R projects"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - A meaningful file structure for R projects
+draft: true
 ---
 https://www.inwt-statistics.com/blog/a-meaningful-file-structure-for-r-projects
 

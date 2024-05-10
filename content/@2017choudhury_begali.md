@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Bengali-Speaking Multilingual Writers in Transition into Community College"
-draft: false
+  - 🕮
+aliases:
+  - Bengali-Speaking Multilingual Writers in Transition into Community College
+draft: true
 ---
 # Bengali-Speaking Multilingual Writers in Transition into Community College
 

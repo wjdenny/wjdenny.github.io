@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - "Conclusion: Where Do You Begin?"
+draft: true
 ---
 # Conclusion: Where Do You Begin?
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].

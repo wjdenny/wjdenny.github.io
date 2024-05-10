@@ -11,6 +11,7 @@ author: "Josh Bernoff"
 publisher: "Without Bullshit"
 date: 2022-12-15
 url: "https://withoutbullshit.com/blog/when-ai-tools-like-chatgpt-can-write-how-should-we-teach-writing"
+draft: true
 ---
 # What AI tools like ChatGPT can write, how should we teach writing?
 - [[Josh Bernoff]] wrote this article for [[Without Bullshit]].

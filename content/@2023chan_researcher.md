@@ -10,6 +10,7 @@ author: "Wilfred Chan"
 publisher: "Fast Company"
 date: 2023-05-05
 url: "https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them"
+draft: true
 ---
 # Researcher Meredith Whittaker says AI’s biggest risk isn’t ‘consciousness’—it’s the corporations that control them
 [[Wilfred Chan]] wrote this article for [[Fast Company]].

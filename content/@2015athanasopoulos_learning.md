@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Learning to Think in a second language; effects of proficiency and length of exposure in English learners of German"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Learning to Think in a second language; effects of proficiency and length of exposure in English learners of German
+draft: true
 ---
 # Learning to Think in a second language; effects of proficiency and length of exposure in English learners of German
 [[Panos Athanasopoulos]], [[Ljubica Damjanovic]], [[Julie Burnand]], and [[Emanuel Bylund]] wrote this article for [[The Modern Language Journal]].

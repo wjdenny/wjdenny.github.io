@@ -12,6 +12,7 @@ date: 2023-04-21
 url: "https://www.liveliketheworldisdying.com/s1e66-eric-on-talking-trash-on-traditional-prepping/"
 season: 1
 episode: 66
+draft: true
 ---
 # Eric on Talking Trash on Traditional Prepping
 [[Live Like the World is Dying]] produced this podcast episode for [[Strangers in a Tangled Wilderness]]. 

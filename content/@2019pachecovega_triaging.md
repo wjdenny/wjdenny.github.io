@@ -1,12 +1,13 @@
 ---
 tags:
-  - "🕮"
-  - "topic/reading"
-  - "topic/pkm/note-taking"
-  - "topic/pkm"
-  - "topic/writing"
-alias: "Triaging your reading workload: how to choose when to read something in more depth"
-draft: false
+  - 🕮
+  - topic/reading
+  - topic/pkm/note-taking
+  - topic/pkm
+  - topic/writing
+aliases:
+  - "Triaging your reading workload: how to choose when to read something in more depth"
+draft: true
 ---
 # Triaging your reading workload: how to choose when to read something in more depth
 

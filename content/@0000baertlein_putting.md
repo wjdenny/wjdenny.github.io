@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - "Putting Theory into Practice: A Call for a Sociocultural Approach to English for Academic Purposes Curricula"
+draft: true
 ---
 # Putting Theory into Practice: A Call for a Sociocultural Approach to English for Academic Purposes Curricula
 [[Elizabeth Baertlein]] wrote this article.

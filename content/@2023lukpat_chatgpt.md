@@ -1,11 +1,13 @@
 ---
 tags:
-  - "🕮"
-  - "topic/ai"
-  - "topic/teaching/education"
-  - "topic/teaching/higher-education/academic-integrity"
-alias: "ChatGPT Banned in New York City Public Schools Over Concerns About Cheating, Learning Development"
-draft: false
+  - 🕮
+  - topic/ai
+  - topic/teaching/education
+  - topic/teaching/higher-education/academic-integrity
+aliases:
+  - ChatGPT Banned in New York City Public Schools Over Concerns About Cheating
+  - Learning Development
+draft: true
 ---
 # ChatGPT Banned in New York City Public Schools Over Concerns About Cheating, Learning Development
 [[Alyssa Lukpat]] wrote this article for [[Wall Street Journal]].

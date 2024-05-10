@@ -9,6 +9,7 @@ author: "Steven T. Piantadosi"
 publisher: "Twitter"
 date: 2022-12-04
 url: "https://twitter.com/spiantado/status/1599462375887114240"
+draft: true
 ---
 # Steven T. Piantadosi Twitter Thread
 [[Steven T. Piantadosi]] wrote this misc for [[Twitter]].

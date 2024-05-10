@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - Ten Lessons I Wish I Had Been Taught
+draft: true
 ---
 # Ten Lessons I Wish I Had Been Taught
 [[Gian-Carlo Rota]] wrote this article for [[Notices of the AMS]]
@@ -56,7 +57,7 @@ Gian-Carlo Rota, in "Ten Lessons I Wish I Had Been Taught," offers a reflective 
 
 [[Models help us understand things.]]
 [[Writing improves thinking.]]
-[[Publish often.]]
+[[Publishing often has many benefits.]]
 
 > You Are More Likely to Be Remembered by Your Expository Work
 > 

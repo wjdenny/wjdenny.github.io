@@ -10,6 +10,7 @@ author: "Brent Warner"
 publisher: "TESOL Blog"
 date: 2022-12-19
 url: "http://blog.tesol.org/ai-for-language-learning-chatgpt-and-the-future-of-elt/"
+draft: true
 ---
 # AI for Language Learning: ChatGPT and the Future of ELT
 [[Brent Warner]] wrote this article for [[TESOL Blog]].

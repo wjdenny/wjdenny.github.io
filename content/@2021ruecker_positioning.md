@@ -2,7 +2,9 @@
 tags:
   - 🕮
   - topic/teaching/plurilingualism
-alias:  "Positioning Bilingualism as an Asset in Rural High Schools"
+aliases:
+  - Positioning Bilingualism as an Asset in Rural High Schools
+draft: true
 ---
 # Positioning Bilingualism as an Asset in Rural High Schools
 
@@ -37,7 +39,7 @@ alias:  "Positioning Bilingualism as an Asset in Rural High Schools"
 
 > If a student perceives that their school is not valuing their background, then they are less likely to be motivated and invest in the learning process. [[2013 Stille & Cummins|Stille and Cummins (2013)]] found that multilingual learners who drew on their home languages "wrote stories that were quantitatively longer" and "qualitatively much richer and more representative of their ideas than text that they could have written in English at this stage in their learning" (p. 634) (page 97)
 
-[[Students who are permitted to use their other languages are able to write longer and higher quality papers in English]]
+[[Students who are permitted to use their other languages are able to write longer and higher quality papers in English.]]
 
 > Early models established that two-way students had the highest average English reading performance, followed by developmental, then transitional students" (p. 506). (page 98)
 

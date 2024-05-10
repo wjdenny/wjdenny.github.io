@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Cultural Reproduction and Social Reproduction
+draft: true
 ---
 # Cultural Reproduction and Social Reproduction
 [[Pierre Bourdieu]] wrote [this paper](@1973brown_knowledge.pdf#page=86).

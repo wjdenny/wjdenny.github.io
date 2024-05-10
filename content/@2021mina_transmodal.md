@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "A Transmodal Framework for Teaching Multimodal Composing Practices to Multilingual Students"
-draft: false
+  - 🕮
+aliases:
+  - A Transmodal Framework for Teaching Multimodal Composing Practices to Multilingual Students
+draft: true
 ---
 # A Transmodal Framework for Teaching Multimodal Composing Practices to Multilingual Students
 

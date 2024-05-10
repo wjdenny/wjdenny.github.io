@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Illustrating Equality VS Equity"
-draft: false
+  - 🕮
+aliases:
+  - Illustrating Equality VS Equity
+draft: true
 ---
 # Illustrating Equality VS Equity
 

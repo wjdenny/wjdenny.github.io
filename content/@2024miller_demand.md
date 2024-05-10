@@ -8,6 +8,7 @@ tags:
   - ❷
 aliases:
   - University of Iowa grad student workers demand end to their student fees
+draft: true
 ---
 # University of Iowa grad student workers demand end to their student fees
 [[Vanessa Miller]] wrote this article for [[The Gazette]].

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Exploring Persistence of Immigrant and Native Students in an Urban Community College"
-draft: false
+  - 🕮
+aliases:
+  - Exploring Persistence of Immigrant and Native Students in an Urban Community College
+draft: true
 ---
 # Exploring Persistence of Immigrant and Native Students in an Urban Community College
 

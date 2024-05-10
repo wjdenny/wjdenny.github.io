@@ -8,6 +8,7 @@ tags:
 aliases:
   - Leah on Disability and Preparedness
   - S1E101
+draft: true
 ---
 # Leah on Disability and Preparedness
 [[Margaret Killjoy]] interviewed [[Leah Lakshmi Piepzna-Samarasinha]] on disability, preparedness, community, and covid.

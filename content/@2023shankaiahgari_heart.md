@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "The Heart of West Liberty"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - The Heart of West Liberty
+draft: true
 ---
 # The Heart of West Liberty
 [[Sahithi Shankaiahgari]] wrote this article for the [[Daily Iowan]].

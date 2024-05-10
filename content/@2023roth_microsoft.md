@@ -10,6 +10,7 @@ author: "Emma Roth"
 publisher: "The Verge"
 date: 2023-01-29
 url: "https://www.theverge.com/2023/1/28/23575919/microsoft-openai-github-dismiss-copilot-ai-copyright-lawsuit"
+draft: true
 ---
 # Microsoft, GitHub, and OpenAI ask court to throw out AI copyright lawsuit
 [[Emma Roth]] wrote this article for [[The Verge]].

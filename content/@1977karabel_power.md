@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Power and Ideology in Education"
-draft: false
+  - 🕮
+aliases:
+  - Power and Ideology in Education
+draft: true
 ---
 # Power and Ideology in Education
 [[Jerome Karabel]] and [[A. H. Halsey]] edited this collection for [[Oxford University Press]] in 1977.

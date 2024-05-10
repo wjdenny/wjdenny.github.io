@@ -2,6 +2,7 @@
 tags:
   - 🕮
 alias: "Bougie Black Therapist Episode 1"
+draft: true
 ---
 # Bougie Black Therapist Episode 1
 [[Montoyia McGowan]] recorded this postcast for [[Bougie Black Therapist]].

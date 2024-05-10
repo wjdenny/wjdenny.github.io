@@ -1,8 +1,11 @@
 ---
 tags:
-  - "🕮"
-alias: "Ethnic enclaves, social capital, and psychological well-being of immigrants: the case of Chinese older immigrants in Chicago"
-draft: false
+  - 🕮
+aliases:
+  - Ethnic enclaves
+  - social capital
+  - "and psychological well-being of immigrants: the case of Chinese older immigrants in Chicago"
+draft: true
 ---
 # Ethnic enclaves, social capital, and psychological well-being of immigrants: the case of Chinese older immigrants in Chicago
 

@@ -1,10 +1,12 @@
 ---
 tags:
-  - "🕮"
-alias: "Foreign Language Classroom Anxiety"
-draft: false
+  - 🕮
+aliases:
+  - Foreign Language Classroom Anxiety
+  - Horwitz, Horwitz, & Cope, 1991
+draft: true
 ---
-# Title
+# Foreign Language Classroom Anxiety
 [[Elaine K. Horwitz]], [[Michael B. Horwitz]], and [[Jo Ann Cope]] wrote this chapter for [[@1991horwitz_language|Language Anxiety: From Theory and Research to Classroom Implications]].
 
 > [!summary] Summary

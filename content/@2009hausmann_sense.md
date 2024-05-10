@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Sense of Belonging and Persistence in White and African American First-Year Students"
-draft: false
+  - 🕮
+aliases:
+  - Sense of Belonging and Persistence in White and African American First-Year Students
+draft: true
 ---
 # Sense of Belonging and Persistence in White and African American First-Year Students
 

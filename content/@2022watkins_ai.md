@@ -12,6 +12,7 @@ author: "Marc Watkins"
 publisher: "Inside Higher Ed"
 date: 2022-12-14
 url: "https://www.insidehighered.com/blogs/just-visiting/guest-post-ai-will-augment-not-replace"
+draft: true
 ---
 # Guest Post: AI Will Augment, Not Replace
 [[Marc Watkins]] wrote this article for [[Inside Higher Ed]].

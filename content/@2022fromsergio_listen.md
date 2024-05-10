@@ -3,6 +3,7 @@ tags:
   - 🕮
   - topic/pkm/obsidian
 alias:  "How I Listen AND Take Notes on Podcasts INSIDE Obsidian"
+draft: true
 ---
 # How I Listen AND Take Notes on Podcasts INSIDE Obsidian
 

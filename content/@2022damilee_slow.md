@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "How Slow Reading can Change Your Brain"
-draft: false
+  - 🕮
+aliases:
+  - How Slow Reading can Change Your Brain
+draft: true
 ---
 # How Slow Reading can Change Your Brain
 

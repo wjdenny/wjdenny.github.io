@@ -2,6 +2,7 @@
 tags:
   - 🕮
 alias: "Grey matter volume and amplitude of low-frequency fluctuations predicts consumer ethnocentrism tendency"
+draft: true
 ---
 # Grey matter volume and amplitude of low-frequency fluctuations predicts consumer ethnocentrism tendency
 

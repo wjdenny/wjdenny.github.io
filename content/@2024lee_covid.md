@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - COVID-19 Risk Perception, Stress-coping, and Life Satisfaction Differences in Leisure Involvement among Korean Immigrants in the United States
+draft: true
 ---
 # COVID-19 Risk Perception, Stress-coping, and Life Satisfaction Differences in Leisure Involvement among Korean Immigrants in the United States
 [[Chungsup Lee]], [[Junhyoung Kim]], [[Jungjoo Lee]], and [[Donghwa Hu]] wrote thie article for the [[American Journal of Health Behavior]].

@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Theory Skills Working Orgs & Communities
+draft: true
 ---
 
 > [!NOTE] Course description

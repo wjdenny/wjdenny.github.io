@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - Transgender community members, supporters make demands to IC City Council
+draft: true
 ---
 # Transgender community members, supporters make demands to IC City Council
 

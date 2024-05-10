@@ -1,10 +1,11 @@
 ---
 tags:
-  - "🕮"
-  - "topic/teaching/higher-education/retention"
-  - "topic/teaching/transparency"
-alias: "A Teaching Intervention that Increases Underserved College Students' Success"
-draft: false
+  - 🕮
+  - topic/teaching/higher-education/retention
+  - topic/teaching/transparency
+aliases:
+  - A Teaching Intervention that Increases Underserved College Students' Success
+draft: true
 ---
 # A Teaching Intervention that Increases Underserved College Students' Success
 

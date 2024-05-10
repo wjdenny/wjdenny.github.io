@@ -10,6 +10,7 @@ author: "Susan Svrluga"
 publisher: "The Washington Post"
 date: 2023-01-12
 url: "https://www.washingtonpost.com/education/2023/01/12/gptzero-chatgpt-detector-ai/"
+draft: true
 ---
 # Was that essay written by AI? A student made an app that might tell you.
 [[Susan Svrluga]] wrote this article for [[The Washington Post]].

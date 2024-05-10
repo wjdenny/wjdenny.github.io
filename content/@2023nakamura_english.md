@@ -1,8 +1,10 @@
 ---
 tags:
-  - "🕮"
-alias: "English May Be Science’s Native Language, but It’s Not Native to All Scientists"
-draft: false
+  - 🕮
+aliases:
+  - English May Be Science’s Native Language
+  - but It’s Not Native to All Scientists
+draft: true
 ---
 # English May Be Science’s Native Language, but It’s Not Native to All Scientists
 [[Gabriel Nakamura]] [[Bruno E. Soares]] wrote this article for [[Scientific American]].

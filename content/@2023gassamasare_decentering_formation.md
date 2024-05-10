@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - The Formation of Whiteness
+draft: true
 ---
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].
 

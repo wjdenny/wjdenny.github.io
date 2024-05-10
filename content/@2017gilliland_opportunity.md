@@ -1,8 +1,11 @@
 ---
 tags:
-  - "🕮"
-alias: "Opportunity Gaps: Curricular Discontinuities across ESL, Mainstream, and College English"
-draft: false
+  - 🕮
+aliases:
+  - "Opportunity Gaps: Curricular Discontinuities across ESL"
+  - Mainstream
+  - and College English
+draft: true
 ---
 # Opportunity Gaps: Curricular Discontinuities across ESL, Mainstream, and College English
 [[Betsy Gilliland]] wrote this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]]

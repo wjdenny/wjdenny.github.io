@@ -1,11 +1,12 @@
 ---
 tags:
-  - "🕮"
-  - "topic/teaching/higher-education"
-  - "topic/ai"
-  - "topic/teaching/higher-education/academic-integrity"
-alias: "Update Your Course Syllabus for chatGPT"
-draft: false
+  - 🕮
+  - topic/teaching/higher-education
+  - topic/ai
+  - topic/teaching/higher-education/academic-integrity
+aliases:
+  - Update Your Course Syllabus for chatGPT
+draft: true
 ---
 
 https://medium.com/@rwatkins_7167/updating-your-course-syllabus-for-chatgpt-965f4b57b003

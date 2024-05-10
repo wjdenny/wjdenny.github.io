@@ -10,6 +10,7 @@ author: "Jane Recker"
 publisher: "Smithsonian Magazine"
 date: 2022-03-24
 url: "https://www.smithsonianmag.com/smart-news/us-copyright-office-rules-ai-art-cant-be-copyrighted-180979808/"
+draft: true
 ---
 # U.S. Copyright Office Rules A.I. Art Can’t Be Copyrighted
 [[Jane Recker]] wrote this article for [[Smithsonian Magazine]].

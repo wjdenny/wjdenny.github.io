@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Promises and Limitations of Literacy Sponsors in Resident Multilingual Youths' Transitions to Postsecondary Schooling"
-draft: false
+  - 🕮
+aliases:
+  - Promises and Limitations of Literacy Sponsors in Resident Multilingual Youths' Transitions to Postsecondary Schooling
+draft: true
 ---
 # Promises and Limitations of Literacy Sponsors in Resident Multilingual Youths' Transitions to Postsecondary Schooling
 
@@ -44,7 +45,7 @@ So, anything that helps or hinders literacy events and learning? I don't quite u
 
 ^0654f2
 
-See: [[The dominant narrative of multilingual students is deficit-based]]
+See: [[The dominant narrative of multilingual students is deficit-based.]]
 
 > Sponsorship is a uniquely appropriate means of investigating writing specifically. Brandt (2001) found that writing sponsors were far scarcer than reading sponsors, especially in home but also in school contexts. And for multilinguals, institutional sponsorship of home or minority language writing, even in officially bilingual educational institutions, appears to be even more elusive (Gentil, 2005; Kibler, 2014). [page 101]
 

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Re-envisioning Faculty Development When Multilingualism is the New Norm: Conversations on First-Year Writing at a Hispanic-Serving University"
-draft: false
+  - 🕮
+aliases:
+  - "Re-envisioning Faculty Development When Multilingualism is the New Norm: Conversations on First-Year Writing at a Hispanic-Serving University"
+draft: true
 ---
 # Re-envisioning Faculty Development When Multilingualism is the New Norm: Conversations on First-Year Writing at a Hispanic-Serving University
 [[Kimberly Harrison]] write this chapter for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]]

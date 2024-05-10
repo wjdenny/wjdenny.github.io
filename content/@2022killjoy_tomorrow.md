@@ -2,8 +2,9 @@
 tags:
   - 🕮
   - topic/queer
-alias: "We Won't Be Here Tomorrow"
-draft: false
+aliases:
+  - We Won't Be Here Tomorrow
+draft: true
 ---
 # We Won't Be Here Tomorrow
 [[Margaret Killjoy]] wrote this book for [[AK Press]].

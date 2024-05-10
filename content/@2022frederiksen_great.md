@@ -1,8 +1,10 @@
 ---
 tags:
-  - "🕮"
-alias: "Great leadership is a network, not a hierarchy"
-draft: false
+  - 🕮
+aliases:
+  - Great leadership is a network
+  - not a hierarchy
+draft: true
 ---
 # Great leadership is a network, not a hierarchy
 

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Engaging (the Politics of) Language Difference in the Writing Classroom"
-draft: false
+  - 🕮
+aliases:
+  - Engaging (the Politics of) Language Difference in the Writing Classroom
+draft: true
 ---
 # Engaging (the Politics of) Language Difference in the Writing Classroom
 

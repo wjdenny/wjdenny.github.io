@@ -11,6 +11,7 @@ author: "Eric Prochaska"
 publisher: "Faculty Focus"
 date: 2023-01-23
 url: "https://www.facultyfocus.com/articles/course-design-ideas/embrace-the-bot-designing-writing-assignments-in-the-face-of-ai/"
+draft: true
 ---
 # Embrace the Bot: Designing Writing Assignments in the Face of AI
 - [[Eric Prochaska]] wrote this article for [[Faculty Focus]].

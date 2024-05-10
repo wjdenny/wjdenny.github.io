@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The burden of proof"
-draft: false
+  - 🕮
+aliases:
+  - The burden of proof
+draft: true
 ---
 # The burden of proof
 

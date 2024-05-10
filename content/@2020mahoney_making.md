@@ -3,6 +3,7 @@ tags:
   - 🕮
   - topic/data-analysis/visualization
 alias:  "Making Excellent Visualizations"
+draft: true
 ---
 # Making Excellent Visualizations
 [[Mike Mahoney]] wrote this article for [[mm218.dev]].

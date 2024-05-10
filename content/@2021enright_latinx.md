@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Latinx Youths' Plurilingual Abilities as Workplace Abilities and Program Change"
-draft: false
+  - 🕮
+aliases:
+  - Latinx Youths' Plurilingual Abilities as Workplace Abilities and Program Change
+draft: true
 ---
 
 # Latinx Youths' Plurilingual Abilities as Workplace Abilities and Program Change
@@ -22,7 +23,7 @@ draft: false
 
 ^7bc9de
 
-[[The dominant narrative of multilingual students is deficit-based]]
+[[The dominant narrative of multilingual students is deficit-based.]]
 
 > Youth reported the greatest prevalence of deficit perspectives and low expectations among work-study supervisors employed by sponsoring work sites. (page 157)
 

@@ -3,7 +3,9 @@ tags:
   - 🕮
   - topic/pkm
   - todo
-alias: "The Extended Mind"
+aliases:
+  - The Extended Mind
+draft: true
 ---
 # The Extended Mind
 [[Andy Clark]] and [[David J. Chalmers]] wrote this article for [[The Philospher's Annual]].

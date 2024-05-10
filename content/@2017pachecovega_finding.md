@@ -1,12 +1,13 @@
 ---
 tags:
-  - "🕮"
-  - "topic/pkm"
-  - "topic/pkm/note-taking"
-  - "topic/reading"
-  - "topic/research"
-alias: "Finding the most relevant information in a paper when reading: A three-step method (the AIC technique)"
-draft: false
+  - 🕮
+  - topic/pkm
+  - topic/pkm/note-taking
+  - topic/reading
+  - topic/research
+aliases:
+  - "Finding the most relevant information in a paper when reading: A three-step method (the AIC technique)"
+draft: true
 ---
 # Finding the most relevant information in a paper when reading: A three-step method (the AIC technique)
 

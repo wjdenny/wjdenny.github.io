@@ -9,6 +9,7 @@ author: "Sam Shead"
 publisher: "CNBC"
 date: 2020-05-13
 url: "https://www.cnbc.com/2020/05/13/elon-musk-has-a-complex-relationship-with-the-ai-community.html"
+draft: true
 ---
 # Elon Musk has a complex relationship with the A.I. community
 [[Sam Shead]] wrote this article for [[CNBC]].

@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Some blogging myths"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Some blogging myths
+draft: true
 ---
 
 https://jvns.ca/blog/2023/06/05/some-blogging-myths/
@@ -38,7 +40,7 @@ Add qualifiers if you're not certain about the information, but only then.
 
 ^f454d7
 
-[[Publish often.]]
+[[Publishing often has many benefits.]]
 
 > I really Darius Kazemi’s How I Won The Lottery talk on this topic about how putting things on the internet is like buying lots of lottery tickets, and the best way to “win” is to make a lot of stuff.
 

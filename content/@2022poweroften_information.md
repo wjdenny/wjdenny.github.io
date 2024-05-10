@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Information Gardens
+draft: true
 ---
 # Information Gardens
 [[Andy Polaine]] interviewed [[Jorge Arango]] for the [[Power of Ten]] podcast.

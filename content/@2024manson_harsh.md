@@ -6,6 +6,7 @@ tags:
   - synthesize
 aliases:
   - 40 Harsh Truths I know at 40 but Wish I Knew at 20
+draft: true
 ---
 # 40 Harsh Truths I know at 40 but Wish I Knew at 20
 [[Mark Manson]] posted this video for his YouTube channel.

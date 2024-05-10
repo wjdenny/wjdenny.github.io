@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "\"Stealth\" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language"
-draft: false
+  - 🕮
+aliases:
+  - '"Stealth" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language'
+draft: true
 ---
 # "Stealth" Faculty Development in Adopting Plurilingual Disposition: Collaboration on a Student Conference on Language
 

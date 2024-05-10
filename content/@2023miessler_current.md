@@ -9,6 +9,7 @@ author: "Daniel Miessler"
 publisher: "Unsupervised Learning"
 date: 2023-01-30
 url: "https://danielmiessler.com/blog/the-2-major-ai-bottlenecks/"
+draft: true
 ---
 # The 2 Current Major AI Bottlenecks
 [[Daniel Miessler]] wrote this article for [[Unsupervised Learning]].

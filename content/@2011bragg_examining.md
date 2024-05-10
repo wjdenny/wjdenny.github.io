@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Examining Pathways to and Through the Community College for Youth and Adults"
-draft: false
+  - 🕮
+aliases:
+  - Examining Pathways to and Through the Community College for Youth and Adults
+draft: true
 ---
 # Examining Pathways to and Through the Community College for Youth and Adults
 

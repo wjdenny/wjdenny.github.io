@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - Joint Government Meeting (Jan. 22, 2014)
+draft: true
 ---
 # Joint Government Meeting (Jan. 22, 2014)
 

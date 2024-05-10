@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Links vs Tags vs Folders in Obsidian: When Should You Use Each?"
-draft: false
+  - 🕮
+aliases:
+  - "Links vs Tags vs Folders in Obsidian: When Should You Use Each?"
+draft: true
 ---
 # Links vs Tags vs Folders in Obsidian: When Should You Use Each?
 

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The learning experiences of Taiwanese nursing students studying in Australia"
-draft: false
+  - 🕮
+aliases:
+  - The learning experiences of Taiwanese nursing students studying in Australia
+draft: true
 ---
 # The learning experiences of Taiwanese nursing students studying in Australia.
 

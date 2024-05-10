@@ -9,6 +9,7 @@ author: "Erica Heinz"
 publisher: "ericaheinz.com"
 date: 2023-04-10
 url: "https://ericaheinz.com/notes/give-it-the-craigslist-test/"
+draft: true
 ---
 # Give it the Craigslist Test
 [[Erica Heinz]] wrote this article for [[ericaheinz.com]].
@@ -29,4 +30,6 @@ The *aesthetic-usability effect* is the phenomenon where
 
 *Parkinson's law of triviality* is where 
 > People get overwhelmed by big decisions, and so they spend disproportionate time on small ones. User research participants (and designers) love to focus on fun elements like colors and interactions, and don’t get around to the larger questions of why and when the product is needed.
+
+[[People often spend more time on trivial decisions to avoid overwhelming ones.]]
 

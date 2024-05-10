@@ -8,6 +8,7 @@ tags:
   - ❷
 aliases:
   - University of Iowa grad students shut down regents meeting, demand pay raise
+draft: true
 ---
 # University of Iowa grad students shut down regents meeting, demand pay raise
 [[Vanessa Miller]] wrote this article for [[The Gazette]].

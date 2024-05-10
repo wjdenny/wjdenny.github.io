@@ -19,7 +19,7 @@ School assessments tend to be designed to measure learning of the dominant major
 	- [[Conventional assessment ecologies value habitus more than learning]]
 	- [[Success in conventional classrooms is synonymous with adopting a white racial habitus]]
 	- [[Ideological neutrality in education only serves to support the current dominant ideologies]]
-	- [[The dominant narrative of multilingual students is deficit-based]]
+	- [[The dominant narrative of multilingual students is deficit-based.]]
 - attempts to remove habitus from grading
 	- [[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus]]
 	- [[Hybrid-grading contracts, as used by Danielewicz and Elbow, fail to avoid the bias and judgement of white racial habitus]]

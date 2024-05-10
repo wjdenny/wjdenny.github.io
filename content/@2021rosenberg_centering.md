@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Centering Students' Language and Literacy Practices"
-draft: false
+  - 🕮
+aliases:
+  - Centering Students' Language and Literacy Practices
+draft: true
 ---
 
 # Centering Students' Language and Literacy Practices

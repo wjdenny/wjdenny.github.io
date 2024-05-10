@@ -10,6 +10,7 @@ author: "Blaine Greteman"
 publisher: "Newsweek"
 date: 2022-12-22
 url: "https://www.newsweek.com/chatgpt-can-write-better-essays-my-college-students-thats-good-thing-opinion-1769136"
+draft: true
 ---
 # ChatGPT Can Write Better Essays Than My College Students. That's a Good Thing
 - [[Blaine Greteman]] wrote this article for [[Newsweek]].

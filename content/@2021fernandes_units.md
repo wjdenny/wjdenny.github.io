@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Units of Exchange"
-draft: false
+  - 🕮
+aliases:
+  - Units of Exchange
+draft: true
 ---
 # Units of Exchange
 

@@ -11,6 +11,7 @@ author: "Kyle Wiggers"
 publisher: "TechCrunch"
 date: 2022-12-10
 url: "https://techcrunch.com/2022/12/10/openais-attempts-to-watermark-ai-text-hit-limits/"
+draft: true
 ---
 # OpenAI’s attempts to watermark AI text hit limits
 [[Kyle Wiggers]] wrote this article for [[TechCrunch]].

@@ -5,6 +5,7 @@ tags:
   - topic/teaching/tesol
   - topic/bias/asset-focused
 alias:  "Developing Inclusive Teaching Across Writing Programs through Asset-Focused Inquiry"
+draft: true
 ---
 # Developing Inclusive Teaching Across Writing Programs through Asset-Focused Inquiry
 

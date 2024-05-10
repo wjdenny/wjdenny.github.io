@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - Decentering Whiteness in the DEI and Anti-oppression Space
+draft: true
 ---
 # Decentering Whiteness in the DEI and Anti-oppression Space
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].

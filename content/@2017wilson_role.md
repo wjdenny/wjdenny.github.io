@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "The Role of Social Networks and Social SUpport in the Writing and College Planning of Multilingual Urban Adolescents"
-draft: false
+  - 🕮
+aliases:
+  - The Role of Social Networks and Social SUpport in the Writing and College Planning of Multilingual Urban Adolescents
+draft: true
 ---
 # The Role of Social Networks and Social Support in the Writing and College Planning of Multilingual Urban Adolescents
 

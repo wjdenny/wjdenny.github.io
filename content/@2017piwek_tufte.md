@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Tufte in R"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Tufte in R
+draft: true
 ---
 
 https://motioninsocial.com/tufte

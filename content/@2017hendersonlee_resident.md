@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - "Resident Multilingual Writers Across a Secondary Curriculum: Toward a Postmethod Approach"
+draft: true
 ---
 # Resident Multilingual Writers Across a Secondary Curriculum: Toward a Postmethod Approach
 
@@ -85,7 +86,7 @@ That may be true, but how could that work in a course that has students with div
 > Moreover, the ELL teacher consistently invited resident multilingual students into conversations about their writing, an act that was significantly less prevalent in the general education classes where access to academic discourse intricacies, as Delpit (1995) notes, is often limited for minority students because they are not familiar with the "codes or rules for participating in power" (p. 24). [page 55] #topic/culture/habitus 
 
 [[Writing, like all arts, must first be learned from imitating appropriate models]]
-[[The habitus discussed by Inoue is a style of communication that is adopted by a person to mark them as belonging to a particular group]]
+[[Habitus is a system of cultural values, mores, norms, and language shared by a group of people.]]
 [[Conventional assessment ecologies value habitus more than learning]]
 [[Language is learned through a racialized habitus and we make the mistake of assuming all students have adopted a white racial habitus]]
 [[Success in conventional classrooms is synonymous with adopting a white racial habitus]]
@@ -110,9 +111,9 @@ Students who do not appear to participate well in class may have their reasons.
 ^034973
 
 [[Even well-intentioned attempts to support multilingual students are often deficit-based]]
-[[Languages other than English should be viewed as assets rather than deficits]]
+[[Languages other than English should be viewed as assets rather than deficits.]]
 [[Student success depends on a sense of belonging.]]
-[[The dominant narrative of multilingual students is deficit-based]]
+[[The dominant narrative of multilingual students is deficit-based.]]
 
 > Harklau's (2003) "Ellis Island" representation was most frequently observed in ELL classes where participants recalled writing about their immigrant experience for a number of personal experience assignments. [page 56--57] #topic/bias/asset-focused 
 

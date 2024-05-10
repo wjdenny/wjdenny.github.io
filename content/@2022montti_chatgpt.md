@@ -10,6 +10,7 @@ author: "Roger Montti"
 publisher: "Search Engine Journal"
 date: 2022-12-30
 url: "https://www.searchenginejournal.com/chatgpt-watermark/475366/"
+draft: true
 ---
 # How The ChatGPT Watermark Works And Why It Could Be Defeated
 [[Roger Montti]] wrote this article for [[Search Engine Journal]].

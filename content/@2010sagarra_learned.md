@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Learned attention effects in L2 temporal reference; the first hour and the next eight semesters"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Learned attention effects in L2 temporal reference; the first hour and the next eight semesters
+draft: true
 ---
 # Learned attention effects in L2 temporal reference; the first hour and the next eight semesters
 [[Ellis & Sagarra]] wrote this article for [[Language Learning]].

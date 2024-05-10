@@ -1,8 +1,9 @@
 ---
-alias: "Social and Economic Returns to College Education in the United States"
+aliases:
+  - Social and Economic Returns to College Education in the United States
 tags:
-  - "🕮"
-draft: false
+  - 🕮
+draft: true
 ---
 # Social and Economic Returns to College Education in the United States
 [[Michael Hout]] wrote this article for [[Annual Review of Sociology]].

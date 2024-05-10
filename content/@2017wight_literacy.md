@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Literacy Sponsorship in Upward Bound"
-draft: false
+  - 🕮
+aliases:
+  - Literacy Sponsorship in Upward Bound
+draft: true
 ---
 # Literacy Sponsorship in Upward Bound
 [[Shauna Wight]] wrote this article for [[@2017ortmeierhooper_linguistically|Linguistically Diverse Immigrant and Resident Writers: Transitions from High School to College]].

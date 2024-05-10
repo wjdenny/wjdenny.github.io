@@ -7,6 +7,7 @@ tags:
   - synthesize
 aliases:
   - "The implications of social relationships for depressive symptoms in community-dwelling older adults: Results from the Korea Community Health Survey"
+draft: true
 ---
 # The implications of social relationships for depressive symptoms in community-dwelling older adults: Results from the Korea Community Health Survey
 

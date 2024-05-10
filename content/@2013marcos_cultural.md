@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Cultural Differences on Seeking Information: An Eye Tracking Study"
-draft: false
+  - 🕮
+aliases:
+  - "Cultural Differences on Seeking Information: An Eye Tracking Study"
+draft: true
 ---
 # Cultural Differences on Seeking Information: An Eye Tracking Study
 

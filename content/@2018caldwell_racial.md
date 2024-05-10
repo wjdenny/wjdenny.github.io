@@ -8,6 +8,7 @@ tags:
 aliases:
   - Racial Bias and Student Ratings of Instructors
   - Caldwell, 2018
+draft: true
 ---
 # Racial Bias and Student Ratings of Instructors
 [[Keith J. Caldwell]] wrote this article for [[Teaching Survey]].

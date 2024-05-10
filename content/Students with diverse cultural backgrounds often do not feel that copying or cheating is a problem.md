@@ -10,7 +10,7 @@ Students with diverse cultural backgrounds often do not feel that copying or che
 
 [[Many rhetorical prohibitions in the standard academic English curriculum are effective rhetorical tools]]
 
-[[The dominant narrative of multilingual students is deficit-based]] but these cultures have a different, but rich, legacy of education in their own right.
+[[The dominant narrative of multilingual students is deficit-based.]] but these cultures have a different, but rich, legacy of education in their own right.
 
 [[Reading was a communal activity and recitation of common ideas was the norm]]
 

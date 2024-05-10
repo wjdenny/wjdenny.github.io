@@ -1,7 +1,9 @@
 ---
-tags: "🕮"
-alias: "Lessons of Design"
-draft: false
+tags:
+  - 🕮
+aliases:
+  - Lessons of Design
+draft: true
 ---
 
 https://lessons.design/

@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "Language and Social Justice"
-draft: false
+  - 🕮
+aliases:
+  - Language and Social Justice
+draft: true
 ---
 # Language and Social Justice
 

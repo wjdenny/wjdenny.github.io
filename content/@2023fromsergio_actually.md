@@ -1,8 +1,9 @@
 ---
 tags:
-  - "🕮"
-alias: "How I actually *MAKE* Smart Notes"
-draft: false
+  - 🕮
+aliases:
+  - How I actually *MAKE* Smart Notes
+draft: true
 ---
 # How I actually \*MAKE\* Smart Notes
 [[FromSergio]] posted this video on [[YouTube]].

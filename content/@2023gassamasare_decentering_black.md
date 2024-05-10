@@ -3,6 +3,7 @@ tags:
   - 🕮
 aliases:
   - What Does It Mean to Center Black Employees?
+draft: true
 ---
 # What Does It Mean to Center Black Employees?
 Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decentering|Decentering Whiteness in the Workplace: A Guide for Equity and Inclusion]].

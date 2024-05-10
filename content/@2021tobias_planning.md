@@ -1,9 +1,10 @@
 ---
 tags:
-  - "🕮"
-  - "topic/teaching/instructional-design"
-alias: "Planning Music Classes & Ensembles So You Never Fall Behind"
-draft: false
+  - 🕮
+  - topic/teaching/instructional-design
+aliases:
+  - Planning Music Classes & Ensembles So You Never Fall Behind
+draft: true
 ---
 # Planning Music Classes & Ensembles So You Never Fall Behind
 

@@ -3,6 +3,7 @@ tags:
   - 🕮
   - topic/pkm
 alias:  "Using Snipd With Obsidian To Maximize Learning From Podcasts"
+draft: true
 ---
 # Using Snipd With Obsidian To Maximize Learning From Podcasts
 
