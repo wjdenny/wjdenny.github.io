@@ -78,7 +78,7 @@ Ah, maybe it means TP focuses more on helping students resist the dominance of A
 
 > **student-driven approach to plurilingual pedagogy can be seen as an iteration of "teaching for agency" ([[Shapiro, et al. (2016)|Shapiro, Cox, Shuck, & Simnitt, 2016]]),** i.e., **an educational intervention that empowers all students to make informed choices. If agency is, as [[Lu & Horner (2013)]] argue, at the core of translingual pedagogy, perhaps allowing students to take the lead is even more appropriate than making the choice for them.** (page 28)
 
-[[Translingual pedagogy aims to develop students' agency in their communicative abilities]]
+[[Translingual pedagogy aims to develop students' agency in their communicative abilities.]]
 
 > **rather than asking the question "What should *I do* to make my course more plurilingual?" we might ask "Where can *I invite students* to make this course more plurilingual?"** When we think of plurilingual pedagogy as inclusive of *all students'* linguistic repertoires (including those traditionally thought of as "monolingual" or "L1 English"), **our courses can become linguistic "contact zones" (e.g., [[1991 Pratt|Pratt, 1991]]; [[2002 Wolff|Wolff, 2002]]), where all students reflect deeply on their relationship to language and learn from their peers' reflections as well.** (page 28)
 

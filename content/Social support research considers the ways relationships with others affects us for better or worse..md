@@ -1,9 +1,9 @@
 ---
 tags: 🖿
 ---
-The research area of social support considers the ways relationships with others affects us for better or worse. [[@2017wilson_role#^e4abae]]
+Social support research considers the ways relationships with others affects us for better or worse ([[@2017wilson_role#^e4abae|Wilson, 2017]]).
 
-Hirsch describes the negative affects of these relationships as "[[@2017wilson_role#^f29f7a|social rejection]]" as opposed to social support.
+The negative affects of these relationships as "social rejection" as opposed to social support ([[@2017wilson_role#^f29f7a|Wilson, 2017, citing Hirsh, 1985]]).
 
 See also: 
 - [[Socioacademic Relationships]]

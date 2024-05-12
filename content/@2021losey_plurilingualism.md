@@ -17,7 +17,7 @@ draft: true
 
 > ... allowing students access to all of their language resources gives them more opportunity to **build on their strengths**, exert **rhetorical agency with confidence**, and develop their writing abiltiies. (page 2)
 
-[[Students can build on their strengths and develop agency along with their writing abilities when they are given the freedom to use all of their language resources]]
+[[Giving students the freedom to use all of their language resources develops agency while building skills in multiple languages.]]
 
 > Instructors who do invite students' full linguistic repertoires into the classroom are often delighted to **discover the range of their students' abilities and to learn the depth with which ==students can discuss their communicative choices when given the opportunity**== to do so. (page 2)
 

@@ -5,7 +5,7 @@ Feelings of community and belonging reduces acculturation stress in internationa
 
 [[Building community within the classroom is essential to avoiding implicit bias and developing an asset-based mindset]]
 
-[[Faculty can help students build networks of support outside of the classroom]]
+[[Faculty can help students build networks of support outside of the classroom.]]
 
 
 ## Sources

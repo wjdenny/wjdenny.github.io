@@ -62,7 +62,7 @@ How can we lead students through this kind of transformation?
 
 > translingual pedagogy, for me, is much broader: It is informed by best practices across fields, and it invites far more student agency, critical negotiation, ideological work, and, thus, a more multifaceted approach. (page 62)
 
-[[Translingualism is considered more broad than plurilingualism and includes concepts of agency and critical ideological analysis]]
+[[Translingualism and plurilingualism are two similar but distinct pedagogies.]]
 
 > a major focus is on students learning about, examining, and contesting monolingualist ideologies. Students further gain practice critically negotiating the linguistic and rhetorical choices they make, keeping in mind what linguistic ideologies their audiences may hold and what political and oppressive forces are at play, and then determining for themselves how they wish to proceed. (page 62)
 

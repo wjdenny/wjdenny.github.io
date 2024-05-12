@@ -28,16 +28,18 @@ Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decenterin
 
 > One particular statement [Chris] Rock made during the comedy special piqued my interest. He said, "You know what my parents taught me? Don't fight in front of white people." That statement was similar to the commentary I heard directly after the 2022 Oscars when everyone was sharing their perspective about the incident. I saw some Black folks on my social media timeline complaining about how Smith shouldn't have behaved that way in front of "mixed company." Whether we realize it or not, we are always mindful and cognizant of this invisible white audience and allow it to dictate our lives in a number of ways. [page 63--64]
 
-footnote 1
+Kelly Gilmore, "Chris Rock Says Will Smith Has 'Selective Outrage' with Oscars Slap during Netflix Comedy Special," E! Online, March 5, 2023, https://eonli.ne/3UoFTMH.
 
 > How were people like Bernie Madoff, Elizabeth Holmes, Billy McFarland (the con artist who confounded the Fyre Festival), and Shimon Hayut (the "Tinder Swindler") able to scam so many people? Their whiteness protected them and allowed them to be seen as knowledgeable and trustworthy. A 2011 study found racial disparities in our perceived trust-worthiness of white versus Black faces. [page 64]
 
-footnote 2
+New York University, "Psychologists Find Unintentional Racial Biases May Affect Economic and Trust Decisions," ScienceDaily, April 26, 2011, www.sciencedaily.com/releases/2011/04/110425153551.htm.
 
 > Asian employees, and more specifically East Asian employees, often recount experiences of feeling invisible in the workplace. There are also a number of studies where Black women, employees report feelings of invisibility. When non-white employees *do* contribute thoughts during meetings, their contributions are more likely to be overlooked and ignored. [page 64]
 
-footnote 3
-footnote 4
+David Yi, "As an Asian American, I Am Invisible in This Country," HuffPost, November 14, 2016, https://www.huffpost.com/entry/as-an-asian-american-i-am-invisible-in-this-country_b_582a019be4b02b1f5257a6f8.
+
+Shelly Billups et al., "On Intersectonality: Visualizing the Invisibility of Black Women," *Cognitive Research: Principles and Implications 7*, no. 100 (2022). https://doi.org/10.1186/s41235-022-00450-1.
+
 
 > This particular client wanted the ERG [(Employee Resource Group)] to be for non-white employees. At some point, I suggested that the company keep the group closed and prohibit white employees from joining, since its purpose was to be a safe space for underrepresented racial groups in the workplace. The leaders thanked me for this suggestion but ultimately felt that they knew what was best for their employees and decided to open up the ERG to all employees who wanted to join. [page 64]
 
@@ -55,7 +57,8 @@ footnote 4
 
 > A *New York Times* article from September 2022 reported on the criticism of the US News college rankings and indicated that many of the colleges and universities "reward wealth and white institutions." [page 68]
 
-footnote 5
+Stephanie Saul, "Despite Years of Criticism, the U.S. News College Rankings Live On," *New York Times*, September 15, 2022, https://nyti.ms/400qZxC.
+
 [[Conventional assessment ecologies value habitus more than learning]]
 [[Students who were not raised in white habitus households struggle to adopt habits of white language in college]]
 [[Language is learned through a racialized habitus and we make the mistake of assuming all students have adopted a white racial habitus]]
@@ -94,10 +97,26 @@ footnote 6
 ^d68c07
 
 [[Tone policing is the act of trying to change the emotionality of a person's message.]]
-
+[[Dispassion is an ideal of white masculine habitus.]]
 [[Academic language is a product of white colonial norms and similarly tries to avoid racial emotions]]
 [[Emotion is contextual and non-essentialist]]
 [[Emotions are artifacts of a culture expressed by an individual in a context]]
 [[Emotions emerge in the process of meaning-making and in interactions with other people]]
 [[How emotions are defined is different across cultures]]
 [[The emotions we favor are determined by what we believe are most functional in our context]]
+
+> Often, the only time we think of non-white people as experts is when they're educating us on topics related to racism and discrimination. I would argue that even *then*, we don't see racially marginalized people as experts of our own oppression. [page 71]
+
+[[Marginalized people are rarely seen as experts.]]
+
+> When it comes to white employees, we allow and recognize a plethora of differences and nuance with their individual experiences. We don't afford non-white communities this same sense of diversification. One of the ways that whiteness operates is by us making it the norm and considering everything else as "other." Non-white groups are often seen as one. [page 72]
+
+This is similar to a white-centered thought I had years ago that my partner called out; where I thought it would be a good idea for Siberian, East Asian, and Indigenous Americans to unite together against colonialism; largely because I thought they looked similar.
+
+> If you live in a place where asking for racial and ethnic data is prohibited, you can do your own data collection based on what you know about your employees and how you think they may identify. Of course, this isn't a foolproof method if you're guessing: race is tricky because it's a socially created construct, and there there are a lot of gray areas. Your guesses about people's racial and ethnic categories may not be perfect, but you're taking a step in the right direction by at least trying to evaluate this. [page 73]
+
+> unable to obtain rich racial and ethnic data because there were so few employees from underrepresented racial groups willing to share this information. There may have been fears of "outing" oneself by revealing racial and ethnic identity in such a homogeneous workplace. [page 74]
+
+> if you have only a few employees from underrepresented racial groups, I suggest using your resources to hire an outside firm or consultant to collect qualitative data and assess employee feedback. Employees can sometimes feel like their HR department is working on behalf of the workplace and not on behalf of the employee. I find that employees feel safer with me as an external or outside entity. [page 74]
+
+> it's crucial to disaggregate employee exit information to decenter white employee voices and experiences  [page 75]

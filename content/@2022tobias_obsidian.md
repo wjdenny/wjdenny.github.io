@@ -1,10 +1,11 @@
 ---
 tags:
-  - "#source"
   - "#pkm"
   - "#research"
+  - 🕮
 aliases:
   - How I Set Up Obsidian for Academic Work
+draft: true
 ---
 # How I Set Up Obsidian for Academic Work
 

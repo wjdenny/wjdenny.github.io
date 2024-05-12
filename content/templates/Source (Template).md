@@ -5,7 +5,8 @@ tags:
   - summarize
   - quote
   - synthesize
-aliases:
+aliases: 
+draft: true
 ---
 # title
 [author] wrote this [genre] for [publisher].

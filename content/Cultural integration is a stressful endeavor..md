@@ -15,7 +15,7 @@ Stress increases the further a student gets into the program [[@2021sailsman_esl
 
 At least some of the stress seems to be brought on by the frustration of not being able to express themselves in a manner congruent with their personality [[@2021sailsman_esl#^3d949d]].
 
-[[Feelings of community and belonging reduces acculturation stress in international and resident immigrant students]]
+[[Feelings of community and belonging reduces acculturation stress in international and resident immigrant students.]]
 
 
 ## Further reading
