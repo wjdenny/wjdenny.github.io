@@ -1,3 +1,3 @@
 #🖿
 
-🏷️ [[Diversity, Equity, and Inclusion]] [[Language Assessment]] [[Grading Contracts]] [[Higher Education]]
+🏷️ [[Maps of content]] [[Language Assessment]] [[Grading Contracts]] [[Higher Education]]

@@ -1,11 +1,6 @@
 ---
 tags:
-  - ✽
-  - topic/teaching/higher-education
-  - topic/dei
-  - topic/teaching/higher-education/academic-integrity/plagiarism
-  - topic/teaching/tesol
-  - todo
+  - moc
 ---
 
 [[Many students with diverse cultural backgrounds have strongly held cultural attitudes towards education and learning that may be difficult to change]][@bista2011]

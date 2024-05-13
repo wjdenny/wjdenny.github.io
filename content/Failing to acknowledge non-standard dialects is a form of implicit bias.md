@@ -1,3 +1,3 @@
 #🖿 
 
-[[Higher Education]] [[Implicit Bias]] [[Diversity, Equity, and Inclusion]] [[Plurilingualism]] [[Monolingual Ideology]]
+[[Higher Education]] [[Implicit Bias]] [[Maps of content]] [[Plurilingualism]] [[Monolingual Ideology]]

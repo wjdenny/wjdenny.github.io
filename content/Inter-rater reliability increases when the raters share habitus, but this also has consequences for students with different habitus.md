@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Diversity, Equity, and Inclusion]] [[Second Language Writing]] [[Grading Systems]]
+🏷 [[Maps of content]] [[Second Language Writing]] [[Grading Systems]]

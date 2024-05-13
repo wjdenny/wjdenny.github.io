@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Plurilingualism]] [[TESOL]] [[Diversity, Equity, and Inclusion]] [[Higher Education]]
+🏷 [[Plurilingualism]] [[TESOL]] [[Maps of content]] [[Higher Education]]

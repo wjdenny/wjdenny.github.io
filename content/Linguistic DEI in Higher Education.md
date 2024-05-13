@@ -1,0 +1,18 @@
+---
+tags:
+  - ✽
+---
+- [[Feelings of community and belonging reduces acculturation stress in international and resident immigrant students.]]
+- [[Faculty need to advocate for inclusion of plurilingual perspectives into competency-based curriculum]]
+- [[Faculty have the responsibility of understanding the culture of their students]]
+- [[Faculty can help students build networks of support outside of the classroom.]]
+- [[Even students who speak only English often speak a variety of dialects of English besides the academic standard]]
+- [[Engaging in reflection on multiple iterations of their work helps students understand the nuances of rhetorical choices and how they translate into writing]]
+- [[ESL students face additional challenges when listening to uninterrupted lecture]]
+- [[ESL students are being ideologically trained to accept their position as low-wage workers]]
+- [[Developing a growth-mindset correlates with increases in GPA and success rates for disadvantaged students]]
+- [[Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture]]
+- [[Critical Language Awareness explores the intersections of language and power]]
+- [[Circumstantial bilingualism is the idea that a person may be proficient in English for specific situations, but less capable in others]]
+- [[Being unable to graduate college has a significant negative impact on students career prospects and job satisfaction]]
+- [[Acquisition of white languaging does not fit the pre-academic English preparation course sequence timeline]]

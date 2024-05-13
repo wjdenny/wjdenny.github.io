@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Diversity, Equity, and Inclusion]]
+🏷 [[Maps of content]]

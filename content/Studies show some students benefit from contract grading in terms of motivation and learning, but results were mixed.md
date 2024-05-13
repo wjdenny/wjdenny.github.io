@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Grading Contracts]] [[Diversity, Equity, and Inclusion]] [[Higher Education]]
+🏷 [[Grading Contracts]] [[Maps of content]] [[Higher Education]]

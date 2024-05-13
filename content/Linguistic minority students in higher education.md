@@ -1,7 +1,6 @@
 ---
 tags:
-  - index
-  - ✽
+  - moc
 ---
 This page serves as an index of atomic ideas and related maps of content on the topic of linguistic minority post-secondary students. As described in [[Personal Knowledge Management]], the statements represented as links here represent [[Atomic Notes|an irreducible idea]] which is given its own page in the collection in order to allow it to be clearly and uniquely defined and freely associate with other ideas across the collection. It is ongoing work to prune, divide, combine, and cultivate these ideas.
 

@@ -1,0 +1,5 @@
+---
+tags: 
+  - 🖿
+---
+Empathy is not enough. Empathy itself does not lead to systemic change in terms of equity. Gassam Asare ([[@2023gassamasare_decentering_empathy#^032a2d|2023, p. 94]]) argues against the idea that racial trauma should be shared with white people to increase their empathy and therefore their willingness to enact support systemic change. This is not unique to racial differences, either. Not too long ago, I held an uncriticized, unconscious opinion that trans people should use their pain and trauma to inspire others. It was only after being called out by a dear friend that I examined that idea more closely, for which I am grateful. Empathy, itself, [[Empathy is prone to bias.|is prone to bias]], and as Gassam Asare goes on to write, it is necessary to learn how people have been marginalized and excluded in the past in order to prevent it from happening in the future ([[@2023gassamasare_decentering_empathy#^9fb70d|p. 95--96]]).

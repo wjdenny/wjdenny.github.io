@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Plurilingualism]] [[Diversity, Equity, and Inclusion]] [[Implicit Bias]] [[Higher Education]] [[TESOL]]
+🏷 [[Plurilingualism]] [[Maps of content]] [[Implicit Bias]] [[Higher Education]] [[TESOL]]

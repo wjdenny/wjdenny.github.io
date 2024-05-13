@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Plurilingualism]] [[Higher Education]] [[Diversity, Equity, and Inclusion]]
+🏷 [[Plurilingualism]] [[Higher Education]] [[Maps of content]]

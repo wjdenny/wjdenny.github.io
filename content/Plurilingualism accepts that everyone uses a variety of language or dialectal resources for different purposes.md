@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Monolingual Ideology]] [[Plurilingualism]] [[Diversity, Equity, and Inclusion]]
+🏷 [[Monolingual Ideology]] [[Plurilingualism]] [[Maps of content]]

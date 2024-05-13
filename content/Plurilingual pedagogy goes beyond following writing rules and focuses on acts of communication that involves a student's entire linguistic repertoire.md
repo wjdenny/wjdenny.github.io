@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Plurilingualism]] [[Second Language Writing]] [[Diversity, Equity, and Inclusion]]
+🏷 [[Plurilingualism]] [[Second Language Writing]] [[Maps of content]]

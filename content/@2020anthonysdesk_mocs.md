@@ -16,9 +16,9 @@ draft: true
 
 > The [[Zettlekasten]] culture was based on atomic notes.
 
-[[Nick Milo|Milo]] wanted to organize his atomic notes under an outline and so developed the [[Map of Content]].
+[[Nick Milo|Milo]] wanted to organize his atomic notes under an outline and so developed the [[Map of content]].
 
-[[Map of Content]] are similar to a table of contents, but more fluid. The idea was created by someone else.. Quixotic How to keep track of everything
+[[Map of content]] are similar to a table of contents, but more fluid. The idea was created by someone else.. Quixotic How to keep track of everything
 
 > Are we collecting notes or making notes?
 

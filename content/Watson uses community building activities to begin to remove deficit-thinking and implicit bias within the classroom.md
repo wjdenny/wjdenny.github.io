@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Diversity, Equity, and Inclusion]] [[Implicit Bias]] [[Higher Education]]
+🏷 [[Maps of content]] [[Implicit Bias]] [[Higher Education]]

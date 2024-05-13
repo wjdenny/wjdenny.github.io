@@ -1,3 +1,3 @@
 #🖿
 
-🏷️ [[Plurilingualism]] [[Diversity, Equity, and Inclusion]]
+🏷️ [[Plurilingualism]] [[Maps of content]]

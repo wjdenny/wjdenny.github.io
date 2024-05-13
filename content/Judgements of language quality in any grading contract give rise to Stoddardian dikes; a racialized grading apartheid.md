@@ -10,4 +10,4 @@
 
 [[Comparing what students do with what you were expected to do when you were in college is an unconscious dog whistle, or red flag, for enforcing habits of white languaging, and through it, white supremacy]]
 
-🏷 [[Critical Race Theory]] [[Ideology in Teaching]] [[Critical Pedagogy]] [[Diversity, Equity, and Inclusion]] [[Higher Education]] [[Plurilingualism]]
+🏷 [[Critical Race Theory]] [[Ideology in Teaching]] [[Critical Pedagogy]] [[Maps of content]] [[Higher Education]] [[Plurilingualism]]

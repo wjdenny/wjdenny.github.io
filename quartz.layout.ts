@@ -33,16 +33,16 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Topics",
       filterFn: (a: FileNode) => {
         const tags = a?.file?.frontmatter?.tags ?? [];
-        return tags.includes(`index`);
+        return tags.includes(`✽`) || tags.includes(`cv`);
       },
       sortFn: (a: FileNode, b: FileNode) => {
         const aModified = a?.file?.dates?.modified ?? new Date();
         const bModified = b?.file?.dates?.modified ?? new Date();
-        
+
         // sort CV to the top
         const aTags = a?.file?.frontmatter?.tags ?? [];
-        if (aTags.includes(`cv`))         {
-          return -1
+        if (aTags.includes(`cv`)) {
+          return 1
         }
 
         return bModified.getTime() - aModified.getTime();

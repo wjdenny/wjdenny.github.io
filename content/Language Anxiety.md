@@ -1,0 +1,15 @@
+---
+tags:
+  - ✽
+---
+- [[Fear of speaking is the most reported fear in the United States.]]
+- [[Evidence of the affect that anxiety has on language learning is mixed]]
+- [[Evidence does not support the idea that communication apprehension can be reduced through skills training alone.]]
+- [[Communication apprehension also has negative effects in the workplace.]]
+- [[Audiences made up of different types of people can trigger speech anxiety.]]
+- [[Anxiety makes easier tasks easier and harder tasks harder]]
+- [[Anxiety is a major obstacle to learning a foreign language]]
+- [[Anxiety changes how students perceive the language]]
+- [[Anxiety changes how students attempt to interact in the language]]
+- [[Anxiety can result in careless errors during language production]]
+- [[Anxiety can change students' study habits]]

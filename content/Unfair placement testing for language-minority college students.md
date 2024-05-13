@@ -10,7 +10,7 @@ publish: false
 %% A few sentences to help the reader understand the context of the problem. %%
 - Students who do not have proficiency in the academic standard of English in the U.S. face unfair placement protocols that disproportionately limit their access to higher education.
 
-![[Diversity, Equity, and Inclusion#^973523]]
+![[Maps of content#^973523]]
 
 ## General research problem
 %% This is one sentence that usually starts something like, “The general problem is…” %%

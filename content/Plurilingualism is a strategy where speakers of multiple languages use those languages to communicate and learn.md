@@ -8,4 +8,4 @@ Plurilingualism is a strategy where speakers of multiple languages use those lan
 
 All of a person's linguistic ability is combined into a single linguistic repertoire. [[Language repertoires are not collections of discrete language competencies, but they are combined into a single plurilingual repertoire]] [[Plurilingualism accepts that everyone uses a variety of language or dialectal resources for different purposes]]
 
-🏷 [[Plurilingualism]] [[TESOL]] [[Higher Education]] [[Diversity, Equity, and Inclusion]]
+🏷 [[Plurilingualism]] [[TESOL]] [[Higher Education]] [[Maps of content]]

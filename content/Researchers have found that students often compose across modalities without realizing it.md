@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Diversity, Equity, and Inclusion]] [[Plurilingualism]] [[Higher Education]] [[Computer Literacy]]
+🏷 [[Maps of content]] [[Plurilingualism]] [[Higher Education]] [[Computer Literacy]]

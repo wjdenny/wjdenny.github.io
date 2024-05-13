@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Computer Literacy]] [[Diversity, Equity, and Inclusion]]
+🏷 [[Computer Literacy]] [[Maps of content]]

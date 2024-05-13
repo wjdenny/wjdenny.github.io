@@ -18,7 +18,7 @@ YouTube: https://www.youtube.com/watch?v=cBbYhhH399c
 
 ## Notes
 [[Your resume should show exposure to different types of projects and the diversity of your interests]]
-[[Avoid overusing buzzwords on your resume especially without evidence of application]]
+[[Avoid overusing buzzwords on your resume especially without evidence of application.]]
 [[It helps to provide links to your projects or organizations that you've worked for]]
 [[Provide evidence of the quality of your work in a resume]]
 [[Have clear objectives of the kind of work you want to do in your resume]]

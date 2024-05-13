@@ -1,3 +1,3 @@
 #🖿 
 
-🏷 [[Diversity, Equity, and Inclusion]] [[Higher Education]]
+🏷 [[Maps of content]] [[Higher Education]]
