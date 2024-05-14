@@ -29,9 +29,9 @@ Dr. [[Janice Gassam Asare]] wrote this book.
 - [[@2023gassamasare_decentering_policies|Decentering Whiteness in Workplace Policies]]
 - [[@2023gassamasare_decentering_voices|Decentering White Voices at Work]]
 - [[@2023gassamasare_decentering_dei|Decentering Whiteness in the DEI and Anti-oppression Space]]
-- [[@2023gassamasare_decentering_empathy|Decentering Whiteness in Empathy]] #todo/notes
-- [[@2023gassamasare_decentering_us|Decentering Whiteness within Us]] #todo/notes
-- [[@2023gassamasare_decentering_centering|Centering the Most Marginalized Employees]] #todo/notes
-- [[@2023gassamasare_decentering_black|What Does It Mean to Center Black Employees?]] #todo/notes
-- [[@2023gassamasare_decentering_steps|Steps to Start Decentering Whiteness in the Workplace]] #todo/notes
-- [[@2023gassamasare_decentering_conclusion|Conclusion: Where Do You Begin?]] #todo/notes
+- [[@2023gassamasare_decentering_empathy|Decentering Whiteness in Empathy]] 
+- [[@2023gassamasare_decentering_us|Decentering Whiteness within Us]]
+- [[@2023gassamasare_decentering_centering|Centering the Most Marginalized Employees]]
+- [[@2023gassamasare_decentering_black|What Does It Mean to Center Black Employees?]]
+- [[@2023gassamasare_decentering_steps|Steps to Start Decentering Whiteness in the Workplace]]
+- [[@2023gassamasare_decentering_conclusion|Conclusion: Where Do You Begin?]]

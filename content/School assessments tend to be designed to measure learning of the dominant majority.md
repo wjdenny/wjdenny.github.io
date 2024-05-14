@@ -28,7 +28,7 @@ School assessments tend to be designed to measure learning of the dominant major
 	- [[Community-based assessments are centered on the racialized habitus of the community.]]
 	- [[Criticisms of community-based assessment include failing to equalize power dynamics, as well as gender and racial biases]]
 	- [[In a negotiated assessment ecology, male and white students are more likely to defend their work which therefore introduces a gender and racial bias in the grading system]]
-	- [[Efforts to support one group of student can further marginalize others.]] 
+	- [[Efforts to support one group of students can further marginalize others.]] 
 - what's next? what is working?
 	- [[@2017kibler_promises#^7d89ff]]
 	- [[Some pre-college outreach programs support students developing identities that blend their own cultural values with the more valued dominant culture.]] This would have to be supported in assessment methods, though.

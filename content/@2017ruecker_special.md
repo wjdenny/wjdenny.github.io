@@ -110,7 +110,7 @@ Is this why ELL and Special Education often get lumped together?
 
 ^817593
 
-[[Efforts to support one group of student can further marginalize others.]]
+[[Efforts to support one group of students can further marginalize others.]]
 
 > I thought about recommending him intensive ESL classes at a local college but learned that the college administration had recently cut the ESL program amid budget challenges and a transformation from a community college to a regional university. [page 91]
 
@@ -126,7 +126,7 @@ Maybe a common assumption is that policymakers are looking to research articles 
 
 > With the arrival of the new Common Core-aligned exam, the Partnership for Assessment of Readiness for College and Careers (PARCC), this disparity does not seem to be going away. While the math portion of the exam is going to be offered in Spanish, there has not been mention of a version in Chinese or other languages, with the exception of translation of test instructions (PARCC, 2015).  [page 92]
 
-[[Efforts to support one group of student can further marginalize others.]]
+[[Efforts to support one group of students can further marginalize others.]]
 
 AI translation might be offered as a cheaper alternative to translating exams, but I expect that will be disastrous, see: issues with AI
 

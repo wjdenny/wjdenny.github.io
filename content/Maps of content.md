@@ -1,3 +1,4 @@
+
 - [[Linguistic DEI in Higher Education]]
 - [[Teaching]]
 - [[Second Language Acquisition]]
@@ -23,7 +24,6 @@
 - [[Audience perception follows a few basic rules.]]
 - [[Applying visual design principles increases data comprehension.]]
 
-
 ## Data analysis
 - [[Exploratory and explanatory are two types of data analysis]]
 
@@ -43,6 +43,7 @@
 
 ## Gender
 - [[Evidence against gender essentialism also comes in the fact that, across cultures, what it means to be of a specific gender is different]]
+- [[Misogynoir is the intersectional oppression of Black women.]]
 
 ## Labor and Capital
 - [[Capitalist societies devalue labor power in favor of capital to gain an advantage over a population]]
@@ -59,6 +60,7 @@
 - [[Emotion is contextual and non-essentialist]]
 - [[Culture shock is disrupted social support.]]
 - [[Culture creates emotions rather than individuals]]
+- [[Humility is a valuable trait.]]
 
 ## Leadership
 - [[Effective organizational change often comes from the ground up rather than imposed from the top down]]
@@ -71,6 +73,8 @@
 - [[Being white is not the same as having a white racial habitus.]]
 - [[Apoliticality is a feature of the white habitus]]
 - [[Anti-blackness is a distinct but related concept from white supremacy.]]
+- [[Misogynoir is the intersectional oppression of Black women.]]
+- [[Color-blindness reinforces underlying white-centeredness.]]
 
 ## Disability justice
 - [[Disability communities often need to develop their own preparedness strategies and mutual aid networks.]]
@@ -82,9 +86,11 @@
 ## Social Work
 - [[Correlations with socioeconomic status often mask the true cause of social problems.]]
 - [[Community care is just as important as self-care]]
+- [[Compassionate listening is a technique used to support someone processing a traumatic experience.]]
 
 ## Transnationalism
 - [[Copyright theft is a universal approach to technical inequity between nations.]]
 - [[Ethnic enclaves are associated with less access to mental health services]]
 - [[Cultural integration is a stressful endeavor.]]
 - [[Correcting language unsolicited is classist and racist.]]
+- [[The term third-world is rooted in a white perspective of geography.]]

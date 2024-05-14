@@ -29,21 +29,24 @@ Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decenterin
 
 ^38660b
 
-footnote 6
+Paul Bloom, *Against Empathy*: The Case for Rational Compassion* (New York: Vintage, 2018)
 
 [[Empathy is prone to bias.]]
 
 >Our empathy bias has been discussed through various lenses, including the Missing White Woman Syndrome, a term coined by PBS news anchor Gwen Ifill to describe the phenomenon in which the media seems to only care about a missing person when it is a white girl or a white woman. Because of this empathy bias, we care more about the suffering of people who are similar to us. Living in a white-centered society means that we are more interested (oftentimes unconsciously) in the plight of others when they are white. In 2014, the African American Policy Forum (AAPF) spearheaded the Say Her Name movement to raise awareness about the alarming number of Black women and girls who experience police brutality and violence that doesn't receive the same amount of media attention. Other organizations, such as the Black & Missing Foundation, Inc. (BAMFI) and Missing and Murdered Indigenous Women (MMIW), were created to raise awareness about missing and harmed Black and Indigenous populations. [page 93--94]
 
 ^f01554
-footnote 7
-footnote 8
+
+Adriana Miranda, "Missing White Woman Syndrome," University of Missouri Kansas City Women's Center, November 29, 2021, https://info.umkc.edu/womenc/2021/11/29/missing-white-woman-syndrome/.
+
+"Say Her Name," African American Policy Forum, accessed April 8, 2023, https://www.aapf.org/sayhername.
+
 
 > Another flaw of empathy that Bloom cites in his book is the "spotlight effect." Empathy makes us focus on one specific individual or specific event, which can be myopic. It doesn't allow us to look at the bigger picture and recognize hows our actions impact groups of people. An excellent example Bloom points to is the reaction to the Sandy Hook tragedy compared to the ongoing violence in Chicago. In the Sandy Hook school shooting, twenty-year-old Adam Lanza took the lives of twenty-eight people, the majority of whom were young children. The shooting, white took place in Newtown, Connecticut, rightfully received a visceral reaction from the public. We haven't seen the same reaction to the situation in Chicago, where more children are murdered on a daily  basis. The difference is that those impacted by the tragedy in Newtown were white, whereas the violence taking place in Chicago involves mostly Black people. Even our empathy is white-centered. The public is better able to empathize with the harm that white people experience than any other racial group. [page 94]
 
 ^8c911d
 
-footnote 9
+Michael Ray, "Sandy Hook Elementary School Shooting," Britannica, last updated March 29, 2023, https://www.britannica.com/event/Sandy-Hook-Elementary-School-shooting.
 
 > A related phenomenon that shows up in the workplace, one that I've written about before, is the idea that people from underrepresented racial and ethnic groups should exploit their trauma for the sake of white enlightenment. In a 2021 article for *Forbes*, I questioned whether reshaping past experiences with racism will lead to systemic changes. I challenged the notion that empathy is what we should be striving for and what will help us move closer to racial equity. [page 94]
 > 
@@ -53,7 +56,7 @@ footnote 9
 
 ^032a2d
 
-footnote 10
+Janice Gassam Asare, "Does Resharing Past Experiences with Racism Lead to Systemic Changes? Probably Not." *Forbes*, November 28, 2021. https://www.forbes.com/sites/janicegassam/2021/11/28/does-resharing-past-experiences-with-racism-lead-to-systemic-changes-probably-not/?sh=161c0c56741c
 
 [[Empathy is not enough.]]
 
@@ -61,3 +64,14 @@ footnote 10
 
 ^9fb70d
 
+> dismantling oppression requires systemic change. Empathy is ineffective because it doesn't get at the root problem. Systemic changes are what workplace environments need. [page 96]
+
+> What is hair discrimination, and how does it impact employees with Afro-textured hair? What is it like to be a caregiver to someone who is terminally ill or has a long-term disability? [page 96]
+
+> Compassionate listening means hearing what a person is saying without the need to invalidate their experiences. Listen without feeling the need to relate their experiences to your own. [page 97]
+
+> how does student loan debt impact you as an employee? How has generational trauma affected your current experiences? [page 97]
+
+> When it comes to compassionate listening, it's helpful to remember three Rs: listen without feeling the need to *respond*, *relate*, or *provide recommendations*. [page 97]
+
+[[Compassionate listening is a technique used to support someone processing a traumatic experience.]]
