@@ -7,7 +7,7 @@ tags:
 - [[Explicitly calling attention to important points during a lecture can help cue students to take notes]]
 - [[Don't be afraid of silence during group discussion, as often quieter students are waiting for their chance to speak]]
 - [[Developing a growth-mindset correlates with increases in GPA and success rates for disadvantaged students]]
-- [[Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture]]
+- [[Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture.]]
 - [[Allow students to help constructing norms for a respectful and productive learning environment]]
 - [[Asking students to write about themselves in the beginning of the semester can help you get to know them better]]
 - [[Creating a safe and effective learning environment is crucial for supporting class discussions]]
@@ -41,7 +41,7 @@ tags:
 - [[Discussion skills like articulating, defending, and providing evidence for an idea are what helps us learn]]
 
 ## Ideology in Education
-- [[Education is never ideological neutral]]
+- [[Education is never ideological neutral.]]
 - [[Critical discussion skills are a core part of any college education]]
 - [[Assessment is political]]
 

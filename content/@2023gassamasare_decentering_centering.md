@@ -93,8 +93,10 @@ or, like de-escalating an armed psychopath--is it important they be comfortable 
 
 > we hear a lot of conversations bout imposter syndrome, and much of the advice focuses on how to help marginalize groups move past it and how to empower those that have it. We don't talk about how imposter syndrome doesn't actually exist but is the result of an environment that has made those deemed as "other" feel like they're inadequate. How do we change the environment that caused people to feel imposter syndrome in the first place? We're not getting at the source of the inequity. [page 122]
 
+^fb0f4e
+
 [[Stereotype threat reduces the efficacy of students because they believe the stereotype to be true even when it is not]]
-[[Imposter syndrome is the feeling of being unfit or unwelcome in a specific situation.]]
+[[Imposter phenomenon is the feeling of being unfit or unwelcome in a specific situation.]]
 
 > Research has shown that even when women *do* negotiate their salaries, they don't get the salaries they ask for. It's not that women aren't asking for higher pay--women ask for raises as often as men. Systemic barriers mean that when women *do* ask, they are penalized more for it. [page 122]
 

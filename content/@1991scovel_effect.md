@@ -11,9 +11,9 @@ draft: true
 > [!summary] Summary
 > %% Write a one-sentence summary of the source. %%
 ## Notes
-%% Pull quotes from the source and put them here using `>` (blockquotes). %%
-
 > "Affect" is a cover term under which is swept a wide range of disparate constructs and behaviors. Included under the rubric of affective variables are such various categories as: "cognitive style" (Brown, 1973), "ego boundaries" (Taylor , 1974), "reserved vs. outgoing personality" (Chastain, 1975), and "adventuresome" (Tucker, Hamayan, & Genesee, 1976). Perhaps the most peculiar candidate of all for an affective construct, and, at the same time, the most indicative of the need for a more precise definition of affect in second language acquisition, is the variable "conformist Protestant ethic" suggested by Scoon (1971). [page 15]
+
+^3276e9
 
 > As Lamendella (1977) has wryly observed, there are two kinds of researchers who deal with cognition, those who define it erroneously, and those who don't define it at all.
 
@@ -21,7 +21,7 @@ draft: true
 
 > The research into the relationship of anxiety to foreign language learning has provided mixed and confusing results, immediately suggesting that anxiety itself is neither a simple nor well-understood psychological construct and that it is perhaps premature to attempt to relate it to the global and comprehensive task of language acquisition. Some studies have revealed incomplete correlations between anxiety and measures of language proficiency; Swaim and Burnaby (1976), for example, in their study of English-speaking French immersion children found a negative correlation between anxiety and one measure of the children's proficiency in French, but, at the same time, found no other significant correlations,m either negative or positive, with any other proficiency measures. Tucker et al., also found that anxiety (in this case, one of a cluster of variables in a factor analysis) correlated again with one measure of French proficiency, but not with any of the three other criterion measures of language proficiency which they examined. ... Backman (1976) found that the two worst English-learning Spanish speakers in her study scored the highest and the lowest on the anxiety measure she utilized. In a larger study, Chastain (1975) found a negative correlation between French audio-lingual method student Scores on tests and anxiety, but, and contradiction, he discovers a positive correlation between anxiety and the scores of German and Spanish students using the traditional method. Chastain accurately identifies the crux of the problem in these anxiety studies when he states that: **"perhaps some concern about a test is a plus or too much anxiety can produce negative results"** (p. 160)
 
-[[Evidence of the affect that anxiety has on language learning is mixed]]
+[[Evidence of the effect that anxiety has on language learning is mixed.]]
 
 > If Chastain's paper indicates the direction toward which anxiety/language studies should move, it is an article by Kleinmann (1977) which actually takes a step in the right direction, first by defining two different types of anxiety, and then seeking to discover a correlation between these two different constructs and measures of second language learning behavior. Kleinmann was interested in examining the relationship between the syntactic structures in English they're avoided by foreign students and syntactic structures of the students native languages-- the hypothesis being that the English structures which contrasted most markedly with the native language of the student would be avoided most frequently. After examining the English output of Arabic and Spanish students using a variety of tests, Kleinmann was able to confirm his hypothesis. Of secondary interest to him was the relationship between the avoidance behavior of the subjects and anxiety, the assumption being that "facilitating anxiety" would encourage learners to employ the very English structures that their native language group would tend to avoid.
 

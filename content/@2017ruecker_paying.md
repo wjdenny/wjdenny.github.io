@@ -54,7 +54,7 @@ Are they still growing? Trump and COVID have hit those numbers pretty hard.
 
 ^01311e
 
-[[Less than a quarter of linguistic minority students transition from high school to a 4-year college]]
+[[Less than a quarter of linguistic minority students transition from high school to a 4-year college.]]
 
 > a recent comparative study of college and non-college graduates found that "on virtually every measure of economic well-being and career attainment--from personal earnings to job satisfaction to the share employed full time-- young college graduates are outperforming their peers with less education. (Pew, 2014) Clearly, there are economic and social costs for individuals, employers, and communities when large numbers of U.S. resident and immigrant multilingual students do not reach higher education. [page 4]
 
@@ -124,7 +124,7 @@ What is CAMP? Sounds a bit like TRIO.
 
 ^80390b
 
-[[Non-linguistic interference to education is not addressed in federal policies]]
+[[Non-linguistic interference to education is not addressed in federal policies.]]
 
 > As Yancey, Robertson, and Taczak (2014) have noted in their work on transfer from high school to college, "students do bring to college what the school culture has emphasized" and "prior knowledge influences new knowledge" (p. 12). [page 7]
 > ...

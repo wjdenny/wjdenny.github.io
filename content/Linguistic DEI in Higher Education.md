@@ -11,7 +11,7 @@ tags:
 - [[ESL students face additional challenges when listening to uninterrupted lecture]]
 - [[ESL students are being ideologically trained to accept their position as low-wage workers]]
 - [[Developing a growth-mindset correlates with increases in GPA and success rates for disadvantaged students]]
-- [[Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture]]
+- [[Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture.]]
 - [[Critical Language Awareness explores the intersections of language and power]]
 - [[Circumstantial bilingualism is the idea that a person may be proficient in English for specific situations, but less capable in others]]
 - [[Being unable to graduate college has a significant negative impact on students career prospects and job satisfaction]]

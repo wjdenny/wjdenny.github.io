@@ -10,9 +10,9 @@ While some writing teachers and scholars claim to eschew issues of culture and p
 
 This blindness combined with the power of faculty and administrators to gatekeep racialized bodies through a system of remedial coursework and non-standardized assessments [[It is dangerous to ignore the ideologies inherent in TESOL|is particularly dangerous]].
 
-[[Ideological neutrality in education only serves to support the current dominant ideologies]]
+[[Ideological neutrality in education only serves to support the current dominant ideologies.]]
 
-[[Education is never ideological neutral]]
+[[Education is never ideological neutral.]]
 
 [[ESL students are being ideologically trained to accept their position as low-wage workers]]
 

@@ -3,7 +3,7 @@ tags: 🖿
 ---
 Cultural integration is a stressful endeavor [[@2021sailsman_esl#^725971]] [[@2021sailsman_esl#^3e218c]]. 
 
-[[Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture]]
+[[Cultural differences in student-faculty interaction is a challenge for students unfamiliar with the academic culture.]]
 
 [[Cultural differences in the way healthcare works is a challenge for healthcare students unfamiliar with the culture]]
 

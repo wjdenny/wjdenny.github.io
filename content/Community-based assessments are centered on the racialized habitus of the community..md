@@ -4,7 +4,7 @@ tags:
 ---
 Community-based assessments are centered on the racialized bias of the community. This includes any form of evaluation or assessment where there are multiple assessors.
 
-[[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus]] 
+[[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus.]] 
 
 This also applies to course evaluations. Students tend to evaluate racial minority professors more harshly than co-ethnic professors ([[@2023gassamasare_decentering_systems#^86c213|Gassam Asare, 2023]]) which can limit career opportunities for professors in those demographics. 
 

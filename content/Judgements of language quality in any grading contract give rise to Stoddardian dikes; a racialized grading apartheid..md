@@ -1,4 +1,8 @@
-#🖿 
+---
+tags: 
+  - 🖿
+---
+Judgements of language quality in any grading contract give rise to Stoddardian dikes; a racialized grading apartheid.
 
 [[Language is learned through a racialized habitus and we make the mistake of assuming all students have adopted a white racial habitus]] [[Academic language is a product of white colonial norms and similarly tries to avoid racial emotions]]
 

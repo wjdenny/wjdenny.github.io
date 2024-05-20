@@ -21,8 +21,8 @@ draft: true
 
 > "Shor asserts that there can be no neutrality in education because it is a "contested terrain where people are socialized and the future of society is at stake" ([[1992 Shor|Shor, 1992]], p. 13)." 
 
-[[Education is never ideological neutral]]
-[[Ideological neutrality in education only serves to support the current dominant ideologies]]
+[[Education is never ideological neutral.]]
+[[Ideological neutrality in education only serves to support the current dominant ideologies.]]
 
 > "Which books are read, ignored, or banned; which topics are highlighted or omitted; how school monies are allocated; who is hired, fired, or promoted; how students and teachers talk in the classroom are all areas of debate and contention." 
 

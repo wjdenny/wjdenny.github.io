@@ -36,7 +36,7 @@ This should be even more true for ESL students who came to be in this situation 
 
 > In [[@1991scovel_effect|his 1978 (this volume) review of research]], Scovel argues that scholars have been unable to establish a clear-cut relationship between anxiety and overall foreign language achievement; he attributes the discrepant findings at least in part to the inconsistency of anxiety measures used and concludes: "It is perhaps premature to relate it [anxiety] to the global and comprehensive task of language acquisition."
 
-[[Evidence of the affect that anxiety has on language learning is mixed]]
+[[Evidence of the effect that anxiety has on language learning is mixed.]]
 
 > These studies indicate that anxiety can affect the communication strategies students employ in language class. That is, the more anxious student tends to avoid attempting difficult or personal messages in the target language. 
 

@@ -17,7 +17,7 @@
 - Standardized academic language
 	- [[Dominant academic discourses are white habits of language]] 
 	- [[Literacy is white property and grading is used to exclude non-white bodies from its use]]
-	- [[Judgements of language quality in any grading contract give rise to Stoddardian dikes; a racialized grading apartheid]]
+	- [[Judgements of language quality in any grading contract give rise to Stoddardian dikes; a racialized grading apartheid.]]
 	- [[Many rhetorical prohibitions in the standard academic English curriculum are effective rhetorical tools]] 
 	- [[Failing to acknowledge non-standard dialects is a form of implicit bias]] 
 	- [[Students who have or are adjacent to privilege may not notice the struggle of adopting a white language habitus that other students do]] 

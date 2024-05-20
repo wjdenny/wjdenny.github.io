@@ -49,7 +49,9 @@ https://doi.org/10.1002/j.2334-4822.2011.tb00655.x
 
 > Fleck (2000) investigated the concept of cheating in urban and rural Nepal from an ethnocentric perspective. He found that the underlying causes of cheating were grounded in Nepal's hierarchical cultural values: education is considered a status or rank rather than a process of learning, and cheat sheets, whispers, and copied answers were examination reality in many of Nepal's public schools. 
 
-[[A study based on Nepalese students found that the implicit culture of education valued status over learning]]
+^9e94e5
+
+[[Academic culture varies around the world.]]
 
 > Such academic practices occur in many ethnic-oriented tribal communities, as Ballard and Clanchy (1991, cited in Hall, 2004, p. 4) explained: 
 > 

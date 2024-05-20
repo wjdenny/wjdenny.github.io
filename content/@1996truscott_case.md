@@ -128,7 +128,7 @@ A key difference, I'd venture, is the timing of the feedback (between oral and w
 
 > Its falsity is revealed by a simple observation made by Long ([[1977 Long|1977]]; [[1991 Long|1991]]), an observation repeatedly confirmed by research and that any teacher or learner can verify: Language learning rarely, if ever, works the way that this simple view says it does. The acquisition of a grammatical structure is a gradual process, not a sudden discovery (page 342)
 
-[[Grammar acquisition is a gradual process and does not respond to traditional instruction methods]]
+[[Grammar acquisition is a gradual process and does not respond to traditional instruction methods.]]
 
 > Teaching practices that rely on transfer of knowledge, without any concern for the processes underlying the development of the language system, are not promising. Grammar correction, as almost universally practiced, does exactly that. (page 343)
 
@@ -171,7 +171,7 @@ So how do we know if a student is ready for correction?
 
 > Teachers might try to get around these problems by correcting all errors: Some of them will no doubt be errors for which the learner is ready. ... given the enormous amount of distraction learners receive from corrections for which they are not ready, along with the problems that this technique imposes on teachers (page 345)
 
-[[Students can be distracted by too many corrections and be unable to use corrections for features which they are ready to acquire]]
+[[Students can be distracted by too many error corrections.]]
 
 > Interlanguage develops through subtle, poorly understood processes. it would be surprising if all types of teaching/learning were consistent with them. Rather, some will fail to affect the underlying, developing system, instead producing only a superficial and possibly transient form of knowledge, with little value for actual use of  the language. Such learning would be better described as *[[pseudolearning|psuedolearning]]*. if the knowledge acquired through grammar correction is, or can be, [[pseudolearning|psuedoknowledge]], then teachers have additional reason to doubt the technique's value. (page 345)
 

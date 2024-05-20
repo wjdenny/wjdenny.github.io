@@ -95,7 +95,7 @@ That may be true, but how could that work in a course that has students with div
 
 I get that that isn't fair. But at the same time, students who lack those grammar skills often end up in more advanced classes for one reason or another, and we can't teach everything. We need to decide whether that grammar is truly necessary, and from the body of scholarship I have been reading, it may not be, to an extent.
 
-[[Grammar acquisition is a gradual process and does not respond to traditional instruction methods]]
+[[Grammar acquisition is a gradual process and does not respond to traditional instruction methods.]]
 [[Feedback on content was found to be more effective than feedback on grammar and sentence structure]]
 
 > Similarly, Tim expressed dislike for such unidirectional feedback and suggested writing feedback be presented as a conversation between student/teacher and student/student, emphasizing process writing over product writing and supporting the traditionally less powerful oral end of the context of biliteracy continua where resident multilingual writers find voice and agency in discussing their texts. [page 56] #topic/teaching/writing/peer-review 

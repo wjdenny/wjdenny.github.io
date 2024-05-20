@@ -214,6 +214,8 @@ This is what I want to explore in the data with the [[Data Analysis Project]]. N
 > [...]
 > Education, schools, and literacy in the US are inner dikes. [page 11]
 
+^3b7285
+
 > There is no more fitting analogy to grading by a standard than [[1920 Stoddard|Stoddard]]'s. Schools, colleges, and universities today are literally and figuratively white settlements (many built on land stolen from indigenous peoples), which have become tacitly, as [[1920 Stoddard|Stoddard]] makes clear, a white entitlement, an inner dike to protect. [page 12]
 
 > This makes grading by a standard the method for protecting and cleaning out the inner dike, whitening it. In short, schools are the inner dikes of literacy as white property. Grading is the gun and bayonet, which are used against all students to cleanse them, to whiten them or drive them out. Again, the rules for grading must change if we wish to stop trying to whiten the dike. [page 12]
@@ -539,7 +541,7 @@ This resonates with me a lot; sounds very familiar. This is my struggle almost e
 
 > Exemplar categorization says that people "categorize by comparing a new instance with intact memories (‘exemplars') of similar instances" (Haswell 247). Thus we read a text looking to see how closely it fits to significant features of a most representative or best example of the category. Our rubric-building process assumed a kind of reverse method for producing the categories and descriptive features. It began with actual known exemplars, texts we brought to class, ones we wanted to imitate as writers. Through a series of activities, we derived dimensions of writing from them and those dimensions ' features, which we then used to help us make judgments on each other 's drafts and portfolios in the assessment documents. This process was influenced by [[Bob Broad]] 's dynamic criteria mapping process (see Chapter 5 of Broad). In use, the actual exemplars that our rubric was based on go away, and what remains is a bricolage of exemplar-inspired dimensions that we use to remind us of our priorities when assessing. [page 55]
 
-[[Exemplar categorization is the process of comparing an instance of something with an easily identified example in memory]]
+[[Exemplar categorization is the process of comparing an instance of something with an easily identified example in memory.]]
 
 > The prototype for any category is, then, an "idealized construction," a “convenient grammatical fiction" (Haswell 246; Rosch 40). So we don't actually use a real example when we judge instances, instead we use convenient fictions, prototypes in our heads that are cobbled together from various examples. Our rubric, then, was heuristical in nature, [page 55]
 
@@ -547,11 +549,13 @@ This resonates with me a lot; sounds very familiar. This is my struggle almost e
 
 > even though we are sharing the same rubric and coming to agreements about what categories mean. But since we always work from our own mental, idealized constructions of things, this paradigm of judgment seems to explain best what we were trying to do and how it would inevitably be uneven in application--there would be necessary disagreement. [page 55]
 
-[[Inter-rater reliability is always less than ideal because each rater has a different set of exemplars of the variables being assessed]]
+^59d27f
+
+[[Inter-rater reliability is always less than ideal because each rater has a different set of exemplars of the variables being assessed.]]
 
 > This means readers who share habitus will be determined to judge the same text in similar ways, but not exactly the same ways. [page 56]
 
-[[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus]]
+[[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus.]]
 
 > I just got my students to manage those enclosures with me. Many of these contradictions occurred because the university required grades. And of course, there are always contradictions in any assessment ecology situated in other ecologies that demand things like movement between enclosures that are already created. [page 56]
 
@@ -618,9 +622,11 @@ I should add a section related to this in [[ESI-024 Module 1]]. This is where Gl
 
 > To use the metaphor of the early twentieth century, racist, separatist, and eugenicist, [[Lothrop Stoddard]], in *[[1920 Stoddard|The Rising Tide of Color]]*, hybrid grading contracts maintain the white center by managing the "inner dikes" that protect them. The white center is the A-grade partition, while the inner dike is the B-grade territory, open to all in the contract, but carefully separated from the A-grade by maintaining the dominant white racial linguistic standard. This means the "outer dikes" are the less-preferred, lower-grade-lands. [page 60]
 
-> The grading philosophy, to me, sounds like this: Let the Brown and Black folks have their Bs and Cs. Let hem pass writing courses. Meanwhile, the As, the real opportunities and high GPAs, will be reserved for those who can embody a dominant white racial *habitus*, which means white students get overrepresented in the A category. The world and its educational opportunities remains guarded from the rising tide of color in our schools through the system of inner and outer grade dikes. [page 60]
+^718963
 
-[[Judgements of language quality in any grading contract give rise to Stoddardian dikes; a racialized grading apartheid]]
+> The grading philosophy, to me, sounds like this: Let the Brown and Black folks have their Bs and Cs. Let them pass writing courses. Meanwhile, the As, the real opportunities and high GPAs, will be reserved for those who can embody a dominant white racial *habitus*, which means white students get overrepresented in the A category. The world and its educational opportunities remains guarded from the rising tide of color in our schools through the system of inner and outer grade dikes. [page 60]
+
+[[Judgements of language quality in any grading contract give rise to Stoddardian dikes; a racialized grading apartheid.]]
 
 > I could and did get my students-- even students of color-- to voice their own oppression. This is how we internally colonized our students. We get them to enforce the partitions and dikes of grading with us. [page 60]
 

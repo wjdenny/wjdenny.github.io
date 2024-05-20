@@ -41,9 +41,15 @@ L1 influences personality and vice-versa.
 
 L1 is central to our identities as individuals and members of our communities.
 
+[[Native language forms a part of one's overall identity.]]
+
 > confrontation with another language and its structures presents a challenge to native language and its *psychological correlates*, by offering alternative ways not only to describe but also to conceptualize, and perhaps to experience the world in and around us. [page 3--4]
 
+^6b8b8e
+
 L2 acquisition threatens the stability of personality (as opposed to foreign language? Does learning a language in the context of a foreign language do similar things; I wouldn't think so)
+
+[[The acquisition of an additional language challenges our sense of self.]]
 
 > native language as embedded in the total personality organization will be both a model for, and a barrier to, the acquisition of a foreign language [page 4]
 

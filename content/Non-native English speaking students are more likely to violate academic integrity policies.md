@@ -6,7 +6,7 @@ tags:
   - topic/teaching/higher-education/academic-integrity/plagiarism
   - topic/teaching/tesol
 ---
-Non-native English speaking students are more likely to violate academic integrity policies. [[A study based on Nepalese students found that the implicit culture of education valued status over learning]] [[A study of Pakistani university students reported a significant majority of students copying the work of other students]]
+Non-native English speaking students are more likely to violate academic integrity policies. [[Academic culture varies around the world.]] [[A study of Pakistani university students reported a significant majority of students copying the work of other students]]
 
 [[Poor language proficiency is a factor in plagiarism due to the inability to internalize information]] and [[Living in the United States is the first time many international students have used English outside of a foreign language classroom]]
 

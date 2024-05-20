@@ -1,3 +1,7 @@
+---
+tags:
+  - ✽
+---
 
 - [[Linguistic DEI in Higher Education]]
 - [[Teaching]]
@@ -38,7 +42,7 @@
 - [[Avoid keeping notes on multiple platforms]]
 
 ## Philosophy
-- [[Exemplar categorization is the process of comparing an instance of something with an easily identified example in memory]]
+- [[Exemplar categorization is the process of comparing an instance of something with an easily identified example in memory.]]
 - [[Althusser's interpellation or hailing is an unconscious process that turns something into a subject by calling attention to it and expecting a response]]
 
 ## Gender

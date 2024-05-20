@@ -11,6 +11,7 @@ draft: true
 ```bibtex
 @book{1991koch_affective,
 	booktitle = {Language anxiety: From theory and research to classroom implications},
+	title = {Affective Reactions of Foreign Language Students to Natural Approach Activities and Teaching Techniques},
 	author       = {Koch, April S. and Terrell, Tracy David},
 	year         = 1991,
 	publisher    = {Prentice Hall},
@@ -38,7 +39,7 @@ Negative emotional states like fear and anxiety trigger the release of adrenalin
 >
 > Students rated most NA techniques as producing comfort rather than anxiety. Of the 16 techniques examined, only three were rated by more students as resulting in anxiety rather than comfort. However, as in the case of NA activities, there were diverse responses. Some techniques are "safe," with most students rating them as comfortable: Using pictures to present vocabulary, personalization of grammar, acquisition of vocabulary through association, pair work, and classroom topical discussion are rated high by large numbers of students with almost none considering them to be anxiety producing. However, while more students rate teaching completely in Spanish, using no English, and a de-emphasis of grammar in the class as comforting, a large minority find these same techniques to be anxiety-producing. [page 123]
 
-[[Some activities in the language learning classroom produce more anxiety than others.]]
+[[Some activities in the language learning classroom produce more anxiety than others]]
 
 > First-quarter students like activities and techniques that do not require complex responses in the target language. Third-quarter students seem more tolerant and like to take chances; hence they prefer more complex activities and are pleased with the de-emphasis on grammar and the chance to produce the target language free from error correction. [page 123--124]
 

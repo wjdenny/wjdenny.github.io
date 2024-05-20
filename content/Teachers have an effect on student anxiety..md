@@ -1,0 +1,5 @@
+---
+tags: 
+  - 🖿
+---
+Teachers have an effect on student anxiety. [[Anxiety is a major obstacle to learning a foreign language]] which should be minimized as much as possible in the second language classroom. There are a few things teachers can do to prevent or alleviate some anxiety. [[Some activities in the language learning classroom produce more anxiety than others]] so by choosing more activities that are considered less anxiety inducing, teachers can help avoid too much of it. Conversely, choosing activities that are more anxiety inducing would likely increase anxiety for most students. Giving students chances to practice high-stakes activities can also help lower anxiety. For example, [[performative readings of short texts can be a low-anxiety warm-up for oral language classes]]. Additionally, [[@1991crookall_dealing#^ef9558|Crookall & Oxford (1991, p. 143)]] suggests that an overly anxious teacher (state or trait) can sometimes cause students to become anxious as well. 

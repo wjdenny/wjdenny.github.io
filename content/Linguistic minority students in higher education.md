@@ -8,7 +8,7 @@ This page serves as an index of atomic ideas and related maps of content on the 
 - [[Linguistic minority students face a unique set of challenges.]]
 ## On linguistic minority students' transition from high school to college
 - [[It is important to understand the secondary to post-secondary transition of linguistic minority students.]]
-- [[Less than a quarter of linguistic minority students transition from high school to a 4-year college]]
+- [[Less than a quarter of linguistic minority students transition from high school to a 4-year college.]]
 - [[Being unable to graduate college has a significant negative impact on students career prospects and job satisfaction]] 
 - [[Linguistic minority students' education backgrounds vary widely even if they attended local high schools]] 
 - [[Prior educational experiences vary even more widely for linguistic minority students that moved to the United States as adults]]
@@ -19,7 +19,7 @@ This page serves as an index of atomic ideas and related maps of content on the 
 - [[The increasing numbers of immigrants is not limited to major metropolitan areas, but is also increasing in smaller towns and rural areas as well]] 
 - [[Population of linguistic minority students in K-12 is also growing fast in Canada]] 
 ## On policy
-- [[Non-linguistic interference to education is not addressed in federal policies]] 
+- [[Non-linguistic interference to education is not addressed in federal policies.]] 
 - [[Linguistic minority students seem to be an afterthought in education policy.]] 
 - [[Community colleges in the U.S. lack a standard way of evaluating English language proficiency.]]
 

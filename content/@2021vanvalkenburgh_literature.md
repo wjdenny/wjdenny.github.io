@@ -122,7 +122,7 @@ He accepts the conclusion that standard language ideology is problematic, and ag
 
 > Contract grading, as an alternative to traditional methods of grading, has been discussed in academic circles since the early part of the twentieth century ([[1973 Yarber|Yarber, 1973]], p. 22); however the practice of popularity during the late 1960s and 1970s as teachers again started to question the status quo around traditional assessment practices ([[1971 Taylor|Taylor, 1971]], [[1980 Taylor|1980]]; [[1975 Hart|Hart, 1975]]). (page 12)
 
-[[Ideological neutrality in education only serves to support the current dominant ideologies]] and [[Education is never ideological neutral]] ([[Benesch (1993)]])
+[[Ideological neutrality in education only serves to support the current dominant ideologies.]] and [[Education is never ideological neutral.]] ([[Benesch (1993)]])
 
 
 > during the 1990s, a renewed interest in contract grading emerged in the teaching of writing ([[1999 Shor|Shor, 1999]], [[2009 Shor|2009]]; [[2009 Danielewicz & Elbow|Danielewicz & Elbow, 2009]]; [[Inoue (2015) 1|Inoue, 2015]], [[@2022inoue_labor|2019]]; [[2020 Schwarz|Schwartz, 2020]]). (page 12)

@@ -8,8 +8,8 @@ School assessments tend to be designed to measure learning of the dominant major
 	- [[Apoliticality is a feature of the white habitus]]
 	- [[Punctuality is another white habit of mind often imposed on students (of color) in ESL classrooms]]
 - White habitus and its role in schools
-	- [[Education is never ideological neutral]]
-	- [[Ideological neutrality in education only serves to support the current dominant ideologies]]
+	- [[Education is never ideological neutral.]]
+	- [[Ideological neutrality in education only serves to support the current dominant ideologies.]]
 	- [[Dominant academic discourses are white habits of language]]
 	- [[Schools reproduce the culture of the dominant class]]
 	- [[It is dangerous to ignore the ideologies inherent in TESOL]]
@@ -18,10 +18,10 @@ School assessments tend to be designed to measure learning of the dominant major
 - Assessment tends to measure habitus, thus enforcing it
 	- [[Conventional assessment ecologies value habitus more than learning]]
 	- [[Success in conventional classrooms is synonymous with adopting a white racial habitus]]
-	- [[Ideological neutrality in education only serves to support the current dominant ideologies]]
+	- [[Ideological neutrality in education only serves to support the current dominant ideologies.]]
 	- [[The dominant narrative of multilingual students is deficit-based.]]
 - attempts to remove habitus from grading
-	- [[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus]]
+	- [[Inter-rater reliability increases when the raters share habitus, but this also has consequences for students with different habitus.]]
 	- [[Hybrid-grading contracts, as used by Danielewicz and Elbow, fail to avoid the bias and judgement of white racial habitus]]
 	- [[Hybrid-grading contracts, as used by Danielewicz and Elbow, unintentionally reserve the highest grades for students who adopt a white racial habitus]]
 	- [[Anonymous grading cannot prevent reference to the norm within the class which may introduce a bias towards a white racial habitus]]

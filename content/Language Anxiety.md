@@ -3,7 +3,7 @@ tags:
   - ✽
 ---
 - [[Fear of speaking is the most reported fear in the United States.]]
-- [[Evidence of the affect that anxiety has on language learning is mixed]]
+- [[Evidence of the effect that anxiety has on language learning is mixed.]]
 - [[Evidence does not support the idea that communication apprehension can be reduced through skills training alone.]]
 - [[Communication apprehension also has negative effects in the workplace.]]
 - [[Audiences made up of different types of people can trigger speech anxiety.]]

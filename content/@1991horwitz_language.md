@@ -21,8 +21,8 @@ draft: true
 - Chapter 8: [[@1991mejías_oral|Oral Communication Apprehension and Hispanics: An Exploration of Oral Communication Apprehension Among Mexican American Students in Texas]]
 - Chapter 9: [[@1991price_subjective|The Subjective Experience of Foreign Language Anxiety: Interviews with Highly Anxious Students]]
 - Chapter 10: [[@1991koch_affective|Affective Reactions of Foreign Language Students to Natural Approach Activities and Teaching Techniques]]
-- Chapter 11: [[@1991foss_relational]]
-- Chapter 12:
+- Chapter 11: [[@1991foss_relational|A Relational Model for Managing Second Language Anxiety]]
+- Chapter 12: [[@1991crookall_dealing]]
 - Chapter 13:
 - Chapter 14:
 ## Citation
