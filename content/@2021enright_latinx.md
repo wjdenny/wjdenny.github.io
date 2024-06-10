@@ -53,7 +53,7 @@ Good guiding principle for writing or speaking projects.
 
 > Create questions or problems that *require* student input so that their role is not simply to witness or advise. (page 173)
 
-[[Projects should require student knowledge to promote agency]]
+[[Projects should require student knowledge to promote agency.]]
 ## Citation
 
 ```bibtex

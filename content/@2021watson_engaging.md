@@ -68,7 +68,7 @@ How can we lead students through this kind of transformation?
 
 > I'm compelled by research in second language acquisition showing that learners will acquire language more effectively when their affective filters-- those emotions and beliefs that can hamper a sense of security and, thus, risk-taking-- are lowered ([[1982 Krashen|Krashen, 1982]]). (page 62)
 
-[[People acquire language better when their affective filters are not interfering]]
+[[People acquire language better when their affective filters are not interfering.]]
 
 > **When I first began teaching composition, I took an authoritative stance and built a professional and rigorous atmosphere. How could I expect to lower affective filters that way? While I wouldn't claim to have perfected this, I now aim to take a loving stance (yes, a *loving* stance) and build a safe and compassionate atmosphere instead. I ==treat students and their languages as people and practices to love and support rather than to teach and assess.==** (page 62) ^4a0a36
 

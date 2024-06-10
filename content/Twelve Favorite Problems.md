@@ -19,7 +19,7 @@ Currently, my twelve favorite problems are:
 9. How do I manage autoimmune atrophic gastritis to live my best life as long as possible? #health #aag #anemia #autoimmune-diseases #hypothyroidism #testosterone
 10. How can I help others to passionately learn on their own? #autodidactism #education #leadership #pkm #learning
 11. How do be an authentic and ethical professor in a colonialist and capitalistic education system? #education #ideology #capitalism #socialism #marxism #feminism #colonialism
-
+12. [[Linguistic minority students in higher education|How can higher education institutions better understand and support linguistic minority students?]]
 
 Tagging
 related concepts like capitalism, anticapitalism, socialism. do they need separate tags?

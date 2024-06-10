@@ -51,6 +51,8 @@ Ruhma Choudhury and Leigh Garrison-Fletcher, in their chapter titled "Bengali-Sp
 > 
 > [page 144--145]
 
+^3e8571
+
 [[Academic skills transfer when new languages are acquired.]]
 
 > When students are able to bring their home languages to the task of learning, they are better able to link their academic concepts to the second language. However, "this linking cannot be done effectively if students' L1 is banished from the classroom" (Cummins, 2009b, p. 319). [page 145]

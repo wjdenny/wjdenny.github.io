@@ -12,7 +12,6 @@ tags:
 
 - [[Language Anxiety]]
 
-
 ## Visual Design
 - [[Faceting plots avoids the overplotting problem]]
 - [[Faceting can make it difficult to compare the values of faceted groups]]
@@ -91,6 +90,7 @@ tags:
 - [[Correlations with socioeconomic status often mask the true cause of social problems.]]
 - [[Community care is just as important as self-care]]
 - [[Compassionate listening is a technique used to support someone processing a traumatic experience.]]
+- [[Ethnic enclaves are associated with less access to mental health services]]
 
 ## Transnationalism
 - [[Copyright theft is a universal approach to technical inequity between nations.]]

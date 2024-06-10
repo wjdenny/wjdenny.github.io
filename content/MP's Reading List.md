@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 This was a reading list put together by a friend and colleague finishing a dissertation on a topic in my field.
 
 Non-article resources
@@ -9,7 +13,7 @@ Aitken-Shadle, G. M. (2022). *The Future Promise Initiative: An Action Research 
 
 Hailu, T. E., Mendoza, B. M., Lahman, M. K., & Richard, V. M. (2012). *Lived experiences of diversity visa lottery immigrants in the United States.* Qualitative Report, 17, 102.
 	https://files.eric.ed.gov/fulltext/EJ992268.pdf
-	[[@2012hailu&mendoza&lahman&richard]] 
+	[[@2012hailu_lived]] 
 
 Holt, J. K., White, B. R., & Terrell, S. K. (2017). *Degrees with Less Debt: Effective Higher Education Strategies for Underrepresented Student Populations.* Policy Research. IERC 2017-2. Illinois Education Research Council. 
 	https://files.eric.ed.gov/fulltext/ED574359.pdf

@@ -87,7 +87,9 @@ Ryan D. King and Brian D. Johnson, "A Punishing Look: Skin Tone and Afrocentric 
 
 > Dr. Sarah Webb and Tijidankay T.K. Sacco, who both have informative social media pages where they educate their audience on the pervasiveness of colorism. [page 137]
 
-> the Black tax is the result of the historic exclusion, systemic racism, and inequities that Black people in the United States experience. Lynette Khalfani-Cox explained it in a 2021 *Vox* article: "The reality is that for those of us able to generate wealth and reach a level of comfort, we are often also financially supporting family members of paying down debt. We simply don't have that generation wealth that so many white families have to fall back on and start out their adult lives with." The result of these societal factors can take a toll on a Black person's experiences. [page 137]
+> the Black tax is the result of the historic exclusion, systemic racism, and inequities that Black people in the United States experience. Lynette Khalfani-Cox explained it in a 2021 *Vox* article: "The reality is that for those of us able to generate wealth and reach a level of comfort, we are often also financially supporting family members or paying down debt. We simply don't have that generation wealth that so many white families have to fall back on and start out their adult lives with." The result of these societal factors can take a toll on a Black person's experiences. [page 137]
+
+^27fe74
 
 Even though any poor families can expreience this, we should still focus on it as a feature of the  Black experience; re: curb effect, EFC financial aid.
 

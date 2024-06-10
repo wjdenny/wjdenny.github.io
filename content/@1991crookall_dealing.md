@@ -81,3 +81,19 @@ draft: true
 
 > One of the aims of learner training is to help learners "discover the language strategies that suit them best so that they may become more effective learners [and] take on more responsibility for their own learning" (Ellis & Sinclair, 1989). Strategy training is an important part of learner training. And a broad conception of learner training should also include dealing with anxiety. [page 144--145]
 
+> Mistakes panel. The object of this game is to encourage students to take an amusing look at errors and to realize that they are not taboo-- and that they can contribute to learning. Students work in groups of three or four. Ask them to collect mistakes over a few classes, or else to think up some mistakes with examples. These are written on cards-- one set of cards (each containing the same series of mistakes) needs to be made for each group. Each mistake carries a unique identification number (from one to the total number of mistakes).
+> 
+> Then each group becomes a competition panel, assessing the mistakes of the other groups. Here the panel is asked to rate each mistake on a number of criteria, awarding one to three points for each criterion. The criteria might be: amusement (how funny they are), creativity (how original they are, especially if students make up mistakes), logic (how reasonable is the mistake in terms of the language, e.g., saying "comed" instead of "came"), communicative intelligibility (how well can one still understand the message, despite the error--often a context will be needed for this), and learning contribution (how much can be learned from this error). A table can be drawn up, such as Table 1, and points totaled.
+> 
+> The points from each panel for each mistake are then added together, to make a grand total. For example, ratings of 10, 8, 12, 7, (for mistake 14, given by groups 2 to 4) produce a total of 39. The winning mistake can then be calculated.
+> If you wanted to have group winners, the total of all the totals for each of the mistakes offered by a group can be calculated, and the group with the highest score wins. For example, Group 4 gets totals of 39, 41, and 35 for its three mistakes, making a grand group total of 115. If this is done, the fun element should probably be emphasized and the competition played down
+> .
+> Discussion among students and between students and teacher during the panel evaluations can help students learn to be at ease with errors. In this game the best mistakes are rewarded! [page 147]
+
+> Reversed accents. In a monolingual class, students can be asked to speak to each other in their mother tongue, but imitating the accent of someone from the target language speaking their mother tongue. This can be amusing and effective and requires only minutes of done at the start of several classes. [page 148]
+
+> Other activities. Keeping a diary of feelings about language learning often helps learners to discover sources of anxiety and to find ways of mcoming to grips with it. In class, students (if they agree freely to do so) might share their thouhgts, and thus get some peer support and ideas from others. An emotional checklist is also useful, as is positive self-talk to counter anxiety.
+
+> For discussions on the use of diaries (journals), see e.g., Bailey (1983), Rubin (1981), and Schumann and Schumann (1977). For other activities, mainly related to language skills; see Ellis and Sinclair (1989). The authors of this article are compiling a compendium of activities for understanding and reducing anxiety and would be interested in hearing from you. [page 150]
+
+

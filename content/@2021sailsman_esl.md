@@ -141,7 +141,7 @@ Implications for redesigning HSC-160?
 
 ... and recognize that not all student's needs are the same.
 
-[[Not all linguistic minority students are the same]]
+[[Not all linguistic minority students are the same.]]
 
 Can rote memorization be an effective learning strategy? In defense of ...
 We do seem to have an irrational distaste for it when it should at least have its place even if it isn't more effective than other methods.

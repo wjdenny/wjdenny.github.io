@@ -89,7 +89,7 @@ How many credits are we covering this semester? how would that compare to a hypo
 
 > For example, U.S.-educated language minority students and adult immigrant students have quite different educational needs, but the population size of these diverse sub-populations will not be large enough to adequately study how they each experience the [[Future Promise initiative]]. [page 22]
 
-[[Not all linguistic minority students are the same]]
+[[Not all linguistic minority students are the same.]]
 
 > the student population involved in the study will represent the immigrant population in the northeast [[Iowa]] region, which may not be representative of immigrant student populations in other regions of the [[United States]]. [page 22]
 
@@ -116,7 +116,7 @@ similar to [[Paolo Freire]]?
 
 >  it is also important to recognize the emotional toll experienced by many students; immigrant students, especially undocumented students, can experience fear and anxiety about the potential detention or deportation of themselves or a family member, negatively impacting academic performance ([[2019 Witenstein et al.|Witenstein et al., 2019]]). [page 25--26]
 
-[[The anxiety surrounding immigration issues can put unusual pressures on immigrant students]] This affects their academic work, as we know that [[People acquire language better when their affective filters are not interfering]]
+[[The anxiety surrounding immigration issues can put unusual pressures on immigrant students.]] This affects their academic work, as we know that [[People acquire language better when their affective filters are not interfering.]]
 
 > Immigrant students identify mentors as an important support contributing to academic success, whether these mentors act in a formal capacity, or more frequently, act as informal guides through the higher education experience ([[2013 Janis|Janis, 2013]]; [[2017 Gámez et al.|Gámez et al., 2017]]). [page 26]
 
@@ -257,7 +257,7 @@ My position? working class. first generation. LGBT. neurodivergent. caucasian, m
 
 > Although there are no specific legal protections for immigrants and refugees as human research subjects, both groups should be treated as vulnerable populations ([[2019 Luna-Lucero|Luna-Lucero, 2019]]). Immigrants are often members of cultural or ethnic minorities who are at risk of discrimination or prejudice. The legal status of some immigrants in the United States on work visas may be dependent on the good will of their employers. Undocumented immigrants face the risk of deportation and also obstacles to employment and access to higher education. These and other considerations suggest that researchers should use practices that respect the persons and protect the confidentiality of immigrant and refugee participants. For one, to ensure that participants could provide informed consent, the informed consent form and all research materials presented to participants were carefully translated into the participants' native languages, or a language with which they are comfortable. In addition, research materials were presented in a way that takes into consideration the participants' education level ([[2019 Luna-Lucero|Luna-Lucero, 2019]]). Third, special efforts to preserve participants' confidentiality were made. These include: using methods for identifying potential research participants that will protect their identity; avoiding questions directly addressing participants' immigration status or immigration experiences; being especially diligent concerning data storage and transfer; and avoiding research methods such as focus groups in which participants might share confidential information with other participants whose discretion cannot be guaranteed ([[2019 Luna-Lucero|Luna-Lucero, 2019]]). [page 43--44]
 
-- [[Immigrant and refugees should be considered vulnerable populations as research subjects because they are at a higher risk of discrimination and experience higher barriers to employment, education, and residency.]] ([[2019 Luna-Lucero]])
+- [[Immigrant and refugees should be considered vulnerable populations as research subjects.]] ([[2019 Luna-Lucero]])
 	- [[Efforts should be made to protect the confidentiality of immigrant and refugee research participants.]] ([[2019 Luna-Lucero]])
 	- [[Informed consent and research materials for immigrant and refugee research participants should be provided in a comfortable language, dialect, and register.]] ([[2019 Luna-Lucero]])
 	- [[Focus groups put sensitive information in the hands of other participants and so should be avoided when respecting confidentiality of vulnerable populations.]] ([[2019 Luna-Lucero]])

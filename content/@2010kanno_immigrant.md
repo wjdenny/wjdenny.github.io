@@ -58,7 +58,7 @@ Lots of useful data at https://nces.ed.gov/ too
 
 > There is a great deal of heterogeneity among ESL students, and the experiences of one group of ESL students (e.g., first-generation immigrant and refugee ESL students) must not be generalized to other groups of ESL students (e.g., second- or third-generation immigrant ESL students or international ESL students) without empirical investigation. [page 311]
 
-[[Not all linguistic minority students are the same]]
+[[Not all linguistic minority students are the same.]]
 
 > Sociologists interested in traditionally underrepresented students’ access to higher education tend to focus on categories such as race/ethnicity (Deil-Amen & Turley, 2007; Kao & Thompson, 2003), Latinos (Arbona & Nora, 2007; Auerbach, 2004; Callahan, 2008; Nuñez, 2009; Percy Calaff, 2008; Swail, Cabrera, Lee, & Williams, 2005), socioeconomic status (Bowen, Kurzwell, & Tobin, 2005; McDonough, 1997), first-generation college students (Nuñez & Cuccaro- Alamin, 1998; Pascarella, Pierson, Wolniak, & Terenzini, 2004), and undocumented immigrants (Morales, Herrerra, & Murry, 2009). Immigrant and refugee ESL students may be subsumed under one or more of these categories but are hardly ever studied in their own right. [page 312]
 

@@ -98,6 +98,8 @@ footnote 9
 
 > The "Black tax," for example, is the phenomenon in the Black community where Black employees are expected to use their earnings to help family members financially. [page 43]
 
+^0e92c5
+
 This might be related to my students' reports of sending money back to DRC or Sudan to help their families, which is why they often work multiple jobs while trying to go to school.
 
 footnote 10

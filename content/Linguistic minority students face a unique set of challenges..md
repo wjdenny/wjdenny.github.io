@@ -30,8 +30,8 @@
 	- [[In a negotiated assessment ecology, male and white students are more likely to defend their work which therefore introduces a gender and racial bias in the grading system]]
 	- This would have implications for [[#^c529ce|academic integrity]] as well.
 - Political challenges
-	- [[The anxiety surrounding immigration issues can put unusual pressures on immigrant students]] 
-	- This affects their academic work, as we know that [[People acquire language better when their affective filters are not interfering]]
+	- [[The anxiety surrounding immigration issues can put unusual pressures on immigrant students.]] 
+	- This affects their academic work, as we know that [[People acquire language better when their affective filters are not interfering.]]
 - History of disrupted education
 	- [[People who have had formal education in their first language learn a second language faster than those without.]] which tells us that students without formal education in their first language would not do as well.
 	- Even for students who attended U.S. high schools, [[Students who struggle with understanding English in high school often will end up struggling in other subjects as well.]] 
