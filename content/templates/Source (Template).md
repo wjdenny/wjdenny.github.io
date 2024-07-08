@@ -1,10 +1,6 @@
 ---
 tags:
   - 🕮
-  - read
-  - summarize
-  - quote
-  - synthesize
 aliases: 
 draft: true
 ---

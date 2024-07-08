@@ -84,5 +84,5 @@ This was a choose your own adventure reading, but I'd like to know more about ro
 
 Pick up: [00:34:01](https://pinecast.com/listen/308bbe99-37eb-4724-ac4c-2218fcd739ee.mp3?_=10#t=34:01.93) 
 
-[^1]: https://arsenalpulp.com/Books/T/The-Future-Is-Disabled [[@2022piepznasamara_future]]
+[^1]: https://arsenalpulp.com/Books/T/The-Future-Is-Disabled [[@2022piepznasamarasinha_future]]
 [^2]: https://docs.google.com/document/u/1/d/1-QfMn1DE6ymhKZMpXN1LQvD6Sy_HSnnCK6gTO7ZLFrE/mobilebasic
