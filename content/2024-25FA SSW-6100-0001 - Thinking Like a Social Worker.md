@@ -19,5 +19,5 @@ draft: true
 
 Yolanda Spears has taught this for the past couple of years, but has not yet been added to the catalogue for 2024-25FA.
 
-The textbook for the past couple of years has also been *Righteous Self-Determination* / Reid-Merritt
+The textbook for the past couple of years has also been [[@2010reidmerrit_righteous|Righteous Self-Determination: The Black Social Work Movement in America]].
 

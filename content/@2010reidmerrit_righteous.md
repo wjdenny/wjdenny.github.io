@@ -569,9 +569,37 @@ I wonder if Frazier and other people of that type had ever considered the possib
 > [page 127]
 
 ##### Kawaida
+> Karenga, as Marable (2000:15) states, has been "central to the development of the discipline of Africana Studies." He has written the most widely used introductory text in the discipline (Karenga, 2002) and played a major role in the development of the discipline's professional organizations, the National Council for Black Studies NCBS and AHSA. Marable goes on to say that "unquestionably two intellectuals have been most pivotal as interpreters and political forces in the development of Black Studies--Mualana Karenga and Molefi Asante." [page 128]
+
+> *Kawaida*, which in Swahili means "tradition," was expanded by Karengato mean a synthesis of both tradition and reason, and is defined as "an ongoing synthesis of the best of African thought and practice in constant exchange with the world" (Karenga, 2008:3). Key to understanding Kawaida is Karenga's stress on culture and cultural revolution. When he first introduced it in the mid-1960s, Karenga (1993:173) described Kawaida as a philosophical position that:
+> 
+> > "...centered around the contention that the key crisis in Black life is the cultural crisis, i.e., a crisis in views and especially, values. The need, thus, is for a cultural revolution which would break the monopoly the oppressor has on Black minds and begin to rescue and reconstruct Black history and humanity in their own image and interests."
+> 
+> It was and remains one of his most influential contentions that "the struggle for liberation is first and foremost at its foundation a struggle to free ourselves culturally in the fullest sense" (Karenga, 2008:4-5). He defines culture as "the totality of thought and practice by which a people creates itself, celebrates, sustains and develops itself and introduces itself to history and humanity." (Ibid:5). In his conception of culture, he lists as vital seven basic areas: "spirituality and ethics (religion); history; social organization; economic organization; political organization; creative production (art, music, literature, dance); and ethos--the collective psychology shaped by activities in the other six areas." (Karenga, 1967:14).
+> 
+> Perhaps Karenga is best known for his creation of the African American and pan-African holiday of Kwanzaa and the [[Nguzo Saba]], or the Seven principles (Karenga, 1993). He (1993:173) stated that:
+> 
+>  > It is Kawaida out of which this author developed Kwanzaa and the [[Nguzo Saba]]. The [[Nguzo Saba]] (Seven Principles) were advocated as a communitarian African value system necessary to build community and serve as social glue and moral orientation for cultural practice."
+>  
+>  [page 128--129]
+
+> Nation building required that Black social workers: root themselves in an understanding of the extended family in the African American community; commit themselves to the development of independent Black institutions; free themselves from white social work values and concepts; and operate from a value system based on African communalism. This new form of practice would be based on the [[Nguzo Saba]] principles as developed by Karenga. [page 130--131]
+
 ##### Afrocentricity
+> Molefi Asante's 1980 publication of *Afrocentricity: The Theory of Social Change* shook the foundation of intellectual thought in the Black community. Asante's theory entered scholarly discourse at a time when many scholars struggled to reformulate and reconceptualize their basic orientation to the study of African people. Asante synthesized the very best of Black Nationalism, Black humanitarian philosophy and self-loving Black intellectual thought to create a new conceptual framework and language to guide scholarly examination of the Black experience. [page 132]
+
+> Asante's theory of Afrocentricity posits that African descendant people's experience of "disorientation" and "dislocation" in the contemporary world results from a process of "decentering" emanating from European combination and colonization of Africa and the holocaust of enslavement that followed in the Americas. In an effort to gain a positive social and cultural identity, individuals seek to reclaim their African identities by centering themselves in their own values, history and culture, and embracing what is a reflection of their true heritage, or more specifically, locating themselves in an "Afrocentric reality" (Asante, 1980, 1990; Reid-Merrit, 2008). [page 132]
+
+> The desire for African cultural connections, self-determination and, in the language of Afrocentricity, the right to obtain "agency" of one's being, altered the direction of NABSW and those who wanted to be involved in the BSWM. [page 133]
+
+> Social workers throughout the nation continued to be drawn to the BSWM due to their feelings of professional inadequacy as they attempted to begin their careers in social work. Jerry Brooks (2009), who received an MSW degree in 1985, shared this poignant insight: 
+> 
+> > I worked hard throughout my two years at Temple. I read all the materials. I wanted to be a great professional. I had my degree, but something was missing. I didn't feel like I was prepared to work with my own people. And I was concerned about doing them harm. That's what led me to seek out the Black social workers and become more involved with their form of social work practice. [page 133--134]
 ##### Conclusion
 #### Chapter 7: National Networks - International Linkages
+> > You work with Puerto Rican brothers, whites, lower class-whites, middle- class whites, urban and rural whites. You know everybody's problems. And let me just lay the real heavy point: You are potentially the most powerful leaders in America' (Dellums, 1971:4)
+> 
+> [page 144]
 ##### Responding to the Call
 ##### International Conferences
 ##### Continuing the Tradition
