@@ -5,7 +5,7 @@ tags:
 School assessments tend to be designed to measure learning of the dominant majority.
 
 - The concept of habitus, particularly white habitus
-	- [[Apoliticality is a feature of the white habitus]]
+	- [[Apoliticality is a feature of the white habitus.]]
 	- [[Punctuality is another white habit of mind often imposed on students (of color) in ESL classrooms]]
 - White habitus and its role in schools
 	- [[Education is never ideological neutral.]]

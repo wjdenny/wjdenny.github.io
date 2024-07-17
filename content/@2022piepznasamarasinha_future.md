@@ -153,6 +153,8 @@ Leah Lakshmi Piepzna-Samarasinha, "Cripping the Resistance: No Revolution withou
 
 > Talila Lewis, Black disability justice writer and organizer and co-founder of HEARD, says, "I laugh when people talk about racism and ableism separately-- it's literally impossible to take them apart." The working definition of ableism that Lewis has revised for years, as of January 2022, reads, "A system of assigning value to people's bodies and minds based on societally constructed ideas of normalcy, productivity, desirability, intelligence, excellence, and fitness. These constructed ideas are deeply rooted in eugenics, anti-Blackness, misogyny, colonialism, imperialism, and capitalism. This systemic oppression that leads to people and society determining people's value based on their culture, age, language, appearance, religion, birth or living place, 'health/wellness', and/or their ability to satisfactorily re/produce, 'excel' and 'behave.' You do not have to be disabled to experience ableism." [page 27]
 
+^182313
+
 Talila Lewis, "Working Definition of Ableism - January 2022 Update," *Talila A. Lewis* (blog) January 1, 2022, https://www.talilalewis.com/blog/working-definition-of-ableism-january-2022-update.
 
 [[Ableism and racism are inseparable.]]

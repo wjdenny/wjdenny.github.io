@@ -26,7 +26,7 @@ tags:
 - [[Community-based assessments are centered on the racialized habitus of the community.]]
 - [[Co-constructing the rubric with students helps them provide better feedback to their peers]]
 - [[Classroom and homework activities can affect students' self-perception and self-efficacy]]
-- [[Assessment is political]]
+- [[Assessment is political.]]
 - [[Asao Inoue argued for community-based assessment; a system of grading that combines teacher and peer student evaluations using rubrics]]
 - [[Anonymous grading reduces implicit bias when grading student work]]
 - [[Anonymous grading cannot prevent reference to the norm within the class which may introduce a bias towards a white racial habitus]]
@@ -43,7 +43,7 @@ tags:
 ## Ideology in Education
 - [[Education is never ideological neutral.]]
 - [[Critical discussion skills are a core part of any college education]]
-- [[Assessment is political]]
+- [[Assessment is political.]]
 
 
 

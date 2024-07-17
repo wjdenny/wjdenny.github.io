@@ -74,7 +74,7 @@ tags:
 - [[Dispassion is an ideal of white masculine habitus.]]
 - [[Correcting language unsolicited is classist and racist.]]
 - [[Being white is not the same as having a white racial habitus.]]
-- [[Apoliticality is a feature of the white habitus]]
+- [[Apoliticality is a feature of the white habitus.]]
 - [[Anti-blackness is a distinct but related concept from white supremacy.]]
 - [[Misogynoir is the intersectional oppression of Black women.]]
 - [[Color-blindness reinforces underlying white-centeredness.]]

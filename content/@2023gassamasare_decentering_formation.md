@@ -48,7 +48,7 @@ Dr. [[Janice Gassam Asare]] wrote this chapter for [[@2023gassamasare_decenterin
 
 > TikTok [...] creator [...] named @meccavellii 
 
-> Whiteness needs and feeds off other groups and communities in order to regenerate and continue to survive and thrive. [...] by around the year 2045, the US will be majority non-white. I know this is a thought that worries  many white people. So what are the ways to address this demographic shift? Perhaps the amalgamation of non-white groups to absorb or assume whiteness in order for the race to survive. As we've seen with Irish and Jewish immigrants, whiteness has evolved so much over the years, and we can see changes in who we perceive to be white. [page 11]
+> Whiteness needs and feeds off other groups and communities in order to regenerate and continue to survive and thrive. [...] by around the year 2045, the US will be majority non-white. I know this is a thought that worries many white people. So what are the ways to address this demographic shift? Perhaps the amalgamation of non-white groups to absorb or assume whiteness in order for the race to survive. As we've seen with Irish and Jewish immigrants, whiteness has evolved so much over the years, and we can see changes in who we perceive to be white. [page 11]
 
 ^9d5e06
 

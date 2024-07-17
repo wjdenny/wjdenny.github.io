@@ -49,7 +49,7 @@ Janice Gassam Asare, "4C Hair Discrimination: An Exploration of Texturism," *For
 
 > One of the ways that whiteness functions is convincing non-white people that we should not be talking about and bringing up race. Conversations about race, and more specifically racial differences, scare many white people and make them feel uncomfortable. [page 108]
 
-[[Apoliticality is a feature of the white habitus]]
+[[Apoliticality is a feature of the white habitus.]]
 [[Color-blindness reinforces underlying white-centeredness.]]
 
 > on YouTube[, c]ontent has helped me understand and recognize the ways that whiteness has been centered in my own life. In my workshops, I usually provide workshop attendees with some creators to follow--writers, influences, or activists that develop content that is educational. [page 108--109]

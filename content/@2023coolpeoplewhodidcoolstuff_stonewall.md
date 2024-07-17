@@ -795,6 +795,8 @@ draft: true
 > They weren't just like pacifists forever.
 > They had to actually do something.
 > I don't know.
+
+
 > But and what's interesting is when it got more assimilationist,
 > the membership actually dropped.
 > People were like just not as interested, I guess.
@@ -866,6 +868,11 @@ draft: true
 > Unless he did in a second inauguration.
 > But no, I think Harry Hayes words going back to like the actual crux of that stuff before
 > the break.
+
+^9658c3
+
+[[There are often conflicts between assimilationist and activist members of a marginalized community.]]
+
 > It's, I don't know, it's really, it's really frightening to see it all spelled out so
 > correctly and so scary.
 > It's scary to read and hear and then it's happening.

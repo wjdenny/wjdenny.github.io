@@ -13,6 +13,8 @@ NAFSA
 IPEDS: Integrated Postsecondary Education Data System
 [PEN American Index of Educational Gag Orders](https://airtable.com/appg59iDuPhlLPPFp/shrtwubfBUo2tuHyO/tbl49yod7l01o0TCk/viw6VOxb6SUYd5nXM?blocks=hide) #topic/critical-race-theory #topic/teaching/ideology 
 
+[Council on Social Work Education, Statistics on Social Work Education in the United States](https://www.cswe.org/education-resources/research-statistics/annual-survey-of-social-work-programs/)
+
 ## Immigration
 https://www.higheredimmigrationportal.org
 American Immigration Council
